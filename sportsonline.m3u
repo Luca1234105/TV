@@ -1,16 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="Eventi Live sportsonline",Fiorentina x Roma 15:00
-#EXTVLCOPT:http-origin=https://restlessouter.net
-#EXTVLCOPT:http-referrer=https://restlessouter.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://cnfobm.5606087801.art:8443/hls/71urpyq.m3u8?s=GBYLOjZRVYTvI86ZBnyRZA&e=1759695497
 #EXTINF:-1 group-title="Eventi Live sportsonline",Napoli x Genoa 18:00
 #EXTVLCOPT:http-origin=https://restlessouter.net
 #EXTVLCOPT:http-referrer=https://restlessouter.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://cnfobm.5606087801.art:8443/hls/qgdzborpo.m3u8?s=u0UfBH9yTFhfZyW9XlYgyg&e=1759695504
+https://fvvxvv.6670391863.store:8443/hls/qgdzborpo.m3u8?s=zVcJ8mg-9h84WiH7iJEMYA&e=1759703018
 #EXTINF:-1 group-title="Eventi Live sportsonline",Juventus x Milan 20:45
 #EXTVLCOPT:http-origin=https://restlessouter.net
 #EXTVLCOPT:http-referrer=https://restlessouter.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://cnfobm.5606087801.art:8443/hls/qgdzborpo.m3u8?s=u0UfBH9yTFhfZyW9XlYgyg&e=1759695504
+https://fvvxvv.6670391863.store:8443/hls/71urpyq.m3u8?s=tMieZFhOVzyRE7Gdw9G-tA&e=1759703026
