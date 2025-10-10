@@ -5,6 +5,8 @@
 https://vavoo.to/vavoo-iptv/play/160013981909ce6c338fef
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSdt3E_MmezXRKr7QOUEr0leEcErbaNGqbog&s" group-title="Altro",ALTO ADIGE TV
 https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Altro",ANIMAL PLANET
+https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
@@ -83,9 +85,7 @@ https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (1)
-https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
 https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
@@ -473,6 +473,8 @@ https://dlhd.dad/watch.php?id=874
 https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORT BASKET (D)
 https://dlhd.dad/watch.php?id=875
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
+https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (D)
@@ -509,6 +511,8 @@ https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
 https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
+#EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
+https://vavoo.to/vavoo-iptv/play/300937751365646200d097
 #EXTINF:-1 tvg-id="topcalcio24.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHW5VLQDGnNMVZszgWZRqnBSjPUTgAcUltQ&s" group-title="Sport",TOP CALCIO 24
 https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
@@ -609,7 +613,7 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="europeeurou21qualifyingitalyu21vsswedenu21" tvg-name="All Soccer Events | Europe - Euro U-21 Qualifying : Italy U21 vs Sweden U21 (18:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy U21_vs_Sweden U21.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - Euro U-21 Qualifying : Italy U21 vs Sweden U21 (18:15)
 https://dlhd.dad/watch.php?id=851
 
-#EXTINF:-1 tvg-id="italyseriecarezzovsgubbio" tvg-name="All Soccer Events | Italy - Serie C : Arezzo vs Gubbio (20:30)" tvg-logo="https://www.mediavideo.it/wp-content/uploads/2024/04/MV_official.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Arezzo vs Gubbio (20:30)
+#EXTINF:-1 tvg-id="italyseriecarezzovsgubbio" tvg-name="All Soccer Events | Italy - Serie C : Arezzo vs Gubbio (20:30)" tvg-logo="https://www.modenarugby1965.it/wp-content/uploads/2023/08/logo-RG.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Arezzo vs Gubbio (20:30)
 https://dlhd.dad/watch.php?id=105
 
 #EXTINF:-1 tvg-id="italyseriecbravsathleticcarpi" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Athletic Carpi (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bra_vs_Athletic Carpi.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Bra vs Athletic Carpi (20:30)
@@ -621,14 +625,11 @@ https://dlhd.dad/watch.php?id=461
 #EXTINF:-1 tvg-id="2025dongfengvoyahwuhanopentenniswta" tvg-name="Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis WTA (13:00)" tvg-logo="https://tv-sports.fr/photos/sport/competitions/680.png" group-title="Eventi Live DLHD",Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis WTA (13:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="xiangrandprixround4" tvg-name="Snooker | Xi'an Grand Prix | Round 4 (13:30)" tvg-logo="https://images.gc.wstservices.co.uk/fit-in/600x600/055e6c40-5279-11f0-8f00-991a3abcf914.png" group-title="Eventi Live DLHD",Snooker | Xi'an Grand Prix | Round 4 (13:30)
+#EXTINF:-1 tvg-id="xiangrandprixround4" tvg-name="Snooker | Xi'an Grand Prix | Round 4 (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Snooker | Xi'an Grand Prix | Round 4 (13:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="ucicrosscountryshorttrackworldcupwomenelitemontsainteanne" tvg-name="Cycling | UCI Cross-country Short Track World Cup | Women Elite | Mont-Sainte-Anne (22:00)" tvg-logo="https://d2779tscntxxsw.cloudfront.net/68d80dd6e6840.png" group-title="Eventi Live DLHD",Cycling | UCI Cross-country Short Track World Cup | Women Elite | Mont-Sainte-Anne (22:00)
+#EXTINF:-1 tvg-id="ucicrosscountryshorttrackworldcupwomenelitemontsainteanne" tvg-name="Cycling | UCI Cross-country Short Track World Cup | Women Elite | Mont-Sainte-Anne (22:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | UCI Cross-country Short Track World Cup | Women Elite | Mont-Sainte-Anne (22:00)
 https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="premierpadelmilant2025womensquarterfinal1" tvg-name="Squash | Premier Padel. Milan (T2025): Women's Quarterfinal 1 (09:00)" tvg-logo="https://wearetomorrow.hu/wp-content/uploads/2023/06/premierpadel.png" group-title="Eventi Live DLHD",Squash | Premier Padel. Milan (T2025): Women's Quarterfinal 1 (09:00)
-https://dlhd.dad/watch.php?id=460
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
