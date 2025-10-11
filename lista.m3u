@@ -287,10 +287,14 @@ https://vavoo.to/vavoo-iptv/play/21132730647ae733a10331
 https://vavoo.to/vavoo-iptv/play/29825504332b9997336c1e
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
 https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329
+#EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1
+https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 #EXTINF:-1 tvg-id="la.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Mediaset",LA 5
 https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",MEDIASET 20
 https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
+#EXTINF:-1 tvg-id="mediasetitalia2hd.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Mediaset",MEDIASET ITALIA 2
+https://vavoo.to/vavoo-iptv/play/3538009430947511be2991
 #EXTINF:-1 tvg-id="rete.4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4
 https://vavoo.to/vavoo-iptv/play/22357320045f329c720096
 #EXTINF:-1 tvg-id="top.crime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Mediaset",TOP CRIME
@@ -417,8 +421,6 @@ https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
@@ -601,10 +603,10 @@ https://dlhd.dad/watch.php?id=576
 #EXTINF:-1 tvg-id="xiangrandprixquarterfinal" tvg-name="Snooker | Xi'An Grand Prix | Quarter-Final (08:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Snooker | Xi'An Grand Prix | Quarter-Final (08:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="xiangrandprixquarterfinal" tvg-name="Snooker | Xi'An Grand Prix | Quarter-Final (13:00)" tvg-logo="https://matchpint-cdn.matchpint.cloud/shared/imagenes/teams/no-logo.png" group-title="Eventi Live DLHD",Snooker | Xi'An Grand Prix | Quarter-Final (13:00)
+#EXTINF:-1 tvg-id="xiangrandprixquarterfinal" tvg-name="Snooker | Xi'An Grand Prix | Quarter-Final (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Snooker | Xi'An Grand Prix | Quarter-Final (13:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="goldentrailledroskytrentinoday1" tvg-name="Athletics | Golden Trail Ledro Sky Trentino | Day 1 (12:00)" tvg-logo="https://goldentrailseries.com/wp-content/uploads/2025/06/GG-20250623_LEDROSKY_LOGO_nero_RGB.png" group-title="Eventi Live DLHD",Athletics | Golden Trail Ledro Sky Trentino | Day 1 (12:00)
+#EXTINF:-1 tvg-id="goldentrailledroskytrentinoday1" tvg-name="Athletics | Golden Trail Ledro Sky Trentino | Day 1 (12:00)" tvg-logo="https://www.seekpng.com/png/full/791-7912023_funnel-structure-bulls-eye.png" group-title="Eventi Live DLHD",Athletics | Golden Trail Ledro Sky Trentino | Day 1 (12:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="touroflombardyillombardiamencomobergamo238km" tvg-name="Cycling | Tour of Lombardy Il Lombardia Men | Como - Bergamo (238km) (10:30)" tvg-logo="https://teamtotalenergies.com/wp-content/uploads/2022/09/il-lombardia-6022.png" group-title="Eventi Live DLHD",Cycling | Tour of Lombardy Il Lombardia Men | Como - Bergamo (238km) (10:30)
@@ -619,10 +621,10 @@ https://dlhd.dad/watch.php?id=851
 #EXTINF:-1 tvg-id="touroflombardycomobergamo238kmuciworldtour" tvg-name="Cycling | Tour of Lombardy. Como - Bergamo (238 km). UCI World Tour (14:45)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/igahc11535183469.png/preview" group-title="Eventi Live DLHD",Cycling | Tour of Lombardy. Como - Bergamo (238 km). UCI World Tour (14:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="serieaeliteviadanavsmogliano" tvg-name="Rugby Union | Serie A Elite : Viadana vs Mogliano (14:30)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/rugby-viadana-logo.png" group-title="Eventi Live DLHD",Rugby Union | Serie A Elite : Viadana vs Mogliano (14:30)
+#EXTINF:-1 tvg-id="serieaeliteviadanavsmogliano" tvg-name="Rugby Union | Serie A Elite : Viadana vs Mogliano (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Viadana_vs_Mogliano.png" group-title="Eventi Live DLHD",Rugby Union | Serie A Elite : Viadana vs Mogliano (14:30)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="italyseriea1womenpallavoloscandiccivsperugiavolley" tvg-name="Volleyball | Italy Serie A1 Women : Pallavolo Scandicci vs. Perugia Volley (20:30)" tvg-logo="https://www.romavolleyclub.it/wp-content/uploads/2021/09/perugia-1.png" group-title="Eventi Live DLHD",Volleyball | Italy Serie A1 Women : Pallavolo Scandicci vs. Perugia Volley (20:30)
+#EXTINF:-1 tvg-id="italyseriea1womenpallavoloscandiccivsperugiavolley" tvg-name="Volleyball | Italy Serie A1 Women : Pallavolo Scandicci vs. Perugia Volley (20:30)" group-title="Eventi Live DLHD",Volleyball | Italy Serie A1 Women : Pallavolo Scandicci vs. Perugia Volley (20:30)
 https://dlhd.dad/watch.php?id=882
 
 
