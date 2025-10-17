@@ -127,6 +127,8 @@ https://vavoo.to/vavoo-iptv/play/217875329778328d42d121
 https://vavoo.to/vavoo-iptv/play/280418908527b8c8187a0b
 #EXTINF:-1 tvg-id="qvc.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/qvc-de.png?raw=true" group-title="Altro",QVC
 https://vavoo.to/vavoo-iptv/play/2952884641015b63f29238
+#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME
+https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
@@ -309,8 +311,6 @@ https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
-#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
-https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",TELEPACE TRENTO (HISTORY LAB)
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
@@ -439,8 +439,6 @@ https://vavoo.to/vavoo-iptv/play/2242741766a460e21385e6
 https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb
 #EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY
 https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
-#EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
-https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
 https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
@@ -453,8 +451,6 @@ https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 1
 https://vavoo.to/vavoo-iptv/play/1492183364e2c25c729efa
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 10
-https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 2
 https://vavoo.to/vavoo-iptv/play/525374356eb78c097e6a2
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 3
@@ -556,16 +552,13 @@ https://dlhd.dad/watch.php?id=577
 #EXTINF:-1 tvg-id="moto3australiangrandprixfreepractice2" tvg-name="Motorsport | Moto3 : Australian Grand Prix, Free Practice 2 (23:35)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live DLHD",Motorsport | Moto3 : Australian Grand Prix, Free Practice 2 (23:35)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="moto3australiangrandprixqualifying" tvg-name="Motorsport | Moto3 : Australian Grand Prix, Qualifying (03:45)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live DLHD",Motorsport | Moto3 : Australian Grand Prix, Qualifying (03:45)
-https://dlhd.dad/watch.php?id=575
-
 #EXTINF:-1 tvg-id="moto2australiangrandprixqualifying" tvg-name="Motorsport | Moto2 : Australian Grand Prix, Qualifying (04:40)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/yqvtrq1432309315.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Australian Grand Prix, Qualifying (04:40)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="tourofhollandstage3mensittardwatersley154km" tvg-name="Cycling | Tour of Holland | Stage 3 Men | Sittard – Watersley (154km) (13:45)" tvg-logo="https://png.pngtree.com/png-vector/20221210/ourmid/pngtree-vector-illustration-of-single-holland-icon-vector-capital-concept-vector-png-image_7585462.png" group-title="Eventi Live DLHD",Cycling | Tour of Holland | Stage 3 Men | Sittard – Watersley (154km) (13:45)
+#EXTINF:-1 tvg-id="tourofhollandstage3mensittardwatersley154km" tvg-name="Cycling | Tour of Holland | Stage 3 Men | Sittard – Watersley (154km) (13:45)" tvg-logo="https://png.pngtree.com/png-clipart/20230805/original/pngtree-amsterdam-the-capital-of-holland-sign-tour-pictogram-vector-picture-image_9725402.png" group-title="Eventi Live DLHD",Cycling | Tour of Holland | Stage 3 Men | Sittard – Watersley (154km) (13:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="grandprixfrancewomensindividualshortprogram" tvg-name="Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)" tvg-logo="https://rl.fitasc.com/liveresults/ui/images/fitasc_logo_liveresults.png" group-title="Eventi Live DLHD",Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)
+#EXTINF:-1 tvg-id="grandprixfrancewomensindividualshortprogram" tvg-name="Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)
 https://dlhd.dad/watch.php?id=882
 
 #EXTINF:-1 tvg-id="grandprixfrancewomensindividualshortprogram" tvg-name="Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)
