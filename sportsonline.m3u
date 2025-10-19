@@ -1,11 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="Eventi Live sportsonline",Roma x Internazionale 20:45
+#EXTINF:-1 group-title="Eventi Live sportsonline",Como x Juventus 12:30
 #EXTVLCOPT:http-origin=https://scoretouch.net
 #EXTVLCOPT:http-referrer=https://scoretouch.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://ryhmaif.234276133.fit:8443/hls/71urpyq.m3u8?s=sh0zA-aOlMP7GP7wQZ1-1w&e=1760840499&__PROXY_IDENTIFIER__=true
-#EXTINF:-1 group-title="Eventi Live sportsonline",Formula 1: US Grand Prix: Qualifying 22:00
+https://tcxoov.6670391863.store:8443/hls/71urpyq.m3u8?s=Jamx5xGRFjFmtR6BT0j39A&e=1760860222&__PROXY_IDENTIFIER__=true
+#EXTINF:-1 group-title="Eventi Live sportsonline",Cagliari x Bologna 15:00
 #EXTVLCOPT:http-origin=https://scoretouch.net
 #EXTVLCOPT:http-referrer=https://scoretouch.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://ryhmaif.234276133.fit:8443/hls/qgdzborpo.m3u8?s=N9AUeUgoRjO42fOU9ifmSA&e=1760840506&__PROXY_IDENTIFIER__=true
+https://tcxoov.6670391863.store:8443/hls/71urpyq.m3u8?s=MTrLA-zSoiqa45Qsur9NCw&e=1760860230&__PROXY_IDENTIFIER__=true
+#EXTINF:-1 group-title="Eventi Live sportsonline",Genoa x Parma 15:00
+#EXTVLCOPT:http-origin=https://scoretouch.net
+#EXTVLCOPT:http-referrer=https://scoretouch.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://tcxoov.6670391863.store:8443/hls/71urpyq.m3u8?s=MTrLA-zSoiqa45Qsur9NCw&e=1760860230
+#EXTINF:-1 group-title="Eventi Live sportsonline",Atalanta x Lazio 18:00
+#EXTVLCOPT:http-origin=https://scoretouch.net
+#EXTVLCOPT:http-referrer=https://scoretouch.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://tcxoov.6670391863.store:8443/hls/qgdzborpo.m3u8?s=zWHpY_AfRmjkkIJ_mY0PoA&e=1760860235
+#EXTINF:-1 group-title="Eventi Live sportsonline",Milan x Fiorentina 20:45
+#EXTVLCOPT:http-origin=https://scoretouch.net
+#EXTVLCOPT:http-referrer=https://scoretouch.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://tcxoov.6670391863.store:8443/hls/71urpyq.m3u8?s=MD8BEoq2j8FNzf11nXX3jg&e=1760860243&__PROXY_IDENTIFIER__=true
+#EXTINF:-1 group-title="Eventi Live sportsonline",Formula 1: US Grand Prix 21:00
+#EXTVLCOPT:http-origin=https://scoretouch.net
+#EXTVLCOPT:http-referrer=https://scoretouch.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://tcxoov.6670391863.store:8443/hls/qgdzborpo.m3u8?s=gTGDZH82EBYPc1ztd8QbZw&e=1760860248&__PROXY_IDENTIFIER__=true
