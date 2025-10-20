@@ -309,8 +309,6 @@ https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
@@ -551,16 +549,16 @@ https://dlhd.dad/watch.php?id=460
 #EXTINF:-1 tvg-id="wtatenniswta250guangzhouampwta500tokyo" tvg-name="Tennis | WTA Tennis: WTA 250 Guangzhou &amp; WTA 500 Tokyo (09:00)" tvg-logo="https://assets.stickpng.com/images/6266996c2c88722059d58713.png" group-title="Eventi Live DLHD",Tennis | WTA Tennis: WTA 250 Guangzhou &amp; WTA 500 Tokyo (09:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="baselatpviennaatptokyowtaampguangzhouwtaearlyrounds" tvg-name="Tennis | Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Early Rounds (11:30)" tvg-logo="https://logodix.com/logo/760985.png" group-title="Eventi Live DLHD",Tennis | Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Early Rounds (11:30)
+#EXTINF:-1 tvg-id="baselatpviennaatptokyowtaampguangzhouwtaearlyrounds" tvg-name="Tennis | Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Early Rounds (11:30)" tvg-logo="https://assets.stickpng.com/thumbs/6266993f2c88722059d58711.png" group-title="Eventi Live DLHD",Tennis | Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Early Rounds (11:30)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="tennisatp500viennaampatp500baselampwta250guangzhou" tvg-name="Tennis | Tennis: ATP 500 Vienna &amp; ATP 500 Basel &amp; WTA 250 Guangzhou (13:30)" tvg-logo="https://png.pngtree.com/png-clipart/20240404/original/pngtree-tennis-logo-icon-illustrator-png-image_14748247.png" group-title="Eventi Live DLHD",Tennis | Tennis: ATP 500 Vienna &amp; ATP 500 Basel &amp; WTA 250 Guangzhou (13:30)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="northernirelandopensnookerround1" tvg-name="Snooker | Northern Ireland Open Snooker - Round 1 (14:00)" tvg-logo="https://static.flashscore.com/res/image/data/WAUJtGV1-venw9f2S.png" group-title="Eventi Live DLHD",Snooker | Northern Ireland Open Snooker - Round 1 (14:00)
+#EXTINF:-1 tvg-id="northernirelandopensnookerround1" tvg-name="Snooker | Northern Ireland Open Snooker - Round 1 (14:00)" tvg-logo="https://static.flashscore.com/res/image/data/WAUJtGV1-2TiGbMff.png" group-title="Eventi Live DLHD",Snooker | Northern Ireland Open Snooker - Round 1 (14:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="northernirelandopensnookerround1" tvg-name="Snooker | Northern Ireland Open Snooker - Round 1 (20:00)" tvg-logo="https://static.flashscore.com/res/image/data/WAUJtGV1-venw9f2S.png" group-title="Eventi Live DLHD",Snooker | Northern Ireland Open Snooker - Round 1 (20:00)
+#EXTINF:-1 tvg-id="northernirelandopensnookerround1" tvg-name="Snooker | Northern Ireland Open Snooker - Round 1 (20:00)" tvg-logo="https://static.flashscore.com/res/image/data/WAUJtGV1-2TiGbMff.png" group-title="Eventi Live DLHD",Snooker | Northern Ireland Open Snooker - Round 1 (20:00)
 https://dlhd.dad/watch.php?id=878
 
 
