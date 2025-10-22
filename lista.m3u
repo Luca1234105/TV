@@ -93,8 +93,6 @@ https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
 https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
-#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
-https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="" tvg-logo="https://liratv.es/wp-content/uploads/2021/07/LIRA-TV-1.png" group-title="Altro",LIRA TV
 https://vavoo.to/vavoo-iptv/play/2835333400f831a30ce568
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (1)
@@ -295,6 +293,8 @@ https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
 https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
 #EXTINF:-1 tvg-id="mediasetitalia2hd.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Mediaset",MEDIASET ITALIA 2
 https://vavoo.to/vavoo-iptv/play/3538009430947511be2991
+#EXTINF:-1 tvg-id="rete.4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4
+https://vavoo.to/vavoo-iptv/play/22357320045f329c720096
 #EXTINF:-1 tvg-id="top.crime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Mediaset",TOP CRIME
 https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b
 
@@ -417,6 +417,8 @@ https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
@@ -573,7 +575,7 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="northernirelandopenround2" tvg-name="Snooker | Northern Ireland Open | Round 2 (20:00)" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ebd2f956638154bc806b022/1687883423506-BE1VRULAP1KG6C7KII3G/G%26S+Logos352.png" group-title="Eventi Live DLHD",Snooker | Northern Ireland Open | Round 2 (20:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="ucitrackcyclingworldchampionshipschileday1" tvg-name="Cycling | UCI Track Cycling World Championships Chile | Day 1 (23:00)" tvg-logo="https://d3l5vala1x2h4r.cloudfront.net/1670011485158_Main Logo w: Text (Black)-comp.png" group-title="Eventi Live DLHD",Cycling | UCI Track Cycling World Championships Chile | Day 1 (23:00)
+#EXTINF:-1 tvg-id="ucitrackcyclingworldchampionshipschileday1" tvg-name="Cycling | UCI Track Cycling World Championships Chile | Day 1 (23:00)" tvg-logo="https://www.seekpng.com/png/full/791-7912023_funnel-structure-bulls-eye.png" group-title="Eventi Live DLHD",Cycling | UCI Track Cycling World Championships Chile | Day 1 (23:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="italyseriea1womenpallavoloscandiccivsvolleymonza" tvg-name="Volleyball | Italy Serie A1 Women : Pallavolo Scandicci vs Volley Monza (20:30)" tvg-logo="https://store.verovolley.com/store/wp-content/uploads/2022/11/2022_Abbonati_Magliette_05-Modificata.png" group-title="Eventi Live DLHD",Volleyball | Italy Serie A1 Women : Pallavolo Scandicci vs Volley Monza (20:30)
