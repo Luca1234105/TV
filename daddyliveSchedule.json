@@ -1098,6 +1098,10 @@
                 "event": "Saudi Arabia - Pro League : Al Najma vs Al-Ahli",
                 "channels": [
                     {
+                        "channel_name": "Thmanyah",
+                        "channel_id": "1"
+                    },
+                    {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "756"
                     },
