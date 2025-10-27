@@ -359,8 +359,6 @@ https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
 https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TV SHOWS
 https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8
-#EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film - Serie TV",SKY ATLANTIC
-https://vavoo.to/vavoo-iptv/play/1482866609814ff0b05ac7
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film - Serie TV",SKY CINEMA ACTION
 https://vavoo.to/vavoo-iptv/play/11441287266db50fc09b62
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film - Serie TV",SKY CINEMA ACTION (BACKUP)
@@ -533,13 +531,13 @@ https://dlhd.dad/watch.php?id=1
 #EXTINF:-1 tvg-id="italyseriecdolomitibellunesivstriestina" tvg-name="Soccer | Italy - Serie C : Dolomiti Bellunesi vs Triestina (21:30)" tvg-logo="https://1.bp.blogspot.com/-4-BsXvGKblE/XeZlTSBgmbI/AAAAAAAAJ14/du8GxnebidAUb2soAYaOv7c4cckXqn5kQCNcBGAsYHQ/s72-c/Wilier%2BTriestina%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Dolomiti Bellunesi vs Triestina (21:30)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="italyseriecperugiavslivorno" tvg-name="Soccer | Italy - Serie C : Perugia vs Livorno (21:30)" tvg-logo="https://permessiztlzsc.comune.livorno.it/img/logo_1.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Perugia vs Livorno (21:30)
+#EXTINF:-1 tvg-id="italyseriecperugiavslivorno" tvg-name="Soccer | Italy - Serie C : Perugia vs Livorno (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Perugia_vs_Livorno.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Perugia vs Livorno (21:30)
 https://dlhd.dad/watch.php?id=2
 
-#EXTINF:-1 tvg-id="italyseriecperugiavslivorno" tvg-name="Soccer | Italy - Serie C : Perugia vs Livorno (21:30)" tvg-logo="https://permessiztlzsc.comune.livorno.it/img/logo_1.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Perugia vs Livorno (21:30)
+#EXTINF:-1 tvg-id="italyseriecperugiavslivorno" tvg-name="Soccer | Italy - Serie C : Perugia vs Livorno (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Perugia_vs_Livorno.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Perugia vs Livorno (21:30)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="italyseriecperugiavslivorno" tvg-name="Soccer | Italy - Serie C : Perugia vs Livorno (21:30)" tvg-logo="https://permessiztlzsc.comune.livorno.it/img/logo_1.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Perugia vs Livorno (21:30)
+#EXTINF:-1 tvg-id="italyseriecperugiavslivorno" tvg-name="Soccer | Italy - Serie C : Perugia vs Livorno (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Perugia_vs_Livorno.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Perugia vs Livorno (21:30)
 https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 tvg-id="italyseriecinteriivscittadella" tvg-name="Soccer | Italy - Serie C : Inter II vs Cittadella (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Inter II_vs_Cittadella.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Inter II vs Cittadella (21:30)
