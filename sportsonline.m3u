@@ -1,11 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="Eventi Live sportsonline",BotoÅani x Hermannstadt 16:30
+#EXTINF:-1 group-title="Eventi Live sportsonline",Ilioupoli x AEK Athens 16:00
 #EXTVLCOPT:http-origin=https://staypoor.net
 #EXTVLCOPT:http-referrer=https://staypoor.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://uwqgqq.5606087801.art:8443/hls/mhbq0m7am17nhai.m3u8?s=HHr484003bYN5tCIaVCSpg&e=1761625212&__PROXY_IDENTIFIER__=true
-#EXTINF:-1 group-title="Eventi Live sportsonline",Rapid BucureÅti x Unirea Slobozia 19:30
+https://ryhmaif.234276133.fit:8443/hls/mhbq0m7am17nhai.m3u8?s=OJaT9xKl0kgbKWEu925fsw&e=1761637227
+#EXTINF:-1 group-title="Eventi Live sportsonline",Lecce x Napoli 18:30
 #EXTVLCOPT:http-origin=https://staypoor.net
 #EXTVLCOPT:http-referrer=https://staypoor.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://uwqgqq.5606087801.art:8443/hls/mhbq0m7am17nhai.m3u8?s=mn7MSvlrmF_bDSLhFw75fg&e=1761625217&__PROXY_IDENTIFIER__=true
+https://ryhmaif.234276133.fit:8443/hls/mhbq0m7am17nhai.m3u8?s=OJaT9xKl0kgbKWEu925fsw&e=1761637227&__PROXY_IDENTIFIER__=true
+#EXTINF:-1 group-title="Eventi Live sportsonline",Ourense CF x Real Oviedo 19:00
+#EXTVLCOPT:http-origin=https://staypoor.net
+#EXTVLCOPT:http-referrer=https://staypoor.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://ryhmaif.234276133.fit:8443/hls/71urpyq.m3u8?s=Z0iVNx6nO43vSWz8gB8z8Q&e=1761637233&__PROXY_IDENTIFIER__=true
+#EXTINF:-1 group-title="Eventi Live sportsonline",Palermo x Monza 20:30
+#EXTVLCOPT:http-origin=https://staypoor.net
+#EXTVLCOPT:http-referrer=https://staypoor.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://ryhmaif.234276133.fit:8443/hls/mhbq0m7am17nhai.m3u8?s=1iLkOnxli5CupjYDUQ-RNA&e=1761637241&__PROXY_IDENTIFIER__=true
+#EXTINF:-1 group-title="Eventi Live sportsonline",Atalanta x Milan 20:45
+#EXTVLCOPT:http-origin=https://staypoor.net
+#EXTVLCOPT:http-referrer=https://staypoor.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://ryhmaif.234276133.fit:8443/hls/mhbq0m7am17nhai.m3u8?s=1iLkOnxli5CupjYDUQ-RNA&e=1761637241
+#EXTINF:-1 group-title="Eventi Live sportsonline",Negreira x Real Sociedad 21:00
+#EXTVLCOPT:http-origin=https://staypoor.net
+#EXTVLCOPT:http-referrer=https://staypoor.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://ryhmaif.234276133.fit:8443/hls/71urpyq.m3u8?s=VoNebdvLxKGrIF6-81R7SA&e=1761637245
