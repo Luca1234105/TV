@@ -353,6 +353,8 @@ https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN FAMILY
 https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TOP FREE
+https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TV SHOWS
 https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film - Serie TV",SKY ATLANTIC
@@ -526,9 +528,6 @@ https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
 
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="italyserieacagliarivssassuolo" tvg-name="Soccer | Italy - Serie A : Cagliari vs Sassuolo (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cagliari_vs_Sassuolo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Cagliari vs Sassuolo (19:30)
-https://dlhd.dad/watch.php?id=877
 
 #EXTINF:-1 tvg-id="italyserieapisavslazio" tvg-name="Soccer | Italy - Serie A : Pisa vs Lazio (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pisa_vs_Lazio.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Pisa vs Lazio (21:45)
 https://dlhd.dad/watch.php?id=12
