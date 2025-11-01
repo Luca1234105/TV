@@ -371,6 +371,8 @@ https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
 https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
 https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
+#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
+https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
@@ -415,6 +417,8 @@ https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
@@ -485,10 +489,14 @@ https://vavoo.to/vavoo-iptv/play/122565375973a967da4f03
 https://vavoo.to/vavoo-iptv/play/246253359a81d94887441
 #EXTINF:-1 tvg-id="rai3.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai",RAI 3
 https://vavoo.to/vavoo-iptv/play/869117599e36bb7de752c
+#EXTINF:-1 tvg-id="rai4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4
+https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
 #EXTINF:-1 tvg-id="rai5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai",RAI 5
 https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 #EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
+https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTINF:-1 tvg-id="rainews24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
@@ -503,6 +511,8 @@ https://vavoo.to/vavoo-iptv/play/55173022458f32c70e30a
 https://vavoo.to/vavoo-iptv/play/843891896d79f7a764c19
 #EXTINF:-1 tvg-id="raistoria.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Rai",RAI STORIA
 https://vavoo.to/vavoo-iptv/play/57338653b83f61385a9f
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Rai",RAI SÜDTIROL
+https://vavoo.to/vavoo-iptv/play/441082840c9ecc6bf454e
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 
@@ -597,7 +607,7 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="franceligue1auxerrevsolympiquemarseille" tvg-name="All Soccer Events | France - Ligue 1 : Auxerre vs Olympique Marseille (22:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Auxerre_vs_Olympique Marseille.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Auxerre vs Olympique Marseille (22:05)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="parisatpjiujiangwtahongkongwtaampchennaiwtaearlyrounds" tvg-name="Tennis | Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds (08:00)" tvg-logo="http://pt.best-wallpaper.net/wallpaper/2560x1600/1504/Paris-France-city-evening-lights-Pont-Alexandre-III-bridge_2560x1600.jpg" group-title="Eventi Live DLHD",Tennis | Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds (08:00)
+#EXTINF:-1 tvg-id="parisatpjiujiangwtahongkongwtaampchennaiwtaearlyrounds" tvg-name="Tennis | Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds (08:00)" tvg-logo="https://www.shuttledirect.com/blog/wp-content/uploads/2016/05/Fotolia_77498982_Subscription_Monthly_M.jpg" group-title="Eventi Live DLHD",Tennis | Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds (08:00)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="2025italiangtsprintchampionshipmonza4throundrace1" tvg-name="Motorsport | 2025 Italian GT Sprint Championship - Monza 4th round - Race 1 (09:00)" tvg-logo="https://png.pngtree.com/png-clipart/20241008/original/pngtree-calendar-2025-color-calendar-vector-png-image_16248596.png" group-title="Eventi Live DLHD",Motorsport | 2025 Italian GT Sprint Championship - Monza 4th round - Race 1 (09:00)
@@ -606,7 +616,7 @@ https://dlhd.dad/watch.php?id=882
 #EXTINF:-1 tvg-id="x2otrophyoudenaardekoppenbergcrossoudenaardewomen" tvg-name="Cycling | X2O Trophy Oudenaarde - Koppenbergcross | Oudenaarde Women (14:45)" tvg-logo="https://www.poticap.com.br/manutencao.png" group-title="Eventi Live DLHD",Cycling | X2O Trophy Oudenaarde - Koppenbergcross | Oudenaarde Women (14:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="globalchampionstourjumpingriyadhseasonworldmasters" tvg-name="Equestrian | Global Champions Tour Jumping | Riyadh Season World Masters (15:00)" tvg-logo="https://goodops.co/wp-content/uploads/2018/07/earth-global-routes-_-presentation-format-shutterstock_1111879256.png" group-title="Eventi Live DLHD",Equestrian | Global Champions Tour Jumping | Riyadh Season World Masters (15:00)
+#EXTINF:-1 tvg-id="globalchampionstourjumpingriyadhseasonworldmasters" tvg-name="Equestrian | Global Champions Tour Jumping | Riyadh Season World Masters (15:00)" tvg-logo="https://destinationsinternational.org/sites/default/files/inline-images/Global Image_0.png" group-title="Eventi Live DLHD",Equestrian | Global Champions Tour Jumping | Riyadh Season World Masters (15:00)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="grandprixcanadaicedanceshortprogrammixed" tvg-name="Ice Skating | Grand Prix | Canada Ice Dance | Short Program | Mixed (20:45)" tvg-logo="https://static.wikia.nocookie.net/fortnite/images/c/cc/Grand_Glacier_-_Location_-_Fortnite.png/revision/latest/scale-to-width-down/1200?cb=20231204170439" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Canada Ice Dance | Short Program | Mixed (20:45)
@@ -615,7 +625,7 @@ https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="serieaelitepetrarcapadovavsrovigo" tvg-name="Rugby Union | Serie A Elite : Petrarca Padova vs Rovigo (15:30)" tvg-logo="https://www.prefissotelefonico.it/telefono.png" group-title="Eventi Live DLHD",Rugby Union | Serie A Elite : Petrarca Padova vs Rovigo (15:30)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="friendlyinternationalenglandvsaustralia" tvg-name="Rugby Union | Friendly International : England vs Australia (17:10)" tvg-logo="http://s1.picswalls.com/wallpapers/2014/07/25/australia-hd_043107913_104.png" group-title="Eventi Live DLHD",Rugby Union | Friendly International : England vs Australia (17:10)
+#EXTINF:-1 tvg-id="friendlyinternationalenglandvsaustralia" tvg-name="Rugby Union | Friendly International : England vs Australia (17:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/England_vs_Australia.png" group-title="Eventi Live DLHD",Rugby Union | Friendly International : England vs Australia (17:10)
 https://dlhd.dad/watch.php?id=462
 
 #EXTINF:-1 tvg-id="friendlyinternationalirelandvsnewzealand" tvg-name="Rugby Union | Friendly International : Ireland vs New Zealand (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ireland_vs_New Zealand.png" group-title="Eventi Live DLHD",Rugby Union | Friendly International : Ireland vs New Zealand (21:45)
