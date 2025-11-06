@@ -9,6 +9,8 @@ https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
+https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
 https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8by3YXjCGJQaxT6b-cgZ872BjY_NLIrALA&s" group-title="Altro",AVENGERS GRIMM CHANNEL
@@ -141,6 +143,8 @@ https://vavoo.to/vavoo-iptv/play/10851723533da93b5683eb
 https://vavoo.to/vavoo-iptv/play/10944791346b08a647fce
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1
 https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
+https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
 https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTP (RETE TELEVISIVA)
@@ -317,8 +321,6 @@ https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
 https://vavoo.to/vavoo-iptv/play/1289777017c50e3cf3fd74
-#EXTINF:-1 tvg-id="cartoonito.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO
-https://vavoo.to/vavoo-iptv/play/1907000512776efa40e32a
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (BACKUP)
 https://vavoo.to/vavoo-iptv/play/217871728282294e996afe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",DISCOVERY K2
@@ -429,6 +431,8 @@ https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
 https://vavoo.to/vavoo-iptv/play/300937751365646200d097
+#EXTINF:-1 tvg-id="topcalcio24.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHW5VLQDGnNMVZszgWZRqnBSjPUTgAcUltQ&s" group-title="Sport",TOP CALCIO 24
+https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 
@@ -536,7 +540,7 @@ https://dlhd.dad/watch.php?id=28
 #EXTINF:-1 tvg-id="uefaeuropaleaguerangersvsroma" tvg-name="Soccer | UEFA Europa League : Rangers vs Roma (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Rangers_vs_Roma.png" group-title="Eventi Live DLHD",Soccer | UEFA Europa League : Rangers vs Roma (22:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="uefaeuropaleaguebolognavsbrann" tvg-name="Soccer | UEFA Europa League : Bologna vs Brann (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bologna_vs_Brann.png" group-title="Eventi Live DLHD",Soccer | UEFA Europa League : Bologna vs Brann (22:00)
+#EXTINF:-1 tvg-id="uefaeuropaleaguebolognavsbrann" tvg-name="Soccer | UEFA Europa League : Bologna vs Brann (22:00)" tvg-logo="https://www.brann.no/_/asset/no.seeds.app.football:1655453680/img/logo/bra/logo.png" group-title="Eventi Live DLHD",Soccer | UEFA Europa League : Bologna vs Brann (22:00)
 https://dlhd.dad/watch.php?id=23
 
 #EXTINF:-1 tvg-id="uefaeuropaleaguebolognavsbrann" tvg-name="Soccer | UEFA Europa League : Bologna vs Brann (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bologna_vs_Brann.png" group-title="Eventi Live DLHD",Soccer | UEFA Europa League : Bologna vs Brann (22:00)
@@ -554,16 +558,16 @@ https://dlhd.dad/watch.php?id=167
 #EXTINF:-1 tvg-id="uefaeuropaleagueastonvillavsmaccabitelaviv" tvg-name="Soccer | UEFA Europa League : Aston Villa vs Maccabi Tel Aviv (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Aston Villa_vs_Maccabi Tel Aviv.png" group-title="Eventi Live DLHD",Soccer | UEFA Europa League : Aston Villa vs Maccabi Tel Aviv (22:00)
 https://dlhd.dad/watch.php?id=18
 
-#EXTINF:-1 tvg-id="wtatourfinalsriyadh" tvg-name="Tennis | WTA Tour Finals Riyadh (14:00)" tvg-logo="https://dazngroup.com/wp-content/uploads/2024/01/WTA_Novo.png" group-title="Eventi Live DLHD",Tennis | WTA Tour Finals Riyadh (14:00)
+#EXTINF:-1 tvg-id="wtatourfinalsriyadh" tvg-name="Tennis | WTA Tour Finals Riyadh (14:00)" tvg-logo="https://static.flashscore.com/res/image/data/OlRjh4kD-EVoZMSig.png" group-title="Eventi Live DLHD",Tennis | WTA Tour Finals Riyadh (14:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="wtafinalsroundrobinathensatpampmetzatpearlyrounds" tvg-name="Tennis | WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds (22:00)" tvg-logo="https://dazngroup.com/wp-content/uploads/2024/01/WTA_Novo.png" group-title="Eventi Live DLHD",Tennis | WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds (22:00)
+#EXTINF:-1 tvg-id="wtafinalsroundrobinathensatpampmetzatpearlyrounds" tvg-name="Tennis | WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds (22:00)" tvg-logo="https://assets.stickpng.com/images/6266992c2c88722059d58710.png" group-title="Eventi Live DLHD",Tennis | WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds (22:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="internationalchampionshipquarterfinal" tvg-name="Snooker | International Championship | Quarter-Final (09:00)" tvg-logo="https://www.kcl.ac.uk/newimages/sspp/faculty-top-level/main/international-relations-image-780-440.x881f33e9.png?f=webp" group-title="Eventi Live DLHD",Snooker | International Championship | Quarter-Final (09:00)
+#EXTINF:-1 tvg-id="internationalchampionshipquarterfinal" tvg-name="Snooker | International Championship | Quarter-Final (09:00)" tvg-logo="https://kenkenpuzzles.in/wp-content/uploads/2018/04/logo.png" group-title="Eventi Live DLHD",Snooker | International Championship | Quarter-Final (09:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="internationalchampionshipquarterfinal" tvg-name="Snooker | International Championship | Quarter-Final (13:30)" tvg-logo="https://www.kcl.ac.uk/newimages/sspp/faculty-top-level/main/international-relations-image-780-440.x881f33e9.png?f=webp" group-title="Eventi Live DLHD",Snooker | International Championship | Quarter-Final (13:30)
+#EXTINF:-1 tvg-id="internationalchampionshipquarterfinal" tvg-name="Snooker | International Championship | Quarter-Final (13:30)" tvg-logo="https://kenkenpuzzles.in/wp-content/uploads/2018/04/logo.png" group-title="Eventi Live DLHD",Snooker | International Championship | Quarter-Final (13:30)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="euroleaguedubaibasketballvshapoeltelaviv" tvg-name="Basketball | Euroleague : Dubai Basketball vs Hapoel Tel Aviv (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Dubai Basketball_vs_Hapoel Tel Aviv.png" group-title="Eventi Live DLHD",Basketball | Euroleague : Dubai Basketball vs Hapoel Tel Aviv (20:00)
