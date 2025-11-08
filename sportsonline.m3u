@@ -1,16 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="Eventi Live sportsonline",Spezia x Bari 1908 20:30
+#EXTINF:-1 group-title="Eventi Live sportsonline",Formula 1: Sao Paulo Grand Prix: Sprint 14:00
 #EXTVLCOPT:http-origin=https://badwagon.net
 #EXTVLCOPT:http-referrer=https://badwagon.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://bhzqcb.6670391863.store:8443/hls/qgdzborpo.m3u8?s=vXbhWuKbdLpTh-vDoYIg3w&e=1762575656
-#EXTINF:-1 group-title="Eventi Live sportsonline",Pisa x Cremonese 20:45
+https://cnfobm.5606087801.art:8443/hls/qgdzborpo.m3u8?s=AOdKILJGUvGNPQs7pey8tQ&e=1762587554
+#EXTINF:-1 group-title="Eventi Live sportsonline",Como x Cagliari 15:00
 #EXTVLCOPT:http-origin=https://badwagon.net
 #EXTVLCOPT:http-referrer=https://badwagon.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://bhzqcb.6670391863.store:8443/hls/71urpyq.m3u8?s=G1J1WmVHXO4p4Ropc7yQ7A&e=1762575661
-#EXTINF:-1 group-title="Eventi Live sportsonline",UniÃ³n La Calera x Deportes Iquique 00:00
+https://cnfobm.5606087801.art:8443/hls/71urpyq.m3u8?s=pCSL05NIGwwvRcLfbgGxmQ&e=1762587560
+#EXTINF:-1 group-title="Eventi Live sportsonline",Lecce x Hellas Verona 15:00
 #EXTVLCOPT:http-origin=https://badwagon.net
 #EXTVLCOPT:http-referrer=https://badwagon.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://bhzqcb.6670391863.store:8443/hls/qgdzborpo.m3u8?s=ftVynAANrT6Yuh0cca_L5A&e=1762575666
+https://cnfobm.5606087801.art:8443/hls/qgdzborpo.m3u8?s=TI-2cmCiGNdlRvnBYoxqAA&e=1762587580
+#EXTINF:-1 group-title="Eventi Live sportsonline",Juventus x Torino 18:00
+#EXTVLCOPT:http-origin=https://badwagon.net
+#EXTVLCOPT:http-referrer=https://badwagon.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://cnfobm.5606087801.art:8443/hls/71urpyq.m3u8?s=HV4qQmhV82rhqT8gKheGGA&e=1762587617
+#EXTINF:-1 group-title="Eventi Live sportsonline",Formula 1: Sao Paulo Grand Prix: Qualifying 18:00
+#EXTVLCOPT:http-origin=https://badwagon.net
+#EXTVLCOPT:http-referrer=https://badwagon.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://cnfobm.5606087801.art:8443/hls/qgdzborpo.m3u8?s=3XsxISisK5A7YPTvsV4uGQ&e=1762587657
+#EXTINF:-1 group-title="Eventi Live sportsonline",Parma x Milan 20:45
+#EXTVLCOPT:http-origin=https://badwagon.net
+#EXTVLCOPT:http-referrer=https://badwagon.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://cnfobm.5606087801.art:8443/hls/71urpyq.m3u8?s=jarou0SunwM4qJaJ74qKmQ&e=1762587681
