@@ -309,6 +309,8 @@ https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
@@ -419,8 +421,6 @@ https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
@@ -497,8 +497,6 @@ https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
 https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 #EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTINF:-1 tvg-id="rainews24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
@@ -558,7 +556,7 @@ https://dlhd.dad/watch.php?id=192
 #EXTINF:-1 tvg-id="italyseriecatalantaiivsgiugliano" tvg-name="Soccer | Italy - Serie C : Atalanta II vs Giugliano (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta II_vs_Giugliano.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Atalanta II vs Giugliano (15:30)
 https://dlhd.dad/watch.php?id=151
 
-#EXTINF:-1 tvg-id="italyserieacomovscagliari" tvg-name="Soccer | Italy - Serie A : Como vs Cagliari (16:00)" tvg-logo="https://www.footballkitarchive.com/static/logos/jg7ChWhHx9uMqs6/como-1907-2019-logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Como vs Cagliari (16:00)
+#EXTINF:-1 tvg-id="italyserieacomovscagliari" tvg-name="Soccer | Italy - Serie A : Como vs Cagliari (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Como_vs_Cagliari.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Como vs Cagliari (16:00)
 https://dlhd.dad/watch.php?id=877
 
 #EXTINF:-1 tvg-id="italyseriealeccevshellasverona" tvg-name="Soccer | Italy - Serie A : Lecce vs Hellas Verona (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecce_vs_Hellas Verona.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lecce vs Hellas Verona (16:00)
@@ -609,13 +607,13 @@ https://dlhd.dad/watch.php?id=188
 #EXTINF:-1 tvg-id="wtatourfinalsriyadh" tvg-name="Tennis | WTA Tour Finals Riyadh (17:00)" tvg-logo="https://static.flashscore.com/res/image/data/OlRjh4kD-EVoZMSig.png" group-title="Eventi Live DLHD",Tennis | WTA Tour Finals Riyadh (17:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="moto3greekgrandprixofportugalpractice2" tvg-name="Motorsport | Moto 3 : Greek Grand Prix of Portugal Practice 2 (10:30)" tvg-logo="https://web2.fireboldweb.com/wp-content/uploads/2023/04/270420231682629297moto_victory_mrx200_arizona_arena_2023_foto01.png" group-title="Eventi Live DLHD",Motorsport | Moto 3 : Greek Grand Prix of Portugal Practice 2 (10:30)
+#EXTINF:-1 tvg-id="moto3greekgrandprixofportugalpractice2" tvg-name="Motorsport | Moto 3 : Greek Grand Prix of Portugal Practice 2 (10:30)" tvg-logo="https://images.piaggio.com/motoguzzi/vehicles/gu3283100ebp00/gu3283100ebp01/gu3283100ebp01-01.png" group-title="Eventi Live DLHD",Motorsport | Moto 3 : Greek Grand Prix of Portugal Practice 2 (10:30)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="moto2greekgrandprixofportugal" tvg-name="Motorsport | Moto 2 : Greek Grand Prix of Portugal (11:20)" tvg-logo="https://web2.fireboldweb.com/wp-content/uploads/2023/04/270420231682629297moto_victory_mrx200_arizona_arena_2023_foto01.png" group-title="Eventi Live DLHD",Motorsport | Moto 2 : Greek Grand Prix of Portugal (11:20)
+#EXTINF:-1 tvg-id="moto2greekgrandprixofportugal" tvg-name="Motorsport | Moto 2 : Greek Grand Prix of Portugal (11:20)" tvg-logo="https://images.piaggio.com/motoguzzi/vehicles/gu3283100ebp00/gu3283100ebp01/gu3283100ebp01-01.png" group-title="Eventi Live DLHD",Motorsport | Moto 2 : Greek Grand Prix of Portugal (11:20)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="motogpgreekgrandprixofportugalfreepractice2andqualifying" tvg-name="Motorsport | Moto GP : Greek Grand Prix of Portugal Free Practice 2 and Qualifying (12:00)" tvg-logo="https://web2.fireboldweb.com/wp-content/uploads/2023/04/270420231682629297moto_victory_mrx200_arizona_arena_2023_foto01.png" group-title="Eventi Live DLHD",Motorsport | Moto GP : Greek Grand Prix of Portugal Free Practice 2 and Qualifying (12:00)
+#EXTINF:-1 tvg-id="motogpgreekgrandprixofportugalfreepractice2andqualifying" tvg-name="Motorsport | Moto GP : Greek Grand Prix of Portugal Free Practice 2 and Qualifying (12:00)" tvg-logo="https://images.piaggio.com/motoguzzi/vehicles/gu3283100ebp00/gu3283100ebp01/gu3283100ebp01-01.png" group-title="Eventi Live DLHD",Motorsport | Moto GP : Greek Grand Prix of Portugal Free Practice 2 and Qualifying (12:00)
 https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="formula1msccruisessaopaulogpsprintgrid" tvg-name="Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Sprint Grid (14:00)" tvg-logo="https://wallpaperaccess.com/full/6122723.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Sprint Grid (14:00)
@@ -624,16 +622,16 @@ https://dlhd.dad/watch.php?id=577
 #EXTINF:-1 tvg-id="motoeround7portugalrace1" tvg-name="Motorsport | MotoE | Round 7 | Portugal Race 1 (14:00)" tvg-logo="https://motoe-cz.s18.cdn-upgates.com/_cache/2/a/2afb0b89abac8aedb4ee7b4383b4c813-v63bec87203ced-servis.png" group-title="Eventi Live DLHD",Motorsport | MotoE | Round 7 | Portugal Race 1 (14:00)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="moto3greekgrandprixofportugalqualifying" tvg-name="Motorsport | Moto 3 : Greek Grand Prix of Portugal Qualifying (14:45)" tvg-logo="https://web2.fireboldweb.com/wp-content/uploads/2023/04/270420231682629297moto_victory_mrx200_arizona_arena_2023_foto01.png" group-title="Eventi Live DLHD",Motorsport | Moto 3 : Greek Grand Prix of Portugal Qualifying (14:45)
+#EXTINF:-1 tvg-id="moto3greekgrandprixofportugalqualifying" tvg-name="Motorsport | Moto 3 : Greek Grand Prix of Portugal Qualifying (14:45)" tvg-logo="https://images.piaggio.com/motoguzzi/vehicles/gu3283100ebp00/gu3283100ebp01/gu3283100ebp01-01.png" group-title="Eventi Live DLHD",Motorsport | Moto 3 : Greek Grand Prix of Portugal Qualifying (14:45)
 https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="formula1msccruisessaopaulogpsprint" tvg-name="Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Sprint (15:00)" tvg-logo="https://wallpaperaccess.com/full/6122723.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Sprint (15:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="moto2greekgrandprixofportugal" tvg-name="Motorsport | Moto 2 : Greek Grand Prix of Portugal (15:40)" tvg-logo="https://web2.fireboldweb.com/wp-content/uploads/2023/04/270420231682629297moto_victory_mrx200_arizona_arena_2023_foto01.png" group-title="Eventi Live DLHD",Motorsport | Moto 2 : Greek Grand Prix of Portugal (15:40)
+#EXTINF:-1 tvg-id="moto2greekgrandprixofportugal" tvg-name="Motorsport | Moto 2 : Greek Grand Prix of Portugal (15:40)" tvg-logo="https://images.piaggio.com/motoguzzi/vehicles/gu3283100ebp00/gu3283100ebp01/gu3283100ebp01-01.png" group-title="Eventi Live DLHD",Motorsport | Moto 2 : Greek Grand Prix of Portugal (15:40)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="motogpgreekgrandprixofportugalsprintrace" tvg-name="Motorsport | Moto GP : Greek Grand Prix of Portugal Sprint Race (16:45)" tvg-logo="https://web2.fireboldweb.com/wp-content/uploads/2023/04/270420231682629297moto_victory_mrx200_arizona_arena_2023_foto01.png" group-title="Eventi Live DLHD",Motorsport | Moto GP : Greek Grand Prix of Portugal Sprint Race (16:45)
+#EXTINF:-1 tvg-id="motogpgreekgrandprixofportugalsprintrace" tvg-name="Motorsport | Moto GP : Greek Grand Prix of Portugal Sprint Race (16:45)" tvg-logo="https://images.piaggio.com/motoguzzi/vehicles/gu3283100ebp00/gu3283100ebp01/gu3283100ebp01-01.png" group-title="Eventi Live DLHD",Motorsport | Moto GP : Greek Grand Prix of Portugal Sprint Race (16:45)
 https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="fiawecround88hoursofbahrainrace" tvg-name="Motorsport | FIA WEC | Round 8 | 8 Hours of Bahrain Race (17:15)" tvg-logo="https://www.sum4all.org/data/files/GRA-Tool/fia_logo.png" group-title="Eventi Live DLHD",Motorsport | FIA WEC | Round 8 | 8 Hours of Bahrain Race (17:15)
