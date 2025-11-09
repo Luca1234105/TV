@@ -309,8 +309,6 @@ https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
@@ -421,6 +419,8 @@ https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
@@ -616,22 +616,22 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="italyserieainternazionalevslazio" tvg-name="All Soccer Events | Italy - Serie A : Internazionale vs Lazio (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Internazionale_vs_Lazio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Internazionale vs Lazio (21:45)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="2025nittoatpfinalsroundrobinday1" tvg-name="Tennis | 2025 Nitto ATP Finals Round Robin, Day 1 (15:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240204/original/pngtree-2025-minimalist-calendar-vector-png-image_14235147.png" group-title="Eventi Live DLHD",Tennis | 2025 Nitto ATP Finals Round Robin, Day 1 (15:00)
+#EXTINF:-1 tvg-id="2025nittoatpfinalsroundrobinday1" tvg-name="Tennis | 2025 Nitto ATP Finals Round Robin, Day 1 (15:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240226/original/pngtree-2025-year-gradient-vector-png-image_14411938.png" group-title="Eventi Live DLHD",Tennis | 2025 Nitto ATP Finals Round Robin, Day 1 (15:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="centercourtliveatpfinalssinglesroundrobinlive" tvg-name="Tennis | Center Court Live ATP Finals Singles Round Robin Live (21:30)" tvg-logo="https://www.mathdoubts.com/cimgs/circle/center.png" group-title="Eventi Live DLHD",Tennis | Center Court Live ATP Finals Singles Round Robin Live (21:30)
+#EXTINF:-1 tvg-id="centercourtliveatpfinalssinglesroundrobinlive" tvg-name="Tennis | Center Court Live ATP Finals Singles Round Robin Live (21:30)" tvg-logo="https://cdn-skill.splashmath.com/panel-uploads/GlossaryTerm/8bc0a422674548a48e2500b880628b91/1544077479_Center-of-the-Circle-Center-Point.png" group-title="Eventi Live DLHD",Tennis | Center Court Live ATP Finals Singles Round Robin Live (21:30)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="motogpgreekgrandprixofportugalwarmup" tvg-name="Motorsport | Moto GP : Greek Grand Prix of Portugal Warm Up (11:30)" tvg-logo="https://cdn.buenavibra.es/wp-content/uploads/2019/12/12002925/Captura-de-Pantalla-2019-12-12-a-las-00.28.53.png" group-title="Eventi Live DLHD",Motorsport | Moto GP : Greek Grand Prix of Portugal Warm Up (11:30)
+#EXTINF:-1 tvg-id="motogpgreekgrandprixofportugalwarmup" tvg-name="Motorsport | Moto GP : Greek Grand Prix of Portugal Warm Up (11:30)" tvg-logo="https://motoadventure.com.br/wp-content/uploads/2023/12/cf-moto-450-mt-5.png" group-title="Eventi Live DLHD",Motorsport | Moto GP : Greek Grand Prix of Portugal Warm Up (11:30)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="moto2greekgrandprixofportugalrace" tvg-name="Motorsport | Moto 2 : Greek Grand Prix of Portugal Race (12:00)" tvg-logo="https://cdn.buenavibra.es/wp-content/uploads/2019/12/12002925/Captura-de-Pantalla-2019-12-12-a-las-00.28.53.png" group-title="Eventi Live DLHD",Motorsport | Moto 2 : Greek Grand Prix of Portugal Race (12:00)
+#EXTINF:-1 tvg-id="moto2greekgrandprixofportugalrace" tvg-name="Motorsport | Moto 2 : Greek Grand Prix of Portugal Race (12:00)" tvg-logo="https://motoadventure.com.br/wp-content/uploads/2023/12/cf-moto-450-mt-5.png" group-title="Eventi Live DLHD",Motorsport | Moto 2 : Greek Grand Prix of Portugal Race (12:00)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="motogpgreekgrandprixofportugalrace" tvg-name="Motorsport | Moto GP : Greek Grand Prix of Portugal Race (15:00)" tvg-logo="https://cdn.buenavibra.es/wp-content/uploads/2019/12/12002925/Captura-de-Pantalla-2019-12-12-a-las-00.28.53.png" group-title="Eventi Live DLHD",Motorsport | Moto GP : Greek Grand Prix of Portugal Race (15:00)
+#EXTINF:-1 tvg-id="motogpgreekgrandprixofportugalrace" tvg-name="Motorsport | Moto GP : Greek Grand Prix of Portugal Race (15:00)" tvg-logo="https://motoadventure.com.br/wp-content/uploads/2023/12/cf-moto-450-mt-5.png" group-title="Eventi Live DLHD",Motorsport | Moto GP : Greek Grand Prix of Portugal Race (15:00)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="moto3greekgrandprixofportugalrace" tvg-name="Motorsport | Moto 3 : Greek Grand Prix of Portugal Race (16:15)" tvg-logo="https://cdn.buenavibra.es/wp-content/uploads/2019/12/12002925/Captura-de-Pantalla-2019-12-12-a-las-00.28.53.png" group-title="Eventi Live DLHD",Motorsport | Moto 3 : Greek Grand Prix of Portugal Race (16:15)
+#EXTINF:-1 tvg-id="moto3greekgrandprixofportugalrace" tvg-name="Motorsport | Moto 3 : Greek Grand Prix of Portugal Race (16:15)" tvg-logo="https://motoadventure.com.br/wp-content/uploads/2023/12/cf-moto-450-mt-5.png" group-title="Eventi Live DLHD",Motorsport | Moto 3 : Greek Grand Prix of Portugal Race (16:15)
 https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="formula1msccruisessaopaulogpgrandprixsunday" tvg-name="Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Grand Prix Sunday (17:00)" tvg-logo="https://wallpaperaccess.com/full/6122723.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Grand Prix Sunday (17:00)
@@ -640,10 +640,10 @@ https://dlhd.dad/watch.php?id=577
 #EXTINF:-1 tvg-id="formula1msccruisessaopaulogprace" tvg-name="Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Race (19:00)" tvg-logo="https://wallpaperaccess.com/full/6122723.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Race (19:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="internationalchampionshipfinalafternoonsession" tvg-name="Snooker | International Championship | Final | Afternoon Session (09:00)" tvg-logo="https://www.kcl.ac.uk/newimages/sspp/faculty-top-level/main/international-relations-image-780-440.x881f33e9.png?f=webp" group-title="Eventi Live DLHD",Snooker | International Championship | Final | Afternoon Session (09:00)
+#EXTINF:-1 tvg-id="internationalchampionshipfinalafternoonsession" tvg-name="Snooker | International Championship | Final | Afternoon Session (09:00)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/16648/logo/17941/logo_template_300.png" group-title="Eventi Live DLHD",Snooker | International Championship | Final | Afternoon Session (09:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="internationalchampionshipfinaleveningsession" tvg-name="Snooker | International Championship | Final | Evening Session (14:00)" tvg-logo="https://www.kcl.ac.uk/newimages/sspp/faculty-top-level/main/international-relations-image-780-440.x881f33e9.png?f=webp" group-title="Eventi Live DLHD",Snooker | International Championship | Final | Evening Session (14:00)
+#EXTINF:-1 tvg-id="internationalchampionshipfinaleveningsession" tvg-name="Snooker | International Championship | Final | Evening Session (14:00)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/16648/logo/17941/logo_template_300.png" group-title="Eventi Live DLHD",Snooker | International Championship | Final | Evening Session (14:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="seriea2pesarovsscafati" tvg-name="Basketball | Serie A2 : Pesaro vs Scafati (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pesaro_vs_Scafati.png" group-title="Eventi Live DLHD",Basketball | Serie A2 : Pesaro vs Scafati (13:30)
