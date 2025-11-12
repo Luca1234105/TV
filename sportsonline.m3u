@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="Eventi Live sportsonline",Roma W x VÃ¥lerenga W 18:45
+#EXTINF:-1 group-title="Eventi Live sportsonline",Italy U19 x Moldova U19 15:00
 #EXTVLCOPT:http-origin=https://dukehorror.net
 #EXTVLCOPT:http-referrer=https://dukehorror.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://twhjon.7380990745.xyz:8443/hls/71urpyq.m3u8?s=mc5vvH29cZF_NR-YRf7QFA&e=1762914266
+https://ghhuraj.234276133.fit:8443/hls/71urpyq.m3u8?s=l0KZdkJ2aafm09JMYIFi8Q&e=1762933466
+#EXTINF:-1 group-title="Eventi Live sportsonline",Atletico Madrid W x Juventus W 21:00
+#EXTVLCOPT:http-origin=https://dukehorror.net
+#EXTVLCOPT:http-referrer=https://dukehorror.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://ghhuraj.234276133.fit:8443/hls/qgdzborpo.m3u8?s=m6hzPZU9AeztaFrfH6BxBA&e=1762933471
