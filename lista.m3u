@@ -9,10 +9,6 @@ https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
-https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
-https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8by3YXjCGJQaxT6b-cgZ872BjY_NLIrALA&s" group-title="Altro",AVENGERS GRIMM CHANNEL
 https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_Ufficiale_Radio_Bellla_%26_Monella.png" group-title="Altro",BELLLA & MONELLA TV
@@ -145,8 +141,6 @@ https://vavoo.to/vavoo-iptv/play/10851723533da93b5683eb
 https://vavoo.to/vavoo-iptv/play/10944791346b08a647fce
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1
 https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
-https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
 https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTP (RETE TELEVISIVA)
@@ -313,8 +307,6 @@ https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
-#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
-https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",TELEPACE TRENTO (HISTORY LAB)
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
@@ -367,14 +359,14 @@ https://vavoo.to/vavoo-iptv/play/2242741766a460e21385e6
 https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb
 #EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY
 https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
-#EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
-https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
+#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
+https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
 https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
-#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
-https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
+https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
 https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 1
@@ -527,7 +519,7 @@ https://dlhd.dad/watch.php?id=171
 #EXTINF:-1 tvg-id="italyserieclatinavscosenza" tvg-name="All Soccer Events | Italy - Serie C : Latina vs Cosenza (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Latina_vs_Cosenza.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Latina vs Cosenza (15:30)
 https://dlhd.dad/watch.php?id=172
 
-#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovscatania" tvg-name="All Soccer Events | Italy - Serie C : Virtus Casarano vs Catania (15:30)" tvg-logo="https://a.cdn-hotels.com/gdcs/production131/d964/ccc88bec-c974-47d9-89aa-81053893c8fc.jpg" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Casarano vs Catania (15:30)
+#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovscatania" tvg-name="All Soccer Events | Italy - Serie C : Virtus Casarano vs Catania (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Virtus Casarano_vs_Catania.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Casarano vs Catania (15:30)
 https://dlhd.dad/watch.php?id=173
 
 #EXTINF:-1 tvg-id="italyseriecvirtuscasaranovscatania" tvg-name="All Soccer Events | Italy - Serie C : Virtus Casarano vs Catania (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Virtus Casarano_vs_Catania.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Casarano vs Catania (15:30)
@@ -557,10 +549,10 @@ https://dlhd.dad/watch.php?id=173
 #EXTINF:-1 tvg-id="italyseriecriminivsascoli" tvg-name="All Soccer Events | Italy - Serie C : Rimini vs Ascoli (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Rimini_vs_Ascoli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Rimini vs Ascoli (18:30)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="italyseriecsassaritorresvsperugia" tvg-name="All Soccer Events | Italy - Serie C : Sassari Torres vs Perugia (18:30)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Sassari Torres vs Perugia (18:30)
+#EXTINF:-1 tvg-id="italyseriecsassaritorresvsperugia" tvg-name="All Soccer Events | Italy - Serie C : Sassari Torres vs Perugia (18:30)" tvg-logo="https://www.tuttocampo.it/Web/Images/Teams/Original/1008279.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Sassari Torres vs Perugia (18:30)
 https://dlhd.dad/watch.php?id=174
 
-#EXTINF:-1 tvg-id="italyseriecvispesarovsnuovamonterosi" tvg-name="All Soccer Events | Italy - Serie C : Vis Pesaro vs Nuova Monterosi (18:30)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/NH_66721_Honda_Point.gif" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Vis Pesaro vs Nuova Monterosi (18:30)
+#EXTINF:-1 tvg-id="italyseriecvispesarovsnuovamonterosi" tvg-name="All Soccer Events | Italy - Serie C : Vis Pesaro vs Nuova Monterosi (18:30)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Domain_changes_during_the_Punic_Wars.gif" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Vis Pesaro vs Nuova Monterosi (18:30)
 https://dlhd.dad/watch.php?id=175
 
 #EXTINF:-1 tvg-id="worldcupqualifyinggeorgiavsspain" tvg-name="All Soccer Events | World Cup Qualifying : Georgia vs Spain (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Georgia_vs_Spain.png" group-title="Eventi Live DLHD",All Soccer Events | World Cup Qualifying : Georgia vs Spain (19:00)
@@ -575,17 +567,11 @@ https://dlhd.dad/watch.php?id=173
 #EXTINF:-1 tvg-id="italyseriecsambenedettesevsternana" tvg-name="All Soccer Events | Italy - Serie C : Sambenedettese vs Ternana (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sambenedettese_vs_Ternana.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Sambenedettese vs Ternana (21:30)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="worldcupqualifyingswitzerlandvssweden" tvg-name="All Soccer Events | World Cup Qualifying : Switzerland vs Sweden (21:45)" tvg-logo="https://cdn.thecoolist.com/wp-content/uploads/2021/07/Stockholm-is-Full-of-Sweden-Tourist-Attractions.jpg" group-title="Eventi Live DLHD",All Soccer Events | World Cup Qualifying : Switzerland vs Sweden (21:45)
+#EXTINF:-1 tvg-id="worldcupqualifyingswitzerlandvssweden" tvg-name="All Soccer Events | World Cup Qualifying : Switzerland vs Sweden (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Switzerland_vs_Sweden.png" group-title="Eventi Live DLHD",All Soccer Events | World Cup Qualifying : Switzerland vs Sweden (21:45)
 https://dlhd.dad/watch.php?id=175
 
 #EXTINF:-1 tvg-id="nittoatpfinalssemifinal" tvg-name="Tennis | Nitto ATP Finals Semi-final (15:00)" tvg-logo="https://images.simpletire.com/images/q_auto/line-images/16928/16928-sidetread/nitto-nt420v.png" group-title="Eventi Live DLHD",Tennis | Nitto ATP Finals Semi-final (15:00)
 https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="motogpvalenciagrandprixpractice2" tvg-name="Motorsport | MotoGP : Valencia Grand Prix Practice 2 (09:30)" tvg-logo="https://images.seeklogo.com/logo-png/61/3/prima-pramac-yamaha-logo-png_seeklogo-612335.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Valencia Grand Prix Practice 2 (09:30)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="moto3valenciagrandprixpractice2" tvg-name="Motorsport | Moto3 : Valencia Grand Prix Practice 2 (09:35)" tvg-logo="https://1.bp.blogspot.com/-Kz3F9RMG_M0/XPU-eFuDj4I/AAAAAAAAIJg/N4FhR0pVZnsPTII5Mooq3NE8DXhtA6BiACLcBGAs/s72-c/Moto3%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live DLHD",Motorsport | Moto3 : Valencia Grand Prix Practice 2 (09:35)
-https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="moto2valenciagrandprixpractice2" tvg-name="Motorsport | Moto2 : Valencia Grand Prix Practice 2 (11:45)" tvg-logo="https://www.saint-leger.be/ma-commune/autres-services/atl/images/logo-facebook-hd.png/@@images/image.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Valencia Grand Prix Practice 2 (11:45)
 https://dlhd.dad/watch.php?id=575
@@ -630,9 +616,6 @@ https://dlhd.dad/watch.php?id=462
 https://dlhd.dad/watch.php?id=462
 
 #EXTINF:-1 tvg-id="t100triathlonworldtourdubait100menwomenstation8" tvg-name="Triathlon | T100 Triathlon World Tour | Dubai T100 Men / Women | Station 8 (21:15)" tvg-logo="https://cdn-1.sportstats.one/img/event_logo/42373_672507f353295.png" group-title="Eventi Live DLHD",Triathlon | T100 Triathlon World Tour | Dubai T100 Men / Women | Station 8 (21:15)
-https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 tvg-id="triathlont100worldtourdubai" tvg-name="Triathlon | Triathlon: T100 World Tour - Dubai (09:15)" tvg-logo="http://www.clipartbest.com/cliparts/Kcn/o9X/Kcno9XXoi.png" group-title="Eventi Live DLHD",Triathlon | Triathlon: T100 World Tour - Dubai (09:15)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="seriea1pallavolopadovavspowervolleymilano" tvg-name="Volleyball | Serie A1 : Pallavolo Padova vs. Power Volley Milano (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pallavolo Padova_vs_Power Volley Milano.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Pallavolo Padova vs. Power Volley Milano (19:00)
