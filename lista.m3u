@@ -93,6 +93,8 @@ https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
 https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
+#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
+https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="" tvg-logo="https://liratv.es/wp-content/uploads/2021/07/LIRA-TV-1.png" group-title="Altro",LIRA TV
 https://vavoo.to/vavoo-iptv/play/2835333400f831a30ce568
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (1)
@@ -367,10 +369,14 @@ https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
 https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
+#EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
+https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
 https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
+https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
 https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 1
@@ -427,8 +433,6 @@ https://vavoo.to/vavoo-iptv/play/36560804080912cdf76cbf
 https://vavoo.to/vavoo-iptv/play/1729811452a70dafd8f6ba
 
 # SPORT
-#EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1
-https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/lazio-style-channel-it.png?raw=true" group-title="Sport",LAZIO TV
@@ -481,6 +485,8 @@ https://vavoo.to/vavoo-iptv/play/122565375973a967da4f03
 https://vavoo.to/vavoo-iptv/play/246253359a81d94887441
 #EXTINF:-1 tvg-id="rai3.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai",RAI 3
 https://vavoo.to/vavoo-iptv/play/869117599e36bb7de752c
+#EXTINF:-1 tvg-id="rai4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4
+https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
 #EXTINF:-1 tvg-id="rai5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai",RAI 5
 https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 #EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP
@@ -519,7 +525,7 @@ https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="germanybundesliga2herthabscvseintrachtbraunschweig" tvg-name="Soccer | Germany - Bundesliga 2 : Hertha BSC vs Eintracht Braunschweig (19:30)" tvg-logo="https://iconape.com/wp-content/files/ko/316940/png/316940.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga 2 : Hertha BSC vs Eintracht Braunschweig (19:30)
+#EXTINF:-1 tvg-id="germanybundesliga2herthabscvseintrachtbraunschweig" tvg-name="Soccer | Germany - Bundesliga 2 : Hertha BSC vs Eintracht Braunschweig (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Hertha BSC_vs_Eintracht Braunschweig.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga 2 : Hertha BSC vs Eintracht Braunschweig (19:30)
 https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 tvg-id="italyseriecpropatriavspergolettese" tvg-name="Soccer | Italy - Serie C : Pro Patria vs Pergolettese (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Patria_vs_Pergolettese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Pro Patria vs Pergolettese (21:30)
@@ -540,43 +546,43 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="daviscupfinalssemifinal1argentinavsgermany" tvg-name="Tennis | Davis Cup Finals Semifinal 1 : Argentina vs Germany (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Argentina_vs_Germany.png" group-title="Eventi Live DLHD",Tennis | Davis Cup Finals Semifinal 1 : Argentina vs Germany (17:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="formula1heinekenlasvegasgrandprixpractice2" tvg-name="Motorsport | Formula 1 : Heineken Las Vegas Grand Prix - Practice 2 (06:00)" tvg-logo="https://i.pinimg.com/originals/48/7a/cf/487acf60c75951c1de0116aa0fa7a4b6.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Heineken Las Vegas Grand Prix - Practice 2 (06:00)
+#EXTINF:-1 tvg-id="formula1heinekenlasvegasgrandprixpractice2" tvg-name="Motorsport | Formula 1 : Heineken Las Vegas Grand Prix - Practice 2 (06:00)" tvg-logo="https://city-png.b-cdn.net/thumbnail/thumbnail_public/uploads/preview/formula-1-official-white-logo-hd-transparent-background-701751712229658jhzn4h9awp.png?v=2024071007" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Heineken Las Vegas Grand Prix - Practice 2 (06:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="f1academylasvegasstripcircuitinnevadaqualifying" tvg-name="Motorsport | F1 Academy : Las Vegas Strip Circuit in Nevada Qualifying (07:30)" tvg-logo="https://f1chronicle.com/wp-content/uploads/2024/01/SI202412010400-1920x1080.jpg" group-title="Eventi Live DLHD",Motorsport | F1 Academy : Las Vegas Strip Circuit in Nevada Qualifying (07:30)
+#EXTINF:-1 tvg-id="f1academylasvegasstripcircuitinnevadaqualifying" tvg-name="Motorsport | F1 Academy : Las Vegas Strip Circuit in Nevada Qualifying (07:30)" tvg-logo="https://esporte.vip/wp-content/uploads/2023/09/Ferrari-F1.png" group-title="Eventi Live DLHD",Motorsport | F1 Academy : Las Vegas Strip Circuit in Nevada Qualifying (07:30)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula1heinekenlasvegasgrandprixpractice3" tvg-name="Motorsport | Formula 1 : Heineken Las Vegas Grand Prix - Practice 3 (02:30)" tvg-logo="https://i.pinimg.com/originals/48/7a/cf/487acf60c75951c1de0116aa0fa7a4b6.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Heineken Las Vegas Grand Prix - Practice 3 (02:30)
+#EXTINF:-1 tvg-id="formula1heinekenlasvegasgrandprixpractice3" tvg-name="Motorsport | Formula 1 : Heineken Las Vegas Grand Prix - Practice 3 (02:30)" tvg-logo="https://city-png.b-cdn.net/thumbnail/thumbnail_public/uploads/preview/formula-1-official-white-logo-hd-transparent-background-701751712229658jhzn4h9awp.png?v=2024071007" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Heineken Las Vegas Grand Prix - Practice 3 (02:30)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="riyadhseasonchampionshipsemifinal" tvg-name="Snooker | Riyadh Season Championship | Semi-Final (16:00)" tvg-logo="https://cdn.britannica.com/79/96379-050-FDCFF8D3/landmark-tower-Markaz-al-Mamlakah-Saudi-Arabia-Riyadh.jpg" group-title="Eventi Live DLHD",Snooker | Riyadh Season Championship | Semi-Final (16:00)
+#EXTINF:-1 tvg-id="riyadhseasonchampionshipsemifinal" tvg-name="Snooker | Riyadh Season Championship | Semi-Final (16:00)" tvg-logo="https://cdn.britannica.com/14/189714-050-0A674D18/Kingdom-Centre-Riyadh-Saudi-Arabia.jpg" group-title="Eventi Live DLHD",Snooker | Riyadh Season Championship | Semi-Final (16:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="riyadhseasonchampionshipfinal" tvg-name="Snooker | Riyadh Season Championship | Final (21:00)" tvg-logo="https://cdn.britannica.com/79/96379-050-FDCFF8D3/landmark-tower-Markaz-al-Mamlakah-Saudi-Arabia-Riyadh.jpg" group-title="Eventi Live DLHD",Snooker | Riyadh Season Championship | Final (21:00)
+#EXTINF:-1 tvg-id="riyadhseasonchampionshipfinal" tvg-name="Snooker | Riyadh Season Championship | Final (21:00)" tvg-logo="https://cdn.britannica.com/14/189714-050-0A674D18/Kingdom-Centre-Riyadh-Saudi-Arabia.jpg" group-title="Eventi Live DLHD",Snooker | Riyadh Season Championship | Final (21:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcupcortinamensdownhill1strun" tvg-name="Alpine Ski | World Cup - Cortina: Men's Downhill - 1st run (10:00)" tvg-logo="https://dcspotlight.com/wp-content/uploads/2015/10/NEW-HEADLINES-WORLD.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup - Cortina: Men's Downhill - 1st run (10:00)
+#EXTINF:-1 tvg-id="worldcupcortinamensdownhill1strun" tvg-name="Alpine Ski | World Cup - Cortina: Men's Downhill - 1st run (10:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/019/053/744/non_2x/world-globe-earth-map-png.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup - Cortina: Men's Downhill - 1st run (10:00)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="worldcupcortinamensdownhill2ndrun" tvg-name="Alpine Ski | World Cup - Cortina: Men's Downhill - 2nd run (11:40)" tvg-logo="https://dcspotlight.com/wp-content/uploads/2015/10/NEW-HEADLINES-WORLD.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup - Cortina: Men's Downhill - 2nd run (11:40)
+#EXTINF:-1 tvg-id="worldcupcortinamensdownhill2ndrun" tvg-name="Alpine Ski | World Cup - Cortina: Men's Downhill - 2nd run (11:40)" tvg-logo="https://static.vecteezy.com/system/resources/previews/019/053/744/non_2x/world-globe-earth-map-png.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup - Cortina: Men's Downhill - 2nd run (11:40)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="jumpingpragueglobalchampionsleaguesemifinal" tvg-name="Equestrian | Jumping | Prague Global Champions League | Semi-Final (21:00)" tvg-logo="https://dam.destination.one/192063/a56a2a0d08f522da18de28dcc1e58ca3757ab8c8ba713cb50cf88580189c99b1/.jpg" group-title="Eventi Live DLHD",Equestrian | Jumping | Prague Global Champions League | Semi-Final (21:00)
+#EXTINF:-1 tvg-id="jumpingpragueglobalchampionsleaguesemifinal" tvg-name="Equestrian | Jumping | Prague Global Champions League | Semi-Final (21:00)" tvg-logo="https://healthygymtips.com/wp-content/uploads/elementor/thumbs/jumping-exercises-pv9rhwls74adq0vf3wd3u3iv8vxhgbgsurk94x771s.png" group-title="Eventi Live DLHD",Equestrian | Jumping | Prague Global Champions League | Semi-Final (21:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="grandprixfinlandiamixedpairsshortprogram" tvg-name="Ice Skating | Grand Prix | Finlandia Mixed pairs | Short Program (14:00)" tvg-logo="http://chucklohr.com/flagmove.gif" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Finlandia Mixed pairs | Short Program (14:00)
+#EXTINF:-1 tvg-id="grandprixfinlandiamixedpairsshortprogram" tvg-name="Ice Skating | Grand Prix | Finlandia Mixed pairs | Short Program (14:00)" tvg-logo="https://media-s3-us-east-1.ceros.com/indycar/images/2023/02/27/b30483b523b1878fb5acd8fcc39758e3/in-full-pos-color.png" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Finlandia Mixed pairs | Short Program (14:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="grandprixfinlandiashortprogrammale" tvg-name="Ice Skating | Grand Prix | Finlandia Short Program | Male (15:30)" tvg-logo="http://chucklohr.com/flagmove.gif" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Finlandia Short Program | Male (15:30)
+#EXTINF:-1 tvg-id="grandprixfinlandiashortprogrammale" tvg-name="Ice Skating | Grand Prix | Finlandia Short Program | Male (15:30)" tvg-logo="https://www.grandprixmotorpark.com/wp-content/uploads/2024/07/logo_gpm.png" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Finlandia Short Program | Male (15:30)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="grandprixfinlandiashortprogramfemale" tvg-name="Ice Skating | Grand Prix | Finlandia Short Program | Female (17:30)" tvg-logo="http://chucklohr.com/flagmove.gif" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Finlandia Short Program | Female (17:30)
+#EXTINF:-1 tvg-id="grandprixfinlandiashortprogramfemale" tvg-name="Ice Skating | Grand Prix | Finlandia Short Program | Female (17:30)" tvg-logo="https://grandprixhassan2.com/wp-content/uploads/2025/03/Commune-marrakech.png" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Finlandia Short Program | Female (17:30)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="gfigureskatingfinlandiatrophyrhythmicdance" tvg-name="Ice Skating | GFigure Skating: Finlandia Trophy rhythmic dance (19:30)" tvg-logo="https://cdn.inksoft.com/images/publishers/14855/stores/milford_skating/img/socialmedia.png" group-title="Eventi Live DLHD",Ice Skating | GFigure Skating: Finlandia Trophy rhythmic dance (19:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="lillehammermixedteamhs140worldcupday1" tvg-name="Ski Jumping | Lillehammer | Mixed Team HS 140 World Cup | Day 1 (16:45)" tvg-logo="https://bareyogalillehammer.no/wp-content/uploads/2024/01/BAREYOGA-07-1.png" group-title="Eventi Live DLHD",Ski Jumping | Lillehammer | Mixed Team HS 140 World Cup | Day 1 (16:45)
+#EXTINF:-1 tvg-id="lillehammermixedteamhs140worldcupday1" tvg-name="Ski Jumping | Lillehammer | Mixed Team HS 140 World Cup | Day 1 (16:45)" tvg-logo="https://www.cons.sm/wp-content/uploads/2018/05/Lillehammer_2016.png" group-title="Eventi Live DLHD",Ski Jumping | Lillehammer | Mixed Team HS 140 World Cup | Day 1 (16:45)
 https://dlhd.dad/watch.php?id=879
 
 
