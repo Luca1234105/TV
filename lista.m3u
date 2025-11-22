@@ -9,10 +9,6 @@ https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
-https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
-https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8by3YXjCGJQaxT6b-cgZ872BjY_NLIrALA&s" group-title="Altro",AVENGERS GRIMM CHANNEL
 https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_Ufficiale_Radio_Bellla_%26_Monella.png" group-title="Altro",BELLLA & MONELLA TV
@@ -369,6 +365,8 @@ https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb
 https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
+#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
+https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
 https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
@@ -415,6 +413,8 @@ https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
@@ -600,9 +600,6 @@ https://dlhd.dad/watch.php?id=576
 #EXTINF:-1 tvg-id="daviscupt2025semifinal2doubles" tvg-name="Tennis | Davis Cup (T2025): Semifinal 2. Doubles (17:30)" tvg-logo="https://logos-world.net/wp-content/uploads/2022/12/UC-Davis-Logo.png" group-title="Eventi Live DLHD",Tennis | Davis Cup (T2025): Semifinal 2. Doubles (17:30)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="formula1heinekenlasvegasgrandprixqualifying" tvg-name="Motorsport | Formula 1 : Heineken Las Vegas Grand Prix - Qualifying (06:00)" tvg-logo="https://wallpaperaccess.com/full/2180263.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Heineken Las Vegas Grand Prix - Qualifying (06:00)
-https://dlhd.dad/watch.php?id=577
-
 #EXTINF:-1 tvg-id="ufcfightnightmaincardarmantsarukyanvsdanhooker" tvg-name="UFC Fight Night | UFC Fight Night Main Card : Arman Tsarukyan vs Dan Hooker (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arman Tsarukyan_vs_Dan Hooker.png" group-title="Eventi Live DLHD",UFC Fight Night | UFC Fight Night Main Card : Arman Tsarukyan vs Dan Hooker (20:00)
 https://dlhd.dad/watch.php?id=879
 
@@ -624,10 +621,10 @@ https://dlhd.dad/watch.php?id=882
 #EXTINF:-1 tvg-id="grandprixfinlandiamixedpairsfreeroutine" tvg-name="Ice Skating | Grand Prix | Finlandia Mixed pairs | Free routine (12:30)" tvg-logo="https://ct101.commons.gc.cuny.edu/wp-content/blogs.dir/13027/files/2021/05/tenor-1.gif" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Finlandia Mixed pairs | Free routine (12:30)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="womenfreeprogramgrandprixfinland" tvg-name="Ice Skating | Women | Free Program Grand Prix | Finland (17:30)" tvg-logo="https://assets.answersingenesis.org/img/cms/content/contentnode/og_image/international-womens-day-2019-blurring-truth-about-womens-rights.jpg" group-title="Eventi Live DLHD",Ice Skating | Women | Free Program Grand Prix | Finland (17:30)
+#EXTINF:-1 tvg-id="womenfreeprogramgrandprixfinland" tvg-name="Ice Skating | Women | Free Program Grand Prix | Finland (17:30)" tvg-logo="https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/harfordmd/Colorful_Modern_Photo_Women_Happy_Women_s_Day_Greeting_Facebook_Cover_a9df11c8-83d9-4a5b-bcb6-7a8ebcf40d0d.png" group-title="Eventi Live DLHD",Ice Skating | Women | Free Program Grand Prix | Finland (17:30)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="womenfreeprogramgrandprixfinland" tvg-name="Ice Skating | Women | Free Program Grand Prix | Finland (17:30)" tvg-logo="https://assets.answersingenesis.org/img/cms/content/contentnode/og_image/international-womens-day-2019-blurring-truth-about-womens-rights.jpg" group-title="Eventi Live DLHD",Ice Skating | Women | Free Program Grand Prix | Finland (17:30)
+#EXTINF:-1 tvg-id="womenfreeprogramgrandprixfinland" tvg-name="Ice Skating | Women | Free Program Grand Prix | Finland (17:30)" tvg-logo="https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/harfordmd/Colorful_Modern_Photo_Women_Happy_Women_s_Day_Greeting_Facebook_Cover_a9df11c8-83d9-4a5b-bcb6-7a8ebcf40d0d.png" group-title="Eventi Live DLHD",Ice Skating | Women | Free Program Grand Prix | Finland (17:30)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="friendlyinternationalwalesvsnewzealand" tvg-name="Rugby Union | Friendly International : Wales vs New Zealand (17:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Wales_vs_New Zealand.png" group-title="Eventi Live DLHD",Rugby Union | Friendly International : Wales vs New Zealand (17:10)
@@ -642,7 +639,7 @@ https://dlhd.dad/watch.php?id=882
 #EXTINF:-1 tvg-id="friendlyinternationalitalyvschile" tvg-name="Rugby Union | Friendly International : Italy vs Chile (22:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Chile.png" group-title="Eventi Live DLHD",Rugby Union | Friendly International : Italy vs Chile (22:10)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="qualificationlillehammerladies" tvg-name="Ski Jumping | Qualification | Lillehammer Ladies (12:45)" tvg-logo="https://section125qualification.com/wp-content/uploads/2025/01/s125-cc-logo.png" group-title="Eventi Live DLHD",Ski Jumping | Qualification | Lillehammer Ladies (12:45)
+#EXTINF:-1 tvg-id="qualificationlillehammerladies" tvg-name="Ski Jumping | Qualification | Lillehammer Ladies (12:45)" tvg-logo="https://qualifications.jtec.gov.jm/wp-content/uploads/2021/11/JTECLogo_White-1536x1421.png" group-title="Eventi Live DLHD",Ski Jumping | Qualification | Lillehammer Ladies (12:45)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="individualcompetitionlillehammerhs140" tvg-name="Ski Jumping | Individual competition | Lillehammer HS140 (15:30)" tvg-logo="https://cdn2.iconfinder.com/data/icons/sport-competition-linear-outline/4000/21-08-26-Paralympic-games-editable-stroke-31-512.png" group-title="Eventi Live DLHD",Ski Jumping | Individual competition | Lillehammer HS140 (15:30)
