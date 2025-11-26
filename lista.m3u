@@ -93,6 +93,8 @@ https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
 https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
+#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
+https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="" tvg-logo="https://liratv.es/wp-content/uploads/2021/07/LIRA-TV-1.png" group-title="Altro",LIRA TV
 https://vavoo.to/vavoo-iptv/play/2835333400f831a30ce568
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (1)
@@ -307,6 +309,8 @@ https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
@@ -367,8 +371,6 @@ https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb
 https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
-#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
-https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
 https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
@@ -409,6 +411,8 @@ https://vavoo.to/vavoo-iptv/play/2774026655397d6ec52fe5
 https://vavoo.to/vavoo-iptv/play/1971490284ce4effc4ca8e
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/7/79/San_Marino_RTV_Sport_-_logo.png/revision/latest?cb=20221207153729" group-title="Sport",RTV SAN MARINO SPORT
 https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
+#EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
+https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
@@ -505,6 +509,8 @@ https://vavoo.to/vavoo-iptv/play/55173022458f32c70e30a
 https://vavoo.to/vavoo-iptv/play/843891896d79f7a764c19
 #EXTINF:-1 tvg-id="raistoria.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Rai",RAI STORIA
 https://vavoo.to/vavoo-iptv/play/57338653b83f61385a9f
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Rai",RAI SÜDTIROL
+https://vavoo.to/vavoo-iptv/play/441082840c9ecc6bf454e
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 
@@ -521,44 +527,86 @@ https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italycoppaitaliaseriecravennavsunionarzignanochiampo" tvg-name="All Soccer Events | Italy - Coppa Italia Serie C : Ravenna vs Union ArzignanoChiampo (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ravenna_vs_Union ArzignanoChiampo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia Serie C : Ravenna vs Union ArzignanoChiampo (21:30)
-https://dlhd.dad/watch.php?id=15
+#EXTINF:-1 tvg-id="italycoppaitaliaseriecinteriivsrenate" tvg-name="All Soccer Events | Italy - Coppa Italia Serie C : Inter II vs Renate (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Inter II_vs_Renate.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia Serie C : Inter II vs Renate (16:00)
+https://dlhd.dad/watch.php?id=4
 
-#EXTINF:-1 tvg-id="europeuefachampionsleaguebodøglimtvsjuventus" tvg-name="All Soccer Events | Europe - UEFA Champions League : Bodø / Glimt vs Juventus (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bodø / Glimt_vs_Juventus.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Champions League : Bodø / Glimt vs Juventus (22:00)
-https://dlhd.dad/watch.php?id=461
+#EXTINF:-1 tvg-id="italyseriecgubbiovsjuventusii" tvg-name="All Soccer Events | Italy - Serie C : Gubbio vs Juventus II (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Gubbio_vs_Juventus II.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Gubbio vs Juventus II (16:00)
+https://dlhd.dad/watch.php?id=5
 
-#EXTINF:-1 tvg-id="europeuefachampionsleaguebodøglimtvsjuventus" tvg-name="All Soccer Events | Europe - UEFA Champions League : Bodø / Glimt vs Juventus (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bodø / Glimt_vs_Juventus.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Champions League : Bodø / Glimt vs Juventus (22:00)
-https://dlhd.dad/watch.php?id=20
-
-#EXTINF:-1 tvg-id="europeuefachampionsleagueslaviaprahavsathleticclub" tvg-name="All Soccer Events | Europe - UEFA Champions League : Slavia Praha vs Athletic Club (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Slavia Praha_vs_Athletic Club.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Champions League : Slavia Praha vs Athletic Club (22:00)
-https://dlhd.dad/watch.php?id=1
-
-#EXTINF:-1 tvg-id="europeuefachampionsleagueborussiadortmundvsvillarreal" tvg-name="All Soccer Events | Europe - UEFA Champions League : Borussia Dortmund vs Villarreal (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Borussia Dortmund_vs_Villarreal.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Champions League : Borussia Dortmund vs Villarreal (22:00)
-https://dlhd.dad/watch.php?id=106
-
-#EXTINF:-1 tvg-id="europeuefachampionsleaguenapolivsqaraba" tvg-name="All Soccer Events | Europe - UEFA Champions League : Napoli vs Qarabağ (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Qarabağ.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Champions League : Napoli vs Qarabağ (22:00)
+#EXTINF:-1 tvg-id="italyseriecgubbiovsjuventusii" tvg-name="All Soccer Events | Italy - Serie C : Gubbio vs Juventus II (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Gubbio_vs_Juventus II.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Gubbio vs Juventus II (16:00)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="europeuefachampionsleaguenapolivsqaraba" tvg-name="All Soccer Events | Europe - UEFA Champions League : Napoli vs Qarabağ (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Qarabağ.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Champions League : Napoli vs Qarabağ (22:00)
-https://dlhd.dad/watch.php?id=24
+#EXTINF:-1 tvg-id="italycoppaitaliaseriecarezzovslatina" tvg-name="All Soccer Events | Italy - Coppa Italia Serie C : Arezzo vs Latina (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arezzo_vs_Latina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia Serie C : Arezzo vs Latina (19:00)
+https://dlhd.dad/watch.php?id=8
 
-#EXTINF:-1 tvg-id="europeuefachampionsleaguechelseavsbarcelona" tvg-name="All Soccer Events | Europe - UEFA Champions League : Chelsea vs Barcelona (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Chelsea_vs_Barcelona.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Champions League : Chelsea vs Barcelona (22:00)
-https://dlhd.dad/watch.php?id=460
+#EXTINF:-1 tvg-id="italycoppaitaliaseriecpotenzacalciovsaudacecerignola" tvg-name="All Soccer Events | Italy - Coppa Italia Serie C : Potenza Calcio vs Audace Cerignola (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Potenza Calcio_vs_Audace Cerignola.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia Serie C : Potenza Calcio vs Audace Cerignola (19:00)
+https://dlhd.dad/watch.php?id=9
 
-#EXTINF:-1 tvg-id="europeuefachampionsleaguechelseavsbarcelona" tvg-name="All Soccer Events | Europe - UEFA Champions League : Chelsea vs Barcelona (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Chelsea_vs_Barcelona.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Champions League : Chelsea vs Barcelona (22:00)
-https://dlhd.dad/watch.php?id=14
-
-#EXTINF:-1 tvg-id="europeuefachampionsleagueolympiquemarseillevsnewcastleunited" tvg-name="All Soccer Events | Europe - UEFA Champions League : Olympique Marseille vs Newcastle United (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Marseille_vs_Newcastle United.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Champions League : Olympique Marseille vs Newcastle United (22:00)
-https://dlhd.dad/watch.php?id=152
-
-#EXTINF:-1 tvg-id="europeuefachampionsleaguemanchestercityvsbayerleverkusen" tvg-name="All Soccer Events | Europe - UEFA Champions League : Manchester City vs Bayer Leverkusen (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Manchester City_vs_Bayer Leverkusen.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Champions League : Manchester City vs Bayer Leverkusen (22:00)
+#EXTINF:-1 tvg-id="italycoppaitaliaseriecternanavsgiugliano" tvg-name="All Soccer Events | Italy - Coppa Italia Serie C : Ternana vs Giugliano (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ternana_vs_Giugliano.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia Serie C : Ternana vs Giugliano (19:00)
 https://dlhd.dad/watch.php?id=10
 
-#EXTINF:-1 tvg-id="championsleaguewomenvolleyconeglianovszerenspor" tvg-name="Volleyball | Champions League Women : Volley Conegliano vs. Zeren Spor (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Volley Conegliano_vs_Zeren Spor.png" group-title="Eventi Live DLHD",Volleyball | Champions League Women : Volley Conegliano vs. Zeren Spor (21:30)
-https://dlhd.dad/watch.php?id=877
+#EXTINF:-1 tvg-id="italycoppaitaliaseriecprovercellivsatalantaii" tvg-name="All Soccer Events | Italy - Coppa Italia Serie C : Pro Vercelli vs Atalanta II (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Vercelli_vs_Atalanta II.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia Serie C : Pro Vercelli vs Atalanta II (19:00)
+https://dlhd.dad/watch.php?id=11
 
-#EXTINF:-1 tvg-id="championsleaguewomenvolleyconeglianovszerenspor" tvg-name="Volleyball | Champions League Women : Volley Conegliano vs. Zeren Spor (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Volley Conegliano_vs_Zeren Spor.png" group-title="Eventi Live DLHD",Volleyball | Champions League Women : Volley Conegliano vs. Zeren Spor (21:30)
-https://dlhd.dad/watch.php?id=462
+#EXTINF:-1 tvg-id="italycoppaitaliaseriecprovercellivsatalantaii" tvg-name="All Soccer Events | Italy - Coppa Italia Serie C : Pro Vercelli vs Atalanta II (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Vercelli_vs_Atalanta II.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia Serie C : Pro Vercelli vs Atalanta II (19:00)
+https://dlhd.dad/watch.php?id=870
+
+#EXTINF:-1 tvg-id="uefachampionsleaguepaphosvsmonaco" tvg-name="All Soccer Events | UEFA Champions League : Paphos vs Monaco (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Paphos_vs_Monaco.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Paphos vs Monaco (19:45)
+https://dlhd.dad/watch.php?id=13
+
+#EXTINF:-1 tvg-id="uefachampionsleaguekøbenhavnvskairat" tvg-name="All Soccer Events | UEFA Champions League : København vs Kairat (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/København_vs_Kairat.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : København vs Kairat (19:45)
+https://dlhd.dad/watch.php?id=16
+
+#EXTINF:-1 tvg-id="uefachampionsleaguekøbenhavnvskairat" tvg-name="All Soccer Events | UEFA Champions League : København vs Kairat (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/København_vs_Kairat.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : København vs Kairat (19:45)
+https://dlhd.dad/watch.php?id=460
+
+#EXTINF:-1 tvg-id="italycoppaitaliaseriecsambenedettesevsunionbrescia" tvg-name="All Soccer Events | Italy - Coppa Italia Serie C : Sambenedettese vs Union Brescia (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sambenedettese_vs_Union Brescia.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia Serie C : Sambenedettese vs Union Brescia (21:30)
+https://dlhd.dad/watch.php?id=882
+
+#EXTINF:-1 tvg-id="italycoppaitaliaseriecsambenedettesevsunionbrescia" tvg-name="All Soccer Events | Italy - Coppa Italia Serie C : Sambenedettese vs Union Brescia (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sambenedettese_vs_Union Brescia.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia Serie C : Sambenedettese vs Union Brescia (21:30)
+https://dlhd.dad/watch.php?id=19
+
+#EXTINF:-1 tvg-id="uefachampionsleaguearsenalvsbayernmünchen" tvg-name="All Soccer Events | UEFA Champions League : Arsenal vs Bayern München (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arsenal_vs_Bayern München.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Arsenal vs Bayern München (22:00)
+https://dlhd.dad/watch.php?id=20
+
+#EXTINF:-1 tvg-id="uefachampionsleaguearsenalvsbayernmünchen" tvg-name="All Soccer Events | UEFA Champions League : Arsenal vs Bayern München (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arsenal_vs_Bayern München.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Arsenal vs Bayern München (22:00)
+https://dlhd.dad/watch.php?id=460
+
+#EXTINF:-1 tvg-id="uefachampionsleaguearsenalvsbayernmünchen" tvg-name="All Soccer Events | UEFA Champions League : Arsenal vs Bayern München (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arsenal_vs_Bayern München.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Arsenal vs Bayern München (22:00)
+https://dlhd.dad/watch.php?id=16
+
+#EXTINF:-1 tvg-id="uefachampionsleagueliverpoolvspsv" tvg-name="All Soccer Events | UEFA Champions League : Liverpool vs PSV (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Liverpool_vs_PSV.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Liverpool vs PSV (22:00)
+https://dlhd.dad/watch.php?id=8
+
+#EXTINF:-1 tvg-id="uefachampionsleagueeintrachtfrankfurtvsatalanta" tvg-name="All Soccer Events | UEFA Champions League : Eintracht Frankfurt vs Atalanta (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Eintracht Frankfurt_vs_Atalanta.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Eintracht Frankfurt vs Atalanta (22:00)
+https://dlhd.dad/watch.php?id=5
+
+#EXTINF:-1 tvg-id="uefachampionsleagueeintrachtfrankfurtvsatalanta" tvg-name="All Soccer Events | UEFA Champions League : Eintracht Frankfurt vs Atalanta (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Eintracht Frankfurt_vs_Atalanta.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Eintracht Frankfurt vs Atalanta (22:00)
+https://dlhd.dad/watch.php?id=461
+
+#EXTINF:-1 tvg-id="uefachampionsleaguesportingcpvsclubbrugge" tvg-name="All Soccer Events | UEFA Champions League : Sporting CP vs Club Brugge (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sporting CP_vs_Club Brugge.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Sporting CP vs Club Brugge (22:00)
+https://dlhd.dad/watch.php?id=10
+
+#EXTINF:-1 tvg-id="uefachampionsleaguepsgvstottenhamhotspur" tvg-name="All Soccer Events | UEFA Champions League : PSG vs Tottenham Hotspur (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/PSG_vs_Tottenham Hotspur.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : PSG vs Tottenham Hotspur (22:00)
+https://dlhd.dad/watch.php?id=13
+
+#EXTINF:-1 tvg-id="uefachampionsleagueatléticomadridvsinternazionale" tvg-name="All Soccer Events | UEFA Champions League : Atlético Madrid vs Internazionale (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atlético Madrid_vs_Internazionale.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Atlético Madrid vs Internazionale (22:00)
+https://dlhd.dad/watch.php?id=29
+
+#EXTINF:-1 tvg-id="uefachampionsleagueolympiakospiraeusvsrealmadrid" tvg-name="All Soccer Events | UEFA Champions League : Olympiakos Piraeus vs Real Madrid (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympiakos Piraeus_vs_Real Madrid.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Olympiakos Piraeus vs Real Madrid (22:00)
+https://dlhd.dad/watch.php?id=9
+
+#EXTINF:-1 tvg-id="qualificationfalun" tvg-name="Ski Jumping | Qualification | Falun (12:00)" tvg-logo="https://images.ctfassets.net/pdf29us7flmy/3whDot8bMO2RUWJGn6LG0e/c46485222cd7bc165f2236b111d99c7c/sBHC0JZU.png" group-title="Eventi Live DLHD",Ski Jumping | Qualification | Falun (12:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="qualificationfalun" tvg-name="Ski Jumping | Qualification | Falun (16:00)" tvg-logo="https://images.ctfassets.net/pdf29us7flmy/3whDot8bMO2RUWJGn6LG0e/c46485222cd7bc165f2236b111d99c7c/sBHC0JZU.png" group-title="Eventi Live DLHD",Ski Jumping | Qualification | Falun (16:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="womenroundrobineuropeanchampionshipsscotlandvsnorway" tvg-name="Winter Sports | Women | Round Robin | European Championships : Scotland vs Norway (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Scotland_vs_Norway.png" group-title="Eventi Live DLHD",Winter Sports | Women | Round Robin | European Championships : Scotland vs Norway (14:00)
+https://dlhd.dad/watch.php?id=879
+
+#EXTINF:-1 tvg-id="menroundrobineuropeanchampionshipsswedenvsscotland" tvg-name="Winter Sports | Men | Round Robin | European Championships : Sweden vs Scotland (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sweden_vs_Scotland.png" group-title="Eventi Live DLHD",Winter Sports | Men | Round Robin | European Championships : Sweden vs Scotland (19:00)
+https://dlhd.dad/watch.php?id=879
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
