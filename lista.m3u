@@ -89,6 +89,8 @@ https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
+https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
@@ -287,6 +289,8 @@ https://vavoo.to/vavoo-iptv/play/29825504332b9997336c1e
 https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1
 https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
+#EXTINF:-1 tvg-id="la.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Mediaset",LA 5
+https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",MEDIASET 20
 https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
 #EXTINF:-1 tvg-id="mediasetitalia2hd.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Mediaset",MEDIASET ITALIA 2
@@ -341,12 +345,8 @@ https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film - Serie TV",PREMIUM CRIME
 https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN ACTION MOVIES
-https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
 https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN DRAMA
-https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN FAMILY
 https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TOP FREE
@@ -433,8 +433,6 @@ https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
 https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS
 https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (BACKUP)
-https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
@@ -563,7 +561,7 @@ https://dlhd.dad/watch.php?id=461
 #EXTINF:-1 tvg-id="franceligue1monacovspsg" tvg-name="All Soccer Events | France - Ligue 1 : Monaco vs PSG (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monaco_vs_PSG.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Monaco vs PSG (18:00)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="italyseriecospitalettovsvirtusverona" tvg-name="All Soccer Events | Italy - Serie C : Ospitaletto vs Virtus Verona (18:30)" tvg-logo="https://images.seeklogo.com/logo-png/29/3/associazione-virtus-verona-logo-png_seeklogo-290299.png?v=1962747632479797680" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ospitaletto vs Virtus Verona (18:30)
+#EXTINF:-1 tvg-id="italyseriecospitalettovsvirtusverona" tvg-name="All Soccer Events | Italy - Serie C : Ospitaletto vs Virtus Verona (18:30)" tvg-logo="https://www.carscoops.com/wp-content/uploads/2022/03/2022-VW-Virtus-main.jpg" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ospitaletto vs Virtus Verona (18:30)
 https://dlhd.dad/watch.php?id=155
 
 #EXTINF:-1 tvg-id="italyseriecpergolettesevsalbinoleffe" tvg-name="All Soccer Events | Italy - Serie C : Pergolettese vs AlbinoLeffe (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pergolettese_vs_AlbinoLeffe.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pergolettese vs AlbinoLeffe (18:30)
@@ -605,22 +603,22 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="franceligue1olympiquemarseillevstoulouse" tvg-name="All Soccer Events | France - Ligue 1 : Olympique Marseille vs Toulouse (22:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Marseille_vs_Toulouse.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Olympique Marseille vs Toulouse (22:05)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixsprint" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Sprint (16:00)" tvg-logo="https://logolook.net/wp-content/uploads/2022/07/F1-Logo-history.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Sprint (16:00)
+#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixsprint" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Sprint (16:00)" tvg-logo="https://wallpaperaccess.com/full/2180263.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Sprint (16:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula2qatarairwaysqatargrandprixsprintrace" tvg-name="Motorsport | Formula 2 : Qatar Airways Qatar Grand Prix - Sprint Race (18:20)" tvg-logo="https://i.pinimg.com/originals/48/7a/cf/487acf60c75951c1de0116aa0fa7a4b6.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : Qatar Airways Qatar Grand Prix - Sprint Race (18:20)
+#EXTINF:-1 tvg-id="formula2qatarairwaysqatargrandprixsprintrace" tvg-name="Motorsport | Formula 2 : Qatar Airways Qatar Grand Prix - Sprint Race (18:20)" tvg-logo="https://www.dtti.it/wp-content/uploads/2022/07/formula-1-logo-0.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : Qatar Airways Qatar Grand Prix - Sprint Race (18:20)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixqualifying" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Qualifying (20:00)" tvg-logo="https://logolook.net/wp-content/uploads/2022/07/F1-Logo-history.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Qualifying (20:00)
+#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixqualifying" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Qualifying (20:00)" tvg-logo="https://wallpaperaccess.com/full/2180263.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Qualifying (20:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="2025victorianplumbingukchampionshipyorkbarbican" tvg-name="Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (15:00)" tvg-logo="https://cdn.pixabay.com/photo/2024/11/21/10/59/ai-generated-9213515_1280.png" group-title="Eventi Live DLHD",Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (15:00)
+#EXTINF:-1 tvg-id="2025victorianplumbingukchampionshipyorkbarbican" tvg-name="Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (15:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240226/original/pngtree-2025-year-gradient-vector-png-image_14411938.png" group-title="Eventi Live DLHD",Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (15:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="2025victorianplumbingukchampionshipyorkbarbican" tvg-name="Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (21:00)" tvg-logo="https://cdn.pixabay.com/photo/2024/11/21/10/59/ai-generated-9213515_1280.png" group-title="Eventi Live DLHD",Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (21:00)
+#EXTINF:-1 tvg-id="2025victorianplumbingukchampionshipyorkbarbican" tvg-name="Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (21:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240226/original/pngtree-2025-year-gradient-vector-png-image_14411938.png" group-title="Eventi Live DLHD",Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (21:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="worldcupracesatcoppermountain2ndrunofthewomensgiantslalom" tvg-name="Alpine Ski | World Cup Races at Copper Mountain 2nd run of the women's giant slalom (21:45)" tvg-logo="https://citybibleforum.org/sites/default/files/images/content/2021/World_image.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Races at Copper Mountain 2nd run of the women's giant slalom (21:45)
+#EXTINF:-1 tvg-id="worldcupracesatcoppermountain2ndrunofthewomensgiantslalom" tvg-name="Alpine Ski | World Cup Races at Copper Mountain 2nd run of the women's giant slalom (21:45)" tvg-logo="https://dcspotlight.com/wp-content/uploads/2015/10/NEW-HEADLINES-WORLD.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Races at Copper Mountain 2nd run of the women's giant slalom (21:45)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="ostersundwomensrelayworldcup" tvg-name="Biathlon | Ostersund | Women's Relay World Cup (14:15)" tvg-logo="https://www.theshieldofsports.news/wp-content/uploads/2022/11/256.png" group-title="Eventi Live DLHD",Biathlon | Ostersund | Women's Relay World Cup (14:15)
