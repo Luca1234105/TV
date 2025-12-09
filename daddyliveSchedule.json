@@ -2686,7 +2686,7 @@
                 ]
             }
         ],
-        "Soccer": [
+        "England - Championship/League One/League Two": [
             {
                 "time": "19:45",
                 "event": "England - Championship : Sheffield United vs Norwich City",
@@ -2956,7 +2956,9 @@
                         "channel_id": "178"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "07:00",
                 "event": "Europe - UEFA Youth League : Kairat U19 vs Olympiakos Piraeus U19",
@@ -4234,7 +4236,7 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (NXT)": [
             {
                 "time": "00:00",
                 "event": "WWE NXT",
@@ -4524,6 +4526,18 @@
                 ]
             },
             {
+                "time": "00:00",
+                "event": "NBA G-League : Grand Rapids Drive vs Windy City Bulls",
+                "channels": [
+                    {
+                        "channel_name": "Chicago Sports Network",
+                        "channel_id": "776"
+                    }
+                ]
+            }
+        ],
+        "NCAA/NCAAW Basketball": [
+            {
                 "time": "23:30",
                 "event": "NCAA : Brigham Young vs Clemson",
                 "channels": [
@@ -4552,16 +4566,6 @@
                     {
                         "channel_name": "FOX Sports 1 USA",
                         "channel_id": "39"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "NBA G-League : Grand Rapids Drive vs Windy City Bulls",
-                "channels": [
-                    {
-                        "channel_name": "Chicago Sports Network",
-                        "channel_id": "776"
                     }
                 ]
             },
@@ -4650,7 +4654,9 @@
                         "channel_id": "45"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "23:00",
                 "event": "NBA Cup : Orlando Magic vs Miami Heat",
@@ -4786,7 +4792,9 @@
                         "channel_id": "9"
                     }
                 ]
-            },
+            }
+        ],
+        "NHL": [
             {
                 "time": "00:00",
                 "event": "NHL : New Jersey Devils vs Ottawa Senators",
