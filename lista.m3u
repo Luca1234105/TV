@@ -9,8 +9,6 @@ https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
-https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
 https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8by3YXjCGJQaxT6b-cgZ872BjY_NLIrALA&s" group-title="Altro",AVENGERS GRIMM CHANNEL
@@ -439,8 +437,8 @@ https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
 https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS
 https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
-#EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
-https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (BACKUP)
+https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
@@ -451,6 +449,8 @@ https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 
 # MUSICA
+#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
+https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/61Wa4RqJVJL.png" group-title="Musica",EURO INDIE MUSIC CHART TV
 https://vavoo.to/vavoo-iptv/play/35697313256d80f80b732e
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ5HlBu4jXOrC4iA-giQNzXa9zm42bS-yrA&s" group-title="Musica",FM ITALIA
@@ -572,16 +572,16 @@ https://dlhd.dad/watch.php?id=11
 #EXTINF:-1 tvg-id="uefaeuropaleagueolympiquelyonnaisvsgoaheadeagles" tvg-name="All Soccer Events | UEFA Europa League : Olympique Lyonnais vs Go Ahead Eagles (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Lyonnais_vs_Go Ahead Eagles.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Europa League : Olympique Lyonnais vs Go Ahead Eagles (22:00)
 https://dlhd.dad/watch.php?id=172
 
-#EXTINF:-1 tvg-id="shootouttournamentday2" tvg-name="Snooker | Shoot Out Tournament Day 2 (14:45)" tvg-logo="https://png.pngtree.com/png-clipart/20221028/original/pngtree-golf-tournament-logo-png-image_8736671.png" group-title="Eventi Live DLHD",Snooker | Shoot Out Tournament Day 2 (14:45)
+#EXTINF:-1 tvg-id="shootouttournamentday2" tvg-name="Snooker | Shoot Out Tournament Day 2 (14:45)" tvg-logo="https://www.vedantu.com/seo/content-images/b6a719e2-cf5a-411c-ab1e-d924bd69e6bc.png" group-title="Eventi Live DLHD",Snooker | Shoot Out Tournament Day 2 (14:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="alpineskiingworldcupcompetitioninstmoritzwomensdownhilltraining" tvg-name="Alpine Ski | Alpine Skiing: World Cup Competition in St. Moritz women's downhill training (11:10)" tvg-logo="https://lesvoitures.fr/wp-content/uploads/2023/01/Alpine-A110-1974-RM-Sothebys-Paris-2023-45.png" group-title="Eventi Live DLHD",Alpine Ski | Alpine Skiing: World Cup Competition in St. Moritz women's downhill training (11:10)
+#EXTINF:-1 tvg-id="alpineskiingworldcupcompetitioninstmoritzwomensdownhilltraining" tvg-name="Alpine Ski | Alpine Skiing: World Cup Competition in St. Moritz women's downhill training (11:10)" tvg-logo="https://lesvoitures.fr/wp-content/uploads/2022/10/Nouvelle_Alpine_A110_R-8-scaled.jpg" group-title="Eventi Live DLHD",Alpine Ski | Alpine Skiing: World Cup Competition in St. Moritz women's downhill training (11:10)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="championsleaguetrentinovolleyvsvolleyljubljana" tvg-name="Volleyball | Champions League : Trentino Volley vs. Volley Ljubljana (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trentino Volley_vs_Volley Ljubljana.png" group-title="Eventi Live DLHD",Volleyball | Champions League : Trentino Volley vs. Volley Ljubljana (21:30)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="worldcupvalthorensskicross" tvg-name="Winter Sports | World Cup Val Thorens | Ski Cross (14:30)" tvg-logo="https://st.adda247.com/https://wpassets.adda247.com/wp-content/uploads/multisite/sites/5/2022/09/15185945/Seven-Wonders-of-the-world.png" group-title="Eventi Live DLHD",Winter Sports | World Cup Val Thorens | Ski Cross (14:30)
+#EXTINF:-1 tvg-id="worldcupvalthorensskicross" tvg-name="Winter Sports | World Cup Val Thorens | Ski Cross (14:30)" tvg-logo="https://cdn.pixabay.com/photo/2016/04/01/22/32/world-1301744_1280.png" group-title="Eventi Live DLHD",Winter Sports | World Cup Val Thorens | Ski Cross (14:30)
 https://dlhd.dad/watch.php?id=879
 
 
