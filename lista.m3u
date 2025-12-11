@@ -309,6 +309,8 @@ https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
@@ -359,6 +361,8 @@ https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8
 https://vavoo.to/vavoo-iptv/play/1482866609814ff0b05ac7
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film - Serie TV",SKY CINEMA ACTION
 https://vavoo.to/vavoo-iptv/play/11441287266db50fc09b62
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film - Serie TV",SKY CINEMA ACTION (BACKUP)
+https://vavoo.to/vavoo-iptv/play/2242741766a460e21385e6
 #EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film - Serie TV",SKY CINEMA COLLECTION
 https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb
 #EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY
@@ -415,6 +419,8 @@ https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
@@ -433,8 +439,8 @@ https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
 https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS
 https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (BACKUP)
-https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19
+#EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
+https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
@@ -445,8 +451,6 @@ https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 
 # MUSICA
-#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
-https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/61Wa4RqJVJL.png" group-title="Musica",EURO INDIE MUSIC CHART TV
 https://vavoo.to/vavoo-iptv/play/35697313256d80f80b732e
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ5HlBu4jXOrC4iA-giQNzXa9zm42bS-yrA&s" group-title="Musica",FM ITALIA
@@ -568,16 +572,16 @@ https://dlhd.dad/watch.php?id=11
 #EXTINF:-1 tvg-id="uefaeuropaleagueolympiquelyonnaisvsgoaheadeagles" tvg-name="All Soccer Events | UEFA Europa League : Olympique Lyonnais vs Go Ahead Eagles (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Lyonnais_vs_Go Ahead Eagles.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Europa League : Olympique Lyonnais vs Go Ahead Eagles (22:00)
 https://dlhd.dad/watch.php?id=172
 
-#EXTINF:-1 tvg-id="shootouttournamentday2" tvg-name="Snooker | Shoot Out Tournament Day 2 (14:45)" tvg-logo="https://www.vedantu.com/seo/content-images/b6a719e2-cf5a-411c-ab1e-d924bd69e6bc.png" group-title="Eventi Live DLHD",Snooker | Shoot Out Tournament Day 2 (14:45)
+#EXTINF:-1 tvg-id="shootouttournamentday2" tvg-name="Snooker | Shoot Out Tournament Day 2 (14:45)" tvg-logo="https://png.pngtree.com/png-clipart/20221028/original/pngtree-golf-tournament-logo-png-image_8736671.png" group-title="Eventi Live DLHD",Snooker | Shoot Out Tournament Day 2 (14:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="alpineskiingworldcupcompetitioninstmoritzwomensdownhilltraining" tvg-name="Alpine Ski | Alpine Skiing: World Cup Competition in St. Moritz women's downhill training (11:10)" tvg-logo="https://lesvoitures.fr/wp-content/uploads/2022/10/Nouvelle_Alpine_A110_R-8-scaled.jpg" group-title="Eventi Live DLHD",Alpine Ski | Alpine Skiing: World Cup Competition in St. Moritz women's downhill training (11:10)
+#EXTINF:-1 tvg-id="alpineskiingworldcupcompetitioninstmoritzwomensdownhilltraining" tvg-name="Alpine Ski | Alpine Skiing: World Cup Competition in St. Moritz women's downhill training (11:10)" tvg-logo="https://lesvoitures.fr/wp-content/uploads/2023/01/Alpine-A110-1974-RM-Sothebys-Paris-2023-45.png" group-title="Eventi Live DLHD",Alpine Ski | Alpine Skiing: World Cup Competition in St. Moritz women's downhill training (11:10)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="championsleaguetrentinovolleyvsvolleyljubljana" tvg-name="Volleyball | Champions League : Trentino Volley vs. Volley Ljubljana (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trentino Volley_vs_Volley Ljubljana.png" group-title="Eventi Live DLHD",Volleyball | Champions League : Trentino Volley vs. Volley Ljubljana (21:30)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="worldcupvalthorensskicross" tvg-name="Winter Sports | World Cup Val Thorens | Ski Cross (14:30)" tvg-logo="https://pronunciationstudio.com/wp-content/uploads/2016/01/Blog-world.png" group-title="Eventi Live DLHD",Winter Sports | World Cup Val Thorens | Ski Cross (14:30)
+#EXTINF:-1 tvg-id="worldcupvalthorensskicross" tvg-name="Winter Sports | World Cup Val Thorens | Ski Cross (14:30)" tvg-logo="https://st.adda247.com/https://wpassets.adda247.com/wp-content/uploads/multisite/sites/5/2022/09/15185945/Seven-Wonders-of-the-world.png" group-title="Eventi Live DLHD",Winter Sports | World Cup Val Thorens | Ski Cross (14:30)
 https://dlhd.dad/watch.php?id=879
 
 
