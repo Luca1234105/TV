@@ -313,14 +313,10 @@ https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
-#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
-https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",TELEPACE TRENTO (HISTORY LAB)
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
 # BAMBINI
-#EXTINF:-1 tvg-id="babytv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV
-https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
@@ -529,10 +525,10 @@ https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="scottishopensnookerround1" tvg-name="Snooker | Scottish Open Snooker - Round 1 (15:00)" tvg-logo="https://i.pinimg.com/originals/a5/82/ec/a582ecb9928c068e21f0e0fdb134b922.jpg" group-title="Eventi Live DLHD",Snooker | Scottish Open Snooker - Round 1 (15:00)
+#EXTINF:-1 tvg-id="scottishopensnookerround1" tvg-name="Snooker | Scottish Open Snooker - Round 1 (15:00)" tvg-logo="https://handluggageonly.co.uk/wp-content/uploads/2016/09/Torridon.jpg" group-title="Eventi Live DLHD",Snooker | Scottish Open Snooker - Round 1 (15:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="scottishopensnookerround1" tvg-name="Snooker | Scottish Open Snooker - Round 1 (21:00)" tvg-logo="https://i.pinimg.com/originals/a5/82/ec/a582ecb9928c068e21f0e0fdb134b922.jpg" group-title="Eventi Live DLHD",Snooker | Scottish Open Snooker - Round 1 (21:00)
+#EXTINF:-1 tvg-id="scottishopensnookerround1" tvg-name="Snooker | Scottish Open Snooker - Round 1 (21:00)" tvg-logo="https://handluggageonly.co.uk/wp-content/uploads/2016/09/Torridon.jpg" group-title="Eventi Live DLHD",Snooker | Scottish Open Snooker - Round 1 (21:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="worldcupcompetitionincourchevelwomensslalomrun2" tvg-name="Alpine Ski | World Cup Competition in Courchevel Women's slalom, run 2 (21:15)" tvg-logo="https://miro.medium.com/max/2400/1*khBmQoTMMvHi4aHkzrVS7g.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Courchevel Women's slalom, run 2 (21:15)
