@@ -85,9 +85,7 @@ https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (1)
-https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
 https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
@@ -95,8 +93,6 @@ https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
 https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
-#EXTINF:-1 tvg-id="" tvg-logo="https://liratv.es/wp-content/uploads/2021/07/LIRA-TV-1.png" group-title="Altro",LIRA TV
-https://vavoo.to/vavoo-iptv/play/2835333400f831a30ce568
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (1)
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (2)
@@ -111,8 +107,6 @@ https://vavoo.to/vavoo-iptv/play/1641481816a8a66ad9baf6
 https://vavoo.to/vavoo-iptv/play/3471319012d308ec0dc636
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",PEOPLE ARE AWESOME
 https://vavoo.to/vavoo-iptv/play/1087345241c8751e395263
-#EXTINF:-1 tvg-id="pescaecaccia.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-pesca-it.png?raw=true" group-title="Altro",PESCA E CACCIA
-https://vavoo.to/vavoo-iptv/play/312451299385241b4e7078
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro",PRIMA TV (1)
 https://vavoo.to/vavoo-iptv/play/530658045774685c88ed8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro",PRIMA TV (2)
@@ -345,8 +339,6 @@ https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film - Serie TV",PREMIUM CRIME
 https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN ACTION MOVIES
-https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
 https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN DRAMA
@@ -367,6 +359,8 @@ https://vavoo.to/vavoo-iptv/play/2242741766a460e21385e6
 https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb
 #EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY
 https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
+#EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
+https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
 https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
@@ -409,10 +403,12 @@ https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 https://vavoo.to/vavoo-iptv/play/2774026655397d6ec52fe5
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",RETESOLE LAZIO
 https://vavoo.to/vavoo-iptv/play/1971490284ce4effc4ca8e
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/7/79/San_Marino_RTV_Sport_-_logo.png/revision/latest?cb=20221207153729" group-title="Sport",RTV SAN MARINO SPORT
+https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
+#EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
+https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
@@ -433,6 +429,8 @@ https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (BACKUP)
 https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
+https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
 https://vavoo.to/vavoo-iptv/play/300937751365646200d097
 #EXTINF:-1 tvg-id="topcalcio24.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHW5VLQDGnNMVZszgWZRqnBSjPUTgAcUltQ&s" group-title="Sport",TOP CALCIO 24
@@ -469,8 +467,6 @@ https://vavoo.to/vavoo-iptv/play/1711134994a4ab3e165de3
 https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d
 #EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL TV
 https://vavoo.to/vavoo-iptv/play/36560804080912cdf76cbf
-#EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5
-https://vavoo.to/vavoo-iptv/play/1729811452a70dafd8f6ba
 
 # RAI
 #EXTINF:-1 tvg-id="rai1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1
@@ -519,30 +515,6 @@ https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecpropatriavsrenate" tvg-name="All Soccer Events | Italy - Serie C : Pro Patria vs Renate (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Patria_vs_Renate.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pro Patria vs Renate (18:30)
-https://dlhd.dad/watch.php?id=157
-
-#EXTINF:-1 tvg-id="italyseriecvirtusveronavslumezzane" tvg-name="All Soccer Events | Italy - Serie C : Virtus Verona vs Lumezzane (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Virtus Verona_vs_Lumezzane.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Verona vs Lumezzane (18:30)
-https://dlhd.dad/watch.php?id=156
-
-#EXTINF:-1 tvg-id="italyseriecsambenedettesevsvispesaro" tvg-name="All Soccer Events | Italy - Serie C : Sambenedettese vs Vis Pesaro (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sambenedettese_vs_Vis Pesaro.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Sambenedettese vs Vis Pesaro (18:30)
-https://dlhd.dad/watch.php?id=158
-
-#EXTINF:-1 tvg-id="italyseriecpinetovsgubbio" tvg-name="All Soccer Events | Italy - Serie C : Pineto vs Gubbio (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pineto_vs_Gubbio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pineto vs Gubbio (18:30)
-https://dlhd.dad/watch.php?id=160
-
-#EXTINF:-1 tvg-id="italyserieclivornovspontedera" tvg-name="All Soccer Events | Italy - Serie C : Livorno vs Pontedera (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Livorno_vs_Pontedera.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Livorno vs Pontedera (18:30)
-https://dlhd.dad/watch.php?id=159
-
-#EXTINF:-1 tvg-id="italyserieclivornovspontedera" tvg-name="All Soccer Events | Italy - Serie C : Livorno vs Pontedera (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Livorno_vs_Pontedera.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Livorno vs Pontedera (18:30)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="italyseriealaziovscremonese" tvg-name="All Soccer Events | Italy - Serie A : Lazio vs Cremonese (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Cremonese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Lazio vs Cremonese (19:00)
-https://dlhd.dad/watch.php?id=877
-
-#EXTINF:-1 tvg-id="englandpremierleaguetottenhamhotspurvsliverpool" tvg-name="All Soccer Events | England - Premier League : Tottenham Hotspur vs Liverpool (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Tottenham Hotspur_vs_Liverpool.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Tottenham Hotspur vs Liverpool (19:30)
-https://dlhd.dad/watch.php?id=461
-
 #EXTINF:-1 tvg-id="italyserieajuventusvsroma" tvg-name="All Soccer Events | Italy - Serie A : Juventus vs Roma (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus_vs_Roma.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Juventus vs Roma (21:45)
 https://dlhd.dad/watch.php?id=27
 
@@ -561,14 +533,8 @@ https://dlhd.dad/watch.php?id=460
 #EXTINF:-1 tvg-id="scottishopensemifinal" tvg-name="Snooker | Scottish Open | Semi-Final (20:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Snooker | Scottish Open | Semi-Final (20:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="italysuperlegagassalespiacenzavsvolleyverona" tvg-name="Volleyball | Italy, SuperLega : Gas Sales Piacenza vs. Volley Verona (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Gas Sales Piacenza_vs_Volley Verona.png" group-title="Eventi Live DLHD",Volleyball | Italy, SuperLega : Gas Sales Piacenza vs. Volley Verona (19:00)
-https://dlhd.dad/watch.php?id=882
-
 #EXTINF:-1 tvg-id="italyseriea1womenbustoarsiziovolleyvsagilvolleynovara" tvg-name="Volleyball | Italy, Serie A1, Women : Busto Arsizio Volley vs. Agil Volley Novara (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Busto Arsizio Volley_vs_Agil Volley Novara.png" group-title="Eventi Live DLHD",Volleyball | Italy, Serie A1, Women : Busto Arsizio Volley vs. Agil Volley Novara (21:30)
 https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="lakeplacidmenssinglesworldcuprun1" tvg-name="Winter Sports | Lake Placid | Men's Singles World Cup | Run 1 (19:00)" tvg-logo="https://www.tripsavvy.com/thmb/8hSyNm0dUTXbzbhgqZD0vS2NO2Y=/2121x1414/filters:fill(auto,1)/LakeLouise_GettyImages-6b1e83ecabbb423c9cc66ea024c0e6bf.jpg" group-title="Eventi Live DLHD",Winter Sports | Lake Placid | Men's Singles World Cup | Run 1 (19:00)
-https://dlhd.dad/watch.php?id=879
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
