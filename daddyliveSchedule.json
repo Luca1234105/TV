@@ -3736,10 +3736,10 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (AEW)": [
             {
                 "time": "01:00",
-                "event": "All Elite Wrestling: Dynamite",
+                "event": "All Elite Wrestling AEW : Dynamite",
                 "channels": [
                     {
                         "channel_name": "TBS USA",
@@ -3756,7 +3756,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NCAAF)": [
             {
                 "time": "17:00",
                 "event": "NCAA FBS : Vanderbilt vs Iowa",
@@ -3916,16 +3916,6 @@
                 ]
             },
             {
-                "time": "18:00",
-                "event": "NBA G-League : Maine Celtics vs Fort Wayne Mad Ants",
-                "channels": [
-                    {
-                        "channel_name": "NBCS Boston USA",
-                        "channel_id": "754"
-                    }
-                ]
-            },
-            {
                 "time": "19:00",
                 "event": "College Basketball : St. Bonaventure vs VCU",
                 "channels": [
@@ -4050,32 +4040,34 @@
                 ]
             },
             {
-                "time": "00:00",
-                "event": "NBA G-League : Austin Toros Spurs vs Santa Cruz Warriors",
-                "channels": [
-                    {
-                        "channel_name": "NBCS Bay Area USA",
-                        "channel_id": "753"
-                    }
-                ]
-            },
-            {
                 "time": "01:00",
-                "event": "NCAA : Georgetown - St. John's N.Y.",
+                "event": "NCAA : Georgetown vs St. John's N.Y.",
                 "channels": [
                     {
                         "channel_name": "FOX Sports 1 USA",
                         "channel_id": "39"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA G-League Basketball": [
             {
-                "time": "00:30",
-                "event": "NBA G-League : Sioux Falls Skyforce vs Rio Grande Valley Vipers",
+                "time": "18:00",
+                "event": "NBA G-League : Maine Celtics vs Fort Wayne Mad Ants",
                 "channels": [
                     {
-                        "channel_name": "Bally Sports Sun",
-                        "channel_id": "905"
+                        "channel_name": "NBCS Boston USA",
+                        "channel_id": "754"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "NBA G-League : Austin Toros Spurs vs Santa Cruz Warriors",
+                "channels": [
+                    {
+                        "channel_name": "NBCS Bay Area USA",
+                        "channel_id": "753"
                     }
                 ]
             },
@@ -4088,7 +4080,9 @@
                         "channel_id": "905"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "18:00",
                 "event": "NBA : Charlotte Hornets vs Golden State Warriors",
@@ -4464,7 +4458,7 @@
                 ]
             }
         ],
-        "Ice Hockey": [
+        "Ice Hockey (NHL)": [
             {
                 "time": "17:30",
                 "event": "NHL : New York Rangers vs Washington Capitals",
@@ -4736,10 +4730,12 @@
                         "channel_id": "411"
                     }
                 ]
-            },
+            }
+        ],
+        "PWHL": [
             {
                 "time": "18:00",
-                "event": "PWHL : New York W vs Vancouver PWHL W",
+                "event": "PWHL : New York W vs Vancouver W",
                 "channels": [
                     {
                         "channel_name": "NESN USA",
@@ -4750,7 +4746,9 @@
                         "channel_id": "411"
                     }
                 ]
-            },
+            }
+        ],
+        "IIHF U20 (WCH U-20)": [
             {
                 "time": "18:00",
                 "event": "World Championship U20 : Switzerland U20 vs Slovakia U20",
