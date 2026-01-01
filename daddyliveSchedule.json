@@ -2330,7 +2330,7 @@
                 ]
             }
         ],
-        "Soccer": [
+        "England - Championship": [
             {
                 "time": "15:00",
                 "event": "England - Championship : Charlton Athletic vs Coventry City",
@@ -2410,7 +2410,9 @@
                         "channel_id": "106"
                     }
                 ]
-            },
+            }
+        ],
+        "England - League One/League Two": [
             {
                 "time": "15:00",
                 "event": "England - League One : Exeter City vs Luton Town",
@@ -2640,7 +2642,9 @@
                         "channel_id": "169"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "08:00",
                 "event": "Australia A-League : Western Sydney Wanderers vs Macarthur",
@@ -3626,7 +3630,7 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (TNA)": [
             {
                 "time": "01:00",
                 "event": "TNA iMPACT!",
@@ -3654,7 +3658,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NCAAF)": [
             {
                 "time": "17:00",
                 "event": "NCAAF : No. 4 Texas Tech vs. No. 5 Oregon | Orange Bowl (CFP Quarterfinal) (Miami, Fla.)",
@@ -3804,13 +3808,21 @@
                 ]
             },
             {
-                "time": "17:00",
-                "event": "Women's College Basketball California vs North Carolina",
+                "time": "20:00",
+                "event": "NBA G-League : Westchester vs Capital City Go-Go",
                 "channels": [
                     {
-                        "channel_name": "BTN USA",
-                        "channel_id": "397"
-                    },
+                        "channel_name": "MSG USA",
+                        "channel_id": "765"
+                    }
+                ]
+            }
+        ],
+        "NCAA/NCAAW Basketball": [
+            {
+                "time": "17:00",
+                "event": "Women's College Basketball : California vs North Carolina",
+                "channels": [
                     {
                         "channel_name": "ACC Network",
                         "channel_id": "664"
@@ -3834,6 +3846,10 @@
                     {
                         "channel_name": "TSN2",
                         "channel_id": "112"
+                    },
+                    {
+                        "channel_name": "ACC Network USA",
+                        "channel_id": "664"
                     }
                 ]
             },
@@ -3849,45 +3865,21 @@
             },
             {
                 "time": "19:00",
-                "event": "Women's College Basketball : Stanford vs NC State",
-                "channels": [
-                    {
-                        "channel_name": "ACC Network USA",
-                        "channel_id": "664"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
                 "event": "Women's College Basketball : Nebraska vs Iowa",
                 "channels": [
                     {
                         "channel_name": "Big Ten Network",
-                        "channel_id": "664"
+                        "channel_id": "397"
                     }
                 ]
             },
             {
                 "time": "19:00",
-                "event": "NCAA Men's Basketball: Milwaukee vs Wright State",
+                "event": "NCAA : Milwaukee vs Wright State",
                 "channels": [
-                    {
-                        "channel_name": "BTN USA",
-                        "channel_id": "397"
-                    },
                     {
                         "channel_name": "ACC Network",
                         "channel_id": "664"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "NBA G-League : Westchester vs Capital City Go-Go",
-                "channels": [
-                    {
-                        "channel_name": "MSG USA",
-                        "channel_id": "765"
                     }
                 ]
             },
@@ -3908,16 +3900,6 @@
                     {
                         "channel_name": "ACC Network USA",
                         "channel_id": "664"
-                    }
-                ]
-            },
-            {
-                "time": "21:30",
-                "event": "NCAA Men's Basketball : Morehead State vs Lindenwood",
-                "channels": [
-                    {
-                        "channel_name": "NESN USA",
-                        "channel_id": "762"
                     }
                 ]
             },
@@ -3950,7 +3932,9 @@
                         "channel_id": "982"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "23:00",
                 "event": "NBA : Brooklyn Nets vs Houston Rockets",
@@ -4296,7 +4280,7 @@
                 ]
             }
         ],
-        "Ice Hockey": [
+        "Ice Hockey (NHL)": [
             {
                 "time": "18:00",
                 "event": "NHL : Washington Capitals vs Ottawa Senators",
