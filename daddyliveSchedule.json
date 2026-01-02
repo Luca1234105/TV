@@ -2818,7 +2818,7 @@
                 ]
             }
         ],
-        "Soccer": [
+        "All Soccer Events": [
             {
                 "time": "08:35",
                 "event": "Australia - A-League : Melbourne Victory vs Perth Glory",
@@ -3608,7 +3608,7 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (SmackDown)": [
             {
                 "time": "01:00",
                 "event": "WWE Friday Night SmackDown",
@@ -3698,7 +3698,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NCAAF)": [
             {
                 "time": "18:00",
                 "event": "NCAAF : Rice vs. Texas State | Armed Forces Bowl (Fort Worth, Texas)",
@@ -4206,16 +4206,6 @@
                 ]
             },
             {
-                "time": "20:00",
-                "event": "NCAA : Mount St. Mary's vs Merrimack Warriors",
-                "channels": [
-                    {
-                        "channel_name": "NESN USA",
-                        "channel_id": "762"
-                    }
-                ]
-            },
-            {
                 "time": "20:30",
                 "event": "High School Basketball : Rainier Beach (Wash.) vs Matar Dei (Calif.)",
                 "channels": [
@@ -4226,22 +4216,34 @@
                 ]
             },
             {
-                "time": "21:00",
-                "event": "Women's College Basketball : Campbell vs Towson",
-                "channels": [
-                    {
-                        "channel_name": "Monumental Sports Network",
-                        "channel_id": "778"
-                    }
-                ]
-            },
-            {
                 "time": "00:00",
                 "event": "NBA G-League : Maine Celtics vs Fort Wayne Mad Ants",
                 "channels": [
                     {
                         "channel_name": "NBCS Boston USA",
                         "channel_id": "754"
+                    }
+                ]
+            }
+        ],
+        "NCAA/NCAAW Basketball": [
+            {
+                "time": "20:00",
+                "event": "NCAA : Mount St. Mary's vs Merrimack Warriors",
+                "channels": [
+                    {
+                        "channel_name": "NESN USA",
+                        "channel_id": "762"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "Women's College Basketball : Campbell vs Towson",
+                "channels": [
+                    {
+                        "channel_name": "Monumental Sports Network",
+                        "channel_id": "778"
                     }
                 ]
             },
@@ -4304,7 +4306,9 @@
                         "channel_id": "888"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "00:00",
                 "event": "NBA : Indiana Pacers vs San Antonio Spurs",
@@ -4598,6 +4602,166 @@
                 ]
             },
             {
+                "time": "18:00",
+                "event": "PWHL : New York Sirens vs. Montreal Victoire",
+                "channels": [
+                    {
+                        "channel_name": "SportsNet Pittsburgh",
+                        "channel_id": "922"
+                    },
+                    {
+                        "channel_name": "MSG USA",
+                        "channel_id": "765"
+                    },
+                    {
+                        "channel_name": "Sportsnet East",
+                        "channel_id": "408"
+                    },
+                    {
+                        "channel_name": "Sportsnet Ontario",
+                        "channel_id": "406"
+                    },
+                    {
+                        "channel_name": "RDS 2",
+                        "channel_id": "840"
+                    },
+                    {
+                        "channel_name": "Nova Sport 6 CZ",
+                        "channel_id": "1026"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Vimmerby vs AIK",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sportkanalen Sweden",
+                        "channel_id": "707"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Oskarshamn vs Nybro",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 4 Sweden",
+                        "channel_id": "706"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Mora vs Vasteras",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 3 Sweden",
+                        "channel_id": "705"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Kalmar vs Troja/Ljungby",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 2 Sweden",
+                        "channel_id": "704"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : BIK Karlskoga vs Sodertalje",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Hockey Sweden",
+                        "channel_id": "700"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Konferenz",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 301",
+                        "channel_id": "12"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Kolner vs Straubing Tigers",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 304",
+                        "channel_id": "13"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Iserlohn Roosters vs Nurnberg Ice Tigers",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 307",
+                        "channel_id": "14"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Grizzly Wolfsburg vs Red Bull M\u00fcnchen",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 305",
+                        "channel_id": "15"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : ERC Ingolstadt vs Bremerhaven",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 303",
+                        "channel_id": "16"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Eisbaren Berlin vs Frankfurt Lowen",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 306",
+                        "channel_id": "17"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Augsburger Panther vs Schwenninger",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 308",
+                        "channel_id": "18"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Adler Mannheim vs Dresdner Eislowen",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 302",
+                        "channel_id": "19"
+                    }
+                ]
+            },
+            {
                 "time": "18:45",
                 "event": "Switzerland, National League : EHC Kloten vs. HC Davos",
                 "channels": [
@@ -4616,7 +4780,153 @@
                         "channel_id": "762"
                     }
                 ]
+            }
+        ],
+        "IIHF World Junior Championship": [
+            {
+                "time": "17:30",
+                "event": "World Championship U20 : Denmark U20 vs Germany U20",
+                "channels": [
+                    {
+                        "channel_name": "TSN3",
+                        "channel_id": "113"
+                    }
+                ]
             },
+            {
+                "time": "19:00",
+                "event": "World Championship U20 : Sweden U20 vs Latvia U20",
+                "channels": [
+                    {
+                        "channel_name": "NHL Network USA",
+                        "channel_id": "663"
+                    },
+                    {
+                        "channel_name": "TSN1",
+                        "channel_id": "111"
+                    },
+                    {
+                        "channel_name": "TSN4",
+                        "channel_id": "114"
+                    },
+                    {
+                        "channel_name": "TSN5",
+                        "channel_id": "115"
+                    },
+                    {
+                        "channel_name": "Magenta Sport 318",
+                        "channel_id": "26"
+                    },
+                    {
+                        "channel_name": "svt1",
+                        "channel_id": "27"
+                    },
+                    {
+                        "channel_name": "svt2",
+                        "channel_id": "28"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "World Championship U20 : Czech Republic U20 vs Switzerland U20",
+                "channels": [
+                    {
+                        "channel_name": "TSN3",
+                        "channel_id": "113"
+                    },
+                    {
+                        "channel_name": "TSN4",
+                        "channel_id": "114"
+                    },
+                    {
+                        "channel_name": "RDS CA",
+                        "channel_id": "839"
+                    },
+                    {
+                        "channel_name": "\u010cT Sport CZ",
+                        "channel_id": "1033"
+                    },
+                    {
+                        "channel_name": "RDS 2 CA",
+                        "channel_id": "840"
+                    },
+                    {
+                        "channel_name": "svt2",
+                        "channel_id": "28"
+                    },
+                    {
+                        "channel_name": "Magenta Sport 318",
+                        "channel_id": "26"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "World Championship U20 : USA U20 vs Finland U20",
+                "channels": [
+                    {
+                        "channel_name": "NHL Network USA",
+                        "channel_id": "663"
+                    },
+                    {
+                        "channel_name": "TSN1",
+                        "channel_id": "111"
+                    },
+                    {
+                        "channel_name": "TSN5",
+                        "channel_id": "115"
+                    },
+                    {
+                        "channel_name": "Magenta Sport 317",
+                        "channel_id": "15"
+                    },
+                    {
+                        "channel_name": "svt 24",
+                        "channel_id": "16"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "World Championship U20 : Canada U20 vs Slovakia U20",
+                "channels": [
+                    {
+                        "channel_name": "NHL Network USA",
+                        "channel_id": "663"
+                    },
+                    {
+                        "channel_name": "TSN1",
+                        "channel_id": "111"
+                    },
+                    {
+                        "channel_name": "TSN3",
+                        "channel_id": "113"
+                    },
+                    {
+                        "channel_name": "TSN4",
+                        "channel_id": "114"
+                    },
+                    {
+                        "channel_name": "TSN5",
+                        "channel_id": "115"
+                    },
+                    {
+                        "channel_name": "RDS CA",
+                        "channel_id": "839"
+                    },
+                    {
+                        "channel_name": "svt1",
+                        "channel_id": "27"
+                    },
+                    {
+                        "channel_name": "Magenta Sport 318",
+                        "channel_id": "26"
+                    }
+                ]
+            }
+        ],
+        "NHL": [
             {
                 "time": "20:00",
                 "event": "NHL : Vegas Golden Knights vs St. Louis Blues",
@@ -4786,308 +5096,6 @@
                     {
                         "channel_name": "V Sport Premium Sweden",
                         "channel_id": "4"
-                    }
-                ]
-            },
-            {
-                "time": "17:30",
-                "event": "World Championship U20 : Denmark U20 vs Germany U20",
-                "channels": [
-                    {
-                        "channel_name": "TSN3",
-                        "channel_id": "113"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "World Championship U20 : Sweden U20 vs Latvia U20",
-                "channels": [
-                    {
-                        "channel_name": "NHL Network USA",
-                        "channel_id": "663"
-                    },
-                    {
-                        "channel_name": "TSN1",
-                        "channel_id": "111"
-                    },
-                    {
-                        "channel_name": "TSN4",
-                        "channel_id": "114"
-                    },
-                    {
-                        "channel_name": "TSN5",
-                        "channel_id": "115"
-                    },
-                    {
-                        "channel_name": "Magenta Sport 318",
-                        "channel_id": "26"
-                    },
-                    {
-                        "channel_name": "svt1",
-                        "channel_id": "27"
-                    },
-                    {
-                        "channel_name": "svt2",
-                        "channel_id": "28"
-                    }
-                ]
-            },
-            {
-                "time": "21:30",
-                "event": "World Championship U20 : Czech Republic U20 vs Switzerland U20",
-                "channels": [
-                    {
-                        "channel_name": "TSN3",
-                        "channel_id": "113"
-                    },
-                    {
-                        "channel_name": "TSN4",
-                        "channel_id": "114"
-                    },
-                    {
-                        "channel_name": "RDS CA",
-                        "channel_id": "839"
-                    },
-                    {
-                        "channel_name": "\u010cT Sport CZ",
-                        "channel_id": "1033"
-                    },
-                    {
-                        "channel_name": "RDS 2 CA",
-                        "channel_id": "840"
-                    },
-                    {
-                        "channel_name": "svt2",
-                        "channel_id": "28"
-                    },
-                    {
-                        "channel_name": "Magenta Sport 318",
-                        "channel_id": "26"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "World Championship U20 : USA U20 vs Finland U20",
-                "channels": [
-                    {
-                        "channel_name": "NHL Network USA",
-                        "channel_id": "663"
-                    },
-                    {
-                        "channel_name": "TSN1",
-                        "channel_id": "111"
-                    },
-                    {
-                        "channel_name": "TSN5",
-                        "channel_id": "115"
-                    },
-                    {
-                        "channel_name": "Magenta Sport 317",
-                        "channel_id": "15"
-                    },
-                    {
-                        "channel_name": "svt 24",
-                        "channel_id": "16"
-                    }
-                ]
-            },
-            {
-                "time": "01:30",
-                "event": "World Championship U20 : Canada U20 vs Slovakia U20",
-                "channels": [
-                    {
-                        "channel_name": "NHL Network USA",
-                        "channel_id": "663"
-                    },
-                    {
-                        "channel_name": "TSN1",
-                        "channel_id": "111"
-                    },
-                    {
-                        "channel_name": "TSN3",
-                        "channel_id": "113"
-                    },
-                    {
-                        "channel_name": "TSN4",
-                        "channel_id": "114"
-                    },
-                    {
-                        "channel_name": "TSN5",
-                        "channel_id": "115"
-                    },
-                    {
-                        "channel_name": "RDS CA",
-                        "channel_id": "839"
-                    },
-                    {
-                        "channel_name": "svt1",
-                        "channel_id": "27"
-                    },
-                    {
-                        "channel_name": "Magenta Sport 318",
-                        "channel_id": "26"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Konferenz",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 301",
-                        "channel_id": "12"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Kolner vs Straubing Tigers",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 304",
-                        "channel_id": "13"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Iserlohn Roosters vs Nurnberg Ice Tigers",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 307",
-                        "channel_id": "14"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Grizzly Wolfsburg vs Red Bull M\u00fcnchen",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 305",
-                        "channel_id": "15"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : ERC Ingolstadt vs Bremerhaven",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 303",
-                        "channel_id": "16"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Eisbaren Berlin vs Frankfurt Lowen",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 306",
-                        "channel_id": "17"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Augsburger Panther vs Schwenninger",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 308",
-                        "channel_id": "18"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Adler Mannheim vs Dresdner Eislowen",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 302",
-                        "channel_id": "19"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "PWHL : New York Sirens vs. Montreal Victoire",
-                "channels": [
-                    {
-                        "channel_name": "SportsNet Pittsburgh",
-                        "channel_id": "922"
-                    },
-                    {
-                        "channel_name": "MSG USA",
-                        "channel_id": "765"
-                    },
-                    {
-                        "channel_name": "Sportsnet East",
-                        "channel_id": "408"
-                    },
-                    {
-                        "channel_name": "Sportsnet Ontario",
-                        "channel_id": "406"
-                    },
-                    {
-                        "channel_name": "RDS 2",
-                        "channel_id": "840"
-                    },
-                    {
-                        "channel_name": "Nova Sport 6 CZ",
-                        "channel_id": "1026"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Vimmerby vs AIK",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sportkanalen Sweden",
-                        "channel_id": "707"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Oskarshamn vs Nybro",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 4 Sweden",
-                        "channel_id": "706"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Mora vs Vasteras",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 3 Sweden",
-                        "channel_id": "705"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Kalmar vs Troja/Ljungby",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 2 Sweden",
-                        "channel_id": "704"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : BIK Karlskoga vs Sodertalje",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey Sweden",
-                        "channel_id": "700"
                     }
                 ]
             }
