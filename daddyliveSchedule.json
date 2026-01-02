@@ -3492,6 +3492,48 @@
                 ]
             }
         ],
+        "Tennis UNITED CUP": [
+            {
+                "time": "02:00",
+                "event": "UNITED CUP : Munar J. vs Baez S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "UNITED CUP : Bouzas Maneiro J. vs Sierra S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
+                    }
+                ]
+            },
+            {
+                "time": "09:00",
+                "event": "UNITED CUP : Sakkari M. vs Osaka N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "UNITED CUP : Tsitsipas S. vs Mochizuki S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "07:30",
