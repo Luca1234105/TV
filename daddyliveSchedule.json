@@ -9108,6 +9108,38 @@
                 ]
             }
         ],
+        "Tennis ATP - BRISBANE": [
+            {
+                "time": "06:00",
+                "event": "UNITED CUP : Vukic A. vs Tiafoe F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "UNITED CUP : Ebden M./Ram R. vs Kokkinakis T./Kyrgios N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "08:30",
+                "event": "UNITED CUP : Ugo Carabelli C. vs Tien L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
         "Tennis WTA - BRISBANE": [
             {
                 "time": "01:00",

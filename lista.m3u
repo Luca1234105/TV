@@ -309,8 +309,6 @@ https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
@@ -421,6 +419,8 @@ https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
@@ -441,8 +441,6 @@ https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
 https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (BACKUP)
-https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
@@ -493,8 +491,6 @@ https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
 https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 #EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTINF:-1 tvg-id="rainews24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
@@ -539,7 +535,7 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="italyseriecatalantaiivslatina" tvg-name="All Soccer Events | Italy - Serie C : Atalanta II vs Latina (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta II_vs_Latina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Atalanta II vs Latina (13:30)
 https://dlhd.dad/watch.php?id=7
 
-#EXTINF:-1 tvg-id="italyseriecatalantaiivslatina" tvg-name="All Soccer Events | Italy - Serie C : Atalanta II vs Latina (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta II_vs_Latina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Atalanta II vs Latina (13:30)
+#EXTINF:-1 tvg-id="italyseriecatalantaiivslatina" tvg-name="All Soccer Events | Italy - Serie C : Atalanta II vs Latina (13:30)" tvg-logo="https://assets-es.imgfoot.com/media/cache/150x150/club/atalanta.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Atalanta II vs Latina (13:30)
 https://dlhd.dad/watch.php?id=462
 
 #EXTINF:-1 tvg-id="englandpremierleagueleedsunitedvsmanchesterunited" tvg-name="All Soccer Events | England - Premier League : Leeds United vs Manchester United (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Leeds United_vs_Manchester United.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Leeds United vs Manchester United (14:30)
@@ -581,10 +577,10 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="italyseriecdolomitibellunesivsalbinoleffe" tvg-name="All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs AlbinoLeffe (18:30)" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/08/Leffe-Logo-Vector.svg-.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs AlbinoLeffe (18:30)
 https://dlhd.dad/watch.php?id=29
 
-#EXTINF:-1 tvg-id="italyseriecbravssambenedettese" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Sambenedettese (18:30)" tvg-logo="https://www.brahotel.com/storage/2024/12/bra_logo-300x300.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Bra vs Sambenedettese (18:30)
+#EXTINF:-1 tvg-id="italyseriecbravssambenedettese" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Sambenedettese (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bra_vs_Sambenedettese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Bra vs Sambenedettese (18:30)
 https://dlhd.dad/watch.php?id=28
 
-#EXTINF:-1 tvg-id="italyseriecbravssambenedettese" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Sambenedettese (18:30)" tvg-logo="https://www.brahotel.com/storage/2024/12/bra_logo-300x300.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Bra vs Sambenedettese (18:30)
+#EXTINF:-1 tvg-id="italyseriecbravssambenedettese" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Sambenedettese (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bra_vs_Sambenedettese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Bra vs Sambenedettese (18:30)
 https://dlhd.dad/watch.php?id=460
 
 #EXTINF:-1 tvg-id="italyseriecnuovamonterosivsperugia" tvg-name="All Soccer Events | Italy - Serie C : Nuova Monterosi vs Perugia (18:30)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Nuova Monterosi vs Perugia (18:30)
@@ -644,7 +640,7 @@ https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="winterbergtwowomanbobsleighworldcupheat1" tvg-name="Winter Sports | Winterberg | Two-Woman Bobsleigh World Cup | Heat 1 (12:00)" tvg-logo="https://2.bp.blogspot.com/-mM-UANdE8lY/T0k6TUqZyNI/AAAAAAAAHIA/P7hYsBDO5SY/s1600/gruppo.png" group-title="Eventi Live DLHD",Winter Sports | Winterberg | Two-Woman Bobsleigh World Cup | Heat 1 (12:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="siguldamenssinglesworldcuprun2" tvg-name="Winter Sports | Sigulda | Men's Singles World Cup | Run 2 (12:25)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/sigulda-logo-black-and-white.png" group-title="Eventi Live DLHD",Winter Sports | Sigulda | Men's Singles World Cup | Run 2 (12:25)
+#EXTINF:-1 tvg-id="siguldamenssinglesworldcuprun2" tvg-name="Winter Sports | Sigulda | Men's Singles World Cup | Run 2 (12:25)" tvg-logo="https://izglitiba.sigulda.lv/wp-content/uploads/2022/04/cropped-Sigulda-aizrauj-icon.png" group-title="Eventi Live DLHD",Winter Sports | Sigulda | Men's Singles World Cup | Run 2 (12:25)
 https://dlhd.dad/watch.php?id=879
 
 
