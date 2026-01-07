@@ -269,6 +269,8 @@ https://vavoo.to/vavoo-iptv/play/1249978054d9101729f51f
 https://vavoo.to/vavoo-iptv/play/24994885846c204e8b0b86
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kAZM1WRzE6qfQx90xPJ3v1Jz1gaJwn6BbrZcewu6eTcQ=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",VIDEOTOLENTINO
 https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Altro",WWE CHANNEL
+https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 
 # MEDIASET
 #EXTINF:-1 tvg-id="27.twentyseven.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTYSEVEN
@@ -317,8 +319,6 @@ https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
 # BAMBINI
-#EXTINF:-1 tvg-id="babytv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV
-https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
@@ -345,6 +345,8 @@ https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN ACTION MOVIES
 https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
+https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN DRAMA
 https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN FAMILY
@@ -411,12 +413,8 @@ https://vavoo.to/vavoo-iptv/play/2774026655397d6ec52fe5
 https://vavoo.to/vavoo-iptv/play/1971490284ce4effc4ca8e
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/7/79/San_Marino_RTV_Sport_-_logo.png/revision/latest?cb=20221207153729" group-title="Sport",RTV SAN MARINO SPORT
 https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
-#EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
-https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
@@ -449,6 +447,8 @@ https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 
 # MUSICA
+#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
+https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/61Wa4RqJVJL.png" group-title="Musica",EURO INDIE MUSIC CHART TV
 https://vavoo.to/vavoo-iptv/play/35697313256d80f80b732e
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ5HlBu4jXOrC4iA-giQNzXa9zm42bS-yrA&s" group-title="Musica",FM ITALIA
@@ -567,10 +567,10 @@ https://dlhd.dad/watch.php?id=157
 #EXTINF:-1 tvg-id="englandpremierleaguenewcastleunitedvsleedsunited" tvg-name="Soccer | England - Premier League : Newcastle United vs Leeds United (22:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Newcastle United_vs_Leeds United.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Newcastle United vs Leeds United (22:15)
 https://dlhd.dad/watch.php?id=20
 
-#EXTINF:-1 tvg-id="madonnadicampigliomensslalomworldcuprun1" tvg-name="Alpine Ski | Madonna di Campiglio | Men's Slalom World Cup | Run 1 (18:45)" tvg-logo="https://www.skirama.it/files/getbyname/partner-campiglio.png" group-title="Eventi Live DLHD",Alpine Ski | Madonna di Campiglio | Men's Slalom World Cup | Run 1 (18:45)
+#EXTINF:-1 tvg-id="madonnadicampigliomensslalomworldcuprun1" tvg-name="Alpine Ski | Madonna di Campiglio | Men's Slalom World Cup | Run 1 (18:45)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwsna-q6Ns5SJmmSbDSjcwQCLZjZNdk100xCeqJHuFddmjhE3texPunEx9kELRZ1x0WF_XBFSAsLbkAUJRwHzU_pNuEACi0Xp00UvP9nghJif_PglSA9hAp8T8b0m7rQ44e10bFIzZrA8/w1200-h630-p-k-no-nu/Madonnaexpress.png" group-title="Eventi Live DLHD",Alpine Ski | Madonna di Campiglio | Men's Slalom World Cup | Run 1 (18:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="madonnadicampigliomensslalomworldcuprun2" tvg-name="Alpine Ski | Madonna di Campiglio | Men's Slalom World Cup | Run 2 (21:45)" tvg-logo="https://www.skirama.it/files/getbyname/partner-campiglio.png" group-title="Eventi Live DLHD",Alpine Ski | Madonna di Campiglio | Men's Slalom World Cup | Run 2 (21:45)
+#EXTINF:-1 tvg-id="madonnadicampigliomensslalomworldcuprun2" tvg-name="Alpine Ski | Madonna di Campiglio | Men's Slalom World Cup | Run 2 (21:45)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwsna-q6Ns5SJmmSbDSjcwQCLZjZNdk100xCeqJHuFddmjhE3texPunEx9kELRZ1x0WF_XBFSAsLbkAUJRwHzU_pNuEACi0Xp00UvP9nghJif_PglSA9hAp8T8b0m7rQ44e10bFIzZrA8/w1200-h630-p-k-no-nu/Madonnaexpress.png" group-title="Eventi Live DLHD",Alpine Ski | Madonna di Campiglio | Men's Slalom World Cup | Run 2 (21:45)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="championsleaguewomeneczacibasiwvsmonzaw" tvg-name="Volleyball | Champions League Women : Eczacibasi W vs Monza W (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Eczacibasi W_vs_Monza W.png" group-title="Eventi Live DLHD",Volleyball | Champions League Women : Eczacibasi W vs Monza W (18:30)
