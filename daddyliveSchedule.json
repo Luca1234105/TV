@@ -4990,6 +4990,290 @@
                 ]
             }
         ],
+        "Tennis UNITED CUP": [
+            {
+                "time": "06:30",
+                "event": "UNITED CUP : Bergs Z. vs Mensik J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "UNITED CUP : Mertens E. vs Krejcikova B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "UNITED CUP : Mertens E./Bergs Z. vs Krejcikova B./Mensik J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - BRISBANE": [
+            {
+                "time": "01:00",
+                "event": "ATP - BRISBANE : Norrie C. vs Kovacevic A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "ATP - BRISBANE : Halys Q. vs Nakashima B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "ATP - BRISBANE : Hijikata R. vs Mpetshi Perricard G.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "08:30",
+                "event": "ATP - BRISBANE : Collignon R. vs Dimitrov G.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - HONG KONG": [
+            {
+                "time": "05:30",
+                "event": "ATP - HONG KONG : Sonego L. vs Shang J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "05:30",
+                "event": "ATP - HONG KONG : Muller A. vs Giron M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1514"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "ATP - HONG KONG : Mmoh M. vs Khachanov K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "ATP - HONG KONG : Van De Zandschulp B. vs Bublik A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - BRISBANE": [
+            {
+                "time": "01:00",
+                "event": "WTA - BRISBANE : Sabalenka A. vs Cirstea S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "WTA - BRISBANE : Khromacheva I./Panova A. vs Kichenok L./Kichenok N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "WTA - BRISBANE : Rybakina E. vs Badosa P.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "WTA - BRISBANE : Muchova K. vs Alexandrova E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "WTA - BRISBANE : Sasnovich A. vs Samsonova L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - BRISBANE : Shnaider D. vs Keys M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    }
+                ]
+            },
+            {
+                "time": "05:30",
+                "event": "WTA - BRISBANE : Bucsa C./Perez E. vs Danilina A./Krunic A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "WTA - BRISBANE : Yastremska D. vs Pegula J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "WTA - BRISBANE : Andreeva M. vs Noskova L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - BRISBANE : Kostyuk M. vs Anisimova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - AUCKLAND": [
+            {
+                "time": "00:00",
+                "event": "WTA - AUCKLAND : Marcinko P. vs Eala A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "WTA - AUCKLAND : Linette M. vs Cocciaretto E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "WTA - AUCKLAND : Svitolina E. vs Boulter K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "WTA - AUCKLAND : Seidel E. vs Kartal S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "08:30",
@@ -5088,7 +5372,7 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (TNA)": [
             {
                 "time": "01:00",
                 "event": "TNA iMPACT!",
@@ -5128,7 +5412,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NCAAF)": [
             {
                 "time": "00:30",
                 "event": "NCAA FBS : Miami RedHawks vs Mississippi",
@@ -5338,16 +5622,6 @@
                 ]
             },
             {
-                "time": "17:30",
-                "event": "College Basketball : Hofstra vs Towson",
-                "channels": [
-                    {
-                        "channel_name": "Monumental Sports Network",
-                        "channel_id": "778"
-                    }
-                ]
-            },
-            {
                 "time": "18:00",
                 "event": "Israeli Women Basketball Premier League : Maccabi Ramat Gan / Hen vs Elizur Ramla",
                 "channels": [
@@ -5508,6 +5782,28 @@
                 ]
             },
             {
+                "time": "00:00",
+                "event": "NBA G-League : Maine Celtics vs Salt Lake City Stars",
+                "channels": [
+                    {
+                        "channel_name": "NBCS Boston USA",
+                        "channel_id": "754"
+                    }
+                ]
+            }
+        ],
+        "NCAAW/NCAA Basketball": [
+            {
+                "time": "17:30",
+                "event": "College Basketball : Hofstra vs Towson",
+                "channels": [
+                    {
+                        "channel_name": "Monumental Sports Network",
+                        "channel_id": "778"
+                    }
+                ]
+            },
+            {
                 "time": "22:00",
                 "event": "NCAA : Chicago State vs Fairleigh Dickinson",
                 "channels": [
@@ -5544,16 +5840,6 @@
                     {
                         "channel_name": "SportsNet New York",
                         "channel_id": "759"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "NBA G-League : Maine Celtics vs Salt Lake City Stars",
-                "channels": [
-                    {
-                        "channel_name": "NBCS Boston USA",
-                        "channel_id": "754"
                     }
                 ]
             },
@@ -5626,7 +5912,9 @@
                         "channel_id": "45"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "00:00",
                 "event": "NBA : Charlotte Hornets vs Indiana Pacers",
@@ -5823,6 +6111,150 @@
             }
         ],
         "Ice Hockey": [
+            {
+                "time": "10:00",
+                "event": "MHL : Spartak Moscow U20 vs Krylya Sovetov Moscow U20",
+                "channels": [
+                    {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "5"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "KHL : Metallurg Magnitogorsk vs Avangard Omsk",
+                "channels": [
+                    {
+                        "channel_name": "KHL Prime",
+                        "channel_id": "6"
+                    },
+                    {
+                        "channel_name": "Arena Sport 1 Serbia",
+                        "channel_id": "429"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "KHL : Ak Bars Kazan vs Barys Astana",
+                "channels": [
+                    {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "5"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "KHL : Severstal Cherepovets vs Dinamo Minsk",
+                "channels": [
+                    {
+                        "channel_name": "KHL Prime",
+                        "channel_id": "6"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Vaxjo vs Farjestad BK",
+                "channels": [
+                    {
+                        "channel_name": "Viaplay Sports 1 UK",
+                        "channel_id": "451"
+                    },
+                    {
+                        "channel_name": "TV12 Sweden",
+                        "channel_id": "16"
+                    },
+                    {
+                        "channel_name": "SPORT1+ DE",
+                        "channel_id": "640"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Timra vs Rogle",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Hockey Sweden",
+                        "channel_id": "700"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Skelleftea vs HV 71",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 2 Sweden",
+                        "channel_id": "704"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Malmo vs Brynas",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 1 Sweden",
+                        "channel_id": "703"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Leksands vs Linkopings",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Motor Sweden",
+                        "channel_id": "702"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Frolunda vs Lulea",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 3 Sweden",
+                        "channel_id": "705"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Djurgardens vs Orebro",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 4 Sweden",
+                        "channel_id": "706"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "International Alps Hockey League : Jesenice vs Hockey Unterland",
+                "channels": [
+                    {
+                        "channel_name": "STV 1 Slovenia",
+                        "channel_id": "21"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Iserlohn Roosters vs Eisbaren Berlin",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 301",
+                        "channel_id": "15"
+                    }
+                ]
+            }
+        ],
+        "NHL": [
             {
                 "time": "00:00",
                 "event": "NHL : New Jersey Devils vs Pittsburgh Penguins",
@@ -6068,148 +6500,6 @@
                     {
                         "channel_name": "V Sport Premium",
                         "channel_id": "8"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Iserlohn Roosters vs Eisbaren Berlin",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 301",
-                        "channel_id": "15"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "International Alps Hockey League : Jesenice vs Hockey Unterland",
-                "channels": [
-                    {
-                        "channel_name": "STV 1 Slovenia",
-                        "channel_id": "21"
-                    }
-                ]
-            },
-            {
-                "time": "10:00",
-                "event": "MHL : Spartak Moscow U20 vs Krylya Sovetov Moscow U20",
-                "channels": [
-                    {
-                        "channel_name": "KHL Tv",
-                        "channel_id": "5"
-                    }
-                ]
-            },
-            {
-                "time": "11:30",
-                "event": "KHL : Metallurg Magnitogorsk vs Avangard Omsk",
-                "channels": [
-                    {
-                        "channel_name": "KHL Prime",
-                        "channel_id": "6"
-                    },
-                    {
-                        "channel_name": "Arena Sport 1 Serbia",
-                        "channel_id": "429"
-                    }
-                ]
-            },
-            {
-                "time": "14:00",
-                "event": "KHL : Ak Bars Kazan vs Barys Astana",
-                "channels": [
-                    {
-                        "channel_name": "KHL Tv",
-                        "channel_id": "5"
-                    }
-                ]
-            },
-            {
-                "time": "14:00",
-                "event": "KHL : Severstal Cherepovets vs Dinamo Minsk",
-                "channels": [
-                    {
-                        "channel_name": "KHL Prime",
-                        "channel_id": "6"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Vaxjo vs Farjestad BK",
-                "channels": [
-                    {
-                        "channel_name": "Viaplay Sports 1 UK",
-                        "channel_id": "451"
-                    },
-                    {
-                        "channel_name": "TV12 Sweden",
-                        "channel_id": "16"
-                    },
-                    {
-                        "channel_name": "SPORT1+ DE",
-                        "channel_id": "640"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Timra vs Rogle",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey Sweden",
-                        "channel_id": "700"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Skelleftea vs HV 71",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 2 Sweden",
-                        "channel_id": "704"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Malmo vs Brynas",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 1 Sweden",
-                        "channel_id": "703"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Leksands vs Linkopings",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Motor Sweden",
-                        "channel_id": "702"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Frolunda vs Lulea",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 3 Sweden",
-                        "channel_id": "705"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Djurgardens vs Orebro",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 4 Sweden",
-                        "channel_id": "706"
                     }
                 ]
             }
