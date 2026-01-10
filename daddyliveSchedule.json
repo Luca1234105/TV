@@ -3384,7 +3384,7 @@
                 ]
             }
         ],
-        "Soccer": [
+        "England - League One/League Two": [
             {
                 "time": "12:30",
                 "event": "England - League One : Stockport County vs Huddersfield Town",
@@ -3494,7 +3494,9 @@
                         "channel_id": "158"
                     }
                 ]
-            },
+            }
+        ],
+        "Scottish Premiership": [
             {
                 "time": "15:00",
                 "event": "Scotland - Scottish Premiership : Livingston vs Kilmarnock",
@@ -3534,7 +3536,9 @@
                         "channel_id": "162"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "08:30",
                 "event": "Indonesia - Super League : Persebaya Surabaya vs Malut United",
@@ -6593,7 +6597,7 @@
                     },
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "03"
+                        "channel_id": "1503"
                     }
                 ]
             },
@@ -6607,7 +6611,7 @@
                     },
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "03"
+                        "channel_id": "1503"
                     }
                 ]
             },
