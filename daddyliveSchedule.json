@@ -42,6 +42,16 @@
                 ]
             },
             {
+                "time": "19:00",
+                "event": "Prime Show MMA 15",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5000"
+                    }
+                ]
+            },
+            {
                 "time": "01:00",
                 "event": "Real American Freestyle Wrestling",
                 "channels": [
@@ -2978,7 +2988,7 @@
                 ]
             },
             {
-                "time": "21:00",
+                "time": "21:30",
                 "event": "Brazil Mineiro M\u00f3dulo : Cruzeiro vs Pouso Alegre FC",
                 "channels": [
                     {
