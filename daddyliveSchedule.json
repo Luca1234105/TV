@@ -6934,6 +6934,396 @@
                 ]
             }
         ],
+        "Tennis AUSTRALIAN OPEN - QUALIFYING": [
+            {
+                "time": "23:00",
+                "event": "AUSTRALIAN OPEN : Kia Arena",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "AUSTRALIAN OPEN : 1573 Arena",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "AUSTRALIAN OPEN : ANZ Arena",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "AUSTRALIAN OPEN : Court 5",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1514"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "AUSTRALIAN OPEN : Court 6",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "AUSTRALIAN OPEN : Court 7",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1516"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "AUSTRALIAN OPEN : Court 8",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1517"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "AUSTRALIAN OPEN : Court 11",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1518"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "AUSTRALIAN OPEN : Court 12",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1519"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "AUSTRALIAN OPEN : Court 13",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "AUSTRALIAN OPEN : Court 14",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "AUSTRALIAN OPEN : Court 15",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "AUSTRALIAN OPEN : Court 16",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "AUSTRALIAN OPEN : Court 17",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1525"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - ADELAIDE": [
+            {
+                "time": "04:00",
+                "event": "ATP - ADELAIDE : Opelka R. vs Popyrin A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "05:30",
+                "event": "ATP - ADELAIDE : Altmaier D. vs Munar J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1514"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "ATP - ADELAIDE : Kecmanovic M. vs Vacherot V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "ATP - ADELAIDE : Humbert U. vs Atmane T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "09:30",
+                "event": "ATP - ADELAIDE : Kokkinakis T. vs Korda S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - AUCKLAND": [
+            {
+                "time": "22:30",
+                "event": "ATP - AUCKLAND : Mannarino A. vs Spizzirri E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "ATP - AUCKLAND : Brooksby J. vs Watt J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "ATP - AUCKLAND : Comesana F. vs Royer V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1514"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "ATP - AUCKLAND : Norrie C. vs Gaston H.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "06:30",
+                "event": "ATP - AUCKLAND : Nava E. vs Baez S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - ADELAIDE": [
+            {
+                "time": "00:30",
+                "event": "WTA - ADELAIDE : Jones E. vs Navarro E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "WTA - ADELAIDE : Mboko V. vs Haddad Maia B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "WTA - ADELAIDE : Kalinskaya A. vs Ruse G.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "WTA - ADELAIDE : Tomljanovic A. vs Tauson C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "WTA - ADELAIDE : Badosa P. vs Bouzkova M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "WTA - ADELAIDE : Cristian J. vs Alexandrova E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "WTA - ADELAIDE : Kasatkina D. vs Sakkari M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - HOBART": [
+            {
+                "time": "00:00",
+                "event": "WTA - HOBART : Zarazua R. vs Baptiste H.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "WTA - HOBART : Preston T. vs Bouzas Maneiro J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "WTA - HOBART : Shimizu A. vs Cocciaretto E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "WTA - HOBART : Volynets K. vs Li A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "WTA - HOBART : McNally C. vs Sierra S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "WTA - HOBART : Danilovic O. vs Kessler M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "09:00",
+                "event": "WTA - HOBART : Arango E. vs Ruzic A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "05:00",
@@ -7106,7 +7496,7 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (RAW)": [
             {
                 "time": "00:00",
                 "event": "WWE Monday Night RAW",
@@ -7248,7 +7638,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NFL)": [
             {
                 "time": "01:00",
                 "event": "NFL : Pittsburgh Steelers vs Houston Texans",
@@ -7488,10 +7878,12 @@
                         "channel_id": "385"
                     }
                 ]
-            },
+            }
+        ],
+        "Unrivaled Basketball": [
             {
                 "time": "00:30",
-                "event": "Unrivaled Basketball Mist Basketball Club vs Phantom Basketball Club",
+                "event": "Unrivaled Basketball : Mist Basketball Club vs Phantom Basketball Club",
                 "channels": [
                     {
                         "channel_name": "truTV USA",
@@ -7509,7 +7901,7 @@
             },
             {
                 "time": "01:45",
-                "event": "Unrivaled Basketball Laces Basketball Club vs Lunar Owls Basketball Club",
+                "event": "Unrivaled Basketball : Laces Basketball Club vs Lunar Owls Basketball Club",
                 "channels": [
                     {
                         "channel_name": "truTV USA",
@@ -7524,7 +7916,9 @@
                         "channel_id": "591"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "00:00",
                 "event": "NBA : Cleveland Cavaliers vs Utah Jazz",
@@ -7722,6 +8116,86 @@
         ],
         "Ice Hockey": [
             {
+                "time": "13:30",
+                "event": "Russia MHL : Avto Yekaterinburg U20 vs Omskie Yastreby U20",
+                "channels": [
+                    {
+                        "channel_name": "KHL Prime",
+                        "channel_id": "11"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "Russia MHL : Snezhnye Barsy Astana U20 vs Krasnoyarskie Rysi U20",
+                "channels": [
+                    {
+                        "channel_name": "KHL TV",
+                        "channel_id": "10"
+                    },
+                    {
+                        "channel_name": "MATCH TV Russia",
+                        "channel_id": "127"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "Russia KHL : Dinamo Minsk vs Admiral Vladivostok",
+                "channels": [
+                    {
+                        "channel_name": "KHL Prime",
+                        "channel_id": "11"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "Russia KHL : Shanghai Dragons vs Sochi",
+                "channels": [
+                    {
+                        "channel_name": "KHL TV",
+                        "channel_id": "10"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "Russia KHL : Dynamo Moscow vs Torpedo Nizhny Novgorod",
+                "channels": [
+                    {
+                        "channel_name": "MATCH TV Russia",
+                        "channel_id": "127"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "College Ice Hockey : Boston University vs Harvard",
+                "channels": [
+                    {
+                        "channel_name": "NESN USA",
+                        "channel_id": "762"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "WCH U18 Women : Canada U18 W vs Hungary U18 W",
+                "channels": [
+                    {
+                        "channel_name": "TSN5",
+                        "channel_id": "115"
+                    },
+                    {
+                        "channel_name": "RDS 2 CA",
+                        "channel_id": "840"
+                    }
+                ]
+            }
+        ],
+        "NHL": [
+            {
                 "time": "00:00",
                 "event": "NHL : Seattle Kraken vs New York Rangers",
                 "channels": [
@@ -7908,84 +8382,6 @@
                     {
                         "channel_name": "V Sport Premium",
                         "channel_id": "18"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "Russia MHL : Avto Yekaterinburg U20 vs Omskie Yastreby U20",
-                "channels": [
-                    {
-                        "channel_name": "KHL Prime",
-                        "channel_id": "11"
-                    }
-                ]
-            },
-            {
-                "time": "14:00",
-                "event": "Russia MHL : Snezhnye Barsy Astana U20 vs Krasnoyarskie Rysi U20",
-                "channels": [
-                    {
-                        "channel_name": "KHL TV",
-                        "channel_id": "10"
-                    },
-                    {
-                        "channel_name": "MATCH TV Russia",
-                        "channel_id": "127"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "Russia KHL : Dinamo Minsk vs Admiral Vladivostok",
-                "channels": [
-                    {
-                        "channel_name": "KHL Prime",
-                        "channel_id": "11"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "Russia KHL : Shanghai Dragons vs Sochi",
-                "channels": [
-                    {
-                        "channel_name": "KHL TV",
-                        "channel_id": "10"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "Russia KHL : Dynamo Moscow vs Torpedo Nizhny Novgorod",
-                "channels": [
-                    {
-                        "channel_name": "MATCH TV Russia",
-                        "channel_id": "127"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "College Ice Hockey : Boston University vs Harvard",
-                "channels": [
-                    {
-                        "channel_name": "NESN USA",
-                        "channel_id": "762"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "WCH U18 Women : Canada U18 W vs Hungary U18 W",
-                "channels": [
-                    {
-                        "channel_name": "TSN5",
-                        "channel_id": "115"
-                    },
-                    {
-                        "channel_name": "RDS 2 CA",
-                        "channel_id": "840"
                     }
                 ]
             }
