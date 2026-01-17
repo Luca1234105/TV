@@ -435,6 +435,8 @@ https://vavoo.to/vavoo-iptv/play/300937751365646200d097
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 
 # MUSICA
+#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
+https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/61Wa4RqJVJL.png" group-title="Musica",EURO INDIE MUSIC CHART TV
 https://vavoo.to/vavoo-iptv/play/35697313256d80f80b732e
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ5HlBu4jXOrC4iA-giQNzXa9zm42bS-yrA&s" group-title="Musica",FM ITALIA
@@ -548,10 +550,10 @@ https://dlhd.dad/watch.php?id=461
 #EXTINF:-1 tvg-id="englandpremierleagueliverpoolvsburnley" tvg-name="All Soccer Events | England - Premier League : Liverpool vs Burnley (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Liverpool_vs_Burnley.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Liverpool vs Burnley (17:00)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="italyseriecospitalettovstriestina" tvg-name="All Soccer Events | Italy - Serie C : Ospitaletto vs Triestina (18:30)" tvg-logo="https://png.pngtree.com/png-clipart/20221023/original/pngtree-icc-men-t20-world-cup-logo-2022-png-image_8715560.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ospitaletto vs Triestina (18:30)
+#EXTINF:-1 tvg-id="italyseriecospitalettovstriestina" tvg-name="All Soccer Events | Italy - Serie C : Ospitaletto vs Triestina (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ospitaletto_vs_Triestina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ospitaletto vs Triestina (18:30)
 https://dlhd.dad/watch.php?id=189
 
-#EXTINF:-1 tvg-id="italyseriecospitalettovstriestina" tvg-name="All Soccer Events | Italy - Serie C : Ospitaletto vs Triestina (18:30)" tvg-logo="https://png.pngtree.com/png-clipart/20221023/original/pngtree-icc-men-t20-world-cup-logo-2022-png-image_8715560.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ospitaletto vs Triestina (18:30)
+#EXTINF:-1 tvg-id="italyseriecospitalettovstriestina" tvg-name="All Soccer Events | Italy - Serie C : Ospitaletto vs Triestina (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ospitaletto_vs_Triestina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ospitaletto vs Triestina (18:30)
 https://dlhd.dad/watch.php?id=460
 
 #EXTINF:-1 tvg-id="italyserieclumezzanevsalcione" tvg-name="All Soccer Events | Italy - Serie C : Lumezzane vs Alcione (18:30)" tvg-logo="https://www.uasl-lumezzane.it/wp-content/uploads/2016/04/logo_lumezzane.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Lumezzane vs Alcione (18:30)
@@ -605,7 +607,7 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="ibuworldcupruhpoldingmenssprint" tvg-name="Biathlon | IBU World Cup Ruhpolding | Men's Sprint (15:20)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Biathlon | IBU World Cup Ruhpolding | Men's Sprint (15:20)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="figureskatingeuropeanchampionshipssheffield2026freesoloistprogram" tvg-name="Ice Skating | Figure Skating: European Championships - Sheffield 2026 free soloist program (15:00)" tvg-logo="https://show.deenfigureskating.com/wp-content/uploads/2024/03/Deen-Figure-Skating-Logo-Website_Plan-de-travail-1-1024x1024.png" group-title="Eventi Live DLHD",Ice Skating | Figure Skating: European Championships - Sheffield 2026 free soloist program (15:00)
+#EXTINF:-1 tvg-id="figureskatingeuropeanchampionshipssheffield2026freesoloistprogram" tvg-name="Ice Skating | Figure Skating: European Championships - Sheffield 2026 free soloist program (15:00)" tvg-logo="https://www.usfigureskating.org/sites/default/files/styles/person_image_large/public/media-library/USFig-V-box.png?itok=4IGGx5AI" group-title="Eventi Live DLHD",Ice Skating | Figure Skating: European Championships - Sheffield 2026 free soloist program (15:00)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="europeanchampionshipssheffieldmenfreeprogram" tvg-name="Ice Skating | European Championships | Sheffield Men | Free Program (16:50)" tvg-logo="https://bowlseurope.com/wp-content/uploads/European-Championships-2024-Logo-300-Png-1.png" group-title="Eventi Live DLHD",Ice Skating | European Championships | Sheffield Men | Free Program (16:50)
