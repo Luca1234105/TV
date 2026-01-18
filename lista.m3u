@@ -401,6 +401,8 @@ https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 https://vavoo.to/vavoo-iptv/play/2774026655397d6ec52fe5
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/7/79/San_Marino_RTV_Sport_-_logo.png/revision/latest?cb=20221207153729" group-title="Sport",RTV SAN MARINO SPORT
 https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
+#EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
+https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
@@ -633,7 +635,7 @@ https://dlhd.dad/watch.php?id=877
 #EXTINF:-1 tvg-id="seriea1lubecivitanovavsperugia" tvg-name="Volleyball | Serie A1 : Lube Civitanova vs Perugia (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lube Civitanova_vs_Perugia.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Lube Civitanova vs Perugia (19:00)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="oberhofwomensdoublesworldcuprun1" tvg-name="Winter Sports | Oberhof | Women's Doubles World Cup | Run 1 (14:00)" tvg-logo="https://www.teroseppala.com/uploads/1/4/4/5/144568347/roeckl_orig.png" group-title="Eventi Live DLHD",Winter Sports | Oberhof | Women's Doubles World Cup | Run 1 (14:00)
+#EXTINF:-1 tvg-id="oberhofwomensdoublesworldcuprun1" tvg-name="Winter Sports | Oberhof | Women's Doubles World Cup | Run 1 (14:00)" tvg-logo="https://www.oberhof.de/_Resources/Persistent/9fdfa58883ef825b887248f638a020f136a1bba9/Oberhof_Guetesiegel-eisblau-640x653.png" group-title="Eventi Live DLHD",Winter Sports | Oberhof | Women's Doubles World Cup | Run 1 (14:00)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="oberhofwomensdoublesworldcuprun2" tvg-name="Winter Sports | Oberhof | Women's Doubles World Cup | Run 2 (15:05)" tvg-logo="https://www.teroseppala.com/uploads/1/4/4/5/144568347/roeckl_orig.png" group-title="Eventi Live DLHD",Winter Sports | Oberhof | Women's Doubles World Cup | Run 2 (15:05)
