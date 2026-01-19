@@ -161,6 +161,8 @@ https://vavoo.to/vavoo-iptv/play/2343767125eb4977361e91
 https://vavoo.to/vavoo-iptv/play/2002360508ebbced695f3c
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV (2)
 https://vavoo.to/vavoo-iptv/play/28955495519a6e882c3db3
+#EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO
+https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFBXh88zZx4IvyQKyYd5Hu2yeytO42zNQ4zA&s" group-title="Altro",SUPER TV ARISTANIS
 https://vavoo.to/vavoo-iptv/play/11653719d8ef305a8c92
 #EXTINF:-1 tvg-id="" tvg-logo="https://bresciasat.it/assets/front/img/logo3.png" group-title="Altro",SUPER TV BRESCIA
@@ -365,6 +367,8 @@ https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
+https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
 https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 1
@@ -399,6 +403,8 @@ https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 https://vavoo.to/vavoo-iptv/play/2774026655397d6ec52fe5
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/7/79/San_Marino_RTV_Sport_-_logo.png/revision/latest?cb=20221207153729" group-title="Sport",RTV SAN MARINO SPORT
 https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
+#EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
+https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
@@ -505,29 +511,26 @@ https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecmonopolivscatania" tvg-name="Soccer | Italy - Serie C : Monopoli vs Catania (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monopoli_vs_Catania.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Monopoli vs Catania (21:30)
-https://dlhd.dad/watch.php?id=15
-
-#EXTINF:-1 tvg-id="italyseriecmonopolivscatania" tvg-name="Soccer | Italy - Serie C : Monopoli vs Catania (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monopoli_vs_Catania.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Monopoli vs Catania (21:30)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="italyseriecfoggiavsgiugliano" tvg-name="Soccer | Italy - Serie C : Foggia vs Giugliano (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Foggia_vs_Giugliano.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Foggia vs Giugliano (21:30)
-https://dlhd.dad/watch.php?id=14
-
-#EXTINF:-1 tvg-id="italyseriecfoggiavsgiugliano" tvg-name="Soccer | Italy - Serie C : Foggia vs Giugliano (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Foggia_vs_Giugliano.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Foggia vs Giugliano (21:30)
-https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="franceligue1olympiquelyonnaisvsbrest" tvg-name="Soccer | France - Ligue 1 : Olympique Lyonnais vs Brest (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Lyonnais_vs_Brest.png" group-title="Eventi Live DLHD",Soccer | France - Ligue 1 : Olympique Lyonnais vs Brest (21:45)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="italyserieamilanvslecce" tvg-name="Soccer | Italy - Serie A : Milan vs Lecce (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Milan_vs_Lecce.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Milan vs Lecce (21:45)
+#EXTINF:-1 tvg-id="italyserieacremonesevsverona" tvg-name="Soccer | Italy - Serie A : Cremonese vs Verona (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cremonese_vs_Verona.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Cremonese vs Verona (19:30)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="mastersfinaleveningsession" tvg-name="Snooker | Masters | Final | Evening Session (21:00)" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/klmasters-profile_image-95e5f036905848bb-300x300.png" group-title="Eventi Live DLHD",Snooker | Masters | Final | Evening Session (21:00)
+#EXTINF:-1 tvg-id="italyserieccosenzavscrotone" tvg-name="Soccer | Italy - Serie C : Cosenza vs Crotone (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cosenza_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Cosenza vs Crotone (21:30)
+https://dlhd.dad/watch.php?id=12
+
+#EXTINF:-1 tvg-id="italyserieccosenzavscrotone" tvg-name="Soccer | Italy - Serie C : Cosenza vs Crotone (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cosenza_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Cosenza vs Crotone (21:30)
+https://dlhd.dad/watch.php?id=882
+
+#EXTINF:-1 tvg-id="italyserieccosenzavscrotone" tvg-name="Soccer | Italy - Serie C : Cosenza vs Crotone (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cosenza_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Cosenza vs Crotone (21:30)
+https://dlhd.dad/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyseriealaziovscomo" tvg-name="Soccer | Italy - Serie A : Lazio vs Como (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Como.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lazio vs Como (21:45)
+https://dlhd.dad/watch.php?id=877
+
+#EXTINF:-1 tvg-id="australianopenround1day3" tvg-name="Tennis | Australian Open Round 1 | Day 3 (02:00)" tvg-logo="https://production-gofan-assets.s3.amazonaws.com/uploads/school/logo/AL19812/Foley_logo_2.png" group-title="Eventi Live DLHD",Tennis | Australian Open Round 1 | Day 3 (02:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="europeanchampionshipitalyvshungary" tvg-name="Handball | European Championship : Italy vs Hungary (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Hungary.png" group-title="Eventi Live DLHD",Handball | European Championship : Italy vs Hungary (21:30)
-https://dlhd.dad/watch.php?id=462
+#EXTINF:-1 tvg-id="australianopenround1day3" tvg-name="Tennis | Australian Open Round 1 | Day 3 (02:00)" tvg-logo="https://production-gofan-assets.s3.amazonaws.com/uploads/school/logo/AL19812/Foley_logo_2.png" group-title="Eventi Live DLHD",Tennis | Australian Open Round 1 | Day 3 (02:00)
+https://dlhd.dad/watch.php?id=576
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
