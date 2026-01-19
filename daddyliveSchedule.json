@@ -9000,9 +9000,9 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (RAW)": [
             {
-                "time": "00:00",
+                "time": "01:00",
                 "event": "WWE Monday Night RAW",
                 "channels": [
                     {
@@ -9120,16 +9120,6 @@
                 ]
             },
             {
-                "time": "16:00",
-                "event": "College Basketball : Northeastern vs. Monmouth",
-                "channels": [
-                    {
-                        "channel_name": "CBS Sports Network",
-                        "channel_id": "308"
-                    }
-                ]
-            },
-            {
                 "time": "17:00",
                 "event": "Liga Nationala : Dinamo Bucharest vs Corona Brasov",
                 "channels": [
@@ -9146,6 +9136,134 @@
                     {
                         "channel_name": "Arena Sport 9 Serbia",
                         "channel_id": "944"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "High School Basketball : St. Mary's vs Paul VI",
+                "channels": [
+                    {
+                        "channel_name": "ESPN2 USA",
+                        "channel_id": "45"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "Israeli Women Basketball Premier League : Elizur Holon vs Maccabi Ashdod",
+                "channels": [
+                    {
+                        "channel_name": "5Plus Israel",
+                        "channel_id": "145"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "Kls \u017d : Student vs Mega",
+                "channels": [
+                    {
+                        "channel_name": "Arena Sport 10 Serbia",
+                        "channel_id": "945"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "Israeli Basketball Super League : Ironi Nes Ziona vs Hapoel Galil Elion",
+                "channels": [
+                    {
+                        "channel_name": "5Sport Israel",
+                        "channel_id": "144"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "ABA League : Borac vs Split",
+                "channels": [
+                    {
+                        "channel_name": "Arena Sport 9 Serbia",
+                        "channel_id": "944"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "High School Basketball : Columbus vs St. John Bosco",
+                "channels": [
+                    {
+                        "channel_name": "ESPNU USA",
+                        "channel_id": "316"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "High School Basketball : Spire Academy vs Brewster Academy",
+                "channels": [
+                    {
+                        "channel_name": "ESPNU USA",
+                        "channel_id": "316"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "NBA G-League : Santa Cruz Warriors vs Valley Suns",
+                "channels": [
+                    {
+                        "channel_name": "NBCS Bay Area USA",
+                        "channel_id": "753"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Unrivaled Basketball : Breeze Basketball Club vs Mist Basketball Club",
+                "channels": [
+                    {
+                        "channel_name": "TNT USA",
+                        "channel_id": "338"
+                    },
+                    {
+                        "channel_name": "truTV USA",
+                        "channel_id": "341"
+                    },
+                    {
+                        "channel_name": "Sky Sport 3 NZ",
+                        "channel_id": "590"
+                    }
+                ]
+            },
+            {
+                "time": "02:15",
+                "event": "Unrivaled Basketball : Vinyl Basketball Club vs Lunar Owls Basketball Club",
+                "channels": [
+                    {
+                        "channel_name": "TNT USA",
+                        "channel_id": "338"
+                    },
+                    {
+                        "channel_name": "truTV USA",
+                        "channel_id": "341"
+                    },
+                    {
+                        "channel_name": "Sky Sport 3 NZ",
+                        "channel_id": "590"
+                    }
+                ]
+            }
+        ],
+        "NCAA/NCAAW Basketball": [
+            {
+                "time": "16:00",
+                "event": "College Basketball : Northeastern vs. Monmouth",
+                "channels": [
+                    {
+                        "channel_name": "CBS Sports Network",
+                        "channel_id": "308"
                     }
                 ]
             },
@@ -9184,26 +9302,6 @@
                 ]
             },
             {
-                "time": "18:00",
-                "event": "High School Basketball : St. Mary's vs Paul VI",
-                "channels": [
-                    {
-                        "channel_name": "ESPN2 USA",
-                        "channel_id": "45"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "Israeli Women Basketball Premier League : Elizur Holon vs Maccabi Ashdod",
-                "channels": [
-                    {
-                        "channel_name": "5Plus Israel",
-                        "channel_id": "145"
-                    }
-                ]
-            },
-            {
                 "time": "19:00",
                 "event": "College Basketball : Wagner vs FDU",
                 "channels": [
@@ -9220,36 +9318,6 @@
                     {
                         "channel_name": "SportsNet New York USA",
                         "channel_id": "759"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "Kls \u017d : Student vs Mega",
-                "channels": [
-                    {
-                        "channel_name": "Arena Sport 10 Serbia",
-                        "channel_id": "945"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "Israeli Basketball Super League : Ironi Nes Ziona vs Hapoel Galil Elion",
-                "channels": [
-                    {
-                        "channel_name": "5Sport Israel",
-                        "channel_id": "144"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "ABA League : Borac vs Split",
-                "channels": [
-                    {
-                        "channel_name": "Arena Sport 9 Serbia",
-                        "channel_id": "944"
                     }
                 ]
             },
@@ -9428,16 +9496,6 @@
                 ]
             },
             {
-                "time": "20:00",
-                "event": "High School Basketball : Columbus vs St. John Bosco",
-                "channels": [
-                    {
-                        "channel_name": "ESPNU USA",
-                        "channel_id": "316"
-                    }
-                ]
-            },
-            {
                 "time": "21:00",
                 "event": "NCAAW : Northern Arizona vs Montana",
                 "channels": [
@@ -9468,26 +9526,6 @@
                     {
                         "channel_name": "CBS Sports Network USA",
                         "channel_id": "308"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "High School Basketball : Spire Academy vs Brewster Academy",
-                "channels": [
-                    {
-                        "channel_name": "ESPNU USA",
-                        "channel_id": "316"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "NBA G-League : Santa Cruz Warriors vs Valley Suns",
-                "channels": [
-                    {
-                        "channel_name": "NBCS Bay Area USA",
-                        "channel_id": "753"
                     }
                 ]
             },
@@ -9526,24 +9564,6 @@
                 ]
             },
             {
-                "time": "01:00",
-                "event": "Unrivaled Basketball : Breeze Basketball Club vs Mist Basketball Club",
-                "channels": [
-                    {
-                        "channel_name": "TNT USA",
-                        "channel_id": "338"
-                    },
-                    {
-                        "channel_name": "truTV USA",
-                        "channel_id": "341"
-                    },
-                    {
-                        "channel_name": "Sky Sport 3 NZ",
-                        "channel_id": "590"
-                    }
-                ]
-            },
-            {
                 "time": "02:00",
                 "event": "College Basketball : North Carolina A&amp;T vs Hampton",
                 "channels": [
@@ -9552,35 +9572,9 @@
                         "channel_id": "308"
                     }
                 ]
-            },
-            {
-                "time": "02:15",
-                "event": "Unrivaled Basketball : Vinyl Basketball Club vs Lunar Owls Basketball Club",
-                "channels": [
-                    {
-                        "channel_name": "TNT USA",
-                        "channel_id": "338"
-                    },
-                    {
-                        "channel_name": "truTV USA",
-                        "channel_id": "341"
-                    },
-                    {
-                        "channel_name": "Sky Sport 3 NZ",
-                        "channel_id": "590"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "NBA : Simulcast",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sport Top Event DE",
-                        "channel_id": "556"
-                    }
-                ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "18:00",
                 "event": "NBA : Atlanta Hawks vs Milwaukee Bucks",
@@ -9826,6 +9820,10 @@
                     {
                         "channel_name": "beIN Sports 3 France",
                         "channel_id": "118"
+                    },
+                    {
+                        "channel_name": "Sky Sport Top Event DE",
+                        "channel_id": "556"
                     }
                 ]
             },
@@ -10188,6 +10186,68 @@
         ],
         "Ice Hockey": [
             {
+                "time": "16:00",
+                "event": "KHL : Lokomotiv Yaroslavl vs Nizhny Novgorod",
+                "channels": [
+                    {
+                        "channel_name": "Arena Sport 1 Serbia",
+                        "channel_id": "429"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "KHL : SKA St. Petersburg vs Dinamo Minsk",
+                "channels": [
+                    {
+                        "channel_name": "MATCH TV Russia",
+                        "channel_id": "127"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Kalmar vs Mora",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Hockey Sweden",
+                        "channel_id": "700"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "College Ice Hockey : Union vs Harvard",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Women College Ice Hockey : Providence vs Yale",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "ECHL : 2026 ECHL All-Star Classic",
+                "channels": [
+                    {
+                        "channel_name": "NHL Network USA",
+                        "channel_id": "663"
+                    }
+                ]
+            }
+        ],
+        "NHL": [
+            {
                 "time": "18:30",
                 "event": "NHL : Buffalo Sabres vs Carolina Hurricanes",
                 "channels": [
@@ -10396,66 +10456,6 @@
                     {
                         "channel_name": "Viasat Vinter",
                         "channel_id": "20"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Kalmar vs Mora",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey Sweden",
-                        "channel_id": "700"
-                    }
-                ]
-            },
-            {
-                "time": "21:00",
-                "event": "College Ice Hockey : Union vs Harvard",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "55"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "Women College Ice Hockey : Providence vs Yale",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "68"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "ECHL : 2026 ECHL All-Star Classic",
-                "channels": [
-                    {
-                        "channel_name": "NHL Network USA",
-                        "channel_id": "663"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "KHL : Lokomotiv Yaroslavl vs Nizhny Novgorod",
-                "channels": [
-                    {
-                        "channel_name": "Arena Sport 1 Serbia",
-                        "channel_id": "429"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "KHL : SKA St. Petersburg vs Dinamo Minsk",
-                "channels": [
-                    {
-                        "channel_name": "MATCH TV Russia",
-                        "channel_id": "127"
                     }
                 ]
             }
