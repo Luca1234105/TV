@@ -6098,6 +6098,28 @@
                 ]
             },
             {
+                "time": "22:30",
+                "event": "NBA : Golden State Warriors vs Minnesota Timberwolves",
+                "channels": [
+                    {
+                        "channel_name": "NBA League Pass",
+                        "channel_id": "22"
+                    },
+                    {
+                        "channel_name": "NBA TV USA",
+                        "channel_id": "404"
+                    },
+                    {
+                        "channel_name": "NBCS Bay Area",
+                        "channel_id": "753"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network North",
+                        "channel_id": "898"
+                    }
+                ]
+            },
+            {
                 "time": "00:00",
                 "event": "NBA : Milwaukee Bucks vs Dallas Mavericks",
                 "channels": [
