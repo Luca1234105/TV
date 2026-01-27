@@ -1430,10 +1430,62 @@
                 ]
             }
         ],
+        "Tennis BOYS & GIRLS": [
+            {
+                "time": "22:00",
+                "event": "Tennis : 1573 Arena",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1518"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Tennis : ANZ Arena",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1519"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Tennis : Court 5",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Tennis : Court 6",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Tennis : Court 7",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
         "Tennis ATP - AUSTRALIAN OPEN": [
             {
-                "time": "03:00",
-                "event": "ATP - AO : Musetti L. vs Fritz T.",
+                "time": "02:30",
+                "event": "ATP - AO : Zverev A. vs Tien L.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1446,22 +1498,8 @@
                 ]
             },
             {
-                "time": "07:00",
-                "event": "ATP - AO : Darderi L. vs Sinner J.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1502"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1522"
-                    }
-                ]
-            },
-            {
                 "time": "09:30",
-                "event": "ATP - AO : Shelton B. vs Ruud C",
+                "event": "ATP - AO : Alcaraz C. vs De Minaur A.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1477,7 +1515,7 @@
         "Tennis WTA - AUSTRALIAN OPEN": [
             {
                 "time": "00:30",
-                "event": "WTA - AO : Pegula J. vs Keys M.",
+                "event": "WTA - AO : Sabalenka A. vs Jovic 1.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1490,36 +1528,8 @@
                 ]
             },
             {
-                "time": "02:30",
-                "event": "WTA - AO : Wang Xin. vs Anisimova A.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1503"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1523"
-                    }
-                ]
-            },
-            {
-                "time": "05:00",
-                "event": "WTA - AO : Rybakina E. vs Mertens E.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1502"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1522"
-                    }
-                ]
-            },
-            {
                 "time": "08:00",
-                "event": "WTA - AO : Inglis M. vs Swiatek 1.",
+                "event": "WTA - AO : Gauff C. vs Svitolina E.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1534,22 +1544,8 @@
         ],
         "Tennis ATP DOUBLES - AUSTRALIAN OPEN": [
             {
-                "time": "00:00",
-                "event": "ATP DOUBLES AO : Luz Q./Matos R. vs Bhambri Y./Goransson A.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1504"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1524"
-                    }
-                ]
-            },
-            {
-                "time": "00:30",
-                "event": "ATP DOUBLES AO : McCabe J./Tu L. vs Kubler J./Polmans M.",
+                "time": "06:00",
+                "event": "ATP DOUBLES AO : Kubler J./Polmans M. vs Doumbia S./Reboul F.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1560,68 +1556,12 @@
                         "channel_id": "1522"
                     }
                 ]
-            },
-            {
-                "time": "02:00",
-                "event": "ATP DOUBLES AO : Arevalo M./Pavic M. vs Krajicek A./Mektic N.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1519"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1539"
-                    }
-                ]
-            },
-            {
-                "time": "03:00",
-                "event": "ATP DOUBLES AO : Nouza P./Rikl P. vs Heliovaara H./Patten H.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1504"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1524"
-                    }
-                ]
             }
         ],
         "Tennis WTA DOUBLES - AUSTRALIAN OPEN": [
             {
-                "time": "00:00",
-                "event": "WTA DOUBLES AO : Muhammad A./Routliffe E. vs Shibahara E./Zvonareva V.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1503"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1523"
-                    }
-                ]
-            },
-            {
                 "time": "01:30",
-                "event": "WTA DOUBLES AO : Hsieh S-W./Ostapenko J. vs Kenin S./Siegemund L.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1504"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1524"
-                    }
-                ]
-            },
-            {
-                "time": "02:00",
-                "event": "WTA DOUBLES AO : Guo H./Mladenovic K. vs Birrell K./Gibson T.",
+                "event": "WTA DOUBLES AO : Baptiste H./Stearns P. vs Mertens E./Zhang S.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1636,58 +1576,58 @@
         ],
         "Tennis MIXED DOUBLES - AUSTRALIAN OPEN": [
             {
-                "time": "03:30",
-                "event": "MIXED DOUBLES - AO : Zhang S./Puetz T. vs Siniakova K./Verbeek S.",
+                "time": "00:00",
+                "event": "MIXED DOUBLES - AO : Townsend T./Mektic N. vs Khromacheva I./Harrison C.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1519"
+                        "channel_id": "1502"
                     },
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1539"
+                        "channel_id": "1522"
                     }
                 ]
             },
             {
-                "time": "04:00",
-                "event": "MIXED DOUBLES - AO : Danilina A./Tracy J. vs Fernandez L./Kyrgios N.",
+                "time": "03:00",
+                "event": "MIXED DOUBLES - AO : Danilina A./Tracy J. vs Stefani L./Arevalo M.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1503"
+                        "channel_id": "1502"
                     },
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1523"
+                        "channel_id": "1522"
                     }
                 ]
             },
             {
                 "time": "04:30",
-                "event": "MIXED DOUBLES - AO : Mladenovic K./Guinard M. vs Schuurs D./Cash J.",
+                "event": "MIXED DOUBLES - AO : Gadecki O./Peers J. vs Krunic A./Pavic M.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1504"
+                        "channel_id": "1502"
                     },
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1524"
+                        "channel_id": "1522"
                     }
                 ]
             },
             {
-                "time": "05:30",
-                "event": "MIXED DOUBLES - AO : Joint M./Romios M. C. vs Krunic A./Pavic M.",
+                "time": "07:30",
+                "event": "MIXED DOUBLES - AO : Siniakova K./Verbeek S. vs Mladenovic K./Guinard M.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1503"
+                        "channel_id": "1502"
                     },
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1523"
+                        "channel_id": "1522"
                     }
                 ]
             }
@@ -4564,6 +4504,208 @@
                     {
                         "channel_name": "Sky Sport 4 NZ",
                         "channel_id": "591"
+                    }
+                ]
+            }
+        ],
+        "Tennis BOYS & GIRLS": [
+            {
+                "time": "22:00",
+                "event": "Tennis : 1573 Arena",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1518"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Tennis : ANZ Arena",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1519"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Tennis : Court 5",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Tennis : Court 6",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Tennis : Court 7",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - AUSTRALIAN OPEN": [
+            {
+                "time": "02:30",
+                "event": "ATP - AO : Zverev A. vs Tien L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            },
+            {
+                "time": "09:30",
+                "event": "ATP - AO : Alcaraz C. vs De Minaur A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - AUSTRALIAN OPEN": [
+            {
+                "time": "00:30",
+                "event": "WTA - AO : Sabalenka A. vs Jovic 1.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "WTA - AO : Gauff C. vs Svitolina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP DOUBLES - AUSTRALIAN OPEN": [
+            {
+                "time": "06:00",
+                "event": "ATP DOUBLES AO : Kubler J./Polmans M. vs Doumbia S./Reboul F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA DOUBLES - AUSTRALIAN OPEN": [
+            {
+                "time": "01:30",
+                "event": "WTA DOUBLES AO : Baptiste H./Stearns P. vs Mertens E./Zhang S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
+                    }
+                ]
+            }
+        ],
+        "Tennis MIXED DOUBLES - AUSTRALIAN OPEN": [
+            {
+                "time": "00:00",
+                "event": "MIXED DOUBLES - AO : Townsend T./Mektic N. vs Khromacheva I./Harrison C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "MIXED DOUBLES - AO : Danilina A./Tracy J. vs Stefani L./Arevalo M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "MIXED DOUBLES - AO : Gadecki O./Peers J. vs Krunic A./Pavic M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "MIXED DOUBLES - AO : Siniakova K./Verbeek S. vs Mladenovic K./Guinard M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
                     }
                 ]
             }
