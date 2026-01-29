@@ -2074,40 +2074,42 @@
                 ]
             }
         ],
-        "Tennis ATP - AUSTRALIAN OPEN": [
+        "Tennis BOYS & GIRLS": [
             {
-                "time": "03:30",
-                "event": "ATP - AO : Musetti L. vs Djokovic N.",
+                "time": "23:00",
+                "event": "Tennis : 1573 Arena",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1501"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1521"
+                        "channel_id": "1518"
                     }
                 ]
             },
             {
-                "time": "08:00",
-                "event": "ATP - AO : Shelton B. vs Sinner J.",
+                "time": "23:00",
+                "event": "Tennis : ANZ Arena",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1501"
-                    },
+                        "channel_id": "1519"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Tennis : Court 6",
+                "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1521"
+                        "channel_id": "1506"
                     }
                 ]
             }
         ],
         "Tennis WTA - AUSTRALIAN OPEN": [
             {
-                "time": "00:30",
-                "event": "WTA - AO : Rybakina E. vs Swiatek I.",
+                "time": "08:30",
+                "event": "WTA - AO : Sabalenka A. VS Svitolina E.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -2120,8 +2122,8 @@
                 ]
             },
             {
-                "time": "02:00",
-                "event": "WTA - AO : Pegula J. Anisimova A.",
+                "time": "10:00",
+                "event": "WTA - AO : Pegula J. vs Rybakina E.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -2136,94 +2138,8 @@
         ],
         "Tennis ATP DOUBLES - AUSTRALIAN OPEN": [
             {
-                "time": "00:00",
-                "event": "ATP DOUBLES AO : Harrison C./Skupski N. vs Nouza P./Rikl P.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1502"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1522"
-                    }
-                ]
-            },
-            {
-                "time": "01:30",
-                "event": "ATP DOUBLES AO : Arevalo M./Pavic M. vs Johnson L./Zielinski J.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1502"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1522"
-                    }
-                ]
-            },
-            {
-                "time": "03:00",
-                "event": "ATP DOUBLES AO : Luz Q./Matos R. vs Granollers M./Zeballos H.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1519"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1539"
-                    }
-                ]
-            }
-        ],
-        "Tennis WTA DOUBLES - AUSTRALIAN OPEN": [
-            {
-                "time": "00:00",
-                "event": "WTA DOUBLES AO : Hozumi E./Wu F. vs Mertens E./Zhang S.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1519"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1539"
-                    }
-                ]
-            },
-            {
-                "time": "01:30",
-                "event": "WTA DOUBLES AO : Siniakova K./Townsend T. vs Danilina A./Krunic A.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1519"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1539"
-                    }
-                ]
-            },
-            {
-                "time": "03:00",
-                "event": "WTA DOUBLES AO : Hsieh S-W./Ostapenko J. vs Dabrowski G./Stefani L.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1502"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1522"
-                    }
-                ]
-            },
-            {
-                "time": "10:00",
-                "event": "WTA DOUBLES AO : Shibahara E./Zvonareva V. vs Birrell K./Gibson T.",
+                "time": "02:00",
+                "event": "ATP DOUBLES AO : Kubler J./Polmans M. vs Johnson L./Zielinski J.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -2234,12 +2150,10 @@
                         "channel_id": "1521"
                     }
                 ]
-            }
-        ],
-        "Tennis MIXED DOUBLES - AUSTRALIAN OPEN": [
+            },
             {
-                "time": "04:30",
-                "event": "MIXED DOUBLES - AO : Gadecki O./Peers J. vs Townsend T./Mektic N.",
+                "time": "03:00",
+                "event": "ATP DOUBLES AO : Granollers M./Zeballos H. vs Harrison C./Skupski N.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -2248,12 +2162,28 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1522"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA DOUBLES - AUSTRALIAN OPEN": [
+            {
+                "time": "03:30",
+                "event": "WTA DOUBLES AO : Danilina A./Krunic A. vs Dabrowski G./Stefani L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
                     }
                 ]
             },
             {
                 "time": "06:00",
-                "event": "MIXED DOUBLES - AO : Mladenovic K./Guinard M. vs Stefani L./Arevalo M.",
+                "event": "WTA DOUBLES AO : Mertens E./Zhang S. vs Shibahara E./Zvonareva V.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -2262,48 +2192,6 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1522"
-                    }
-                ]
-            }
-        ],
-        "Tennis BOYS & GIRLS": [
-            {
-                "time": "23:00",
-                "event": "Tennis : 1573 Arena",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1518"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "Tennis : Court 5",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1505"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "Tennis : Court 13",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1513"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "Tennis : Court 14",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1514"
                     }
                 ]
             }
@@ -6980,6 +6868,128 @@
                 ]
             }
         ],
+        "Tennis BOYS & GIRLS": [
+            {
+                "time": "23:00",
+                "event": "Tennis : 1573 Arena",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1518"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Tennis : ANZ Arena",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1519"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Tennis : Court 6",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - AUSTRALIAN OPEN": [
+            {
+                "time": "08:30",
+                "event": "WTA - AO : Sabalenka A. VS Svitolina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - AO : Pegula J. vs Rybakina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP DOUBLES - AUSTRALIAN OPEN": [
+            {
+                "time": "02:00",
+                "event": "ATP DOUBLES AO : Kubler J./Polmans M. vs Johnson L./Zielinski J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "ATP DOUBLES AO : Granollers M./Zeballos H. vs Harrison C./Skupski N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA DOUBLES - AUSTRALIAN OPEN": [
+            {
+                "time": "03:30",
+                "event": "WTA DOUBLES AO : Danilina A./Krunic A. vs Dabrowski G./Stefani L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "WTA DOUBLES AO : Mertens E./Zhang S. vs Shibahara E./Zvonareva V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "08:30",
@@ -7030,10 +7040,6 @@
                         "channel_id": "31"
                     },
                     {
-                        "channel_name": "ESPN USA",
-                        "channel_id": "44"
-                    },
-                    {
                         "channel_name": "TSN2",
                         "channel_id": "112"
                     },
@@ -7076,6 +7082,14 @@
                     {
                         "channel_name": "EuroSport 1 Spain",
                         "channel_id": "524"
+                    },
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44"
+                    },
+                    {
+                        "channel_name": "ESPN Deportes",
+                        "channel_id": "375"
                     },
                     {
                         "channel_name": "EuroSport 1 France",
@@ -7188,7 +7202,7 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (TNA)": [
             {
                 "time": "02:00",
                 "event": "TNA iMPACT!",
@@ -7448,46 +7462,6 @@
                 ]
             },
             {
-                "time": "16:00",
-                "event": "Women's College Basketball : Iona at Merrimack",
-                "channels": [
-                    {
-                        "channel_name": "NESN USA",
-                        "channel_id": "762"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "NCAAW : Seton Hall vs Georgetown",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "68"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "NCAAW : Arkansas State vs Georgia State",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "69"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "NCAAW : Indiana State vs Valparaiso",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "76"
-                    }
-                ]
-            },
-            {
                 "time": "17:00",
                 "event": "Russian Cup Women : Nika Siktivkar W vs Dynamo Kursk W",
                 "channels": [
@@ -7570,16 +7544,6 @@
                     {
                         "channel_name": "5 Live Israel",
                         "channel_id": "146"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "NCAAW : Idaho vs Northern Colorado",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "181"
                     }
                 ]
             },
@@ -7726,6 +7690,68 @@
                     {
                         "channel_name": "SportsNet Pittsburgh",
                         "channel_id": "922"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Girls High School Basketball : Lee's Summit North vs Liberty",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "209"
+                    }
+                ]
+            }
+        ],
+        "NCAA/NCAAW Basketball": [
+            {
+                "time": "16:00",
+                "event": "Women's College Basketball : Iona at Merrimack",
+                "channels": [
+                    {
+                        "channel_name": "NESN USA",
+                        "channel_id": "762"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "NCAAW : Seton Hall vs Georgetown",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "NCAAW : Arkansas State vs Georgia State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "NCAAW : Indiana State vs Valparaiso",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "76"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "NCAAW : Idaho vs Northern Colorado",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "181"
                     }
                 ]
             },
@@ -8311,26 +8337,6 @@
             },
             {
                 "time": "00:00",
-                "event": "NBA G-League : Maine Celtics vs Grand Rapids Drive",
-                "channels": [
-                    {
-                        "channel_name": "NBCS Boston USA",
-                        "channel_id": "754"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "NBA G-League : Westchester Knicks vs Osceola Magic",
-                "channels": [
-                    {
-                        "channel_name": "FanDuel Sports Network Florida",
-                        "channel_id": "892"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
                 "event": "NCAA : Iowa State vs Colorado",
                 "channels": [
                     {
@@ -8356,16 +8362,6 @@
                     {
                         "channel_name": "SportsNet New York USA",
                         "channel_id": "759"
-                    }
-                ]
-            },
-            {
-                "time": "00:30",
-                "event": "NBA G-League : Stockton Kings at Austin Toros Spurs",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "188"
                     }
                 ]
             },
@@ -8606,16 +8602,6 @@
                     {
                         "channel_name": "ESPN2 USA",
                         "channel_id": "45"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "Girls High School Basketball : Lee's Summit North vs Liberty",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "209"
                     }
                 ]
             },
@@ -8920,16 +8906,6 @@
                 ]
             },
             {
-                "time": "03:00",
-                "event": "NBA G-League : South Bay Lakers vs Salt Lake City Stars",
-                "channels": [
-                    {
-                        "channel_name": "Spectrum SportsNet USA",
-                        "channel_id": "982"
-                    }
-                ]
-            },
-            {
                 "time": "04:00",
                 "event": "NCAA : UC Irvine vs Hawaii",
                 "channels": [
@@ -8938,7 +8914,51 @@
                         "channel_id": "316"
                     }
                 ]
+            }
+        ],
+        "NBA G-League": [
+            {
+                "time": "00:00",
+                "event": "NBA G-League : Maine Celtics vs Grand Rapids Drive",
+                "channels": [
+                    {
+                        "channel_name": "NBCS Boston USA",
+                        "channel_id": "754"
+                    }
+                ]
             },
+            {
+                "time": "00:00",
+                "event": "NBA G-League : Westchester Knicks vs Osceola Magic",
+                "channels": [
+                    {
+                        "channel_name": "FanDuel Sports Network Florida",
+                        "channel_id": "892"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "NBA G-League : Stockton Kings at Austin Toros Spurs",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "188"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "NBA G-League : South Bay Lakers vs Salt Lake City Stars",
+                "channels": [
+                    {
+                        "channel_name": "Spectrum SportsNet USA",
+                        "channel_id": "982"
+                    }
+                ]
+            }
+        ],
+        "NBA": [
             {
                 "time": "00:00",
                 "event": "NBA : Philadelphia 76ers vs Sacramento Kings",
@@ -9286,6 +9306,116 @@
         ],
         "Ice Hockey": [
             {
+                "time": "09:15",
+                "event": "Russia KHL : Avtomobilist Yekaterinburg vs Amur Khabarovsk",
+                "channels": [
+                    {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "28"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "Russia KHL : Avangard Omsk vs Traktor Chelyabinsk",
+                "channels": [
+                    {
+                        "channel_name": "KHL Prime",
+                        "channel_id": "26"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "Russia MHL : Stalnye Lisy U20 vs Avto Yekaterinburg U20",
+                "channels": [
+                    {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "28"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "Russia MHL : Dynamo Moscow U20 vs Dinamo St. Petersburg U20",
+                "channels": [
+                    {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "28"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "Russia KHL : Sochi vs Shanghai Dragons",
+                "channels": [
+                    {
+                        "channel_name": "KHL Prime",
+                        "channel_id": "26"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Skelleftea vs Timra",
+                "channels": [
+                    {
+                        "channel_name": "TV12 Sweden",
+                        "channel_id": "23"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Rogle vs Djurgardens",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 1 Sweden",
+                        "channel_id": "703"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Orebro vs HV 71",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 2 Sweden",
+                        "channel_id": "704"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Lulea vs Malmo",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 3 Sweden",
+                        "channel_id": "705"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Farjestad BK vs Frolunda",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Hockey",
+                        "channel_id": "700"
+                    },
+                    {
+                        "channel_name": "Viaplay Sports 1 UK",
+                        "channel_id": "451"
+                    },
+                    {
+                        "channel_name": "SPORT1+ DE",
+                        "channel_id": "640"
+                    }
+                ]
+            }
+        ],
+        "NHL": [
+            {
                 "time": "00:00",
                 "event": "NHL : Utah Mammoth vs Carolina Hurricanes",
                 "channels": [
@@ -9580,114 +9710,6 @@
                     {
                         "channel_name": "V Sport Premium",
                         "channel_id": "25"
-                    }
-                ]
-            },
-            {
-                "time": "09:15",
-                "event": "Russia KHL : Avtomobilist Yekaterinburg vs Amur Khabarovsk",
-                "channels": [
-                    {
-                        "channel_name": "KHL Tv",
-                        "channel_id": "28"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "Russia KHL : Avangard Omsk vs Traktor Chelyabinsk",
-                "channels": [
-                    {
-                        "channel_name": "KHL Prime",
-                        "channel_id": "26"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "Russia MHL : Stalnye Lisy U20 vs Avto Yekaterinburg U20",
-                "channels": [
-                    {
-                        "channel_name": "KHL Tv",
-                        "channel_id": "28"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "Russia MHL : Dynamo Moscow U20 vs Dinamo St. Petersburg U20",
-                "channels": [
-                    {
-                        "channel_name": "KHL Tv",
-                        "channel_id": "28"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "Russia KHL : Sochi vs Shanghai Dragons",
-                "channels": [
-                    {
-                        "channel_name": "KHL Prime",
-                        "channel_id": "26"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Skelleftea vs Timra",
-                "channels": [
-                    {
-                        "channel_name": "TV12 Sweden",
-                        "channel_id": "23"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Rogle vs Djurgardens",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 1 Sweden",
-                        "channel_id": "703"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Orebro vs HV 71",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 2 Sweden",
-                        "channel_id": "704"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Lulea vs Malmo",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 3 Sweden",
-                        "channel_id": "705"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Farjestad BK vs Frolunda",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey",
-                        "channel_id": "700"
-                    },
-                    {
-                        "channel_name": "Viaplay Sports 1 UK",
-                        "channel_id": "451"
-                    },
-                    {
-                        "channel_name": "SPORT1+ DE",
-                        "channel_id": "640"
                     }
                 ]
             }
