@@ -1628,7 +1628,21 @@
         ],
         "Tennis BOYS & GIRLS": [
             {
-                "time": "23:00",
+                "time": "00:00",
+                "event": "Tennis : Margaret Court Arena",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
                 "event": "Tennis : 1573 Arena",
                 "channels": [
                     {
@@ -1638,90 +1652,20 @@
                 ]
             },
             {
-                "time": "23:00",
-                "event": "Tennis : ANZ Arena",
+                "time": "00:00",
+                "event": "Tennis : Court 5",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1519"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "Tennis : Court 6",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1506"
+                        "channel_id": "1505"
                     }
                 ]
             }
         ],
-        "Tennis WTA - AUSTRALIAN OPEN": [
-            {
-                "time": "08:30",
-                "event": "WTA - AO : Sabalenka A. VS Svitolina E.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1501"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1521"
-                    }
-                ]
-            },
-            {
-                "time": "10:00",
-                "event": "WTA - AO : Pegula J. vs Rybakina E.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1501"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1521"
-                    }
-                ]
-            }
-        ],
-        "Tennis ATP DOUBLES - AUSTRALIAN OPEN": [
-            {
-                "time": "02:00",
-                "event": "ATP DOUBLES AO : Kubler J./Polmans M. vs Johnson L./Zielinski J.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1501"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1521"
-                    }
-                ]
-            },
-            {
-                "time": "03:00",
-                "event": "ATP DOUBLES AO : Granollers M./Zeballos H. vs Harrison C./Skupski N.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1502"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1522"
-                    }
-                ]
-            }
-        ],
-        "Tennis WTA DOUBLES - AUSTRALIAN OPEN": [
+        "Tennis ATP - AUSTRALIAN OPEN": [
             {
                 "time": "03:30",
-                "event": "WTA DOUBLES AO : Danilina A./Krunic A. vs Dabrowski G./Stefani L.",
+                "event": "ATP - AO : Alcaraz C. vs Zverev A.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1734,16 +1678,32 @@
                 ]
             },
             {
-                "time": "06:00",
-                "event": "WTA DOUBLES AO : Mertens E./Zhang S. vs Shibahara E./Zvonareva V.",
+                "time": "08:30",
+                "event": "ATP - AO : Djokovic N. vs Sinner J.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1502"
+                        "channel_id": "1501"
                     },
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1522"
+                        "channel_id": "1521"
+                    }
+                ]
+            }
+        ],
+        "Tennis MIXED DOUBLES - AUSTRALIAN OPEN": [
+            {
+                "time": "01:00",
+                "event": "MIXED DOUBLES AO : Gadecki O./Peers J. vs Mladenovic K./Guinard M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
                     }
                 ]
             }
@@ -6928,10 +6888,88 @@
                     {
                         "channel_name": "TNT Sports 2 UK",
                         "channel_id": "32"
+                    }
+                ]
+            }
+        ],
+        "Tennis BOYS & GIRLS": [
+            {
+                "time": "00:00",
+                "event": "Tennis : Margaret Court Arena",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
                     },
                     {
-                        "channel_name": "SuperSport Cricket",
-                        "channel_id": "368"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Tennis : 1573 Arena",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1518"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Tennis : Court 5",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - AUSTRALIAN OPEN": [
+            {
+                "time": "03:30",
+                "event": "ATP - AO : Alcaraz C. vs Zverev A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            },
+            {
+                "time": "08:30",
+                "event": "ATP - AO : Djokovic N. vs Sinner J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            }
+        ],
+        "Tennis MIXED DOUBLES - AUSTRALIAN OPEN": [
+            {
+                "time": "01:00",
+                "event": "MIXED DOUBLES AO : Gadecki O./Peers J. vs Mladenovic K./Guinard M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
                     }
                 ]
             }
@@ -7272,7 +7310,7 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (SmackDown)": [
             {
                 "time": "01:00",
                 "event": "WWE Friday Night SmackDown",
@@ -7284,6 +7322,16 @@
                     {
                         "channel_name": "Sport 5 PLUS Israel",
                         "channel_id": "145"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "College Wrestling : Rider vs George Mason",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "105"
                     }
                 ]
             },
@@ -7308,8 +7356,38 @@
                 ]
             },
             {
+                "time": "00:00",
+                "event": "College Wrestling : Ohio VS Central Michigan",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "College Wrestling : Northern Iowa vs Oklahoma State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "107"
+                    }
+                ]
+            },
+            {
                 "time": "01:00",
                 "event": "Men's College Wrestling : Nebraska vs. Penn State",
+                "channels": [
+                    {
+                        "channel_name": "BTN USA",
+                        "channel_id": "397"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "College Wrestling : Illinois vs Indiana",
                 "channels": [
                     {
                         "channel_name": "BTN USA",
@@ -7638,78 +7716,6 @@
                 ]
             }
         ],
-        "Wrestling": [
-            {
-                "time": "22:00",
-                "event": "Rider vs George Mason",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "105"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "Ohio State vs University of Wisconsin",
-                "channels": [
-                    {
-                        "channel_name": "BTN USA",
-                        "channel_id": "397"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "NC State vs Virginia Tech",
-                "channels": [
-                    {
-                        "channel_name": "ACC Network USA",
-                        "channel_id": "664"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "Ohio VS Central Michigan",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "106"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "Penn State vs Nebraska",
-                "channels": [
-                    {
-                        "channel_name": "BTN USA",
-                        "channel_id": "397"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "Northern Iowa vs Oklahoma State",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "107"
-                    }
-                ]
-            },
-            {
-                "time": "03:00",
-                "event": "Illinois vs Indiana",
-                "channels": [
-                    {
-                        "channel_name": "BTN USA",
-                        "channel_id": "397"
-                    }
-                ]
-            }
-        ],
         "Basketball": [
             {
                 "time": "16:00",
@@ -7930,7 +7936,9 @@
                         "channel_id": "457"
                     }
                 ]
-            },
+            }
+        ],
+        "Unrivaled Basketball": [
             {
                 "time": "00:30",
                 "event": "Unrivaled Basketball Breeze Basketball Club vs Phantom Basketball Club",
@@ -8299,7 +8307,7 @@
         "NBA G League Basketball": [
             {
                 "time": "19:00",
-                "event": "Wisconsin Herd vs Capital City Go-Go",
+                "event": "NBA G League : Wisconsin Herd vs Capital City Go-Go",
                 "channels": [
                     {
                         "channel_name": "Monumental Sports Network",
@@ -8323,14 +8331,16 @@
         "Girls High School Basketball": [
             {
                 "time": "23:30",
-                "event": "Grandview vs Kearney",
+                "event": "Girls High School Basketball : Grandview vs Kearney",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "169"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "00:00",
                 "event": "NBA : Washington Wizards vs Los Angeles Lakers",
@@ -8877,7 +8887,7 @@
         "Gymnastics": [
             {
                 "time": "23:00",
-                "event": "Oklahoma vs Kentucky",
+                "event": "Gymnastics : Oklahoma vs Kentucky",
                 "channels": [
                     {
                         "channel_name": "SEC Network USA",
@@ -8887,7 +8897,7 @@
             },
             {
                 "time": "00:00",
-                "event": "North Carolina vs Clemson",
+                "event": "Gymnastics : North Carolina vs Clemson",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -8897,7 +8907,7 @@
             },
             {
                 "time": "00:00",
-                "event": "Cornell Pittsburgh vs West Virginia",
+                "event": "Gymnastics : Cornell Pittsburgh vs West Virginia",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -8907,7 +8917,7 @@
             },
             {
                 "time": "00:30",
-                "event": "Georgia Meet",
+                "event": "Gymnastics : Georgia Meet",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -8917,7 +8927,7 @@
             },
             {
                 "time": "00:30",
-                "event": "Oregon State vs Alabama",
+                "event": "Gymnastics : Oregon State vs Alabama",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -8927,7 +8937,7 @@
             },
             {
                 "time": "00:30",
-                "event": "Arkansas vs Florida",
+                "event": "Gymnastics : Arkansas vs Florida",
                 "channels": [
                     {
                         "channel_name": "ESPN2 USA",
@@ -8937,7 +8947,7 @@
             },
             {
                 "time": "00:45",
-                "event": "LSU vs Missouri",
+                "event": "Gymnastics : LSU vs Missouri",
                 "channels": [
                     {
                         "channel_name": "SEC Network USA",
@@ -8947,7 +8957,7 @@
             },
             {
                 "time": "02:00",
-                "event": "Arizona State vs Utah",
+                "event": "Gymnastics : Arizona State vs Utah",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -8957,7 +8967,7 @@
             },
             {
                 "time": "02:00",
-                "event": "Arizona vs BYU",
+                "event": "Gymnastics : Arizona vs BYU",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -8967,7 +8977,7 @@
             },
             {
                 "time": "03:00",
-                "event": "California vs Stanford",
+                "event": "Gymnastics : California vs Stanford",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -8977,7 +8987,7 @@
             },
             {
                 "time": "03:00",
-                "event": "UCLA vs Washington",
+                "event": "Gymnastics : UCLA vs Washington",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
@@ -9042,6 +9052,132 @@
         ],
         "Ice Hockey": [
             {
+                "time": "11:00",
+                "event": "Russia MHL : Sibirskie Snaipery U20 vs AKM-Novomoskovsk U20",
+                "channels": [
+                    {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "24"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "Russia MHL : Stalnye Lisy U20 vs Avto Yekaterinburg U20",
+                "channels": [
+                    {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "24"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "Russia KHL : Lokomotiv Yaroslavl vs Lada Togliatti",
+                "channels": [
+                    {
+                        "channel_name": "KHL Prime",
+                        "channel_id": "15"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "Russia KHL : Shanghai Dragons vs Sochi",
+                "channels": [
+                    {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "24"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "KHL : Spartak Moscow vs SKA St. Petersburg",
+                "channels": [
+                    {
+                        "channel_name": "Match TV Russia",
+                        "channel_id": "127"
+                    },
+                    {
+                        "channel_name": "Arena Sport 3 Serbia",
+                        "channel_id": "431"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Vasteras vs Kalmar",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 4 Sweden",
+                        "channel_id": "706"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Nybro vs Sodertalje",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 2 Sweden",
+                        "channel_id": "704"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : Modo vs Vimmerby",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 3 Sweden",
+                        "channel_id": "705"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : IF Bjorkloven vs Mora",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Hockey Sweden",
+                        "channel_id": "700"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "HockeyAllsvenskan : AIK vs Almtuna",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 1 Sweden",
+                        "channel_id": "703"
+                    }
+                ]
+            },
+            {
+                "time": "18:15",
+                "event": "Austria ICE Hockey League : HK Olimpija vs Red Bull Salzburg",
+                "channels": [
+                    {
+                        "channel_name": "STV 1 Slovenia",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "France Ligue Magnus : Ducs d'Angers vs Br\u00fbleurs de Loups Grenoble",
+                "channels": [
+                    {
+                        "channel_name": "Sport en France",
+                        "channel_id": "965"
+                    }
+                ]
+            }
+        ],
+        "NHL": [
+            {
                 "time": "01:30",
                 "event": "NHL : Columbus Blue Jackets vs Chicago Blackhawks",
                 "channels": [
@@ -9098,136 +9234,12 @@
                         "channel_id": "146"
                     }
                 ]
-            },
-            {
-                "time": "18:15",
-                "event": "Austria ICE Hockey League : HK Olimpija vs Red Bull Salzburg",
-                "channels": [
-                    {
-                        "channel_name": "STV 1 Slovenia",
-                        "channel_id": "25"
-                    }
-                ]
-            },
-            {
-                "time": "11:00",
-                "event": "Russia MHL : Sibirskie Snaipery U20 vs AKM-Novomoskovsk U20",
-                "channels": [
-                    {
-                        "channel_name": "KHL Tv",
-                        "channel_id": "24"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "Russia MHL : Stalnye Lisy U20 vs Avto Yekaterinburg U20",
-                "channels": [
-                    {
-                        "channel_name": "KHL Tv",
-                        "channel_id": "24"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "Russia KHL : Lokomotiv Yaroslavl vs Lada Togliatti",
-                "channels": [
-                    {
-                        "channel_name": "KHL Prime",
-                        "channel_id": "15"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "Russia KHL : Shanghai Dragons vs Sochi",
-                "channels": [
-                    {
-                        "channel_name": "KHL Tv",
-                        "channel_id": "24"
-                    }
-                ]
-            },
-            {
-                "time": "19:30",
-                "event": "France Ligue Magnus : Ducs d'Angers vs Br\u00fbleurs de Loups Grenoble",
-                "channels": [
-                    {
-                        "channel_name": "Sport en France",
-                        "channel_id": "965"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Vasteras vs Kalmar",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 4 Sweden",
-                        "channel_id": "706"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Nybro vs Sodertalje",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 2 Sweden",
-                        "channel_id": "704"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : Modo vs Vimmerby",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 3 Sweden",
-                        "channel_id": "705"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : IF Bjorkloven vs Mora",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey Sweden",
-                        "channel_id": "700"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "HockeyAllsvenskan : AIK vs Almtuna",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 1 Sweden",
-                        "channel_id": "703"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "KHL : Spartak Moscow vs SKA St. Petersburg",
-                "channels": [
-                    {
-                        "channel_name": "Match TV Russia",
-                        "channel_id": "127"
-                    },
-                    {
-                        "channel_name": "Arena Sport 3 Serbia",
-                        "channel_id": "431"
-                    }
-                ]
             }
         ],
         "College Ice Hockey": [
             {
                 "time": "23:00",
-                "event": "Michigan State vs Penn State",
+                "event": "College Ice Hockey : Michigan State vs Penn State",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
@@ -9237,7 +9249,7 @@
             },
             {
                 "time": "23:30",
-                "event": "Michigan vs Ohio State",
+                "event": "College Ice Hockey : Michigan vs Ohio State",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
@@ -9247,7 +9259,7 @@
             },
             {
                 "time": "00:00",
-                "event": "Boston College vs Boston University",
+                "event": "College Ice Hockey : Boston College vs Boston University",
                 "channels": [
                     {
                         "channel_name": "NESN USA",
@@ -9257,7 +9269,7 @@
             },
             {
                 "time": "00:00",
-                "event": "Northeastern vs UMass Amherst",
+                "event": "College Ice Hockey : Northeastern vs UMass Amherst",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -9267,7 +9279,7 @@
             },
             {
                 "time": "00:00",
-                "event": "New Hampshire vs Merrimack",
+                "event": "College Ice Hockey : New Hampshire vs Merrimack",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -9277,7 +9289,7 @@
             },
             {
                 "time": "00:00",
-                "event": "Stonehill vs Vermon",
+                "event": "College Ice Hockey : Stonehill vs Vermon",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -9287,7 +9299,7 @@
             },
             {
                 "time": "00:00",
-                "event": "Cornell vs Yale",
+                "event": "College Ice Hockey : Cornell vs Yale",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -9297,7 +9309,7 @@
             },
             {
                 "time": "00:00",
-                "event": "Union vs Dartmouth",
+                "event": "College Ice Hockey : Union vs Dartmouth",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -9307,7 +9319,7 @@
             },
             {
                 "time": "00:00",
-                "event": "Quinnipiac vs St. Lawrence",
+                "event": "College Ice Hockey : Quinnipiac vs St. Lawrence",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -9317,7 +9329,7 @@
             },
             {
                 "time": "00:00",
-                "event": "Rensselaer vs Harvard",
+                "event": "College Ice Hockey : Rensselaer vs Harvard",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -9327,7 +9339,7 @@
             },
             {
                 "time": "00:00",
-                "event": "Princeton vs Clarkson",
+                "event": "College Ice Hockey : Princeton vs Clarkson",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -9337,7 +9349,7 @@
             },
             {
                 "time": "00:00",
-                "event": "Colgate vs Brown",
+                "event": "College Ice Hockey : Colgate vs Brown",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -9347,7 +9359,7 @@
             },
             {
                 "time": "00:00",
-                "event": "Bowling Green vs Notre Dame",
+                "event": "College Ice Hockey : Bowling Green vs Notre Dame",
                 "channels": [
                     {
                         "channel_name": "Peacock",
@@ -9357,7 +9369,7 @@
             },
             {
                 "time": "00:00",
-                "event": "Army vs Holy Cross",
+                "event": "College Ice Hockey : Army vs Holy Cross",
                 "channels": [
                     {
                         "channel_name": "FloHockey",
@@ -9367,7 +9379,7 @@
             },
             {
                 "time": "01:00",
-                "event": "Wisconsin vs Minnesota",
+                "event": "College Ice Hockey : Wisconsin vs Minnesota",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
@@ -9377,7 +9389,7 @@
             },
             {
                 "time": "02:00",
-                "event": "Arizona State vs Colorado College",
+                "event": "College Ice Hockey : Arizona State vs Colorado College",
                 "channels": [
                     {
                         "channel_name": "SportsNet Pittsburgh",
@@ -9389,7 +9401,7 @@
         "Women's College Ice Hockey": [
             {
                 "time": "16:00",
-                "event": "Robert Morris vs Penn State",
+                "event": "College Ice Hockey W : Robert Morris vs Penn State",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
@@ -9399,7 +9411,7 @@
             },
             {
                 "time": "19:00",
-                "event": "Boston University vs Merrimack",
+                "event": "College Ice Hockey W : Boston University vs Merrimack",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -9409,7 +9421,7 @@
             },
             {
                 "time": "19:00",
-                "event": "Providence vs Vermont",
+                "event": "College Ice Hockey W : Providence vs Vermont",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -9419,7 +9431,7 @@
             },
             {
                 "time": "20:00",
-                "event": "St. Cloud State - St. Thomas (MN)",
+                "event": "College Ice Hockey W : St. Cloud State - St. Thomas (MN)",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
@@ -9429,7 +9441,7 @@
             },
             {
                 "time": "20:00",
-                "event": "Quinnipiac vs Clarkson",
+                "event": "College Ice Hockey W : Quinnipiac vs Clarkson",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -9439,7 +9451,7 @@
             },
             {
                 "time": "20:00",
-                "event": "Princeton vs St. Lawrence",
+                "event": "College Ice Hockey W : Princeton vs St. Lawrence",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -9449,7 +9461,7 @@
             },
             {
                 "time": "23:00",
-                "event": "Minnesota Duluth vs Ohio State",
+                "event": "College Ice Hockey W : Minnesota Duluth vs Ohio State",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
@@ -9459,7 +9471,7 @@
             },
             {
                 "time": "23:00",
-                "event": "Yale vs Rensselaer",
+                "event": "College Ice Hockey W : Yale vs Rensselaer",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -9469,7 +9481,7 @@
             },
             {
                 "time": "23:00",
-                "event": "UConn vs New Hampshire",
+                "event": "College Ice Hockey W : UConn vs New Hampshire",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -9479,7 +9491,7 @@
             },
             {
                 "time": "23:00",
-                "event": "Brown vs Union",
+                "event": "College Ice Hockey W : Brown vs Union",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -9489,7 +9501,7 @@
             },
             {
                 "time": "23:00",
-                "event": "Maine vs Boston College",
+                "event": "College Ice Hockey W : Maine vs Boston College",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -9499,7 +9511,7 @@
             },
             {
                 "time": "23:00",
-                "event": "Harvard vs Colgate",
+                "event": "College Ice Hockey W : Harvard vs Colgate",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -9509,7 +9521,7 @@
             },
             {
                 "time": "23:00",
-                "event": "Dartmouth vs Cornell",
+                "event": "College Ice Hockey W : Dartmouth vs Cornell",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -9519,7 +9531,7 @@
             },
             {
                 "time": "23:00",
-                "event": "Minnesota State vs Bemidji State",
+                "event": "College Ice Hockey W : Minnesota State vs Bemidji State",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
@@ -9529,7 +9541,7 @@
             },
             {
                 "time": "00:00",
-                "event": "Wisconsin vs Minnesota",
+                "event": "College Ice Hockey W : Wisconsin vs Minnesota",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
