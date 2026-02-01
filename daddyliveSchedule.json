@@ -2,6 +2,26 @@
     "Sunday 01st Feb 2026 - Schedule Time UK GMT": {
         "68th Grammy Awards": [
             {
+                "time": "21:00",
+                "event": "E! Countdown to the Red Carpet Grammys 2026 Episode 1 \u2022 Live",
+                "channels": [
+                    {
+                        "channel_name": "E! USA",
+                        "channel_id": "315"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "E! Live From the Red Carpet Grammys 2026 Episode 3 \u2022 Live",
+                "channels": [
+                    {
+                        "channel_name": "E! USA",
+                        "channel_id": "315"
+                    }
+                ]
+            },
+            {
                 "time": "01:00",
                 "event": "The 68th Annual Grammy Awards : Live",
                 "channels": [
@@ -74,32 +94,12 @@
                 ]
             },
             {
-                "time": "21:00",
-                "event": "E! Countdown to the Red Carpet Grammys 2026 Episode 1 \u2022 Live",
-                "channels": [
-                    {
-                        "channel_name": "E! USA",
-                        "channel_id": "315"
-                    }
-                ]
-            },
-            {
                 "time": "22:00",
                 "event": "FanDuel Racing Live",
                 "channels": [
                     {
                         "channel_name": "Altitude Sports",
                         "channel_id": "923"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "E! Live From the Red Carpet Grammys 2026 Episode 3 \u2022 Live",
-                "channels": [
-                    {
-                        "channel_name": "E! USA",
-                        "channel_id": "315"
                     }
                 ]
             },
@@ -6336,28 +6336,6 @@
                 ]
             },
             {
-                "time": "21:00",
-                "event": "NBA : San Antonio Spurs vs Orlando Magic",
-                "channels": [
-                    {
-                        "channel_name": "NBA League Pass",
-                        "channel_id": "5"
-                    },
-                    {
-                        "channel_name": "FanDuel Sports Network Florida",
-                        "channel_id": "892"
-                    },
-                    {
-                        "channel_name": "Arena 1 Premium Serbia",
-                        "channel_id": "134"
-                    },
-                    {
-                        "channel_name": "Cosmote Sport 4 Greece",
-                        "channel_id": "625"
-                    }
-                ]
-            },
-            {
                 "time": "23:00",
                 "event": "NBA : Detroit Pistons vs Brooklyn Nets",
                 "channels": [
@@ -6514,6 +6492,28 @@
                     {
                         "channel_name": "FanDuel Sports Network SoCal",
                         "channel_id": "902"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "NBA : San Antonio Spurs vs Orlando Magic",
+                "channels": [
+                    {
+                        "channel_name": "NBA League Pass",
+                        "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Florida",
+                        "channel_id": "892"
+                    },
+                    {
+                        "channel_name": "Arena 1 Premium Serbia",
+                        "channel_id": "134"
+                    },
+                    {
+                        "channel_name": "Cosmote Sport 4 Greece",
+                        "channel_id": "625"
                     }
                 ]
             },
