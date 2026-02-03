@@ -33,6 +33,8 @@ https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 https://vavoo.to/vavoo-iptv/play/116299718d713a2de061f
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcfjFIqjwxnG9AbEhJ6gwKb6IprmlFnF9aQ&s" group-title="Altro",CANALE 21 EXTRA
 https://vavoo.to/vavoo-iptv/play/24545581364a76ecd911e4
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Canale_7.png" group-title="Altro",CANALE 7
+https://vavoo.to/vavoo-iptv/play/996680722dbf763c9bb56
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro",CANALE 8
 https://vavoo.to/vavoo-iptv/play/31075009959a8de9232b11
 #EXTINF:-1 tvg-id="cielo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro",CIELO
@@ -93,8 +95,6 @@ https://vavoo.to/vavoo-iptv/play/179187969291f776663d1e
 https://vavoo.to/vavoo-iptv/play/2343767125eb4977361e91
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV
 https://vavoo.to/vavoo-iptv/play/28955495519a6e882c3db3
-#EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO
-https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Telechiara-logo.png" group-title="Altro",TELE CHIARA
 https://vavoo.to/vavoo-iptv/play/2521825076452ac13ce197
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.telefriuli.it/wp-content/uploads/2022/11/logo_telefriuli_positivo.png" group-title="Altro",TELE FRIULI
@@ -105,6 +105,8 @@ https://vavoo.to/vavoo-iptv/play/1294463772435c5239e44
 https://vavoo.to/vavoo-iptv/play/21884692197ee0a9ba39f6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teletricolore.it/wp-content/uploads/2018/02/logo.png" group-title="Altro",TELE TRICOLORE
 https://vavoo.to/vavoo-iptv/play/2314613216d218b9f4abd4
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xhoeVg7nRLPp8GnPkFzLUWvJ5WolvU-iYw&s" group-title="Altro",TELE VENEZIA
+https://vavoo.to/vavoo-iptv/play/10952221968404a15fb50
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV
 https://vavoo.to/vavoo-iptv/play/27978570454e40f7218cf4
 #EXTINF:-1 tvg-id="tv8.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8
@@ -163,8 +165,6 @@ https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
 https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
-https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
 https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 1
@@ -213,12 +213,8 @@ https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
 https://vavoo.to/vavoo-iptv/play/78546677680f40b76841
 #EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO
 https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1
-https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS
 https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
-#EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
-https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
@@ -291,8 +287,6 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 # NEWS
 #EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24
 https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
-#EXTINF:-1 tvg-id="tgcom24.it" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TG COM 24
-https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc
 #EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24
 https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c
 
@@ -302,7 +296,7 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="italyserieabolognavsmilan" tvg-name="All Soccer Events | Italy - Serie A : Bologna vs Milan (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bologna_vs_Milan.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Bologna vs Milan (21:45)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="montpellieratpabudhabiwtaclujnapocawtaampostravawtaearlyrounds" tvg-name="Tennis | Montpellier-ATP, Abu Dhabi-WTA, Cluj-Napoca-WTA &amp; Ostrava-WTA Early Rounds (09:00)" tvg-logo="https://styles.redditmedia.com/t5_3w9c7h/styles/communityIcon_npdtli3kcgrc1.png" group-title="Eventi Live DLHD",Tennis | Montpellier-ATP, Abu Dhabi-WTA, Cluj-Napoca-WTA &amp; Ostrava-WTA Early Rounds (09:00)
+#EXTINF:-1 tvg-id="montpellieratpabudhabiwtaclujnapocawtaampostravawtaearlyrounds" tvg-name="Tennis | Montpellier-ATP, Abu Dhabi-WTA, Cluj-Napoca-WTA &amp; Ostrava-WTA Early Rounds (09:00)" tvg-logo="https://join.tapro.com/wp-content/uploads/2025/06/Rik-derks.png" group-title="Eventi Live DLHD",Tennis | Montpellier-ATP, Abu Dhabi-WTA, Cluj-Napoca-WTA &amp; Ostrava-WTA Early Rounds (09:00)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="worldgrandprixtournamentday1" tvg-name="Snooker | World Grand Prix Tournament Day 1 (07:00)" tvg-logo="https://perthgrandprix.com.au/wp-content/uploads/2024/04/round1_iso.png" group-title="Eventi Live DLHD",Snooker | World Grand Prix Tournament Day 1 (07:00)
@@ -314,7 +308,7 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="ucitrackeuropeanchampionshipskonyaday3" tvg-name="Cycling | UCI Track European Championships | Konya Day 3 (17:15)" tvg-logo="https://freelogopng.com/images/all_img/1681039084chatgpt-icon.png" group-title="Eventi Live DLHD",Cycling | UCI Track European Championships | Konya Day 3 (17:15)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="nordiccombinedworldcupseefeldrace1" tvg-name="Winter Sports | Nordic combined World Cup - Seefeld - Race 1 (16:00)" tvg-logo="https://brandlogovector.com/wp-content/uploads/2021/10/FIFA-World-Cup-2022-Logo-Small.png" group-title="Eventi Live DLHD",Winter Sports | Nordic combined World Cup - Seefeld - Race 1 (16:00)
+#EXTINF:-1 tvg-id="nordiccombinedworldcupseefeldrace1" tvg-name="Winter Sports | Nordic combined World Cup - Seefeld - Race 1 (16:00)" tvg-logo="https://png.pngtree.com/png-clipart/20221008/original/pngtree-t20-world-cup-logo-png-image_8666032.png" group-title="Eventi Live DLHD",Winter Sports | Nordic combined World Cup - Seefeld - Race 1 (16:00)
 https://dlhd.dad/watch.php?id=882
 
 
