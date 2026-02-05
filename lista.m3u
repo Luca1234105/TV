@@ -505,6 +505,8 @@ https://vavoo.to/vavoo-iptv/play/22376603018e09f8150d84
 # SPORT
 #EXTINF:-1 tvg-id="aci.sport.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/aci-sport-tv-it.png" group-title="Sport",ACI SPORT TV
 https://vavoo.to/vavoo-iptv/play/13516316035c18ca000fe1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
+https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
@@ -705,8 +707,10 @@ https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE (2)
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (1)
 https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (2)
+https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
 https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
 #EXTINF:-1 tvg-id="sky.crime.it" tvg-logo="" group-title="Film - Serie TV",SKY CRIME
@@ -855,9 +859,6 @@ https://example.com.m3u8
 https://dlhd.dad/watch.php?id=854
 
 #EXTINF:-1 tvg-id="icehockeyfinlandvscanada" tvg-name="Floorball | Ice Hockey : Finland vs Canada (22:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Finland_vs_Canada.png" group-title="Eventi Live DLHD",Floorball | Ice Hockey : Finland vs Canada (22:05)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="olympicgameswomenitalyvsfrance" tvg-name="Olympic Games Women Ice Hockey | Olympic Games Women : Italy vs France (15:40)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_France.png" group-title="Eventi Live DLHD",Olympic Games Women Ice Hockey | Olympic Games Women : Italy vs France (15:40)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="olympicgameswomenunitedstatesvsczechrepublic" tvg-name="Olympic Games Women Ice Hockey | Olympic Games Women : United States vs Czech Republic (18:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/United States_vs_Czech Republic.png" group-title="Eventi Live DLHD",Olympic Games Women Ice Hockey | Olympic Games Women : United States vs Czech Republic (18:10)
