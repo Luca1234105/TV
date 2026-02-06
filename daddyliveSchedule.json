@@ -1202,18 +1202,8 @@
         ],
         "Tennis ATP - MONTPELLIER": [
             {
-                "time": "12:00",
-                "event": "ATP - MONTPELLIER : Droguet T. vs Kovacevic A.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1067"
-                    }
-                ]
-            },
-            {
                 "time": "13:30",
-                "event": "ATP - MONTPELLIER : Griekspoor T. vs Carreno-Busta P.",
+                "event": "ATP - MONTPELLIER : Mannarino A. vs Gea A.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1223,7 +1213,7 @@
             },
             {
                 "time": "15:00",
-                "event": "ATP - MONTPELLIER : Nardi L. vs Cobolli F.",
+                "event": "ATP - MONTPELLIER : Damm M. vs Nardi L.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1233,7 +1223,7 @@
             },
             {
                 "time": "17:30",
-                "event": "ATP - MONTPELLIER : Auger-Aliassime F. vs Wawrinka S.",
+                "event": "ATP - MONTPELLIER : Auger-Aliassime F. vs Fils A.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1243,7 +1233,7 @@
             },
             {
                 "time": "19:00",
-                "event": "ATP - MONTPELLIER : Blanchet U. vs Fils A.",
+                "event": "ATP - MONTPELLIER : Griekspoor T. vs Droguet T.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1252,10 +1242,22 @@
                 ]
             }
         ],
+        "Tennis DAVIS CUP": [
+            {
+                "time": "05:00",
+                "event": "DAVIS CUP : Japan vs Austria",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
         "Tennis WTA - ABU DHABI": [
             {
-                "time": "09:00",
-                "event": "WTA - ABU DHABI : Tauson C. vs Kessler M.",
+                "time": "14:00",
+                "event": "WTA - ABU DHABI : Baptiste H. vs Alexandrova E.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1268,36 +1270,8 @@
                 ]
             },
             {
-                "time": "10:30",
-                "event": "WTA - ABU DHABI : Kartal S. vs Bejlek S.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1524"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1501"
-                    }
-                ]
-            },
-            {
-                "time": "13:00",
-                "event": "WTA - ABU DHABI : Eala A. vs Alexandrova E.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1524"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1501"
-                    }
-                ]
-            },
-            {
-                "time": "14:30",
-                "event": "WTA - ABU DHABI : Samsonova L. vs Baptiste H.",
+                "time": "16:00",
+                "event": "WTA - ABU DHABI : Bejlek S. vs Tauson C.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1312,18 +1286,8 @@
         ],
         "Tennis WTA - CLUJ-NAPOCA": [
             {
-                "time": "12:00",
-                "event": "WTA - CLUJ-NAPOCA : Wang Xin. vs Oliynykova 0.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1504"
-                    }
-                ]
-            },
-            {
-                "time": "14:00",
-                "event": "WTA - CLUJ-NAPOCA : Raducanu E. vs Chwalinska M.",
+                "time": "15:00",
+                "event": "WTA - CLUJ-NAPOCA : Raducanu E. vs Oliynykova 0.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1336,18 +1300,8 @@
                 ]
             },
             {
-                "time": "16:00",
-                "event": "WTA - CLUJ-NAPOCA : Potapova A. vs Cirstea S.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1504"
-                    }
-                ]
-            },
-            {
-                "time": "17:30",
-                "event": "WTA - CLUJ-NAPOCA : Yuan Y. vs Snigur D.",
+                "time": "16:30",
+                "event": "WTA - CLUJ-NAPOCA : Cirstea S. vs Snigur D.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1358,18 +1312,8 @@
         ],
         "Tennis WTA - OSTRAVA": [
             {
-                "time": "13:00",
-                "event": "WTA - OSTRAVA : Volynets K. vs Parks A.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1506"
-                    }
-                ]
-            },
-            {
-                "time": "14:30",
-                "event": "WTA - OSTRAVA : Fruhvirtova L. vs Boulter K.",
+                "time": "15:00",
+                "event": "WTA - OSTRAVA : Volynets K. vs Boulter K.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1379,17 +1323,7 @@
             },
             {
                 "time": "17:00",
-                "event": "WTA - OSTRAVA : Parry D. vs Bartunkova N.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1506"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "WTA - OSTRAVA : McNally C. vs Korpatsch T.",
+                "event": "WTA - OSTRAVA : Parry D. vs Korpatsch T.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -6562,6 +6496,138 @@
                 ]
             }
         ],
+        "Tennis ATP - MONTPELLIER": [
+            {
+                "time": "13:30",
+                "event": "ATP - MONTPELLIER : Mannarino A. vs Gea A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - MONTPELLIER : Damm M. vs Nardi L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "ATP - MONTPELLIER : Auger-Aliassime F. vs Fils A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "ATP - MONTPELLIER : Griekspoor T. vs Droguet T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "Tennis DAVIS CUP": [
+            {
+                "time": "05:00",
+                "event": "DAVIS CUP : Japan vs Austria",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - ABU DHABI": [
+            {
+                "time": "14:00",
+                "event": "WTA - ABU DHABI : Baptiste H. vs Alexandrova E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "WTA - ABU DHABI : Bejlek S. vs Tauson C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - CLUJ-NAPOCA": [
+            {
+                "time": "15:00",
+                "event": "WTA - CLUJ-NAPOCA : Raducanu E. vs Oliynykova 0.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - CLUJ-NAPOCA : Cirstea S. vs Snigur D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - OSTRAVA": [
+            {
+                "time": "15:00",
+                "event": "WTA - OSTRAVA : Volynets K. vs Boulter K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "WTA - OSTRAVA : Parry D. vs Korpatsch T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "05:00",
@@ -6844,7 +6910,7 @@
                 ]
             }
         ],
-        "Wrestling": [
+        "WWE (SmackDown)": [
             {
                 "time": "01:00",
                 "event": "WWE Friday Night SmackDown",
@@ -6858,7 +6924,9 @@
                         "channel_id": "145"
                     }
                 ]
-            },
+            }
+        ],
+        "College Wrestling": [
             {
                 "time": "23:00",
                 "event": "Men's College Wrestling : Penn State vs. Michigan",
@@ -7370,7 +7438,7 @@
                 ]
             }
         ],
-        "Baseball": [
+        "Baseball (MLB)": [
             {
                 "time": "20:00",
                 "event": "Caribbean Series Baseball",
@@ -7652,7 +7720,9 @@
                         "channel_id": "82"
                     }
                 ]
-            },
+            }
+        ],
+        "Unrivaled Basketball": [
             {
                 "time": "00:30",
                 "event": "Unrivaled Basketball : Hive vs Breeze",
@@ -7862,7 +7932,9 @@
                         "channel_id": "776"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "00:30",
                 "event": "NBA : Boston Celtics vs Miami Heat",
@@ -8076,7 +8148,7 @@
                 ]
             }
         ],
-        "Softball": [
+        "NCAA Softball": [
             {
                 "time": "14:00",
                 "event": "College Softball : Boston University vs Maryland",
@@ -10178,7 +10250,9 @@
                         "channel_id": "308"
                     }
                 ]
-            },
+            }
+        ],
+        "College Volleyball": [
             {
                 "time": "21:00",
                 "event": "College Volleyball : BYU vs Lincoln Memorial",
