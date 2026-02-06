@@ -151,10 +151,8 @@ https://vavoo.to/vavoo-iptv/play/4235410936b108b39c28d1
 https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
-#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (1)
+#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
 https://vavoo.to/vavoo-iptv/play/2143522071cfa887e2feb3
-#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (2)
-https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="la7d.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7d-it.png" group-title="Altro",LA 7 D
 https://vavoo.to/vavoo-iptv/play/881846038948178d71a68
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LA C ONAIR
@@ -603,10 +601,8 @@ https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 #EXTINF:-1 tvg-id="discoverysciencehd.it" tvg-logo="" group-title="Documentari",DISCOVERY SCIENCE
 https://vavoo.to/vavoo-iptv/play/5284308415938593b2e15
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (1)
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
 https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (2)
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
@@ -858,7 +854,7 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="italyserieclatinavscavese" tvg-name="Soccer | Italy - Serie C : Latina vs Cavese (21:30)" tvg-logo="https://www.latinacalcio1932.com/wp-content/uploads/2018/12/Logo_Latina_ufficiale.pdf_20240623_161429_0000.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Latina vs Cavese (21:30)
 https://dlhd.dad/watch.php?id=207
 
-#EXTINF:-1 tvg-id="italyseriecbeneventovspicerno" tvg-name="Soccer | Italy - Serie C : Benevento vs Picerno (21:30)" tvg-logo="https://www.fcsorrento.com/wp-content/uploads/2023/08/Logo-Picerno.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Benevento vs Picerno (21:30)
+#EXTINF:-1 tvg-id="italyseriecbeneventovspicerno" tvg-name="Soccer | Italy - Serie C : Benevento vs Picerno (21:30)" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Benevento vs Picerno (21:30)
 https://dlhd.dad/watch.php?id=208
 
 #EXTINF:-1 tvg-id="italyseriecteamaltamuravsmonopoli" tvg-name="Soccer | Italy - Serie C : Team Altamura vs Monopoli (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Team Altamura_vs_Monopoli.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Team Altamura vs Monopoli (21:30)
@@ -872,9 +868,6 @@ https://dlhd.dad/watch.php?id=877
 
 #EXTINF:-1 tvg-id="englandpremierleagueleedsunitedvsnottinghamforest" tvg-name="Soccer | England - Premier League : Leeds United vs Nottingham Forest (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Leeds United_vs_Nottingham Forest.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Leeds United vs Nottingham Forest (22:00)
 https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="montpellieratpabudhabiwtaclujnapocawtaampostravawtaearlyrounds" tvg-name="Tennis | Montpellier-ATP, Abu Dhabi-WTA, Cluj-Napoca-WTA &amp; Ostrava-WTA Early Rounds (09:00)" tvg-logo="https://styles.redditmedia.com/t5_3w9c7h/styles/communityIcon_npdtli3kcgrc1.png" group-title="Eventi Live DLHD",Tennis | Montpellier-ATP, Abu Dhabi-WTA, Cluj-Napoca-WTA &amp; Ostrava-WTA Early Rounds (09:00)
-https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="seriea2baskettorinovsfortitudobologna" tvg-name="Basketball | Serie A2 : Basket Torino vs Fortitudo Bologna (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Basket Torino_vs_Fortitudo Bologna.png" group-title="Eventi Live DLHD",Basketball | Serie A2 : Basket Torino vs Fortitudo Bologna (21:45)
 https://dlhd.dad/watch.php?id=882
@@ -891,14 +884,8 @@ https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="olympicgameswomenczechrepublicwvsswitzerlandw" tvg-name="Olympic Games Women Ice Hockey | Olympic Games Women : Czech Republic W vs Switzerland W (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Czech Republic W_vs_Switzerland W.png" group-title="Eventi Live DLHD",Olympic Games Women Ice Hockey | Olympic Games Women : Czech Republic W vs Switzerland W (15:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="figureskatingteam" tvg-name="Ice Skating | Figure Skating Team (10:40)" tvg-logo="https://www.figureskatinginharlem.org/wp-content/uploads/2016/11/logo-web.png" group-title="Eventi Live DLHD",Ice Skating | Figure Skating Team (10:40)
-https://dlhd.dad/watch.php?id=878
-
 #EXTINF:-1 tvg-id="sixnationsu20italyu20vsscotlandu20" tvg-name="Rugby Union | Six Nations U20 : Italy U20 vs Scotland U20 (21:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy U20_vs_Scotland U20.png" group-title="Eventi Live DLHD",Rugby Union | Six Nations U20 : Italy U20 vs Scotland U20 (21:15)
 https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="winterolympicswintergamesfromitaly" tvg-name="Winter Sports | Winter Olympics Winter Games from Italy (11:00)" tvg-logo="https://i.pinimg.com/originals/af/a2/bb/afa2bba58b5120e4b22ddc19f672bbd0.png" group-title="Eventi Live DLHD",Winter Sports | Winter Olympics Winter Games from Italy (11:00)
-https://dlhd.dad/watch.php?id=879
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
