@@ -481,8 +481,6 @@ https://vavoo.to/vavoo-iptv/play/3344963942d5b8b48cdfe0
 https://vavoo.to/vavoo-iptv/play/215827632715f84c8de94
 #EXTINF:-1 tvg-id="mtv.hd.it" tvg-logo="" group-title="Musica",MTV
 https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/mtv-hits-rs.png?raw=true" group-title="Musica",MTV HITS
-https://vavoo.to/vavoo-iptv/play/3446813098b031eef6dc22
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/570326948497195008/Wf6DPfFP_400x400.jpeg" group-title="Musica",OL3 RADIO
 https://vavoo.to/vavoo-iptv/play/681027341f93934e0bc5
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvtvtv.ru/icons/51_tv.png" group-title="Musica",RADIO 51
@@ -505,6 +503,8 @@ https://vavoo.to/vavoo-iptv/play/22376603018e09f8150d84
 # SPORT
 #EXTINF:-1 tvg-id="aci.sport.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/aci-sport-tv-it.png" group-title="Sport",ACI SPORT TV
 https://vavoo.to/vavoo-iptv/play/13516316035c18ca000fe1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
+https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
@@ -625,10 +625,8 @@ https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
 # BAMBINI
-#EXTINF:-1 tvg-id="babytv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV (1)
+#EXTINF:-1 tvg-id="babytv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV
 https://vavoo.to/vavoo-iptv/play/39385011257cd02ab803dc
-#EXTINF:-1 tvg-id="babytv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV (2)
-https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (1)
 https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (2)
@@ -928,9 +926,6 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="worldgrandprixsemifinal" tvg-name="Snooker | World Grand Prix | Semi-Final (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Snooker | World Grand Prix | Semi-Final (13:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="winterolympicgamesmilancortina2026alpineskiingwomensmeeting" tvg-name="Alpine Ski | Winter Olympic Games Milan-Cortina 2026: Alpine Skiing women's meeting (12:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/03/NBC-Milan-Cortina-2026-Logo-2025.png" group-title="Eventi Live DLHD",Alpine Ski | Winter Olympic Games Milan-Cortina 2026: Alpine Skiing women's meeting (12:00)
-https://dlhd.dad/watch.php?id=878
-
 #EXTINF:-1 tvg-id="winterolympicsmilancortina2026crosscountryskiingwomenscombinedrace" tvg-name="Cross Country | Winter Olympics Milan-Cortina 2026: Cross-country skiing women's combined race (13:45)" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/03/NBC-Milan-Cortina-2026-Logo-2025.png" group-title="Eventi Live DLHD",Cross Country | Winter Olympics Milan-Cortina 2026: Cross-country skiing women's combined race (13:45)
 https://dlhd.dad/watch.php?id=878
 
@@ -968,9 +963,6 @@ https://dlhd.dad/watch.php?id=155
 https://dlhd.dad/watch.php?id=462
 
 #EXTINF:-1 tvg-id="individualcompetitionskijumpingwomenolympicgames" tvg-name="Ski Jumping | Individual competition | Ski Jumping Women - Olympic Games (18:40)" tvg-logo="https://cdn2.iconfinder.com/data/icons/sport-competition-linear-outline/4000/21-08-26-Paralympic-games-editable-stroke-31-512.png" group-title="Eventi Live DLHD",Ski Jumping | Individual competition | Ski Jumping Women - Olympic Games (18:40)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="freestyleskiingwomenslopestylequalifying" tvg-name="Winter Sports | Freestyle Skiing Women | Slopestyle | Qualifying (11:25)" tvg-logo="http://www.teambuller.com/uploads/2/0/9/2/20927662/out-of-logo_orig.png" group-title="Eventi Live DLHD",Winter Sports | Freestyle Skiing Women | Slopestyle | Qualifying (11:25)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="lugewomensinglestraining" tvg-name="Winter Sports | Luge Women | Singles | Training (14:30)" tvg-logo="https://api.qeenatha.com/images/q_logo.png" group-title="Eventi Live DLHD",Winter Sports | Luge Women | Singles | Training (14:30)
