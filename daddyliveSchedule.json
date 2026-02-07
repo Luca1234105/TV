@@ -1874,8 +1874,8 @@
         ],
         "Tennis ATP - MONTPELLIER": [
             {
-                "time": "13:30",
-                "event": "ATP - MONTPELLIER : Mannarino A. vs Gea A.",
+                "time": "14:00",
+                "event": "ATP - MONTPELLIER : Mannarino A. vs Damm M.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1884,28 +1884,8 @@
                 ]
             },
             {
-                "time": "15:00",
-                "event": "ATP - MONTPELLIER : Damm M. vs Nardi L.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1507"
-                    }
-                ]
-            },
-            {
-                "time": "17:30",
-                "event": "ATP - MONTPELLIER : Auger-Aliassime F. vs Fils A.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1507"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "ATP - MONTPELLIER : Griekspoor T. vs Droguet T.",
+                "time": "15:30",
+                "event": "ATP - MONTPELLIER : Auger-Aliassime F. vs Droguet T.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1916,34 +1896,80 @@
         ],
         "Tennis DAVIS CUP": [
             {
-                "time": "05:00",
-                "event": "DAVIS CUP : Japan vs Austria",
+                "time": "21:00",
+                "event": "DAVIS CUP : Chile vs Serbia",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1508"
                     }
                 ]
-            }
-        ],
-        "Tennis WTA - ABU DHABI": [
+            },
             {
-                "time": "14:00",
-                "event": "WTA - ABU DHABI : Baptiste H. vs Alexandrova E.",
+                "time": "00:00",
+                "event": "DAVIS CUP : Canada vs Brazil",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1524"
-                    },
+                        "channel_id": "1520"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "DAVIS CUP : South Korea vs Argentina",
+                "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1501"
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "DAVIS CUP : India vs Netherlands",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "DAVIS CUP : USA vs Hungry",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1519"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "DAVIS CUP : France vs Slovakia",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
                     }
                 ]
             },
             {
                 "time": "16:00",
-                "event": "WTA - ABU DHABI : Bejlek S. vs Tauson C.",
+                "event": "DAVIS CUP : Ecuador vs Australia",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - ABU DHABI": [
+            {
+                "time": "13:00",
+                "event": "WTA - ABU DHABI : Bejlek S. vs Alexandrova E.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1958,8 +1984,8 @@
         ],
         "Tennis WTA - CLUJ-NAPOCA": [
             {
-                "time": "15:00",
-                "event": "WTA - CLUJ-NAPOCA : Raducanu E. vs Oliynykova 0.",
+                "time": "14:30",
+                "event": "WTA - CLUJ-NAPOCA : Raducanu E. vs Cirstea S.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1970,32 +1996,12 @@
                         "channel_id": "1504"
                     }
                 ]
-            },
-            {
-                "time": "16:30",
-                "event": "WTA - CLUJ-NAPOCA : Cirstea S. vs Snigur D.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1504"
-                    }
-                ]
             }
         ],
         "Tennis WTA - OSTRAVA": [
             {
                 "time": "15:00",
-                "event": "WTA - OSTRAVA : Volynets K. vs Boulter K.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1506"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "WTA - OSTRAVA : Parry D. vs Korpatsch T.",
+                "event": "WTA - OSTRAVA : Boulter K. vs Korpatsch T.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -10374,6 +10380,144 @@
                     {
                         "channel_name": "Magenta Sport 318",
                         "channel_id": "107"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - MONTPELLIER": [
+            {
+                "time": "14:00",
+                "event": "ATP - MONTPELLIER : Mannarino A. vs Damm M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "ATP - MONTPELLIER : Auger-Aliassime F. vs Droguet T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "Tennis DAVIS CUP": [
+            {
+                "time": "21:00",
+                "event": "DAVIS CUP : Chile vs Serbia",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "DAVIS CUP : Canada vs Brazil",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "DAVIS CUP : South Korea vs Argentina",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "DAVIS CUP : India vs Netherlands",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "DAVIS CUP : USA vs Hungry",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1519"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "DAVIS CUP : France vs Slovakia",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "DAVIS CUP : Ecuador vs Australia",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - ABU DHABI": [
+            {
+                "time": "13:00",
+                "event": "WTA - ABU DHABI : Bejlek S. vs Alexandrova E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - CLUJ-NAPOCA": [
+            {
+                "time": "14:30",
+                "event": "WTA - CLUJ-NAPOCA : Raducanu E. vs Cirstea S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - OSTRAVA": [
+            {
+                "time": "15:00",
+                "event": "WTA - OSTRAVA : Boulter K. vs Korpatsch T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
                     }
                 ]
             }
