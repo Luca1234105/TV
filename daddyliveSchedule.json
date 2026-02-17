@@ -2,7 +2,7 @@
     "Monday 16th Feb 2026 - Schedule Time UK GMT": {
         "Winter Olympics 2026": [
             {
-                "time": "22:15",
+                "time": "01:58",
                 "event": "Winter Olympics 2026 Live Stream",
                 "channels": [
                     {
@@ -3904,7 +3904,7 @@
     "Tuesday 17th Feb 2026 - Schedule Time UK GMT": {
         "Winter Olympics 2026": [
             {
-                "time": "22:15",
+                "time": "01:58",
                 "event": "Winter Olympics 2026 Live Stream",
                 "channels": [
                     {
@@ -4330,7 +4330,7 @@
                 ]
             }
         ],
-        "Soccer": [
+        "England - National League": [
             {
                 "time": "19:45",
                 "event": "England - National League : Sutton United vs Woking",
@@ -4380,7 +4380,9 @@
                         "channel_id": "76"
                     }
                 ]
-            },
+            }
+        ],
+        "England - League One/League Two": [
             {
                 "time": "19:45",
                 "event": "England - League One : Burton Albion vs Rotherham United",
@@ -4582,16 +4584,6 @@
                 ]
             },
             {
-                "time": "19:45",
-                "event": "England - Championship : Charlton Athletic vs Portsmouth",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "163"
-                    }
-                ]
-            },
-            {
                 "time": "20:00",
                 "event": "England - League One : Reading vs Bolton Wanderers",
                 "channels": [
@@ -4600,7 +4592,21 @@
                         "channel_id": "164"
                     }
                 ]
-            },
+            }
+        ],
+        "England - Championship": [
+            {
+                "time": "19:45",
+                "event": "England - Championship : Charlton Athletic vs Portsmouth",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports+",
+                        "channel_id": "163"
+                    }
+                ]
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "08:00",
                 "event": "Australia - A-League : Sydney FC vs Auckland",
@@ -5866,7 +5872,7 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (NXT)": [
             {
                 "time": "01:00",
                 "event": "WWE NXT",
@@ -5990,7 +5996,7 @@
                 ]
             }
         ],
-        "Baseball": [
+        "College Baseball": [
             {
                 "time": "20:00",
                 "event": "College Baseball : Northern Kentucky vs Eastern Kentucky",
@@ -6822,6 +6828,28 @@
                 ]
             },
             {
+                "time": "23:30",
+                "event": "Girls High School Basketball : Kearney (MO) vs Excelsior Springs (MO)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "1068"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "High School Basketball : Kearney (MO) vs Excelsior Springs (MO)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "1069"
+                    }
+                ]
+            }
+        ],
+        "Unrivaled Basketball": [
+            {
                 "time": "00:30",
                 "event": "Unrivaled Basketball : Laces Basketball Club vs Hive Basketball Club",
                 "channels": [
@@ -6856,27 +6884,9 @@
                         "channel_id": "588"
                     }
                 ]
-            },
-            {
-                "time": "23:30",
-                "event": "Girls High School Basketball : Kearney (MO) vs Excelsior Springs (MO)",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "1068"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "High School Basketball : Kearney (MO) vs Excelsior Springs (MO)",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "1069"
-                    }
-                ]
-            },
+            }
+        ],
+        "NCAA Basketball": [
             {
                 "time": "23:00",
                 "event": "NCAA : Charleston Southern vs Gardner Webb",
@@ -7498,7 +7508,7 @@
                 ]
             }
         ],
-        "Ice Hockey": [
+        "Olympics Ice Hockey": [
             {
                 "time": "11:10",
                 "event": "Olympic Games : Switzerland vs Italy",
@@ -7658,7 +7668,9 @@
                         "channel_id": "148"
                     }
                 ]
-            },
+            }
+        ],
+        "Ice Hockey (KHL)": [
             {
                 "time": "13:30",
                 "event": "Russia KHL : Avangard Omsk vs Ak Bars Kazan",
@@ -7794,7 +7806,7 @@
                 ]
             }
         ],
-        "Lacrosse": [
+        "NCAA Lacrosse": [
             {
                 "time": "18:00",
                 "event": "College Lacrosse : Robert Morris vs St. Bonaventure",
@@ -7874,7 +7886,9 @@
                         "channel_id": "762"
                     }
                 ]
-            },
+            }
+        ],
+        "Women's College Lacrosse": [
             {
                 "time": "17:00",
                 "event": "Women's College Lacrosse : Loyola Maryland vs Florida",
