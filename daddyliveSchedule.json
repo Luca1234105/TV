@@ -2,7 +2,7 @@
     "Wednesday 18th Feb 2026 - Schedule Time UK GMT": {
         "Winter Olympics 2026": [
             {
-                "time": "22:25",
+                "time": "01:28",
                 "event": "Winter Olympics 2026 Live Stream",
                 "channels": [
                     {
@@ -1886,8 +1886,8 @@
         ],
         "Tennis ATP - DO\u041d\u0410": [
             {
-                "time": "10:30",
-                "event": "ATP - DO\u041d\u0410 : Fucsovics M. vs Khachanov K.",
+                "time": "12:00",
+                "event": "ATP - DO\u041d\u0410 : Tsitsipas S. vs Rublev A.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1896,58 +1896,18 @@
                 ]
             },
             {
-                "time": "12:00",
-                "event": "ATP - DO\u041d\u0410 : Medvedev D. vs Tsitsipas S.",
+                "time": "13:30",
+                "event": "ATP - DO\u041d\u0410 : Lehecka J. vs Fils A.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1507"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "ATP - DO\u041d\u0410 : Fils A. vs Halys Q.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1508"
-                    }
-                ]
-            },
-            {
-                "time": "12:30",
-                "event": "ATP - DO\u041d\u0410 : Lehecka J. vs Bergs Z.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1513"
-                    }
-                ]
-            },
-            {
-                "time": "14:00",
-                "event": "ATP - DO\u041d\u0410 : Marozsan F. vs Rublev A.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1508"
-                    }
-                ]
-            },
-            {
-                "time": "15:30",
-                "event": "ATP - DO\u041d\u0410 : Mensik J. vs Zhang Z.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1508"
                     }
                 ]
             },
             {
                 "time": "16:30",
-                "event": "ATP - DO\u041d\u0410 : Popyrin A. vs Sinner J.",
+                "event": "ATP - DO\u041d\u0410 : Alcaraz C. vs Khachanov K.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1961,7 +1921,7 @@
             },
             {
                 "time": "18:00",
-                "event": "ATP - DO\u041d\u0410 : Alcaraz C. vs Royer V.",
+                "event": "ATP - DO\u041d\u0410 : Mensik J. vs Sinner J.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1976,8 +1936,28 @@
         ],
         "Tennis ATP - RIO DE JANEIRO": [
             {
+                "time": "23:30",
+                "event": "ATP - RIO DE JANEIRO : Tabilo A. vs Passaro F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
                 "time": "19:30",
-                "event": "ATP - RIO DE JANEIRO : Hanfmann Y. vs Cerundolo J. M.",
+                "event": "ATP - RIO DE JANEIRO : Etcheverry T. M. vs Gaubas V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "ATP - RIO DE JANEIRO : Dzumhur D. vs Faria J.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1986,28 +1966,8 @@
                 ]
             },
             {
-                "time": "19:30",
-                "event": "ATP - RIO DE JANEIRO : Burruchaga R. A. vs Kopriva V.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1511"
-                    }
-                ]
-            },
-            {
-                "time": "19:30",
-                "event": "ATP - RIO DE JANEIRO : Fonseca J./Melo M. vs Gonzalez M./Molteni A.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1514"
-                    }
-                ]
-            },
-            {
                 "time": "22:00",
-                "event": "ATP - RIO DE JANEIRO : Cerundolo F. vs Tirante T. A.",
+                "event": "ATP - RIO DE JANEIRO : Fonseca J. vs Buse l.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -2017,7 +1977,7 @@
             },
             {
                 "time": "23:30",
-                "event": "ATP - RIO DE JANEIRO : Tabilo A. vs Passaro F.",
+                "event": "ATP - RIO DE JANEIRO : Berrettini M. vs Lajovic D.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -2028,8 +1988,18 @@
         ],
         "Tennis ATP - DELRAY BEACH": [
             {
+                "time": "01:00",
+                "event": "ATP - DELRAY BEACH : Giron M. vs Ruud C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
                 "time": "18:00",
-                "event": "ATP - DELRAY BEACH : Atmane T. vs Cobolli F.",
+                "event": "ATP - DELRAY BEACH : Tien L. vs Kecmanovic M.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -2039,7 +2009,7 @@
             },
             {
                 "time": "19:30",
-                "event": "ATP - DELRAY BEACH : Nakashima B. vs Wong C.",
+                "event": "ATP - DELRAY BEACH : Svajda Z. vs Tiafoe F.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -2049,7 +2019,7 @@
             },
             {
                 "time": "23:00",
-                "event": "ATP - DELRAY BEACH : Michelsen A. vs Korda S.",
+                "event": "ATP - DELRAY BEACH : Walton A. vs Paul T.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -2059,7 +2029,7 @@
             },
             {
                 "time": "01:00",
-                "event": "ATP - DELRAY BEACH : Giron M. vs Ruud C.",
+                "event": "ATP - DELRAY BEACH : Fritz T. vs Jodar R.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -2070,8 +2040,8 @@
         ],
         "Tennis WTA - DUBAI": [
             {
-                "time": "07:00",
-                "event": "WTA - DUBAI : Tjen J. vs Anisimova A.",
+                "time": "10:00",
+                "event": "WTA - DUBAI : Tauson C. vs Pegula J.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -2080,64 +2050,22 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1501"
-                    }
-                ]
-            },
-            {
-                "time": "07:00",
-                "event": "WTA - DUBAI : Linette M. vs Tauson C.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1504"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1502"
-                    }
-                ]
-            },
-            {
-                "time": "08:30",
-                "event": "WTA - DUBAI : Jovic 1. vs Pegula J",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1504"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1502"
-                    }
-                ]
-            },
-            {
-                "time": "08:30",
-                "event": "WTA - DUBAI : Andreeva M. vs Cristian J.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1524"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1501"
-                    }
-                ]
-            },
-            {
-                "time": "09:00",
-                "event": "WTA - DUBAI : Bhosale R./Plipuech P. vs Danilina A./Krunic A.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1503"
                     }
                 ]
             },
             {
                 "time": "10:00",
-                "event": "WTA - DUBAI : Rybakina E. vs Ruzic A.",
+                "event": "WTA - DUBAI : Kichenok L./Krawczyk D. vs Danilina A./Krunic A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "WTA - DUBAI : Andreeva M. vs Anisimova A.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -2150,23 +2078,9 @@
                 ]
             },
             {
-                "time": "11:00",
-                "event": "WTA - DUBAI : Hsieh S-W./Ostapenko J. vs Chan H-C./Tauson C.",
+                "time": "11:30",
+                "event": "WTA - DUBAI : Siegemund L./Zvonareva V. vs Hunter S./Siniakova K.",
                 "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1503"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "WTA - DUBAI : Bencic B. vs Svitolina E.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1504"
-                    },
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1502"
@@ -2174,18 +2088,28 @@
                 ]
             },
             {
-                "time": "12:30",
-                "event": "WTA - DUBAI : Errani S./Paolini J. vs Siegemund L./Zvonareva V.",
+                "time": "13:00",
+                "event": "WTA - DUBAI : Dabrowski G./Stefani L. vs Olmos G./Pegula J.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1503"
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "WTA - DUBAI : Chan H-C./Tauson C. vs Cristian J./Ruse G.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
                     }
                 ]
             },
             {
                 "time": "15:00",
-                "event": "WTA - DUBAI : Gauff C. vs Mertens E.",
+                "event": "WTA - DUBAI : Gauff C. vs Eala A.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -2199,7 +2123,7 @@
             },
             {
                 "time": "16:30",
-                "event": "WTA - DUBAI : Cirstea S. vs Eala A.",
+                "event": "WTA - DUBAI : Ruzic A. vs Svitolina E.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -7936,6 +7860,258 @@
                 ]
             }
         ],
+        "Tennis ATP - DO\u041d\u0410": [
+            {
+                "time": "12:00",
+                "event": "ATP - DO\u041d\u0410 : Tsitsipas S. vs Rublev A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - DO\u041d\u0410 : Lehecka J. vs Fils A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - DO\u041d\u0410 : Alcaraz C. vs Khachanov K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - DO\u041d\u0410 : Mensik J. vs Sinner J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - RIO DE JANEIRO": [
+            {
+                "time": "23:30",
+                "event": "ATP - RIO DE JANEIRO : Tabilo A. vs Passaro F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "ATP - RIO DE JANEIRO : Etcheverry T. M. vs Gaubas V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "ATP - RIO DE JANEIRO : Dzumhur D. vs Faria J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "ATP - RIO DE JANEIRO : Fonseca J. vs Buse l.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "ATP - RIO DE JANEIRO : Berrettini M. vs Lajovic D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - DELRAY BEACH": [
+            {
+                "time": "01:00",
+                "event": "ATP - DELRAY BEACH : Giron M. vs Ruud C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - DELRAY BEACH : Tien L. vs Kecmanovic M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "ATP - DELRAY BEACH : Svajda Z. vs Tiafoe F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "ATP - DELRAY BEACH : Walton A. vs Paul T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "ATP - DELRAY BEACH : Fritz T. vs Jodar R.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - DUBAI": [
+            {
+                "time": "10:00",
+                "event": "WTA - DUBAI : Tauson C. vs Pegula J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - DUBAI : Kichenok L./Krawczyk D. vs Danilina A./Krunic A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "WTA - DUBAI : Andreeva M. vs Anisimova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "WTA - DUBAI : Siegemund L./Zvonareva V. vs Hunter S./Siniakova K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "WTA - DUBAI : Dabrowski G./Stefani L. vs Olmos G./Pegula J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "WTA - DUBAI : Chan H-C./Tauson C. vs Cristian J./Ruse G.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - DUBAI : Gauff C. vs Eala A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - DUBAI : Ruzic A. vs Svitolina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "07:00",
@@ -8550,7 +8726,7 @@
                 ]
             }
         ],
-        "Baseball": [
+        "NCAA Baseball": [
             {
                 "time": "20:00",
                 "event": "College Baseball : Cincinnati vs UAB",
@@ -8622,7 +8798,7 @@
                 ]
             }
         ],
-        "Softball": [
+        "NCAA Softball": [
             {
                 "time": "18:00",
                 "event": "College Softball : UC San Diego vs California",
