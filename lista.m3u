@@ -501,12 +501,8 @@ https://vavoo.to/vavoo-iptv/play/22376603018e09f8150d84
 # SPORT
 #EXTINF:-1 tvg-id="aci.sport.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/aci-sport-tv-it.png" group-title="Sport",ACI SPORT TV
 https://vavoo.to/vavoo-iptv/play/13516316035c18ca000fe1
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
-https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
-#EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
-https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (1)
 https://vavoo.to/vavoo-iptv/play/34813468571b25fb16646d
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (2)
@@ -621,10 +617,8 @@ https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
 # BAMBINI
-#EXTINF:-1 tvg-id="babytv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV (1)
+#EXTINF:-1 tvg-id="babytv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV
 https://vavoo.to/vavoo-iptv/play/39385011257cd02ab803dc
-#EXTINF:-1 tvg-id="babytv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV (2)
-https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (1)
 https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (2)
@@ -924,7 +918,7 @@ https://dlhd.dad/watch.php?id=576
 #EXTINF:-1 tvg-id="bobsleighmen4manheat1" tvg-name="Alpine Ski | Bobsleigh Men | 4-man | Heat 1 (11:00)" tvg-logo="https://cdn.tip4serv.com/shop/ALL_STORES/12163/templates/murga/assets/images/eccc06170542ec273f645f2b4a8a5669.png" group-title="Eventi Live DLHD",Alpine Ski | Bobsleigh Men | 4-man | Heat 1 (11:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="bobsleighmen4manheat2" tvg-name="Alpine Ski | Bobsleigh Men | 4-man | Heat 2 (13:00)" tvg-logo="https://cdn.tip4serv.com/shop/ALL_STORES/12163/templates/murga/assets/images/eccc06170542ec273f645f2b4a8a5669.png" group-title="Eventi Live DLHD",Alpine Ski | Bobsleigh Men | 4-man | Heat 2 (13:00)
+#EXTINF:-1 tvg-id="bobsleighmen4manheat2" tvg-name="Alpine Ski | Bobsleigh Men | 4-man | Heat 2 (13:00)" tvg-logo="https://dunb17ur4ymx4.cloudfront.net/packages/images/35e8295d6b71d6c52c098f3134995857101a7239.png" group-title="Eventi Live DLHD",Alpine Ski | Bobsleigh Men | 4-man | Heat 2 (13:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="bobsleighwomen2womanheat3" tvg-name="Alpine Ski | Bobsleigh Women | 2-woman | Heat 3 (19:45)" tvg-logo="https://www.dragonsdogma.com/2/assets/images/character/nav-ulrika.png" group-title="Eventi Live DLHD",Alpine Ski | Bobsleigh Women | 2-woman | Heat 3 (19:45)
@@ -939,13 +933,13 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="crosscountryskiingmenmassstartclassic50km" tvg-name="Cross Country | Cross-country Skiing Men | Mass Start Classic 50km (11:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cross Country | Cross-country Skiing Men | Mass Start Classic 50km (11:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="crosscountryskiingmenmassstartclassic50km" tvg-name="Cross Country | Cross-country Skiing Men | Mass Start Classic 50km (14:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cross Country | Cross-country Skiing Men | Mass Start Classic 50km (14:30)
+#EXTINF:-1 tvg-id="crosscountryskiingmenmassstartclassic50km" tvg-name="Cross Country | Cross-country Skiing Men | Mass Start Classic 50km (14:30)" tvg-logo="https://discover.sportsengineplay.com/wp-content/uploads/sites/7/2025/01/crosscountry-skiing-sport-directory-hero-foreground.png" group-title="Eventi Live DLHD",Cross Country | Cross-country Skiing Men | Mass Start Classic 50km (14:30)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="uaetourstage6menalainmuseumjebelhafeet168km" tvg-name="Cycling | UAE Tour | Stage 6 Men | Al Ain Museum - Jebel Hafeet (168km) (13:15)" tvg-logo="https://files.onlycycling.com/onlycycling-files/media/CACHE/images/logos/2025/uae-tour/1ff992ecb7f17342c5df9e0368b5f72d.png" group-title="Eventi Live DLHD",Cycling | UAE Tour | Stage 6 Men | Al Ain Museum - Jebel Hafeet (168km) (13:15)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="tourofandalusiastage4menmontoropozoblanco1661km" tvg-name="Cycling | Tour of Andalusia | Stage 4 Men | Montoro – Pozoblanco (166.1km) (14:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Tour of Andalusia | Stage 4 Men | Montoro – Pozoblanco (166.1km) (14:30)
+#EXTINF:-1 tvg-id="tourofandalusiastage4menmontoropozoblanco1661km" tvg-name="Cycling | Tour of Andalusia | Stage 4 Men | Montoro – Pozoblanco (166.1km) (14:30)" tvg-logo="https://nonprofitwa.org/wp-content/uploads/2025/07/SPiN-Step-4-Diagram-Plan.png" group-title="Eventi Live DLHD",Cycling | Tour of Andalusia | Stage 4 Men | Montoro – Pozoblanco (166.1km) (14:30)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="voltaaoalgarvestage4menalbufeiralagos1821km" tvg-name="Cycling | Volta ao Algarve | Stage 4 Men | Albufeira – Lagos (182.1km) (16:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Volta ao Algarve | Stage 4 Men | Albufeira – Lagos (182.1km) (16:00)
