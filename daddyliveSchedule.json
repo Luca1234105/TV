@@ -2,7 +2,7 @@
     "Saturday 21st Feb 2026 - Schedule Time UK GMT": {
         "Winter Olympics 2026": [
             {
-                "time": "01:01",
+                "time": "03:32",
                 "event": "Winter Olympics 2026 Live Stream",
                 "channels": [
                     {
@@ -4596,45 +4596,9 @@
                 ]
             }
         ],
-        "Tennis ATP - DO\u041d\u0410": [
-            {
-                "time": "18:00",
-                "event": "ATP - DO\u041d\u0410 : Alcaraz C. vs Fils A.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1507"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1520"
-                    }
-                ]
-            }
-        ],
         "Tennis ATP - RIO DE JANEIRO": [
             {
-                "time": "22:00",
-                "event": "ATP - RIO DE JANEIRO : Tirante T. A. vs Tabilo A.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1510"
-                    }
-                ]
-            },
-            {
-                "time": "23:30",
-                "event": "ATP - RIO DE JANEIRO : Buse I. vs Berrettini M.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1509"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
+                "time": "14:00",
                 "event": "ATP - RIO DE JANEIRO : Etcheverry T. M. vs Kopriva V.",
                 "channels": [
                     {
@@ -4644,8 +4608,18 @@
                 ]
             },
             {
-                "time": "21:30",
-                "event": "ATP - RIO DE JANEIRO : Tirante or Tabilo vs Buse or Berrettini",
+                "time": "14:00",
+                "event": "ATP - RIO DE JANEIRO : Tabilo A. vs Buse l.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "ATP - RIO DE JANEIRO Final: Etcheverry or Kopriva vs Tabilo or Buse",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -4657,7 +4631,7 @@
         "Tennis ATP - DELRAY BEACH": [
             {
                 "time": "01:00",
-                "event": "ATP - DELRAY BEACH : Paul T. vs Fritz T.",
+                "event": "ATP - DELRAY BEACH : Tien L. vs Paul T.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -4666,52 +4640,12 @@
                 ]
             },
             {
-                "time": "20:00",
-                "event": "ATP - DELRAY BEACH : Cobolli F. vs Korda S.",
+                "time": "21:00",
+                "event": "ATP - DELRAY BEACH : Paul or Tien vs Korda S.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1512"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "ATP - DELRAY BEACH : Tien L. vs Paul or Fritz",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1512"
-                    }
-                ]
-            }
-        ],
-        "Tennis WTA - DUBAI": [
-            {
-                "time": "11:30",
-                "event": "WTA - DUBAI : Siegemund L./Zvonareva V. vs Dabrowski G./Stefani L.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1501"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "WTA - DUBAI : Svitolina E. vs Pegula J.",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1524"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1501"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1520"
                     }
                 ]
             }
@@ -12938,7 +12872,7 @@
     "Sunday 22nd Feb 2026 - Schedule Time UK GMT": {
         "Winter Olympics 2026": [
             {
-                "time": "01:01",
+                "time": "03:32",
                 "event": "Winter Olympics 2026 Live Stream",
                 "channels": [
                     {
@@ -17166,6 +17100,60 @@
                 ]
             }
         ],
+        "Tennis ATP - RIO DE JANEIRO": [
+            {
+                "time": "14:00",
+                "event": "ATP - RIO DE JANEIRO : Etcheverry T. M. vs Kopriva V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "ATP - RIO DE JANEIRO : Tabilo A. vs Buse l.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "ATP - RIO DE JANEIRO Final: Etcheverry or Kopriva vs Tabilo or Buse",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - DELRAY BEACH": [
+            {
+                "time": "01:00",
+                "event": "ATP - DELRAY BEACH : Tien L. vs Paul T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "ATP - DELRAY BEACH : Paul or Tien vs Korda S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "07:00",
@@ -17812,7 +17800,7 @@
                 ]
             }
         ],
-        "Baseball": [
+        "Baseball (MLB)": [
             {
                 "time": "18:05",
                 "event": "MLB : Toronto Blue Jays vs Boston Red Sox",
@@ -17903,7 +17891,7 @@
         "College Baseball": [
             {
                 "time": "16:00",
-                "event": "Illinois vs Coastal Carolina",
+                "event": "College Baseball : Illinois vs Coastal Carolina",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -17913,7 +17901,7 @@
             },
             {
                 "time": "16:00",
-                "event": "Stonehill vs Florida Gulf Coast",
+                "event": "College Baseball : Stonehill vs Florida Gulf Coast",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -17923,7 +17911,7 @@
             },
             {
                 "time": "16:30",
-                "event": "Louisville vs Auburn",
+                "event": "College Baseball : Louisville vs Auburn",
                 "channels": [
                     {
                         "channel_name": "FloSports",
@@ -17933,7 +17921,7 @@
             },
             {
                 "time": "17:00",
-                "event": "Eastern Kentucky vs Dayton",
+                "event": "College Baseball : Eastern Kentucky vs Dayton",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -17943,7 +17931,7 @@
             },
             {
                 "time": "17:00",
-                "event": "University of Delaware vs Mississippi State",
+                "event": "College Baseball : University of Delaware vs Mississippi State",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -17953,7 +17941,7 @@
             },
             {
                 "time": "17:00",
-                "event": "Kansas vs McNeese",
+                "event": "College Baseball : Kansas vs McNeese",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -17963,7 +17951,7 @@
             },
             {
                 "time": "17:00",
-                "event": "Florida International vs Holy Cross",
+                "event": "College Baseball : Florida International vs Holy Cross",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -17973,7 +17961,7 @@
             },
             {
                 "time": "17:00",
-                "event": "Coppin State vs Oklahoma",
+                "event": "College Baseball : Coppin State vs Oklahoma",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -17983,7 +17971,7 @@
             },
             {
                 "time": "17:00",
-                "event": "Iowa vs Florida Atlantic",
+                "event": "College Baseball : Iowa vs Florida Atlantic",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -17993,7 +17981,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Stony Brook vs Georgia Tech",
+                "event": "College Baseball : Stony Brook vs Georgia Tech",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -18003,7 +17991,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Niagara vs Old Dominion",
+                "event": "College Baseball : Niagara vs Old Dominion",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18013,7 +18001,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Southern Illinois vs Appalachian State",
+                "event": "College Baseball : Southern Illinois vs Appalachian State",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18023,7 +18011,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Kennesaw State vs Florida",
+                "event": "College Baseball : Kennesaw State vs Florida",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -18033,7 +18021,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Samford vs University of Georgia",
+                "event": "College Baseball : Samford vs University of Georgia",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -18043,7 +18031,7 @@
             },
             {
                 "time": "18:00",
-                "event": "East Carolina vs North Carolina",
+                "event": "College Baseball : East Carolina vs North Carolina",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -18053,7 +18041,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Bryant vs Clemson",
+                "event": "College Baseball : Bryant vs Clemson",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -18063,7 +18051,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Lafayette vs Miami",
+                "event": "College Baseball : Lafayette vs Miami",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -18073,7 +18061,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Michigan State vs Texas",
+                "event": "College Baseball : Michigan State vs Texas",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -18083,7 +18071,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Kent State vs Tennessee",
+                "event": "College Baseball : Kent State vs Tennessee",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -18093,7 +18081,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Xavier vs Arkansas",
+                "event": "College Baseball : Xavier vs Arkansas",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -18103,7 +18091,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Siena vs Wake Forest",
+                "event": "College Baseball : Siena vs Wake Forest",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -18113,7 +18101,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Elon vs Charleston Southern",
+                "event": "College Baseball : Elon vs Charleston Southern",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18123,7 +18111,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Long Island University vs Jacksonville",
+                "event": "College Baseball : Long Island University vs Jacksonville",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18133,7 +18121,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Georgia Southern vs South Florida",
+                "event": "College Baseball : Georgia Southern vs South Florida",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18143,7 +18131,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Harvard vs Tulane",
+                "event": "College Baseball : Harvard vs Tulane",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18153,7 +18141,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Ohio State vs Memphis",
+                "event": "College Baseball : Ohio State vs Memphis",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18163,7 +18151,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Wright State vs Charlotte",
+                "event": "College Baseball : Wright State vs Charlotte",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18173,7 +18161,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Milwaukee vs Duke",
+                "event": "College Baseball : Milwaukee vs Duke",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -18183,7 +18171,7 @@
             },
             {
                 "time": "18:00",
-                "event": "West Virginia vs Liberty",
+                "event": "College Baseball : West Virginia vs Liberty",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18193,7 +18181,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Princeton vs NC State",
+                "event": "College Baseball : Princeton vs NC State",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -18203,7 +18191,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Bucknell vs Radford",
+                "event": "College Baseball : Bucknell vs Radford",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18213,7 +18201,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Maine vs High Point",
+                "event": "College Baseball : Maine vs High Point",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18223,7 +18211,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Morehead State vs Winthrop",
+                "event": "College Baseball : Morehead State vs Winthrop",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18233,7 +18221,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Bowling Green vs Western Carolina",
+                "event": "College Baseball : Bowling Green vs Western Carolina",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18243,7 +18231,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Army vs The Citadel",
+                "event": "College Baseball : Army vs The Citadel",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18253,7 +18241,7 @@
             },
             {
                 "time": "18:00",
-                "event": "South Dakota State vs Tarleton State",
+                "event": "College Baseball : South Dakota State vs Tarleton State",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18263,7 +18251,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Maryland Eastern Shore vs VMI",
+                "event": "College Baseball : Maryland Eastern Shore vs VMI",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18273,7 +18261,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Northern Illinois vs Wofford",
+                "event": "College Baseball : Northern Illinois vs Wofford",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18283,7 +18271,7 @@
             },
             {
                 "time": "18:00",
-                "event": "South Alabama vs College of Charleston",
+                "event": "College Baseball : South Alabama vs College of Charleston",
                 "channels": [
                     {
                         "channel_name": "FloSports",
@@ -18293,7 +18281,7 @@
             },
             {
                 "time": "19:00",
-                "event": "Pennsylvania vs Texas A&amp;M",
+                "event": "College Baseball : Pennsylvania vs Texas A&amp;M",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -18303,7 +18291,7 @@
             },
             {
                 "time": "19:00",
-                "event": "Saint Louis vs North Alabama",
+                "event": "College Baseball : Saint Louis vs North Alabama",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18313,7 +18301,7 @@
             },
             {
                 "time": "19:00",
-                "event": "Eastern Michigan vs Austin Peay",
+                "event": "College Baseball : Eastern Michigan vs Austin Peay",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18323,7 +18311,7 @@
             },
             {
                 "time": "19:00",
-                "event": "Eastern Illinois vs Arkansas State",
+                "event": "College Baseball : Eastern Illinois vs Arkansas State",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18333,7 +18321,7 @@
             },
             {
                 "time": "19:00",
-                "event": "Maryland vs Louisiana",
+                "event": "College Baseball : Maryland vs Louisiana",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18343,7 +18331,7 @@
             },
             {
                 "time": "19:00",
-                "event": "Campbell vs Troy",
+                "event": "College Baseball : Campbell vs Troy",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18353,7 +18341,7 @@
             },
             {
                 "time": "19:00",
-                "event": "Gonzaga vs Texas State",
+                "event": "College Baseball : Gonzaga vs Texas State",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18363,7 +18351,7 @@
             },
             {
                 "time": "19:00",
-                "event": "Rhode Island vs Alabama",
+                "event": "College Baseball : Rhode Island vs Alabama",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -18373,7 +18361,7 @@
             },
             {
                 "time": "19:00",
-                "event": "Dallas Baptist vs UTSA",
+                "event": "College Baseball : Dallas Baptist vs UTSA",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18383,7 +18371,7 @@
             },
             {
                 "time": "19:00",
-                "event": "Villanova vs Lipscomb",
+                "event": "College Baseball : Villanova vs Lipscomb",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18393,7 +18381,7 @@
             },
             {
                 "time": "19:00",
-                "event": "UAlbany vs Texas Tech",
+                "event": "College Baseball : UAlbany vs Texas Tech",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18403,7 +18391,7 @@
             },
             {
                 "time": "19:00",
-                "event": "UT Rio Grande Valley vs Houston",
+                "event": "College Baseball : UT Rio Grande Valley vs Houston",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18413,7 +18401,7 @@
             },
             {
                 "time": "19:00",
-                "event": "Cincinnati vs UAB",
+                "event": "College Baseball : Cincinnati vs UAB",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18423,7 +18411,7 @@
             },
             {
                 "time": "19:00",
-                "event": "Toledo vs Jacksonville State",
+                "event": "College Baseball : Toledo vs Jacksonville State",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18433,7 +18421,7 @@
             },
             {
                 "time": "19:00",
-                "event": "Marist vs Vanderbilt",
+                "event": "College Baseball : Marist vs Vanderbilt",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -18443,7 +18431,7 @@
             },
             {
                 "time": "19:00",
-                "event": "SIU Edwardsville vs SE Louisiana",
+                "event": "College Baseball : SIU Edwardsville vs SE Louisiana",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18453,7 +18441,7 @@
             },
             {
                 "time": "19:00",
-                "event": "Prairie View A&amp;M vs Incarnate Word",
+                "event": "College Baseball : Prairie View A&amp;M vs Incarnate Word",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18463,7 +18451,7 @@
             },
             {
                 "time": "19:00",
-                "event": "UT Martin vs Nicholls",
+                "event": "College Baseball : UT Martin vs Nicholls",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18473,7 +18461,7 @@
             },
             {
                 "time": "19:00",
-                "event": "West Georgia vs Little Rock",
+                "event": "College Baseball : West Georgia vs Little Rock",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18483,7 +18471,7 @@
             },
             {
                 "time": "19:00",
-                "event": "St. Thomas (MN) vs Lindenwood",
+                "event": "College Baseball : St. Thomas (MN) vs Lindenwood",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18493,7 +18481,7 @@
             },
             {
                 "time": "19:30",
-                "event": "Missouri State vs Mississippi",
+                "event": "College Baseball : Missouri State vs Mississippi",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18503,7 +18491,7 @@
             },
             {
                 "time": "20:00",
-                "event": "UC Davis vs Santa Clara",
+                "event": "College Baseball : UC Davis vs Santa Clara",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18513,7 +18501,7 @@
             },
             {
                 "time": "20:00",
-                "event": "UConn vs Arizona",
+                "event": "College Baseball : UConn vs Arizona",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18523,7 +18511,7 @@
             },
             {
                 "time": "20:00",
-                "event": "St. John's (NY) vs Arizona State",
+                "event": "College Baseball : St. John's (NY) vs Arizona State",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18533,7 +18521,7 @@
             },
             {
                 "time": "20:00",
-                "event": "Seattle U vs California Baptist",
+                "event": "College Baseball : Seattle U vs California Baptist",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18543,7 +18531,7 @@
             },
             {
                 "time": "20:00",
-                "event": "Dartmouth vs Gardner-Webb",
+                "event": "College Baseball : Dartmouth vs Gardner-Webb",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18553,7 +18541,7 @@
             },
             {
                 "time": "20:00",
-                "event": "Alcorn State vs Houston Christian",
+                "event": "College Baseball : Alcorn State vs Houston Christian",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18563,7 +18551,7 @@
             },
             {
                 "time": "20:00",
-                "event": "Saint Joseph's vs Sacramento State",
+                "event": "College Baseball : Saint Joseph's vs Sacramento State",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18573,7 +18561,7 @@
             },
             {
                 "time": "20:00",
-                "event": "Oklahoma State vs Grand Canyon",
+                "event": "College Baseball : Oklahoma State vs Grand Canyon",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18583,7 +18571,7 @@
             },
             {
                 "time": "20:00",
-                "event": "Rice vs Southern Cal",
+                "event": "College Baseball : Rice vs Southern Cal",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
@@ -18593,7 +18581,7 @@
             },
             {
                 "time": "20:05",
-                "event": "Portland vs UC Santa Barbara",
+                "event": "College Baseball : Portland vs UC Santa Barbara",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18603,7 +18591,7 @@
             },
             {
                 "time": "20:05",
-                "event": "Youngstown State vs Oregon",
+                "event": "College Baseball : Youngstown State vs Oregon",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
@@ -18613,7 +18601,7 @@
             },
             {
                 "time": "20:30",
-                "event": "Florida State vs Nebraska",
+                "event": "College Baseball : Florida State vs Nebraska",
                 "channels": [
                     {
                         "channel_name": "FloSports",
@@ -18623,7 +18611,7 @@
             },
             {
                 "time": "21:00",
-                "event": "TCU vs UCLA",
+                "event": "College Baseball : TCU vs UCLA",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
@@ -18633,7 +18621,7 @@
             },
             {
                 "time": "21:00",
-                "event": "Washington vs Loyola Marymount",
+                "event": "College Baseball : Washington vs Loyola Marymount",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18643,7 +18631,7 @@
             },
             {
                 "time": "21:00",
-                "event": "California vs UC Irvine",
+                "event": "College Baseball : California vs UC Irvine",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18653,7 +18641,7 @@
             },
             {
                 "time": "21:00",
-                "event": "VCU vs Coastal Carolina",
+                "event": "College Baseball : VCU vs Coastal Carolina",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18663,7 +18651,7 @@
             },
             {
                 "time": "21:00",
-                "event": "Western Michigan vs UC San Diego",
+                "event": "College Baseball : Western Michigan vs UC San Diego",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18673,7 +18661,7 @@
             },
             {
                 "time": "21:00",
-                "event": "Washington State vs Cal Poly",
+                "event": "College Baseball : Washington State vs Cal Poly",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18683,7 +18671,7 @@
             },
             {
                 "time": "21:00",
-                "event": "Air Force vs South Carolina",
+                "event": "College Baseball : Air Force vs South Carolina",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -18693,7 +18681,7 @@
             },
             {
                 "time": "21:00",
-                "event": "CSU Northridge vs St. Mary's",
+                "event": "College Baseball : CSU Northridge vs St. Mary's",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18703,7 +18691,7 @@
             },
             {
                 "time": "21:00",
-                "event": "San Jose State vs San Francisco",
+                "event": "College Baseball : San Jose State vs San Francisco",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18713,7 +18701,7 @@
             },
             {
                 "time": "21:00",
-                "event": "Pittsburgh vs Texas A&amp;M-CC",
+                "event": "College Baseball : Pittsburgh vs Texas A&amp;M-CC",
                 "channels": [
                     {
                         "channel_name": "FloSports",
@@ -18723,7 +18711,7 @@
             },
             {
                 "time": "21:05",
-                "event": "CSU Fullerton vs Stanford",
+                "event": "College Baseball : CSU Fullerton vs Stanford",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -18733,7 +18721,7 @@
             },
             {
                 "time": "21:05",
-                "event": "Portland vs UC Santa Barbara",
+                "event": "College Baseball : Portland vs UC Santa Barbara",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18743,7 +18731,7 @@
             },
             {
                 "time": "22:00",
-                "event": "UL Monroe vs New Orleans",
+                "event": "College Baseball : UL Monroe vs New Orleans",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18753,7 +18741,7 @@
             },
             {
                 "time": "00:30",
-                "event": "Kansas State vs Michigan",
+                "event": "College Baseball : Kansas State vs Michigan",
                 "channels": [
                     {
                         "channel_name": "FloSports",
@@ -18762,10 +18750,10 @@
                 ]
             }
         ],
-        "College Sotball": [
+        "College Softball": [
             {
                 "time": "14:00",
-                "event": "Charleston Southern vs Penn State",
+                "event": "College Softball : Charleston Southern vs Penn State",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18775,7 +18763,7 @@
             },
             {
                 "time": "15:00",
-                "event": "Long Island University vs Iowa State",
+                "event": "College Softball : Long Island University vs Iowa State",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
@@ -18785,7 +18773,7 @@
             },
             {
                 "time": "16:00",
-                "event": "Brown vs Texas State",
+                "event": "College Softball : Brown vs Texas State",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18795,7 +18783,7 @@
             },
             {
                 "time": "16:00",
-                "event": "Notre Dame vs UCF",
+                "event": "College Softball : Notre Dame vs UCF",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18805,7 +18793,7 @@
             },
             {
                 "time": "16:00",
-                "event": "Northwestern vs Arkansas",
+                "event": "College Softball : Northwestern vs Arkansas",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -18815,7 +18803,7 @@
             },
             {
                 "time": "16:30",
-                "event": "Delaware State vs Mississippi State",
+                "event": "College Softball : Delaware State vs Mississippi State",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -18825,7 +18813,7 @@
             },
             {
                 "time": "16:30",
-                "event": "Akron vs NC State",
+                "event": "College Softball : Akron vs NC State",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -18835,7 +18823,7 @@
             },
             {
                 "time": "16:30",
-                "event": "Fairleigh Dickinson vs George Mason",
+                "event": "College Softball : Fairleigh Dickinson vs George Mason",
                 "channels": [
                     {
                         "channel_name": "Fubo Sports",
@@ -18845,7 +18833,7 @@
             },
             {
                 "time": "17:00",
-                "event": "Tennessee Tech vs Georgia Southern",
+                "event": "College Softball : Tennessee Tech vs Georgia Southern",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18855,7 +18843,7 @@
             },
             {
                 "time": "17:00",
-                "event": "Purdue vs Georgia Tech",
+                "event": "College Softball : Purdue vs Georgia Tech",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -18865,7 +18853,7 @@
             },
             {
                 "time": "17:00",
-                "event": "Furman vs Troy",
+                "event": "College Softball : Furman vs Troy",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18875,7 +18863,7 @@
             },
             {
                 "time": "17:00",
-                "event": "Auburn vs California",
+                "event": "College Softball : Auburn vs California",
                 "channels": [
                     {
                         "channel_name": "FloSports",
@@ -18885,7 +18873,7 @@
             },
             {
                 "time": "17:00",
-                "event": "Texas Tech vs UC Riverside",
+                "event": "College Softball : Texas Tech vs UC Riverside",
                 "channels": [
                     {
                         "channel_name": "FloSports",
@@ -18895,7 +18883,7 @@
             },
             {
                 "time": "17:15",
-                "event": "St. Thomas (MN) vs East Texas A&amp;M",
+                "event": "College Softball : St. Thomas (MN) vs East Texas A&amp;M",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18905,7 +18893,7 @@
             },
             {
                 "time": "17:30",
-                "event": "Elon vs Florida State",
+                "event": "College Softball : Elon vs Florida State",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -18915,7 +18903,7 @@
             },
             {
                 "time": "17:30",
-                "event": "Central Michigan vs Minnesota",
+                "event": "College Softball : Central Michigan vs Minnesota",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
@@ -18925,7 +18913,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Colorado State vs Texas State",
+                "event": "College Softball : Colorado State vs Texas State",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18935,7 +18923,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Virginia Tech vs University of Georgia",
+                "event": "College Softball : Virginia Tech vs University of Georgia",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -18945,7 +18933,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Southern Mississippi vs Louisiana Tech",
+                "event": "College Softball : Southern Mississippi vs Louisiana Tech",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18955,7 +18943,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Charleston Southern vs UCF",
+                "event": "College Softball : Charleston Southern vs UCF",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18965,7 +18953,7 @@
             },
             {
                 "time": "18:30",
-                "event": "University of Delaware vs Virginia",
+                "event": "College Softball : University of Delaware vs Virginia",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -18975,7 +18963,7 @@
             },
             {
                 "time": "18:30",
-                "event": "Southeast Missouri State vs Arkansas",
+                "event": "College Softball : Southeast Missouri State vs Arkansas",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -18985,7 +18973,7 @@
             },
             {
                 "time": "18:45",
-                "event": "New Mexico State vs Arizona State",
+                "event": "College Softball : New Mexico State vs Arizona State",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -18995,7 +18983,7 @@
             },
             {
                 "time": "19:00",
-                "event": "Colgate vs South Florida",
+                "event": "College Softball : Colgate vs South Florida",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -19005,7 +18993,7 @@
             },
             {
                 "time": "19:00",
-                "event": "UC Santa Barbara vs Grand Canyon",
+                "event": "College Softball : UC Santa Barbara vs Grand Canyon",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -19015,7 +19003,7 @@
             },
             {
                 "time": "19:00",
-                "event": "Hofstra vs George Mason",
+                "event": "College Softball : Hofstra vs George Mason",
                 "channels": [
                     {
                         "channel_name": "Fubo Sports",
@@ -19025,7 +19013,7 @@
             },
             {
                 "time": "19:30",
-                "event": "Weber State vs Utah Tech",
+                "event": "College Softball : Weber State vs Utah Tech",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -19035,7 +19023,7 @@
             },
             {
                 "time": "19:30",
-                "event": "Howard vs LSU",
+                "event": "College Softball : Howard vs LSU",
                 "channels": [
                     {
                         "channel_name": "SECN+ USA",
@@ -19045,7 +19033,7 @@
             },
             {
                 "time": "19:30",
-                "event": "North Alabama vs South Alabama",
+                "event": "College Softball : North Alabama vs South Alabama",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -19055,7 +19043,7 @@
             },
             {
                 "time": "19:30",
-                "event": "Nebraska vs California",
+                "event": "College Softball : Nebraska vs California",
                 "channels": [
                     {
                         "channel_name": "FloSports",
@@ -19065,7 +19053,7 @@
             },
             {
                 "time": "19:30",
-                "event": "Loyola Marymount vs Washington",
+                "event": "College Softball : Loyola Marymount vs Washington",
                 "channels": [
                     {
                         "channel_name": "FloSports",
@@ -19075,7 +19063,7 @@
             },
             {
                 "time": "19:30",
-                "event": "Southern University vs North Texas",
+                "event": "College Softball : Southern University vs North Texas",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -19085,7 +19073,7 @@
             },
             {
                 "time": "20:00",
-                "event": "Southern Mississippi vs Louisiana Tech",
+                "event": "College Softball : Southern Mississippi vs Louisiana Tech",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -19095,7 +19083,7 @@
             },
             {
                 "time": "20:00",
-                "event": "Boise State vs Stanford",
+                "event": "College Softball : Boise State vs Stanford",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -19105,7 +19093,7 @@
             },
             {
                 "time": "21:00",
-                "event": "Bradley vs Memphis",
+                "event": "College Softball : Bradley vs Memphis",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -19115,7 +19103,7 @@
             },
             {
                 "time": "21:30",
-                "event": "Montana vs Grand Canyon",
+                "event": "College Softball : Montana vs Grand Canyon",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -19125,7 +19113,7 @@
             },
             {
                 "time": "21:45",
-                "event": "Southern University vs East Texas A&amp;M",
+                "event": "College Softball : Southern University vs East Texas A&amp;M",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -19135,7 +19123,7 @@
             },
             {
                 "time": "22:30",
-                "event": "San Jos\u00e9 State vs Cal Poly",
+                "event": "College Softball : San Jos\u00e9 State vs Cal Poly",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -19145,7 +19133,7 @@
             },
             {
                 "time": "22:30",
-                "event": "Mercer vs UAB",
+                "event": "College Softball : Mercer vs UAB",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -19155,7 +19143,7 @@
             },
             {
                 "time": "22:30",
-                "event": "Santa Clara vs Stanford",
+                "event": "College Softball : Santa Clara vs Stanford",
                 "channels": [
                     {
                         "channel_name": "ACCNX USA",
@@ -19165,7 +19153,7 @@
             },
             {
                 "time": "23:00",
-                "event": "Indiana State vs Memphis",
+                "event": "College Softball : Indiana State vs Memphis",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -19366,7 +19354,9 @@
                         "channel_id": "144"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA G League": [
             {
                 "time": "20:00",
                 "event": "NBA G-League : Motor City Cruise vs College Park Skyhawks",
@@ -19396,7 +19386,9 @@
                         "channel_id": "404"
                     }
                 ]
-            },
+            }
+        ],
+        "Unrivaled Basketball": [
             {
                 "time": "00:30",
                 "event": "Unrivaled Basketball : Phantom Basketball Club vs Hive Basketball Club",
@@ -19424,7 +19416,9 @@
                         "channel_id": "589"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA Basketball": [
             {
                 "time": "17:00",
                 "event": "NCAA : Lehigh vs Boston University",
@@ -20064,7 +20058,9 @@
                         "channel_id": "39"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "18:00",
                 "event": "NBA : Oklahoma City Thunder vs Cleveland Cavaliers",
@@ -20994,7 +20990,9 @@
                         "channel_id": "155"
                     }
                 ]
-            },
+            }
+        ],
+        "Olympic Ice Hockey": [
             {
                 "time": "13:10",
                 "event": "Olympic Games : Men | Gold Medal Game : Canada vs USA",
@@ -21388,7 +21386,7 @@
                 ]
             }
         ],
-        "Lacrosse": [
+        "Lacrosse (NLL)": [
             {
                 "time": "20:00",
                 "event": "NLL Lacrosse : Saskatchewan Rush vs Philadelphia Wings",
@@ -21754,20 +21752,24 @@
                         "channel_id": "994"
                     }
                 ]
-            },
+            }
+        ],
+        "League One Volleyball": [
             {
                 "time": "23:00",
-                "event": ": LOVB : Madison vs LOVB Nebraska",
+                "event": "League One Volleyball : LOVB Madison vs LOVB Nebraska",
                 "channels": [
                     {
                         "channel_name": "ESPN2 USA",
                         "channel_id": "45"
                     }
                 ]
-            },
+            }
+        ],
+        "Major League Volleyball": [
             {
                 "time": "21:00",
-                "event": ": Major League Volleyball : Columbus Fury vs Orlando Valkyries",
+                "event": "Major League Volleyball : Columbus Fury vs Orlando Valkyries",
                 "channels": [
                     {
                         "channel_name": "CBS Sports Network",
