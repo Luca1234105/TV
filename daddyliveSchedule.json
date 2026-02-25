@@ -5126,7 +5126,7 @@
                 ]
             }
         ],
-        "Soccer": [
+        "England - Championship": [
             {
                 "time": "19:45",
                 "event": "England - Championship : Norwich City vs Sheffield Wednesday",
@@ -5156,7 +5156,9 @@
                         "channel_id": "77"
                     }
                 ]
-            },
+            }
+        ],
+        "England - National League": [
             {
                 "time": "19:45",
                 "event": "England - National League : Eastleigh vs Truro City",
@@ -5216,7 +5218,9 @@
                         "channel_id": "109"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "08:00",
                 "event": "Australia - A-League : Macarthur vs Central Coast Mariners",
@@ -6674,6 +6678,416 @@
                 ]
             }
         ],
+        "Tennis ATP - DUBAI": [
+            {
+                "time": "10:00",
+                "event": "ATP - DUBAI : Medvedev D. vs Wawrinka S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "ATP - DUBAI : Brooksby J. vs Khachanov K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "ATP - DUBAI : Carreno-Busta P. vs Lehecka J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - DUBAI : Auger-Aliassime F. vs Mpetshi Perricard G.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "ATP - DUBAI : Griekspoor T. vs Bublik A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - DUBAI : Rublev A. vs Humbert U.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - DUBAI : Mensik J. vs Popyrin A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - DUBAI : Rinderknech A. vs Draper J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - SANTIAGO": [
+            {
+                "time": "23:00",
+                "event": "ATP - SANTIAGO : Tabilo A. vs Barrios Vera T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "ATP - SANTIAGO : Ugo Carabelli C. vs Hanfmann Y.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - SANTIAGO : Comesana F. vs Pellegrino A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "ATP - SANTIAGO : Prizmic D. vs Gaubas V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1195"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "ATP - SANTIAGO : Navone M. vs Darderi L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - ACAPULCO": [
+            {
+                "time": "00:00",
+                "event": "ATP - ACAPULCO : Atmane T. vs Dimitrov G.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "ATP - ACAPULCO : Pacheco Mendez R. vs Cobolli F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "ATP - ACAPULCO : Duckworth J. vs Svrcina D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "ATP - ACAPULCO : Zverev A. vs Moutet C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "ATP - ACAPULCO : Tiafoe F. vs Borges N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "ATP - ACAPULCO : Hijikata R. vs Bellucci M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "ATP - ACAPULCO : Ruud C. vs Wu Y.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "ATP - ACAPULCO : Dzumhur D. vs Monfils G.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "ATP - ACAPULCO : Mannarino A. vs Shimabukuro S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - MERIDA": [
+            {
+                "time": "23:00",
+                "event": "WTA - MERIDA : Frech M. vs Timofeeva M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "WTA - MERIDA : Lepchenko V. vs Zhang S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "WTA - MERIDA : Hon P. vs Zarazua R.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "WTA - MERIDA : Linette M. vs Jimenez Kasintseva V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "WTA - MERIDA : Arango E. vs Bouzkova M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "WTA - MERIDA : Boulter K. vs Osorio C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "WTA - MERIDA : Bucsa C. vs Stakusic M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - AUSTIN": [
+            {
+                "time": "23:00",
+                "event": "WTA - AUSTIN : Zakharova A. vs Stoiana M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "WTA - AUSTIN : Jones F. vs Stearns P.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "WTA - AUSTIN : Sun L. vs Dolehide C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - AUSTIN : Masarova R. vs Osuigwe W.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - AUSTIN : Rakhimova K. vs Selekhmeteva O.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "WTA - AUSTIN : Bartunkova N. vs Townsend T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "WTA - AUSTIN : Birrell K./McNally C. vs Jovic I./Stoiana M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "WTA - AUSTIN : Hunter S./Townsend T. vs Stearns P./Williams V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "WTA - AUSTIN : Yuan Y. vs Galfi D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "23:00",
@@ -6796,10 +7210,10 @@
                 ]
             }
         ],
-        "Wrestling": [
+        "WWE (AEW)": [
             {
                 "time": "01:00",
-                "event": "All Elite Wrestling: Dynamite",
+                "event": "All Elite Wrestling AEW: Dynamite",
                 "channels": [
                     {
                         "channel_name": "TBS USA",
@@ -6940,7 +7354,7 @@
                 ]
             }
         ],
-        "Aussie rules": [
+        "Aussie rules (AFL)": [
             {
                 "time": "08:00",
                 "event": "AFL : Carlton Blues vs Geelong Cats",
@@ -6952,82 +7366,7 @@
                 ]
             }
         ],
-        "Baseball": [
-            {
-                "time": "18:05",
-                "event": "MLB : Pittsburgh Pirates vs Atlanta Braves",
-                "channels": [
-                    {
-                        "channel_name": "SportsNet Pittsburgh",
-                        "channel_id": "922"
-                    }
-                ]
-            },
-            {
-                "time": "18:05",
-                "event": "MLB : Tampa Bay Rays vs Baltimore Orioles",
-                "channels": [
-                    {
-                        "channel_name": "MASN USA",
-                        "channel_id": "829"
-                    }
-                ]
-            },
-            {
-                "time": "18:05",
-                "event": "MLB : Boston Red Sox vs Minnesota Twins",
-                "channels": [
-                    {
-                        "channel_name": "NESN USA",
-                        "channel_id": "762"
-                    }
-                ]
-            },
-            {
-                "time": "18:05",
-                "event": "MLB : Detroit Tigers vs Philadelphia Phillies",
-                "channels": [
-                    {
-                        "channel_name": "MLB Network USA",
-                        "channel_id": "399"
-                    }
-                ]
-            },
-            {
-                "time": "20:10",
-                "event": "MLB : Los Angeles Dodgers vs Arizona Diamondbacks",
-                "channels": [
-                    {
-                        "channel_name": "Spectrum SportsNet LA",
-                        "channel_id": "764"
-                    }
-                ]
-            },
-            {
-                "time": "20:10",
-                "event": "MLB : San Francisco Giants vs Milwaukee Brewers",
-                "channels": []
-            },
-            {
-                "time": "20:10",
-                "event": "MLB : Los Angeles Angels vs San Diego Padres",
-                "channels": [
-                    {
-                        "channel_name": "MLB Network USA",
-                        "channel_id": "399"
-                    }
-                ]
-            },
-            {
-                "time": "23:35",
-                "event": "MLB : Washington Nationals vs New York Yankees",
-                "channels": [
-                    {
-                        "channel_name": "YES USA",
-                        "channel_id": "763"
-                    }
-                ]
-            },
+        "Baseball (MLB)": [
             {
                 "time": "18:05",
                 "event": "MLB : Pittsburgh Pirates vs Atlanta Braves",
@@ -7386,7 +7725,7 @@
                 ]
             }
         ],
-        "Softball": [
+        "NCAA Softball": [
             {
                 "time": "19:00",
                 "event": "College Softball : Presbyterian vs North Carolina A&amp;T",
@@ -7742,7 +8081,7 @@
                 ]
             }
         ],
-        "NCAA": [
+        "NCAA Basketball": [
             {
                 "time": "20:00",
                 "event": "NCAA : Bucknell vs Army",
@@ -8838,7 +9177,9 @@
                         "channel_id": "892"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "00:30",
                 "event": "NBA : Detroit Pistons vs Oklahoma City Thunder",
@@ -9724,7 +10065,7 @@
                 ]
             }
         ],
-        "NHL Ice Hockey": [
+        "NHL": [
             {
                 "time": "00:00",
                 "event": "NHL : New Jersey Devils vs Buffalo Sabres",
@@ -10266,7 +10607,9 @@
                         "channel_id": "129"
                     }
                 ]
-            },
+            }
+        ],
+        "League One Volleyball": [
             {
                 "time": "01:00",
                 "event": "League One Volleyball : LOVB Salt Lake vs LOVB Austin",
@@ -10276,7 +10619,9 @@
                         "channel_id": "343"
                     }
                 ]
-            },
+            }
+        ],
+        "College Volleyball": [
             {
                 "time": "03:00",
                 "event": "College Volleyball : UCLA vs UC Santa Barbara",
