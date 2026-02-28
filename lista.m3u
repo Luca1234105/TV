@@ -43,6 +43,8 @@ https://vavoo.to/vavoo-iptv/play/270562780243aa8d36614f
 https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d
 #EXTINF:-1 tvg-id="caccia.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-it.png?raw=true" group-title="Altro",CACCIA
 https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca
+#EXTINF:-1 tvg-id="caccia.e.pesca.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-pesca-it.png?raw=true" group-title="Altro",CACCIA E PESCA
+https://vavoo.to/vavoo-iptv/play/3639213638a7c6a2cc326e
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/DW0Tvz72-8XZ7rEBVh1jBzwYE1fZhTaowuuxN75Jl8yBtnFkySH1z2T2b7OPlotmHeQ" group-title="Altro",CAFE 24
 https://vavoo.to/vavoo-iptv/play/1625923783d5a6dda233b3
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/camera-dei-deputati-it.png?raw=true" group-title="Altro",CAMERA DEI DEPUTATI
@@ -499,8 +501,6 @@ https://vavoo.to/vavoo-iptv/play/22376603018e09f8150d84
 # SPORT
 #EXTINF:-1 tvg-id="aci.sport.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/aci-sport-tv-it.png" group-title="Sport",ACI SPORT TV
 https://vavoo.to/vavoo-iptv/play/13516316035c18ca000fe1
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
-https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (1)
@@ -595,9 +595,7 @@ https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 #EXTINF:-1 tvg-id="discoverysciencehd.it" tvg-logo="" group-title="Documentari",DISCOVERY SCIENCE
 https://vavoo.to/vavoo-iptv/play/5284308415938593b2e15
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (1)
-https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (2)
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
 https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
@@ -719,6 +717,8 @@ https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8
 https://vavoo.to/vavoo-iptv/play/3285185277cd2292829163
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 12
 https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 13
+https://vavoo.to/vavoo-iptv/play/310480937323455c2778b9
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 14
 https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 15
@@ -841,33 +841,6 @@ https://vavoo.to/vavoo-iptv/play/57338653b83f61385a9f
 https://vavoo.to/vavoo-iptv/play/178550192490bfbe154312
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO (2)
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
-
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="italyseriecunionarzignanochiampovsnovara" tvg-name="All Soccer Events | Italy - Serie C : Union ArzignanoChiampo vs Novara (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union ArzignanoChiampo_vs_Novara.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Union ArzignanoChiampo vs Novara (21:30)
-https://dlhd.dad/watch.php?id=76
-
-#EXTINF:-1 tvg-id="italyserieccittadellavsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Cittadella vs Ospitaletto (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cittadella_vs_Ospitaletto.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Cittadella vs Ospitaletto (21:30)
-https://dlhd.dad/watch.php?id=77
-
-#EXTINF:-1 tvg-id="italyseriecgianaerminiovsprovercelli" tvg-name="All Soccer Events | Italy - Serie C : Giana Erminio vs Pro Vercelli (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Giana Erminio_vs_Pro Vercelli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Giana Erminio vs Pro Vercelli (21:30)
-https://dlhd.dad/watch.php?id=86
-
-#EXTINF:-1 tvg-id="italyseriecpergolettesevstriestina" tvg-name="All Soccer Events | Italy - Serie C : Pergolettese vs Triestina (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pergolettese_vs_Triestina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pergolettese vs Triestina (21:30)
-https://dlhd.dad/watch.php?id=105
-
-#EXTINF:-1 tvg-id="italyserieaparmavscagliari" tvg-name="All Soccer Events | Italy - Serie A : Parma vs Cagliari (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Parma_vs_Cagliari.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Parma vs Cagliari (21:45)
-https://dlhd.dad/watch.php?id=877
-
-#EXTINF:-1 tvg-id="englandpremierleaguewolverhamptonwanderersvsastonvilla" tvg-name="All Soccer Events | England - Premier League : Wolverhampton Wanderers vs Aston Villa (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Wolverhampton Wanderers_vs_Aston Villa.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Wolverhampton Wanderers vs Aston Villa (22:00)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="welshopenround1quarterfinaleveningsession" tvg-name="Snooker | Welsh Open Round 1 | Quarter-Final | Evening Session (21:00)" tvg-logo="https://www.worldteamscrabble.com/wtsc.png" group-title="Eventi Live DLHD",Snooker | Welsh Open Round 1 | Quarter-Final | Evening Session (21:00)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="europeworldcupqualificationbosniaampherzegovinavsswitzerland" tvg-name="Basketball | Europe World Cup - Qualification : Bosnia &amp; Herzegovina vs Switzerland (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bosnia &amp; Herzegovina_vs_Switzerland.png" group-title="Eventi Live DLHD",Basketball | Europe World Cup - Qualification : Bosnia &amp; Herzegovina vs Switzerland (21:00)
-https://dlhd.dad/watch.php?id=19
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
