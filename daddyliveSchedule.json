@@ -10194,6 +10194,16 @@
                 ]
             },
             {
+                "time": "11:00",
+                "event": "Ukrainian Premier League : SK Poltava vs Kudrivka",
+                "channels": [
+                    {
+                        "channel_name": "UPL.TV",
+                        "channel_id": "9000"
+                    }
+                ]
+            },
+            {
                 "time": "11:30",
                 "event": "Portugal - Liga Revela\u00e7\u00e3o : Farense U23 vs Vizela U23",
                 "channels": [
@@ -10448,6 +10458,10 @@
                     {
                         "channel_name": "Arena 5 Premium Serbia",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4009"
                     }
                 ]
             },
@@ -10666,6 +10680,10 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4009"
                     }
                 ]
             },
@@ -10748,6 +10766,10 @@
                     {
                         "channel_name": "Sport 1 Israel",
                         "channel_id": "140"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
                     }
                 ]
             },
@@ -10900,6 +10922,10 @@
                     {
                         "channel_name": "beIN Sports MENA 1",
                         "channel_id": "91"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4010"
                     }
                 ]
             },
@@ -11618,6 +11644,10 @@
                     {
                         "channel_name": "Monumental Sports Network",
                         "channel_id": "778"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4065"
                     }
                 ]
             },
@@ -11696,6 +11726,10 @@
                     {
                         "channel_name": "5Sport Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4066"
                     }
                 ]
             },
@@ -11710,6 +11744,10 @@
                     {
                         "channel_name": "Altitude USA",
                         "channel_id": "923"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4067"
                     }
                 ]
             },
@@ -11780,6 +11818,10 @@
                     {
                         "channel_name": "5Sport Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4068"
                     }
                 ]
             }
@@ -11932,6 +11974,10 @@
                     {
                         "channel_name": "5Stars Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4050"
                     }
                 ]
             },
@@ -11962,6 +12008,10 @@
                     {
                         "channel_name": "V Sport Premium",
                         "channel_id": "12"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4051"
                     }
                 ]
             },
@@ -11984,6 +12034,10 @@
                     {
                         "channel_name": "Viasat Vinter",
                         "channel_id": "13"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4052"
                     }
                 ]
             },
@@ -12002,6 +12056,14 @@
                     {
                         "channel_name": "V Sport Premium",
                         "channel_id": "12"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4052"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4053"
                     }
                 ]
             },
@@ -12024,6 +12086,10 @@
                     {
                         "channel_name": "5Stars Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4054"
                     }
                 ]
             },
@@ -12042,6 +12108,10 @@
                     {
                         "channel_name": "Viasat Vinter",
                         "channel_id": "13"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4055"
                     }
                 ]
             }
