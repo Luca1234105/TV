@@ -511,6 +511,8 @@ https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
 https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (2)
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION
+https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
@@ -523,6 +525,8 @@ https://vavoo.to/vavoo-iptv/play/29737730766a27b9a63e21
 https://vavoo.to/vavoo-iptv/play/56652751299dc0b400d5c
 #EXTINF:-1 tvg-id="milan.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/milan-tv-it.png" group-title="Sport",MILAN TV
 https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/7/79/San_Marino_RTV_Sport_-_logo.png/revision/latest?cb=20221207153729" group-title="Sport",RTV SAN MARINO SPORT
+https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 #EXTINF:-1 tvg-id="sky.sport.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24
 https://vavoo.to/vavoo-iptv/play/277580225585f503fbfc87
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
@@ -844,7 +848,7 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="italyserieclatinavssorrento" tvg-name="Soccer | Italy - Serie C : Latina vs Sorrento (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Latina_vs_Sorrento.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Latina vs Sorrento (19:00)
 https://dlhd.dad/watch.php?id=1
 
-#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovssiracusa" tvg-name="Soccer | Italy - Serie C : Virtus Casarano vs Siracusa (19:00)" tvg-logo="https://www.garabatos.biz/wp-content/uploads/2020/06/marina-cafe-siracusa-logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Virtus Casarano vs Siracusa (19:00)
+#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovssiracusa" tvg-name="Soccer | Italy - Serie C : Virtus Casarano vs Siracusa (19:00)" tvg-logo="https://static-www.comune.siracusa.it/wp-content/uploads/2024/01/cropped-favicon-1.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Virtus Casarano vs Siracusa (19:00)
 https://dlhd.dad/watch.php?id=4
 
 #EXTINF:-1 tvg-id="italyseriecpicernovsatalantaii" tvg-name="Soccer | Italy - Serie C : Picerno vs Atalanta II (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Picerno_vs_Atalanta II.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Picerno vs Atalanta II (19:00)
@@ -882,9 +886,6 @@ https://dlhd.dad/watch.php?id=10
 
 #EXTINF:-1 tvg-id="europeanchampionshipwomenbosniaampherzegovinawvsitalyw" tvg-name="Handball | European Championship Women : Bosnia &amp; Herzegovina W vs Italy W (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bosnia &amp; Herzegovina W_vs_Italy W.png" group-title="Eventi Live DLHD",Handball | European Championship Women : Bosnia &amp; Herzegovina W vs Italy W (21:00)
 https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="lahtiwomenshs130worldcupday1" tvg-name="Ski Jumping | Lahti | Women's HS 130 World Cup | Day 1 (16:00)" tvg-logo="https://www.lahtilottery.com/img/logo.png" group-title="Eventi Live DLHD",Ski Jumping | Lahti | Women's HS 130 World Cup | Day 1 (16:00)
-https://dlhd.dad/watch.php?id=878
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
