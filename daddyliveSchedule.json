@@ -8145,7 +8145,7 @@
         "NBA G League": [
             {
                 "time": "03:00",
-                "event": "NBA G-League : Santa Cruz Warriors vs South Bay Lakers",
+                "event": "NBA G League : Santa Cruz Warriors vs South Bay Lakers",
                 "channels": [
                     {
                         "channel_name": "NBCS Bay Area USA",
@@ -8289,7 +8289,7 @@
             },
             {
                 "time": "16:00",
-                "event": "NCAAW : TBA vs. Rhode Island",
+                "event": "NCAAW : TBA vs Rhode Island",
                 "channels": [
                     {
                         "channel_name": "USA Network",
@@ -8399,7 +8399,7 @@
             },
             {
                 "time": "22:00",
-                "event": "NCAAW : TBA vs. George Mason",
+                "event": "NCAAW : TBA vs George Mason",
                 "channels": [
                     {
                         "channel_name": "USA Network",
@@ -8439,7 +8439,7 @@
             },
             {
                 "time": "00:00",
-                "event": "NCAAW : TBA vs. Richmond",
+                "event": "NCAAW : TBA vs Richmond",
                 "channels": [
                     {
                         "channel_name": "CNBC USA",
@@ -9562,7 +9562,43 @@
                 ]
             }
         ],
-        "Lacrosse": [
+        "Women's College Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "College Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "USHL Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "NCAA Lacrosse": [
             {
                 "time": "00:00",
                 "event": "College Lacrosse : Maryland vs University of Delaware",
