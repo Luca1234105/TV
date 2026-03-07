@@ -6887,16 +6887,6 @@
         "Upcoming Events": [
             {
                 "time": "18:30",
-                "event": "RIZIN.52: Kyoma Akimoto vs. Patchy Mix Friday, March 6, 2026",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
                 "event": "Fame MMA 30: Icons Saturday, March 21, 2026",
                 "channels": [
                     {
@@ -7104,25 +7094,7 @@
                 ]
             }
         ],
-        "Soccer": [
-            {
-                "time": "12:30",
-                "event": "England - Championship : Hull City vs Millwall",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "151"
-                    },
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "36"
-                    },
-                    {
-                        "channel_name": "V Sport Football",
-                        "channel_id": "1"
-                    }
-                ]
-            },
+        "England - League One/League Two": [
             {
                 "time": "12:30",
                 "event": "England - League Two : Grimsby Town vs Bromley",
@@ -7160,60 +7132,6 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "156"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "England - Championship : Charlton Athletic vs Birmingham City",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "157"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "England - Championship : Bristol City vs Coventry City",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "158"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "England - Championship : Sheffield United vs West Bromwich Albion",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "159"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "England - Championship : Ipswich Town vs Leicester City",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "160"
-                    },
-                    {
-                        "channel_name": "V Sport Football",
-                        "channel_id": "1"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "England - Championship : Swansea City vs Stoke City",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "161"
                     }
                 ]
             },
@@ -7386,7 +7304,83 @@
                         "channel_id": "178"
                     }
                 ]
+            }
+        ],
+        "England - Championship": [
+            {
+                "time": "12:30",
+                "event": "England - Championship : Hull City vs Millwall",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports+",
+                        "channel_id": "151"
+                    },
+                    {
+                        "channel_name": "Sky Sports+",
+                        "channel_id": "36"
+                    },
+                    {
+                        "channel_name": "V Sport Football",
+                        "channel_id": "1"
+                    }
+                ]
             },
+            {
+                "time": "15:00",
+                "event": "England - Championship : Charlton Athletic vs Birmingham City",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports+",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "England - Championship : Bristol City vs Coventry City",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports+",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "England - Championship : Sheffield United vs West Bromwich Albion",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports+",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "England - Championship : Ipswich Town vs Leicester City",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports+",
+                        "channel_id": "160"
+                    },
+                    {
+                        "channel_name": "V Sport Football",
+                        "channel_id": "1"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "England - Championship : Swansea City vs Stoke City",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports+",
+                        "channel_id": "161"
+                    }
+                ]
+            }
+        ],
+        "Scottish Premiership": [
             {
                 "time": "15:00",
                 "event": "Scotland - Scottish Premiership : Dundee vs Motherwell",
@@ -7396,7 +7390,9 @@
                         "channel_id": "179"
                     }
                 ]
-            },
+            }
+        ],
+        "Ireland Republic": [
             {
                 "time": "19:30",
                 "event": "Ireland Republic - First Division : Longford Town vs UCD",
@@ -7416,7 +7412,9 @@
                         "channel_id": "156"
                     }
                 ]
-            },
+            }
+        ],
+        "England - National League": [
             {
                 "time": "12:30",
                 "event": "England - National League : Boreham Wood vs Brackley Town",
@@ -7536,7 +7534,9 @@
                         "channel_id": "180"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "05:00",
                 "event": "Football - Asian Cup (W): Taipei vs Vietnam",
@@ -7966,6 +7966,10 @@
                     {
                         "channel_name": "Sport 1 Israel",
                         "channel_id": "140"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
                     }
                 ]
             },
@@ -8160,6 +8164,10 @@
                     {
                         "channel_name": "beIN Sports MENA 3",
                         "channel_id": "93"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -9116,6 +9124,10 @@
                     {
                         "channel_name": "Prima Sport 2 Romania",
                         "channel_id": "584"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -9342,6 +9354,10 @@
                     {
                         "channel_name": "5Sport Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4007"
                     }
                 ]
             },
@@ -9820,6 +9836,10 @@
                     {
                         "channel_name": "Diema Sport 2 Bulgaria",
                         "channel_id": "466"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4008"
                     }
                 ]
             },
@@ -9922,6 +9942,10 @@
                     {
                         "channel_name": "SuperSport Laliga",
                         "channel_id": "415"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -10046,6 +10070,10 @@
                     {
                         "channel_name": "Sport 1 Israel",
                         "channel_id": "140"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
                     }
                 ]
             },
@@ -10166,6 +10194,10 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4007"
                     }
                 ]
             },
@@ -10664,6 +10696,10 @@
                     {
                         "channel_name": "Sport 1 Israel",
                         "channel_id": "140"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
                     }
                 ]
             },
@@ -10758,6 +10794,10 @@
                     {
                         "channel_name": "SuperSport Laliga",
                         "channel_id": "415"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -10822,6 +10862,10 @@
                     {
                         "channel_name": "5Sport Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4007"
                     }
                 ]
             },
@@ -11054,7 +11098,9 @@
                         "channel_id": "643"
                     }
                 ]
-            },
+            }
+        ],
+        "USL Championship": [
             {
                 "time": "23:00",
                 "event": "USL Championship : Charleston Battery vs Pittsburgh Riverhounds",
@@ -11134,7 +11180,9 @@
                         "channel_id": "167"
                     }
                 ]
-            },
+            }
+        ],
+        "USL League One": [
             {
                 "time": "19:00",
                 "event": "USL Super League : Brooklyn vs DC Power",
@@ -11198,7 +11246,9 @@
                         "channel_id": "173"
                     }
                 ]
-            },
+            }
+        ],
+        "Major League Soccer (MLS)": [
             {
                 "time": "19:30",
                 "event": "Major League Soccer : New England vs Houston Dynamo",
@@ -11592,6 +11642,10 @@
                     {
                         "channel_name": "Fox Sports 1 MX",
                         "channel_id": "929"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4049"
                     }
                 ]
             },
@@ -11884,6 +11938,10 @@
                     {
                         "channel_name": "Fox Sports 1 MX",
                         "channel_id": "929"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4049"
                     }
                 ]
             }
@@ -12000,7 +12058,9 @@
                         "channel_id": "628"
                     }
                 ]
-            },
+            }
+        ],
+        "UFC Fight Night 326": [
             {
                 "time": "22:00",
                 "event": "UFC 326 Early Prelims : Sumudaerji vs Jesus Aguilar",
@@ -12116,11 +12176,15 @@
                     {
                         "channel_name": "Sport 5 Live Israel",
                         "channel_id": "146"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4048"
                     }
                 ]
             }
         ],
-        "Wrestling": [
+        "College Wrestling": [
             {
                 "time": "15:00",
                 "event": "Men's College Wrestling Big Ten Tournament, Session One",
@@ -12140,10 +12204,12 @@
                         "channel_id": "397"
                     }
                 ]
-            },
+            }
+        ],
+        "WWE (AEW)": [
             {
                 "time": "01:00",
-                "event": "All Elite Wrestling",
+                "event": "All Elite Wrestling AEW : Collision",
                 "channels": [
                     {
                         "channel_name": "TNT USA",
@@ -12452,7 +12518,7 @@
                 ]
             }
         ],
-        "Aussie rules": [
+        "Aussie rules (AFL)": [
             {
                 "time": "05:15",
                 "event": "AFL : Greater Western Sydney vs Hawthorn Hawks",
@@ -12486,7 +12552,7 @@
                 ]
             }
         ],
-        "Baseball": [
+        "World Baseball Classic": [
             {
                 "time": "10:00",
                 "event": "World Baseball Classic : Japan vs South Korea",
@@ -12662,7 +12728,9 @@
                         "channel_id": "145"
                     }
                 ]
-            },
+            }
+        ],
+        "Baseball (MLB)": [
             {
                 "time": "17:05",
                 "event": "MLB : Miami Marlins vs Houston Astros",
@@ -13572,6 +13640,18 @@
                         "channel_id": "456"
                     }
                 ]
+            }
+        ],
+        "NBA G-League": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
             },
             {
                 "time": "01:00",
@@ -13582,7 +13662,9 @@
                         "channel_id": "905"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA Basketball": [
             {
                 "time": "17:00",
                 "event": "NCAA : Davidson vs St. Bonaventure",
@@ -14262,7 +14344,9 @@
                         "channel_id": "156"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "20:00",
                 "event": "NBA : Minnesota Timberwolves vs Orlando Magic",
@@ -14304,6 +14388,10 @@
                     {
                         "channel_name": "Arena 1 Premium Serbia",
                         "channel_id": "134"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4065"
                     }
                 ]
             },
@@ -14342,6 +14430,10 @@
                     {
                         "channel_name": "Sport 5 Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4066"
                     }
                 ]
             },
@@ -14356,6 +14448,10 @@
                     {
                         "channel_name": "FanDuel Sports Network SoCal",
                         "channel_id": "902"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4068"
                     }
                 ]
             },
@@ -14370,6 +14466,10 @@
                     {
                         "channel_name": "FanDuel Sports Network Wisconsin",
                         "channel_id": "907"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4069"
                     }
                 ]
             },
@@ -14420,6 +14520,10 @@
                     {
                         "channel_name": "Sport 5 Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4070"
                     }
                 ]
             }
@@ -15000,7 +15104,7 @@
                 ]
             }
         ],
-        "Ice Hockey": [
+        "Ice Hockey (NHL)": [
             {
                 "time": "17:30",
                 "event": "NHL : Washington Capitals vs Boston Bruins",
@@ -15056,6 +15160,10 @@
                     {
                         "channel_name": "Viasat Vinter",
                         "channel_id": "157"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4050"
                     }
                 ]
             },
@@ -15098,6 +15206,10 @@
                     {
                         "channel_name": "Sport 5 Live Israel",
                         "channel_id": "146"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4051"
                     }
                 ]
             },
@@ -15116,6 +15228,10 @@
                     {
                         "channel_name": "Viasat Vinter",
                         "channel_id": "157"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4052"
                     }
                 ]
             },
@@ -15138,6 +15254,10 @@
                     {
                         "channel_name": "V Sport Premium",
                         "channel_id": "12"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4053"
                     }
                 ]
             },
@@ -15152,6 +15272,10 @@
                     {
                         "channel_name": "Sportsnet West",
                         "channel_id": "407"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4056"
                     }
                 ]
             },
@@ -15174,6 +15298,10 @@
                     {
                         "channel_name": "Sportsnet Ontario",
                         "channel_id": "406"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4054"
                     }
                 ]
             },
@@ -15188,6 +15316,10 @@
                     {
                         "channel_name": "FanDuel Sports Network Ohio",
                         "channel_id": "899"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4055"
                     }
                 ]
             },
@@ -15226,6 +15358,10 @@
                     {
                         "channel_name": "Sky Sport Mix DE",
                         "channel_id": "557"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4057"
                     }
                 ]
             },
@@ -15248,6 +15384,10 @@
                     {
                         "channel_name": "V Sport Premium",
                         "channel_id": "12"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4059"
                     }
                 ]
             },
@@ -15278,6 +15418,10 @@
                     {
                         "channel_name": "Viasat Vinter",
                         "channel_id": "157"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4060"
                     }
                 ]
             },
@@ -15308,9 +15452,15 @@
                     {
                         "channel_name": "Sportsnet West",
                         "channel_id": "407"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4058"
                     }
                 ]
-            },
+            }
+        ],
+        "Ice Hockey (KHL)": [
             {
                 "time": "06:30",
                 "event": "Russia KHL : Amur Khabarovsk vs Salavat Yulaev Ufa",
@@ -15360,7 +15510,9 @@
                         "channel_id": "203"
                     }
                 ]
-            },
+            }
+        ],
+        "SHL Ice Hockey": [
             {
                 "time": "14:15",
                 "event": "SHL : Rogle vs Farjestad BK",
@@ -15428,28 +15580,6 @@
                     {
                         "channel_name": "TV4 Hockey Sweden",
                         "channel_id": "700"
-                    }
-                ]
-            }
-        ],
-        "College Ice Hockey": [
-            {
-                "time": "21:00",
-                "event": "College Ice Hockey : UConn vs Providence",
-                "channels": [
-                    {
-                        "channel_name": "NESN USA",
-                        "channel_id": "762"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "College Ice Hockey : Northeastern vs Boston College",
-                "channels": [
-                    {
-                        "channel_name": "NESN USA",
-                        "channel_id": "762"
                     }
                 ]
             }
@@ -15721,7 +15851,7 @@
         "OHL Ice Hockey": [
             {
                 "time": "20:00",
-                "event": "ECHL : Brampton Steelheads vs Ottawa 67s",
+                "event": "OHL : Brampton Steelheads vs Ottawa 67s",
                 "channels": [
                     {
                         "channel_name": "FloHockey",
@@ -15731,7 +15861,7 @@
             },
             {
                 "time": "21:07",
-                "event": "ECHL : Sault Ste. Marie Greyhounds vs Guelph Storm",
+                "event": "OHL : Sault Ste. Marie Greyhounds vs Guelph Storm",
                 "channels": [
                     {
                         "channel_name": "FloHockey",
@@ -15741,7 +15871,7 @@
             },
             {
                 "time": "00:00",
-                "event": "ECHL : Sarnia Sting vs Owen Sound Attack",
+                "event": "OHL : Sarnia Sting vs Owen Sound Attack",
                 "channels": [
                     {
                         "channel_name": "FloHockey",
@@ -15751,7 +15881,7 @@
             },
             {
                 "time": "00:00",
-                "event": "ECHL : London Knights vs Erie Otters",
+                "event": "OHL : London Knights vs Erie Otters",
                 "channels": [
                     {
                         "channel_name": "FloHockey",
@@ -15761,7 +15891,7 @@
             },
             {
                 "time": "00:00",
-                "event": "ECHL : Windsor Spitfires vs Flint Firebird",
+                "event": "OHL : Windsor Spitfires vs Flint Firebird",
                 "channels": [
                     {
                         "channel_name": "FloHockey",
@@ -15771,7 +15901,7 @@
             },
             {
                 "time": "00:30",
-                "event": "ECHL : North Bay Battalion vs Barrie Colts",
+                "event": "OHL : North Bay Battalion vs Barrie Colts",
                 "channels": [
                     {
                         "channel_name": "FloHockey",
@@ -15914,6 +16044,38 @@
                 ]
             }
         ],
+        "College Ice Hockey": [
+            {
+                "time": "21:00",
+                "event": "College Ice Hockey : UConn vs Providence",
+                "channels": [
+                    {
+                        "channel_name": "NESN USA",
+                        "channel_id": "762"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "College Ice Hockey : Northeastern vs Boston College",
+                "channels": [
+                    {
+                        "channel_name": "NESN USA",
+                        "channel_id": "762"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
         "Women's College Ice Hockey": [
             {
                 "time": "20:30",
@@ -15922,6 +16084,16 @@
                     {
                         "channel_name": "ESPNEWS",
                         "channel_id": "288"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
                     }
                 ]
             }
@@ -15948,7 +16120,7 @@
                 ]
             }
         ],
-        "Lacrosse": [
+        "Lacrosse (NLL)": [
             {
                 "time": "03:00",
                 "event": "NLL Lacrosse : Ottawa Black Bears at Colorado Mammoth",
@@ -16782,17 +16954,9 @@
                         "channel_id": "995"
                     }
                 ]
-            },
-            {
-                "time": "01:00",
-                "event": "College Volleyball : Purdue Fort Wayne vs Loyola-Chicago",
-                "channels": [
-                    {
-                        "channel_name": "Marquee Sports Network",
-                        "channel_id": "770"
-                    }
-                ]
-            },
+            }
+        ],
+        "Beach Volleyball": [
             {
                 "time": "01:30",
                 "event": "Beach Volleyball : Australian Beach Volleyball Tour",
@@ -16800,6 +16964,18 @@
                     {
                         "channel_name": "NLSE",
                         "channel_id": "20"
+                    }
+                ]
+            }
+        ],
+        "College Volleyball": [
+            {
+                "time": "01:00",
+                "event": "College Volleyball : Purdue Fort Wayne vs Loyola-Chicago",
+                "channels": [
+                    {
+                        "channel_name": "Marquee Sports Network",
+                        "channel_id": "770"
                     }
                 ]
             },
