@@ -10890,6 +10890,20 @@
                         "channel_id": "00"
                     }
                 ]
+            },
+            {
+                "time": "23:30",
+                "event": "The Oscars 2026 - 98th Academy Awards - Sunday, March 15, 2026",
+                "channels": [
+                    {
+                        "channel_name": "ABC NY USA",
+                        "channel_id": "766"
+                    },
+                    {
+                        "channel_name": "ABC USA",
+                        "channel_id": "51"
+                    }
+                ]
             }
         ],
         "Soccer": [
@@ -11310,6 +11324,10 @@
                     {
                         "channel_name": "Sport 1 Israel",
                         "channel_id": "140"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
                     }
                 ]
             },
@@ -11622,6 +11640,10 @@
                     {
                         "channel_name": "beIN Sports MENA 2",
                         "channel_id": "92"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -11790,6 +11812,10 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
                     }
                 ]
             },
@@ -12138,6 +12164,10 @@
                     {
                         "channel_name": "5 SPORT Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4007"
                     }
                 ]
             },
@@ -12542,6 +12572,10 @@
                     {
                         "channel_name": "SuperSport Laliga",
                         "channel_id": "415"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -12786,6 +12820,10 @@
                     {
                         "channel_name": "DAZN 6 France",
                         "channel_id": "77"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4004"
                     }
                 ]
             },
@@ -12816,6 +12854,10 @@
                     {
                         "channel_name": "beIN Sports MENA 4",
                         "channel_id": "94"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4007"
                     }
                 ]
             },
@@ -12838,6 +12880,10 @@
                     {
                         "channel_name": "beIN Sports MENA 3",
                         "channel_id": "93"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4005"
                     }
                 ]
             },
@@ -12916,6 +12962,10 @@
                     {
                         "channel_name": "Sport 1 Israel",
                         "channel_id": "140"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
                     }
                 ]
             },
@@ -13424,6 +13474,10 @@
                     {
                         "channel_name": "beIN Sports MENA 2",
                         "channel_id": "92"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -13718,6 +13772,10 @@
                     {
                         "channel_name": "beIN Sports MENA 3",
                         "channel_id": "93"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4007"
                     }
                 ]
             },
@@ -13932,6 +13990,10 @@
                     {
                         "channel_name": "beIN Sports MENA 2",
                         "channel_id": "92"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -14814,7 +14876,7 @@
                 ]
             }
         ],
-        "Aussie rules": [
+        "Aussie Rules (AFL)": [
             {
                 "time": "08:20",
                 "event": "AFL : St Kilda Saints vs Collingwood Magpies",
@@ -14834,7 +14896,83 @@
                 ]
             }
         ],
-        "Baseball": [
+        "Athletes Unlimited Basketball": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Women's Gymnastics": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Gymnastics": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "Artistic Gymnastics : Baku, Azerbaijan Day 2",
+                "channels": [
+                    {
+                        "channel_name": "Sport TV6 Portugal",
+                        "channel_id": "291"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "Women's College Gymnastics : Texas Woman's University vs Oklahoma",
+                "channels": [
+                    {
+                        "channel_name": "SECN+ USA",
+                        "channel_id": "86"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "Women's College Gymnastics Teams TBA",
+                "channels": [
+                    {
+                        "channel_name": "ACC Network USA",
+                        "channel_id": "664"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Women's College Gymnastics : LSU vs Florida",
+                "channels": [
+                    {
+                        "channel_name": "SEC Network USA",
+                        "channel_id": "385"
+                    }
+                ]
+            }
+        ],
+        "World Baseball Classic": [
             {
                 "time": "10:00",
                 "event": "World Baseball Classic : Japan vs Australia",
@@ -14948,7 +15086,9 @@
                         "channel_id": "643"
                     }
                 ]
-            },
+            }
+        ],
+        "Baseball (MLB)": [
             {
                 "time": "17:05",
                 "event": "MLB : Toronto Blue Jays vs Baltimore Orioles",
@@ -15854,7 +15994,9 @@
                         "channel_id": "135"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA G League": [
             {
                 "time": "18:00",
                 "event": "NBA G League : Rio Grande Valley Vipers at Windy City Bulls",
@@ -15867,7 +16009,7 @@
             },
             {
                 "time": "19:00",
-                "event": "NBA G-League : Lakeland Magic vs Maine Celtics",
+                "event": "NBA G League : Lakeland Magic vs Maine Celtics",
                 "channels": [
                     {
                         "channel_name": "NBA TV USA",
@@ -15894,7 +16036,9 @@
                         "channel_id": "753"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA Basketball": [
             {
                 "time": "16:00",
                 "event": "NCAA : Rutgers vs Penn State",
@@ -16172,7 +16316,9 @@
                         "channel_id": "45"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "17:00",
                 "event": "NBA : Cleveland Cavaliers vs Boston Celtics",
@@ -16739,7 +16885,7 @@
         "GAA": [
             {
                 "time": "12:30",
-                "event": "CLARE vs WEXFORD",
+                "event": "GAA : CLARE vs WEXFORD",
                 "channels": [
                     {
                         "channel_name": "GAA+",
@@ -16749,7 +16895,7 @@
             },
             {
                 "time": "13:40",
-                "event": "KILDARE vs CARLOW",
+                "event": "GAA : KILDARE vs CARLOW",
                 "channels": [
                     {
                         "channel_name": "GAA+",
@@ -16759,53 +16905,11 @@
             },
             {
                 "time": "14:50",
-                "event": "WATERFORD vs TIPPERARY",
+                "event": "GAA : WATERFORD vs TIPPERARY",
                 "channels": [
                     {
                         "channel_name": "GAA+",
                         "channel_id": "215"
-                    }
-                ]
-            }
-        ],
-        "Gymnastics": [
-            {
-                "time": "08:00",
-                "event": "Artistic Gymnastics : Baku, Azerbaijan Day 2",
-                "channels": [
-                    {
-                        "channel_name": "Sport TV6 Portugal",
-                        "channel_id": "291"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "Women's College Gymnastics : Texas Woman's University vs Oklahoma",
-                "channels": [
-                    {
-                        "channel_name": "SECN+ USA",
-                        "channel_id": "86"
-                    }
-                ]
-            },
-            {
-                "time": "21:00",
-                "event": "Women's College Gymnastics Teams TBA",
-                "channels": [
-                    {
-                        "channel_name": "ACC Network USA",
-                        "channel_id": "664"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "Women's College Gymnastics : LSU vs Florida",
-                "channels": [
-                    {
-                        "channel_name": "SEC Network USA",
-                        "channel_id": "385"
                     }
                 ]
             }
@@ -17000,6 +17104,28 @@
         ],
         "Ice Hockey": [
             {
+                "time": "16:00",
+                "event": "Slovakia Tipsport liga : Ban. Bystrica vs Nitra",
+                "channels": [
+                    {
+                        "channel_name": "Sport 1 SK",
+                        "channel_id": "219"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "Slovakia Tipsport liga : Slovan Bratislava vs Michalovce",
+                "channels": [
+                    {
+                        "channel_name": "JOJ Sport",
+                        "channel_id": "220"
+                    }
+                ]
+            }
+        ],
+        "Ice Hockey (NHL)": [
+            {
                 "time": "18:00",
                 "event": "NHL : Minnesota Wild vs Colorado Avalanche",
                 "channels": [
@@ -17160,7 +17286,9 @@
                         "channel_id": "5"
                     }
                 ]
-            },
+            }
+        ],
+        "DEL Ice Hockey": [
             {
                 "time": "13:00",
                 "event": "DEL : Red Bull M\u00fcnchen vs Frankfurt Lowen",
@@ -17230,7 +17358,9 @@
                         "channel_id": "28"
                     }
                 ]
-            },
+            }
+        ],
+        "PWHL Ice Hockey": [
             {
                 "time": "16:00",
                 "event": "PWHL : Toronto W vs Minnesota Golden Gophers W",
@@ -17262,27 +17392,9 @@
                         "channel_id": "411"
                     }
                 ]
-            },
-            {
-                "time": "16:00",
-                "event": "Slovakia Tipsport liga : Ban. Bystrica vs Nitra",
-                "channels": [
-                    {
-                        "channel_name": "Sport 1 SK",
-                        "channel_id": "219"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "Slovakia Tipsport liga : Slovan Bratislava vs Michalovce",
-                "channels": [
-                    {
-                        "channel_name": "JOJ Sport",
-                        "channel_id": "220"
-                    }
-                ]
-            },
+            }
+        ],
+        "KHL Ice Hockey": [
             {
                 "time": "11:30",
                 "event": "Russia KHL : Metallurg Magnitogorsk vs Traktor Chelyabinsk",
@@ -17560,6 +17672,54 @@
                     {
                         "channel_name": "FloHockey",
                         "channel_id": "77"
+                    }
+                ]
+            }
+        ],
+        "Lacrosse (NLL)": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "College Lacrosse": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "PLL Lacrosse": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Women's College Lacrosse": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
                     }
                 ]
             }
@@ -17976,6 +18136,18 @@
                     {
                         "channel_name": "Sportv2 Brazil",
                         "channel_id": "79"
+                    }
+                ]
+            }
+        ],
+        "College Volleyball": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
                     }
                 ]
             }
