@@ -1515,7 +1515,11 @@
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1511"
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
                     }
                 ]
             },
