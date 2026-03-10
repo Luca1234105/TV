@@ -3204,12 +3204,34 @@
                 ]
             },
             {
+                "time": "00:00",
+                "event": "AEW Revolution 2026 , Top Championship Matches and Notable Returns March 15, 2026",
+                "channels": [
+                    {
+                        "channel_name": "WWE PPV",
+                        "channel_id": "5005"
+                    }
+                ]
+            },
+            {
                 "time": "04:30",
                 "event": "The 2026 Miami Open Tennis tournament - Monday, March 16 to March 29",
                 "channels": [
                     {
                         "channel_name": "Tennis channel USA",
                         "channel_id": "40"
+                    }
+                ]
+            }
+        ],
+        "PPV Events": [
+            {
+                "time": "22:00",
+                "event": "Millbridge Speedway Salisbury",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5004"
                     }
                 ]
             }
