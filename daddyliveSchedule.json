@@ -2,6 +2,16 @@
     "Tuesday 10th March 2026 - Schedule Time UK GMT": {
         "Upcoming Events": [
             {
+                "time": "13:30",
+                "event": "Premier league of Darts: Night 6",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
                 "time": "18:30",
                 "event": "Fame MMA 30: Icons Saturday, March 21, 2026",
                 "channels": [
@@ -4708,7 +4718,7 @@
                 ]
             }
         ],
-        "Soccer": [
+        "England - Championship": [
             {
                 "time": "19:45",
                 "event": "England - Championship : Birmingham City vs Queens Park Rangers",
@@ -4758,7 +4768,9 @@
                         "channel_id": "106"
                     }
                 ]
-            },
+            }
+        ],
+        "England - League One": [
             {
                 "time": "19:45",
                 "event": "England - League One : Port Vale vs Bradford City",
@@ -4778,7 +4790,9 @@
                         "channel_id": "108"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "10:00",
                 "event": "Asia - AFC Champions League Elite : Sanfrecce Hiroshima vs Johor Darul Ta'zim",
@@ -6192,10 +6206,10 @@
                 ]
             }
         ],
-        "Wrestling": [
+        "WWE (AEW)": [
             {
                 "time": "01:00",
-                "event": "All Elite Wrestling: Dynamite",
+                "event": "All Elite Wrestling AEW : Dynamite",
                 "channels": [
                     {
                         "channel_name": "TBS USA",
@@ -6208,6 +6222,42 @@
                     {
                         "channel_name": "Fox Sports Premium MX",
                         "channel_id": "830"
+                    }
+                ]
+            }
+        ],
+        "Athletes Unlimited Basketball": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Women's Gymnastics": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Gymnastics": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
                     }
                 ]
             }
@@ -7284,7 +7334,9 @@
                         "channel_id": "108"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "23:30",
                 "event": "NBA : Orlando Magic vs Cleveland Cavaliers",
@@ -7808,7 +7860,7 @@
                 ]
             }
         ],
-        "Ice Hockey": [
+        "Ice Hockey (NHL)": [
             {
                 "time": "23:30",
                 "event": "NHL : Washington Capitals vs Philadelphia Flyers",
@@ -7876,17 +7928,9 @@
                         "channel_id": "158"
                     }
                 ]
-            },
-            {
-                "time": "09:00",
-                "event": "Russia MHL : Amurskie Tigry U20 vs Red Machine - Junior U20",
-                "channels": [
-                    {
-                        "channel_name": "KHL TV",
-                        "channel_id": "27"
-                    }
-                ]
-            },
+            }
+        ],
+        "KHL Ice Hockey": [
             {
                 "time": "13:30",
                 "event": "Russia KHL : Avangard Omsk vs Torpedo Nizhny Novgorod",
@@ -7930,6 +7974,18 @@
             {
                 "time": "16:30",
                 "event": "Russia KHL : Dynamo Moscow vs Shanghai Dragons",
+                "channels": [
+                    {
+                        "channel_name": "KHL TV",
+                        "channel_id": "27"
+                    }
+                ]
+            }
+        ],
+        "Ice Hockey": [
+            {
+                "time": "09:00",
+                "event": "Russia MHL : Amurskie Tigry U20 vs Red Machine - Junior U20",
                 "channels": [
                     {
                         "channel_name": "KHL TV",
@@ -8196,6 +8252,54 @@
                 ]
             }
         ],
+        "Lacrosse (NLL)": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "College Lacrosse": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "PLL Lacrosse": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Women's College Lacrosse": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
         "Volleyball": [
             {
                 "time": "12:00",
@@ -8360,7 +8464,9 @@
                         "channel_id": "79"
                     }
                 ]
-            },
+            }
+        ],
+        "League One Volleyball": [
             {
                 "time": "00:00",
                 "event": "League One Volleyball : LOVB Austin vs LOVB Houston",
@@ -8370,7 +8476,9 @@
                         "channel_id": "343"
                     }
                 ]
-            },
+            }
+        ],
+        "College Volleyball": [
             {
                 "time": "01:00",
                 "event": "College Volleyball : Penn State vs Pepperdine",
