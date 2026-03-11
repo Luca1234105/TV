@@ -56,6 +56,18 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "23:00",
+                "event": "Hype Fighting Championship (HFC) : HYPE Brazil",
+                "channels": [
+                    {
+                        "channel_name": "Fight PPV",
+                        "channel_id": "5020"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "12:00",
