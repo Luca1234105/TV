@@ -4690,16 +4690,6 @@
     "Thursday 12th March 2026 - Schedule Time UK GMT": {
         "Upcoming Events": [
             {
-                "time": "13:30",
-                "event": "Premier league of Darts: Night 6",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
                 "time": "18:30",
                 "event": "Fame MMA 30: Icons Saturday, March 21, 2026",
                 "channels": [
@@ -5412,6 +5402,10 @@
                     {
                         "channel_name": "Sport 3 Israel",
                         "channel_id": "142"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
                     }
                 ]
             },
@@ -5506,6 +5500,10 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
                     }
                 ]
             },
@@ -5584,6 +5582,10 @@
                     {
                         "channel_name": "beIN Sports MENA 4",
                         "channel_id": "94"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4005"
                     }
                 ]
             },
@@ -5662,6 +5664,10 @@
                     {
                         "channel_name": "beIN Sports MENA 3",
                         "channel_id": "93"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4004"
                     }
                 ]
             },
@@ -6168,6 +6174,10 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4005"
                     }
                 ]
             },
@@ -7034,7 +7044,7 @@
                 ]
             }
         ],
-        "Wrestling": [
+        "WWE (TNA)": [
             {
                 "time": "02:00",
                 "event": "TNA iMPACT!",
@@ -7182,7 +7192,7 @@
                 ]
             }
         ],
-        "Other": [
+        "Other Games": [
             {
                 "time": "18:00",
                 "event": "Other : Mondo classic",
@@ -7194,7 +7204,7 @@
                 ]
             }
         ],
-        "Aussie rules": [
+        "Aussie Rules (AFL)": [
             {
                 "time": "08:30",
                 "event": "AFL : Carlton Blues vs Richmond Tigers",
@@ -7214,7 +7224,7 @@
                 ]
             }
         ],
-        "Baseball": [
+        "Baseball (MLB)": [
             {
                 "time": "17:05",
                 "event": "MLB : Boston Red Sox vs Minnesota Twins",
@@ -7292,6 +7302,18 @@
                     {
                         "channel_name": "ACC Network USA",
                         "channel_id": "664"
+                    }
+                ]
+            }
+        ],
+        "College Softball": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
                     }
                 ]
             }
@@ -7984,7 +8006,9 @@
                         "channel_id": "68"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "23:00",
                 "event": "NBA : Detroit Pistons vs Philadelphia 76ers",
@@ -8296,6 +8320,16 @@
         ],
         "Darts": [
             {
+                "time": "13:30",
+                "event": "Premier league of Darts: Night 6",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5001"
+                    }
+                ]
+            },
+            {
                 "time": "19:00",
                 "event": "Premier League Darts : Josh Rock vs Stephen Bunting",
                 "channels": [
@@ -8326,6 +8360,10 @@
                     {
                         "channel_name": "Arena Sport 5 Serbia",
                         "channel_id": "940"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -8360,6 +8398,10 @@
                     {
                         "channel_name": "Arena Sport 5 Serbia",
                         "channel_id": "940"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -8394,6 +8436,10 @@
                     {
                         "channel_name": "Arena Sport 5 Serbia",
                         "channel_id": "940"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -8428,6 +8474,10 @@
                     {
                         "channel_name": "Arena Sport 5 Serbia",
                         "channel_id": "940"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
                     }
                 ]
             }
@@ -8548,7 +8598,31 @@
                 ]
             }
         ],
-        "Ice Hockey": [
+        "Women's College Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "College Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Ice Hockey (NHL)": [
             {
                 "time": "23:00",
                 "event": "NHL : Detroit Red Wings vs Tampa Bay Lightning",
@@ -8852,17 +8926,9 @@
                         "channel_id": "28"
                     }
                 ]
-            },
-            {
-                "time": "18:15",
-                "event": "Austria ICE Hockey League : HK Olimpija vs HC Bolzano",
-                "channels": [
-                    {
-                        "channel_name": "\u0160TV 2 Slovenia",
-                        "channel_id": "179"
-                    }
-                ]
-            },
+            }
+        ],
+        "Ice Hockey": [
             {
                 "time": "09:30",
                 "event": "Russia KHL : Admiral Vladivostok vs Barys Astana",
@@ -8910,6 +8976,16 @@
                     {
                         "channel_name": "SPORT1+ DE",
                         "channel_id": "640"
+                    }
+                ]
+            },
+            {
+                "time": "18:15",
+                "event": "Austria ICE Hockey League : HK Olimpija vs HC Bolzano",
+                "channels": [
+                    {
+                        "channel_name": "\u0160TV 2 Slovenia",
+                        "channel_id": "179"
                     }
                 ]
             }
@@ -9011,7 +9087,7 @@
         "QMJHL Ice Hockey": [
             {
                 "time": "22:00",
-                "event": "QMJHL : Cape Breton Eagles @Moncton Wildcats",
+                "event": "QMJHL : Cape Breton Eagles vs Moncton Wildcats",
                 "channels": [
                     {
                         "channel_name": "FloHockey",
@@ -9068,6 +9144,66 @@
                     {
                         "channel_name": "FloHockey",
                         "channel_id": "155"
+                    }
+                ]
+            }
+        ],
+        "AHL Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Lacrosse (NLL)": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "College Lacrosse": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "PLL Lacrosse": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Women's College Lacrosse": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
                     }
                 ]
             }
@@ -9166,7 +9302,9 @@
                         "channel_id": "79"
                     }
                 ]
-            },
+            }
+        ],
+        "College Volleyball": [
             {
                 "time": "01:00",
                 "event": "College Volleyball : Southern Cal vs Concordia Irvine",
