@@ -97,6 +97,8 @@ https://vavoo.to/vavoo-iptv/play/1521821490a62d4e3205da
 https://vavoo.to/vavoo-iptv/play/1371658771f5d431bd1ae6
 #EXTINF:-1 tvg-id="equtv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/equ-tv-it.png?raw=true" group-title="Altro",EQU TV
 https://vavoo.to/vavoo-iptv/play/28185866687e407e1edc60
+#EXTINF:-1 tvg-id="" tvg-logo="https://massimoemanuelli.com/wp-content/uploads/2017/10/etv-logo-attuale.png?w=640" group-title="Altro",ESPANSIONE TV
+https://vavoo.to/vavoo-iptv/play/53948441989c19aba3352
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_ESPERIAtv.png" group-title="Altro",ESPERIA TV
 https://vavoo.to/vavoo-iptv/play/3525104604d4e472fa9bd7
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/ESPERIATV18_verde.png/260px-ESPERIATV18_verde.png" group-title="Altro",ESPERIA TV 18
@@ -383,6 +385,8 @@ https://vavoo.to/vavoo-iptv/play/3765504418d7a4047993c
 https://vavoo.to/vavoo-iptv/play/20700707550e841728d807
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PvoHpnx0hNKtt435CUaJza2e_qsm5B87Cg&s" group-title="Altro",VIDEO NOVARA
 https://vavoo.to/vavoo-iptv/play/27917814213e17be842a1b
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/videolina-it.png?raw=true" group-title="Altro",VIDEOLINA
+https://vavoo.to/vavoo-iptv/play/1249978054d9101729f51f
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.videostartv.eu/images/videostar.png" group-title="Altro",VIDEOSTAR TV
 https://vavoo.to/vavoo-iptv/play/24994885846c204e8b0b86
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kAZM1WRzE6qfQx90xPJ3v1Jz1gaJwn6BbrZcewu6eTcQ=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",VIDEOTOLENTINO
@@ -413,6 +417,8 @@ https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38
 https://vavoo.to/vavoo-iptv/play/21132730647ae733a10331
 #EXTINF:-1 tvg-id="focus.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Mediaset",FOCUS (2)
 https://vavoo.to/vavoo-iptv/play/3439223610a4fec93d907a
+#EXTINF:-1 tvg-id="focus.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Mediaset",FOCUS (3)
+https://vavoo.to/vavoo-iptv/play/29825504332b9997336c1e
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (1)
 https://vavoo.to/vavoo-iptv/play/576490047036ac0227958
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (2)
@@ -583,7 +589,9 @@ https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 https://vavoo.to/vavoo-iptv/play/430570853d0b7479b224d
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.auroraarte.it/wp-content/uploads/2023/11/AURORA-ARTE-brand.png" group-title="Documentari",AURORA ARTE
 https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0
-#EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL (1)
+https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1
+#EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL (2)
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
@@ -597,9 +605,7 @@ https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD (1)
-https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD (2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE (1)
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
@@ -611,7 +617,9 @@ https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
 # BAMBINI
-#EXTINF:-1 tvg-id="babytv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV
+#EXTINF:-1 tvg-id="babytv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV (1)
+https://vavoo.to/vavoo-iptv/play/39385011257cd02ab803dc
+#EXTINF:-1 tvg-id="babytv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV (2)
 https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (1)
 https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
@@ -641,8 +649,6 @@ https://vavoo.to/vavoo-iptv/play/3550030443fb56cbe586ef
 https://vavoo.to/vavoo-iptv/play/2900362153b8a056cb86c0
 
 # FILM - SERIE TV
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME + INV
-https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film - Serie TV",DISNEY+ FILM
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="foxhd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film - Serie TV",FOX
@@ -835,26 +841,77 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="europeuefachampionsleaguerealmadridvsmanchestercity" tvg-name="All Soccer Events | Europe - UEFA Champions League : Real Madrid vs Manchester City (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Real Madrid_vs_Manchester City.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Champions League : Real Madrid vs Manchester City (22:00)
-https://dlhd.dad/watch.php?id=7
-
-#EXTINF:-1 tvg-id="europeuefachampionsleaguepsgvschelsea" tvg-name="All Soccer Events | Europe - UEFA Champions League : PSG vs Chelsea (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/PSG_vs_Chelsea.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Champions League : PSG vs Chelsea (22:00)
-https://dlhd.dad/watch.php?id=1
-
-#EXTINF:-1 tvg-id="europeuefachampionsleaguepsgvschelsea" tvg-name="All Soccer Events | Europe - UEFA Champions League : PSG vs Chelsea (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/PSG_vs_Chelsea.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Champions League : PSG vs Chelsea (22:00)
-https://dlhd.dad/watch.php?id=15
-
-#EXTINF:-1 tvg-id="europeuefachampionsleaguepsgvschelsea" tvg-name="All Soccer Events | Europe - UEFA Champions League : PSG vs Chelsea (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/PSG_vs_Chelsea.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Champions League : PSG vs Chelsea (22:00)
+#EXTINF:-1 tvg-id="italycoppaitaliafemminileromavsintermilano" tvg-name="Soccer | Italy - Coppa Italia Femminile : Roma vs Inter Milano (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Roma_vs_Inter Milano.png" group-title="Eventi Live DLHD",Soccer | Italy - Coppa Italia Femminile : Roma vs Inter Milano (19:00)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="europeuefachampionsleaguebodøglimtvssportingcp" tvg-name="All Soccer Events | Europe - UEFA Champions League : Bodø / Glimt vs Sporting CP (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bodø / Glimt_vs_Sporting CP.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Champions League : Bodø / Glimt vs Sporting CP (22:00)
-https://dlhd.dad/watch.php?id=19
+#EXTINF:-1 tvg-id="uefaeuropaleaguebolognavsroma" tvg-name="Soccer | UEFA Europa League : Bologna vs Roma (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bologna_vs_Roma.png" group-title="Eventi Live DLHD",Soccer | UEFA Europa League : Bologna vs Roma (19:45)
+https://dlhd.dad/watch.php?id=3
 
-#EXTINF:-1 tvg-id="championsleaguetrentinovsonicowarszawa" tvg-name="Volleyball | Champions League : Trentino vs ONICO Warszawa (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trentino_vs_ONICO Warszawa.png" group-title="Eventi Live DLHD",Volleyball | Champions League : Trentino vs ONICO Warszawa (21:30)
-https://dlhd.dad/watch.php?id=877
+#EXTINF:-1 tvg-id="uefaeuropaleaguebolognavsroma" tvg-name="Soccer | UEFA Europa League : Bologna vs Roma (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bologna_vs_Roma.png" group-title="Eventi Live DLHD",Soccer | UEFA Europa League : Bologna vs Roma (19:45)
+https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="championsleaguetrentinovsonicowarszawa" tvg-name="Volleyball | Champions League : Trentino vs ONICO Warszawa (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trentino_vs_ONICO Warszawa.png" group-title="Eventi Live DLHD",Volleyball | Champions League : Trentino vs ONICO Warszawa (21:30)
+#EXTINF:-1 tvg-id="uefaeuropaleaguelillevsastonvilla" tvg-name="Soccer | UEFA Europa League : Lille vs Aston Villa (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lille_vs_Aston Villa.png" group-title="Eventi Live DLHD",Soccer | UEFA Europa League : Lille vs Aston Villa (19:45)
+https://dlhd.dad/watch.php?id=6
+
+#EXTINF:-1 tvg-id="uefaeuropaleaguepanathinaikosvsrealbetis" tvg-name="Soccer | UEFA Europa League : Panathinaikos vs Real Betis (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Panathinaikos_vs_Real Betis.png" group-title="Eventi Live DLHD",Soccer | UEFA Europa League : Panathinaikos vs Real Betis (19:45)
+https://dlhd.dad/watch.php?id=9
+
+#EXTINF:-1 tvg-id="uefaeuropaleaguestuttgartvsporto" tvg-name="Soccer | UEFA Europa League : Stuttgart vs Porto (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Stuttgart_vs_Porto.png" group-title="Eventi Live DLHD",Soccer | UEFA Europa League : Stuttgart vs Porto (19:45)
+https://dlhd.dad/watch.php?id=11
+
+#EXTINF:-1 tvg-id="uefaeuropaleaguenottinghamforestvsmidtjylland" tvg-name="Soccer | UEFA Europa League : Nottingham Forest vs Midtjylland (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Nottingham Forest_vs_Midtjylland.png" group-title="Eventi Live DLHD",Soccer | UEFA Europa League : Nottingham Forest vs Midtjylland (22:00)
+https://dlhd.dad/watch.php?id=6
+
+#EXTINF:-1 tvg-id="uefaeuropaleaguenottinghamforestvsmidtjylland" tvg-name="Soccer | UEFA Europa League : Nottingham Forest vs Midtjylland (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Nottingham Forest_vs_Midtjylland.png" group-title="Eventi Live DLHD",Soccer | UEFA Europa League : Nottingham Forest vs Midtjylland (22:00)
+https://dlhd.dad/watch.php?id=23
+
+#EXTINF:-1 tvg-id="uefaeuropaleaguenottinghamforestvsmidtjylland" tvg-name="Soccer | UEFA Europa League : Nottingham Forest vs Midtjylland (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Nottingham Forest_vs_Midtjylland.png" group-title="Eventi Live DLHD",Soccer | UEFA Europa League : Nottingham Forest vs Midtjylland (22:00)
 https://dlhd.dad/watch.php?id=460
+
+#EXTINF:-1 tvg-id="uefaeuropaleaguegenkvsfreiburg" tvg-name="Soccer | UEFA Europa League : Genk vs Freiburg (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Genk_vs_Freiburg.png" group-title="Eventi Live DLHD",Soccer | UEFA Europa League : Genk vs Freiburg (22:00)
+https://dlhd.dad/watch.php?id=9
+
+#EXTINF:-1 tvg-id="uefaeuropaleagueferencvárosvssportingbraga" tvg-name="Soccer | UEFA Europa League : Ferencváros vs Sporting Braga (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ferencváros_vs_Sporting Braga.png" group-title="Eventi Live DLHD",Soccer | UEFA Europa League : Ferencváros vs Sporting Braga (22:00)
+https://dlhd.dad/watch.php?id=25
+
+#EXTINF:-1 tvg-id="uefaeuropaleagueceltadevigovsolympiquelyonnais" tvg-name="Soccer | UEFA Europa League : Celta de Vigo vs Olympique Lyonnais (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Celta de Vigo_vs_Olympique Lyonnais.png" group-title="Eventi Live DLHD",Soccer | UEFA Europa League : Celta de Vigo vs Olympique Lyonnais (22:00)
+https://dlhd.dad/watch.php?id=11
+
+#EXTINF:-1 tvg-id="uefaconferenceleaguefiorentinavsrakówczstochowa" tvg-name="Soccer | UEFA Conference League : Fiorentina vs Raków Częstochowa (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Raków Częstochowa.png" group-title="Eventi Live DLHD",Soccer | UEFA Conference League : Fiorentina vs Raków Częstochowa (22:00)
+https://dlhd.dad/watch.php?id=3
+
+#EXTINF:-1 tvg-id="uefaconferenceleaguefiorentinavsrakówczstochowa" tvg-name="Soccer | UEFA Conference League : Fiorentina vs Raków Częstochowa (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Raków Częstochowa.png" group-title="Eventi Live DLHD",Soccer | UEFA Conference League : Fiorentina vs Raków Częstochowa (22:00)
+https://dlhd.dad/watch.php?id=461
+
+#EXTINF:-1 tvg-id="atpwta1000indianwells" tvg-name="Tennis | ATP/WTA 1000: Indian Wells (20:00)" tvg-logo="https://nordsip.com/wp-content/uploads/2024/10/Logo-black-1000.png" group-title="Eventi Live DLHD",Tennis | ATP/WTA 1000: Indian Wells (20:00)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="f1academytraining" tvg-name="Motorsport | F1 Academy, Training (02:10)" tvg-logo="https://successacademy.training/wp-content/uploads/2024/05/succes-logo-1-2048x2048.png" group-title="Eventi Live DLHD",Motorsport | F1 Academy, Training (02:10)
+https://dlhd.dad/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula1heinekenchinesegppractice1" tvg-name="Motorsport | Formula 1 : Heineken Chinese GP - Practice 1 (05:30)" tvg-logo="https://www.dtti.it/wp-content/uploads/2022/07/formula-1-logo-0.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Heineken Chinese GP - Practice 1 (05:30)
+https://dlhd.dad/watch.php?id=577
+
+#EXTINF:-1 tvg-id="worldcupwomennewzealandwvsitalyw" tvg-name="Basketball | World Cup Women : New Zealand W vs Italy W (22:50)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/New Zealand W_vs_Italy W.png" group-title="Eventi Live DLHD",Basketball | World Cup Women : New Zealand W vs Italy W (22:50)
+https://dlhd.dad/watch.php?id=2
+
+#EXTINF:-1 tvg-id="worldcupwomennewzealandwvsitalyw" tvg-name="Basketball | World Cup Women : New Zealand W vs Italy W (22:50)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/New Zealand W_vs_Italy W.png" group-title="Eventi Live DLHD",Basketball | World Cup Women : New Zealand W vs Italy W (22:50)
+https://dlhd.dad/watch.php?id=882
+
+#EXTINF:-1 tvg-id="otepaasprinttrainingworldcupmen" tvg-name="Biathlon | Otepaa | Sprint | Training World Cup | Men (16:00)" tvg-logo="https://falsecreeksprint.com/wp-content/uploads/2024/04/FCRCC-Flatwater.png" group-title="Eventi Live DLHD",Biathlon | Otepaa | Sprint | Training World Cup | Men (16:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="drammenmensandwomensclassicsprintworldcup" tvg-name="Cross Country | Drammen | Men's and Women's Classic Sprint World Cup (17:20)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Norway_counties.svg/800px-Norway_counties.svg.png" group-title="Eventi Live DLHD",Cross Country | Drammen | Men's and Women's Classic Sprint World Cup (17:20)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="tyrrhenianadriaticstage4mentagliacozzomartinsicuro213km" tvg-name="Cycling | Tyrrhenian-Adriatic | Stage 4 Men | Tagliacozzo – Martinsicuro (213km) (14:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sunflower_d1.png/60px-Sunflower_d1.png" group-title="Eventi Live DLHD",Cycling | Tyrrhenian-Adriatic | Stage 4 Men | Tagliacozzo – Martinsicuro (213km) (14:00)
+https://dlhd.dad/watch.php?id=879
+
+#EXTINF:-1 tvg-id="cevcuphaguefenerbahcevsachljubljana" tvg-name="Volleyball | CEV Cup Hague : Fenerbahce vs ACH Ljubljana (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fenerbahce_vs_ACH Ljubljana.png" group-title="Eventi Live DLHD",Volleyball | CEV Cup Hague : Fenerbahce vs ACH Ljubljana (18:00)
+https://dlhd.dad/watch.php?id=462
+
+#EXTINF:-1 tvg-id="fisworldcupdrammenmensandwomensclassicsprint" tvg-name="Winter Sports | FIS World Cup Drammen | Men's and Women's Classic Sprint (17:35)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Winter Sports | FIS World Cup Drammen | Men's and Women's Classic Sprint (17:35)
+https://dlhd.dad/watch.php?id=878
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
