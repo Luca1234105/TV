@@ -1132,6 +1132,10 @@
                     {
                         "channel_name": "Sport 5 Gold Israel",
                         "channel_id": "148"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4007"
                     }
                 ]
             },
@@ -1194,6 +1198,10 @@
                     {
                         "channel_name": "SuperSport Football",
                         "channel_id": "56"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4009"
                     }
                 ]
             },
@@ -1290,6 +1298,10 @@
                     {
                         "channel_name": "beIN Sports MENA English 2",
                         "channel_id": "90"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -1584,6 +1596,106 @@
                     {
                         "channel_name": "Sky Sport 9 NZ",
                         "channel_id": "596"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - INDIAN WELLS": [
+            {
+                "time": "18:00",
+                "event": "ATP - INDIAN WELLS : Rinderknech A./Vacherot V. vs Bhambri Y./Goransson A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1558"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "ATP - INDIAN WELLS : Granollers M./Zeballos H. vs Andreozzi G./Guinard M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1558"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - INDIAN WELLS": [
+            {
+                "time": "23:00",
+                "event": "WTA - INDIAN WELLS : Sabalenka A. vs Noskova L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "WTA - INDIAN WELLS : Rybakina E. vs Svitolina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1570"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1565"
                     }
                 ]
             }
@@ -3572,6 +3684,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4068"
                     }
                 ]
             },
@@ -3582,6 +3698,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4065"
                     }
                 ]
             },
@@ -3600,6 +3720,10 @@
                     {
                         "channel_name": "MSG USA",
                         "channel_id": "765"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4066"
                     }
                 ]
             },
@@ -3622,6 +3746,10 @@
                     {
                         "channel_name": "TSN1",
                         "channel_id": "111"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4067"
                     }
                 ]
             },
@@ -3636,6 +3764,10 @@
                     {
                         "channel_name": "Space City Home Network",
                         "channel_id": "921"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4069"
                     }
                 ]
             },
@@ -3654,6 +3786,10 @@
                     {
                         "channel_name": "TSN1",
                         "channel_id": "111"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4070"
                     }
                 ]
             },
@@ -3668,6 +3804,10 @@
                     {
                         "channel_name": "Sport 5 Stars Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4071"
                     }
                 ]
             },
@@ -3686,6 +3826,10 @@
                     {
                         "channel_name": "FanDuel Sports Network SoCal",
                         "channel_id": "902"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4072"
                     }
                 ]
             }
@@ -4186,6 +4330,10 @@
                     {
                         "channel_name": "MAX Sport 1 Bulgaria",
                         "channel_id": "472"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4050"
                     }
                 ]
             },
@@ -4220,6 +4368,10 @@
                     {
                         "channel_name": "V Sport Premium",
                         "channel_id": "12"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4051"
                     }
                 ]
             }
