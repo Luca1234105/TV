@@ -7000,7 +7000,11 @@
                 "event": "World Cup Women : Germany W vs France W",
                 "channels": [
                     {
-                        "channel_name": "Magenta Sport 318 (CH-21) beIN Sports Max 4 France",
+                        "channel_name": "Magenta Sport 318",
+                        "channel_id": "21"
+                    },
+                    {
+                        "channel_name": "beIN Sports Max 4 France",
                         "channel_id": "494"
                     }
                 ]
