@@ -169,8 +169,8 @@ https://vavoo.to/vavoo-iptv/play/22109966031d6de269f9b8
 https://vavoo.to/vavoo-iptv/play/2835333400f831a30ce568
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",MARIA+VISION
 https://vavoo.to/vavoo-iptv/play/448530931a02141cb37b2
-#EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND
-https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
+https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro",ONDA NOVARA TV
@@ -501,8 +501,12 @@ https://vavoo.to/vavoo-iptv/play/22376603018e09f8150d84
 # SPORT
 #EXTINF:-1 tvg-id="aci.sport.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/aci-sport-tv-it.png" group-title="Sport",ACI SPORT TV
 https://vavoo.to/vavoo-iptv/play/13516316035c18ca000fe1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
+https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
+#EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
+https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (1)
 https://vavoo.to/vavoo-iptv/play/34813468571b25fb16646d
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (2)
@@ -511,6 +515,8 @@ https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
 https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (2)
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION
+https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
@@ -611,8 +617,6 @@ https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
 https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
-#EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
-https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",TELEPACE TRENTO (HISTORY LAB)
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
@@ -843,27 +847,6 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="englandpremierleaguesunderlandvsbrightonamphovealbion" tvg-name="All Soccer Events | England - Premier League : Sunderland vs Brighton &amp; Hove Albion (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sunderland_vs_Brighton &amp; Hove Albion.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Sunderland vs Brighton &amp; Hove Albion (17:00)
-https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="italyseriebmonzavspalermo" tvg-name="All Soccer Events | Italy - Serie B : Monza vs Palermo (18:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monza_vs_Palermo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Monza vs Palermo (18:15)
-https://dlhd.dad/watch.php?id=77
-
-#EXTINF:-1 tvg-id="italyseriecpergolettesevsunionarzignanochiampo" tvg-name="All Soccer Events | Italy - Serie C : Pergolettese vs Union ArzignanoChiampo (18:30)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Union_ArzignanoChiampo.png/revision/latest?cb=20161031220657" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pergolettese vs Union ArzignanoChiampo (18:30)
-https://dlhd.dad/watch.php?id=170
-
-#EXTINF:-1 tvg-id="italyseriecospitalettovstrento" tvg-name="All Soccer Events | Italy - Serie C : Ospitaletto vs Trento (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ospitaletto_vs_Trento.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ospitaletto vs Trento (18:30)
-https://dlhd.dad/watch.php?id=168
-
-#EXTINF:-1 tvg-id="italyserieclivornovsathleticcarpi" tvg-name="All Soccer Events | Italy - Serie C : Livorno vs Athletic Carpi (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Livorno_vs_Athletic Carpi.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Livorno vs Athletic Carpi (18:30)
-https://dlhd.dad/watch.php?id=169
-
-#EXTINF:-1 tvg-id="italyseriecpontederavsnuovamonterosi" tvg-name="All Soccer Events | Italy - Serie C : Pontedera vs Nuova Monterosi (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pontedera_vs_Nuova Monterosi.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pontedera vs Nuova Monterosi (18:30)
-https://dlhd.dad/watch.php?id=167
-
-#EXTINF:-1 tvg-id="italyseriecvispesarovsternana" tvg-name="All Soccer Events | Italy - Serie C : Vis Pesaro vs Ternana (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Vis Pesaro_vs_Ternana.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Vis Pesaro vs Ternana (18:30)
-https://dlhd.dad/watch.php?id=166
-
 #EXTINF:-1 tvg-id="italyserieanapolivslecce" tvg-name="All Soccer Events | Italy - Serie A : Napoli vs Lecce (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Lecce.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Napoli vs Lecce (19:00)
 https://dlhd.dad/watch.php?id=877
 
@@ -897,17 +880,11 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="atpwta1000indianwells" tvg-name="Tennis | ATP/WTA 1000: Indian Wells (20:00)" tvg-logo="https://nordsip.com/wp-content/uploads/2024/10/Logo-black-1000.png" group-title="Eventi Live DLHD",Tennis | ATP/WTA 1000: Indian Wells (20:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="worldcupcompetitioninotepääwomenspursuitrace" tvg-name="Biathlon | World Cup competition in Otepää women's pursuit race (17:00)" tvg-logo="https://www.smsa.com/Images/QuantumSails.PNG" group-title="Eventi Live DLHD",Biathlon | World Cup competition in Otepää women's pursuit race (17:00)
-https://dlhd.dad/watch.php?id=878
-
 #EXTINF:-1 tvg-id="sixnationswalesvsitaly" tvg-name="Rugby Union | Six Nations : Wales vs Italy (18:40)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Wales_vs_Italy.png" group-title="Eventi Live DLHD",Rugby Union | Six Nations : Wales vs Italy (18:40)
 https://dlhd.dad/watch.php?id=161
 
 #EXTINF:-1 tvg-id="sixnationsfrancevsengland" tvg-name="Rugby Union | Six Nations : France vs England (22:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/France_vs_England.png" group-title="Eventi Live DLHD",Rugby Union | Six Nations : France vs England (22:10)
 https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="worldcupcompetitioninoslohs134series1" tvg-name="Ski Jumping | World Cup Competition in Oslo HS134 Series 1 (17:25)" tvg-logo="https://static.wixstatic.com/media/ad3aa5_cb17e61b728b45cc928b3249edd1f6b4~mv2.png/v1/crop/x_18,y_0,w_977,h_1000/fill/w_957,h_980,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/ad3aa5_cb17e61b728b45cc928b3249edd1f6b4~mv2.png" group-title="Eventi Live DLHD",Ski Jumping | World Cup Competition in Oslo HS134 Series 1 (17:25)
-https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="valsaintcômeparallelmirrorslalomworldcupmenandwomen" tvg-name="Winter Sports | Val Saint-Côme | Parallel Mirror Slalom World Cup | Men and Women (19:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Winter Sports | Val Saint-Côme | Parallel Mirror Slalom World Cup | Men and Women (19:45)
 https://dlhd.dad/watch.php?id=878
