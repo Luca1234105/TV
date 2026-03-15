@@ -71,9 +71,7 @@ https://vavoo.to/vavoo-iptv/play/143172936059b3a0bf594c
 https://vavoo.to/vavoo-iptv/play/1527236924d8d52d57c2e3
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Catfish%2C_the_TV_Show_Logo.PNG" group-title="Altro",CATFISH
 https://vavoo.to/vavoo-iptv/play/23815838281e427554084f
-#EXTINF:-1 tvg-id="cielo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro",CIELO (1)
-https://vavoo.to/vavoo-iptv/play/27199536882db77bf0ce4c
-#EXTINF:-1 tvg-id="cielo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro",CIELO (2)
+#EXTINF:-1 tvg-id="cielo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro",CIELO
 https://vavoo.to/vavoo-iptv/play/3743894403dc7e6005c138
 #EXTINF:-1 tvg-id="classica.hd.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/CLA_HD_Logo-CENT-300ppi_CMYK.jpg" group-title="Altro",CLASSICA
 https://vavoo.to/vavoo-iptv/play/640609226bada55274ff
@@ -505,8 +503,6 @@ https://vavoo.to/vavoo-iptv/play/22376603018e09f8150d84
 https://vavoo.to/vavoo-iptv/play/13516316035c18ca000fe1
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
-#EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
-https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (1)
 https://vavoo.to/vavoo-iptv/play/34813468571b25fb16646d
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (2)
@@ -595,6 +591,8 @@ https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
+#EXTINF:-1 tvg-id="discoverysciencehd.it" tvg-logo="" group-title="Documentari",DISCOVERY SCIENCE
+https://vavoo.to/vavoo-iptv/play/5284308415938593b2e15
 #EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (1)
 https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
 #EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (2)
@@ -603,7 +601,9 @@ https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD (1)
+https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD (2)
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE (1)
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
@@ -847,30 +847,6 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriebsüdtirolvspescara" tvg-name="Soccer | Italy - Serie B : Südtirol vs Pescara (18:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Südtirol_vs_Pescara.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie B : Südtirol vs Pescara (18:15)
-https://dlhd.dad/watch.php?id=77
-
-#EXTINF:-1 tvg-id="englandpremierleagueliverpoolvstottenhamhotspur" tvg-name="Soccer | England - Premier League : Liverpool vs Tottenham Hotspur (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Liverpool_vs_Tottenham Hotspur.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Liverpool vs Tottenham Hotspur (18:30)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="italyserieccittadellavsdolomitibellunesi" tvg-name="Soccer | Italy - Serie C : Cittadella vs Dolomiti Bellunesi (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cittadella_vs_Dolomiti Bellunesi.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Cittadella vs Dolomiti Bellunesi (18:30)
-https://dlhd.dad/watch.php?id=20
-
-#EXTINF:-1 tvg-id="italyseriecvirtusveronavsrenate" tvg-name="Soccer | Italy - Serie C : Virtus Verona vs Renate (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Virtus Verona_vs_Renate.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Virtus Verona vs Renate (18:30)
-https://dlhd.dad/watch.php?id=21
-
-#EXTINF:-1 tvg-id="italyserieclumezzanevspropatria" tvg-name="Soccer | Italy - Serie C : Lumezzane vs Pro Patria (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lumezzane_vs_Pro Patria.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Lumezzane vs Pro Patria (18:30)
-https://dlhd.dad/watch.php?id=22
-
-#EXTINF:-1 tvg-id="italyserieccasertanavsmonopoli" tvg-name="Soccer | Italy - Serie C : Casertana vs Monopoli (18:30)" tvg-logo="https://www.footballkitarchive.com/static/logos/LPmTGC4uMSEMQ6T/ss-monopoli-2014-2022-logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Casertana vs Monopoli (18:30)
-https://dlhd.dad/watch.php?id=23
-
-#EXTINF:-1 tvg-id="italyserieccasertanavsmonopoli" tvg-name="Soccer | Italy - Serie C : Casertana vs Monopoli (18:30)" tvg-logo="https://www.footballkitarchive.com/static/logos/LPmTGC4uMSEMQ6T/ss-monopoli-2014-2022-logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Casertana vs Monopoli (18:30)
-https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="italyseriecaudacecerignolavssorrento" tvg-name="Soccer | Italy - Serie C : Audace Cerignola vs Sorrento (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Audace Cerignola_vs_Sorrento.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Audace Cerignola vs Sorrento (18:30)
-https://dlhd.dad/watch.php?id=24
-
 #EXTINF:-1 tvg-id="italyserieacomovsroma" tvg-name="Soccer | Italy - Serie A : Como vs Roma (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Como_vs_Roma.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Como vs Roma (19:00)
 https://dlhd.dad/watch.php?id=23
 
@@ -897,9 +873,6 @@ https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="worldcupwomenitalywvsspainw" tvg-name="Basketball | World Cup Women : Italy W vs Spain W (23:00)" tvg-logo="https://matchpint-cdn.matchpint.cloud/shared/imagenes/teams/9923/logo_1679568725.png" group-title="Eventi Live DLHD",Basketball | World Cup Women : Italy W vs Spain W (23:00)
 https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="sixnationsu20irelandu20vsscotlandu20" tvg-name="Rugby Union | Six Nations U20 : Ireland U20 vs Scotland U20 (17:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ireland U20_vs_Scotland U20.png" group-title="Eventi Live DLHD",Rugby Union | Six Nations U20 : Ireland U20 vs Scotland U20 (17:15)
-https://dlhd.dad/watch.php?id=462
 
 #EXTINF:-1 tvg-id="sixnationsu20franceu20vsenglandu20" tvg-name="Rugby Union | Six Nations U20 : France U20 vs England U20 (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/France U20_vs_England U20.png" group-title="Eventi Live DLHD",Rugby Union | Six Nations U20 : France U20 vs England U20 (19:45)
 https://dlhd.dad/watch.php?id=462
