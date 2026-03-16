@@ -734,7 +734,12 @@
             {
                 "time": "19:00",
                 "event": "Spain Liga F Moeve : RCD Espanyol de Barcelona vs SD Eibar",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "DAZN2 Spain",
+                        "channel_id": "446"
+                    }
+                ]
             },
             {
                 "time": "19:00",
