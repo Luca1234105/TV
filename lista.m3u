@@ -29,8 +29,6 @@ https://vavoo.to/vavoo-iptv/play/2330946937dd53b634ff71
 https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.opq.it/wp-content/uploads/BergamoTV.png" group-title="Altro",BERGAMO TV
 https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870
-#EXTINF:-1 tvg-id="bike.it" tvg-logo="" group-title="Altro",BIKE
-https://vavoo.to/vavoo-iptv/play/309589541224b3a9c5030f
 #EXTINF:-1 tvg-id="blaze.it" tvg-logo="" group-title="Altro",BLAZE
 https://vavoo.to/vavoo-iptv/play/25326356590c9338734e4b
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV
@@ -401,7 +399,9 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 # MEDIASET
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",20 MEDIASET
 https://vavoo.to/vavoo-iptv/play/12303381856673f2a33deb
-#EXTINF:-1 tvg-id="27.twentyseven.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTYSEVEN
+#EXTINF:-1 tvg-id="27.twentyseven.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTYSEVEN (1)
+https://vavoo.to/vavoo-iptv/play/6087746837741766a74b3
+#EXTINF:-1 tvg-id="27.twentyseven.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTYSEVEN (2)
 https://vavoo.to/vavoo-iptv/play/80896559d4a6e09d36f1
 #EXTINF:-1 tvg-id="canale.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (1)
 https://vavoo.to/vavoo-iptv/play/15341618078b08a3db572d
@@ -617,6 +617,8 @@ https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
 https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
+#EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
+https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",TELEPACE TRENTO (HISTORY LAB)
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
@@ -849,17 +851,29 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecleccovsnovara" tvg-name="Soccer | Italy - Serie C : Lecco vs Novara (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecco_vs_Novara.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Lecco vs Novara (21:30)
-https://dlhd.dad/watch.php?id=24
+#EXTINF:-1 tvg-id="italyseriecvicenzavsinterii" tvg-name="All Soccer Events | Italy - Serie C : Vicenza vs Inter II (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Vicenza_vs_Inter II.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Vicenza vs Inter II (21:30)
+https://dlhd.dad/watch.php?id=4
 
-#EXTINF:-1 tvg-id="franceligue1rennesvslille" tvg-name="Soccer | France - Ligue 1 : Rennes vs Lille (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Rennes_vs_Lille.png" group-title="Eventi Live DLHD",Soccer | France - Ligue 1 : Rennes vs Lille (21:45)
-https://dlhd.dad/watch.php?id=870
+#EXTINF:-1 tvg-id="italyseriecvicenzavsinterii" tvg-name="All Soccer Events | Italy - Serie C : Vicenza vs Inter II (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Vicenza_vs_Inter II.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Vicenza vs Inter II (21:30)
+https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="italyseriealaziovsmilan" tvg-name="Soccer | Italy - Serie A : Lazio vs Milan (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Milan.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lazio vs Milan (21:45)
+#EXTINF:-1 tvg-id="italyserieacremonesevsfiorentina" tvg-name="All Soccer Events | Italy - Serie A : Cremonese vs Fiorentina (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cremonese_vs_Fiorentina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Cremonese vs Fiorentina (21:45)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="worldcupwomenitalywvsspainw" tvg-name="Basketball | World Cup Women : Italy W vs Spain W (23:00)" tvg-logo="https://matchpint-cdn.matchpint.cloud/shared/imagenes/teams/9923/logo_1679568725.png" group-title="Eventi Live DLHD",Basketball | World Cup Women : Italy W vs Spain W (23:00)
-https://dlhd.dad/watch.php?id=882
+#EXTINF:-1 tvg-id="englandpremierleaguebrentfordvswolverhamptonwanderers" tvg-name="All Soccer Events | England - Premier League : Brentford vs Wolverhampton Wanderers (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Brentford_vs_Wolverhampton Wanderers.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Brentford vs Wolverhampton Wanderers (22:00)
+https://dlhd.dad/watch.php?id=870
+
+#EXTINF:-1 tvg-id="atpwta1000indianwells" tvg-name="Tennis | ATP/WTA 1000: Indian Wells (20:00)" tvg-logo="https://nordsip.com/wp-content/uploads/2024/10/Logo-black-1000.png" group-title="Eventi Live DLHD",Tennis | ATP/WTA 1000: Indian Wells (20:00)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="worldopenronnieosullivanvsrossmuir" tvg-name="Snooker | World Open : Ronnie O'Sullivan vs Ross Muir (08:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ronnie O'Sullivan_vs_Ross Muir.png" group-title="Eventi Live DLHD",Snooker | World Open : Ronnie O'Sullivan vs Ross Muir (08:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="worldopenjuddtrumpvsmarklloyd" tvg-name="Snooker | World Open : Judd Trump vs Mark Lloyd (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Judd Trump_vs_Mark Lloyd.png" group-title="Eventi Live DLHD",Snooker | World Open : Judd Trump vs Mark Lloyd (13:30)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="nbalosangelesclippersvssanantoniospurs" tvg-name="NBA | NBA : Los Angeles Clippers vs San Antonio Spurs (04:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Los Angeles Clippers_vs_San Antonio Spurs.png" group-title="Eventi Live DLHD",NBA | NBA : Los Angeles Clippers vs San Antonio Spurs (04:00)
+https://dlhd.dad/watch.php?id=460
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
