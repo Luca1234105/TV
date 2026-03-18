@@ -55,8 +55,6 @@ https://vavoo.to/vavoo-iptv/play/466718273d17d85003ebc
 https://vavoo.to/vavoo-iptv/play/3914444703fd1a0c69d728
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CANALE 21 CAMPANIA
 https://vavoo.to/vavoo-iptv/play/390600788675c13850cd70
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcfjFIqjwxnG9AbEhJ6gwKb6IprmlFnF9aQ&s" group-title="Altro",CANALE 21 EXTRA
-https://vavoo.to/vavoo-iptv/play/24545581364a76ecd911e4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Canale_7.png" group-title="Altro",CANALE 7 (1)
 https://vavoo.to/vavoo-iptv/play/565256431b8fb5052f1a2
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Canale_7.png" group-title="Altro",CANALE 7 (2)
@@ -521,6 +519,8 @@ https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
+https://vavoo.to/vavoo-iptv/play/3667240765238d57794d79
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 6 TIMVISION
 https://vavoo.to/vavoo-iptv/play/3421031748051d1097ba07
 #EXTINF:-1 tvg-id="inter.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/inter-tv-it.png?raw=true" group-title="Sport",INTER TV
@@ -591,9 +591,7 @@ https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 https://vavoo.to/vavoo-iptv/play/430570853d0b7479b224d
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.auroraarte.it/wp-content/uploads/2023/11/AURORA-ARTE-brand.png" group-title="Documentari",AURORA ARTE
 https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0
-#EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL (1)
-https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1
-#EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL (2)
+#EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
@@ -617,6 +615,8 @@ https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
 https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
+#EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
+https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",TELEPACE TRENTO (HISTORY LAB)
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
@@ -751,9 +751,7 @@ https://vavoo.to/vavoo-iptv/play/29098187562943fdca9002
 https://vavoo.to/vavoo-iptv/play/325121729090a7b71fb865
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (2)
 https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (1)
-https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7
 https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 8 (1)
 https://vavoo.to/vavoo-iptv/play/213025533947852942a90f
@@ -765,8 +763,6 @@ https://vavoo.to/vavoo-iptv/play/113411388318bf0ef81722
 https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE
 https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",STAR CRIME
-https://vavoo.to/vavoo-iptv/play/28436429458ff4e2cc4ae6
 
 # NEWS
 #EXTINF:-1 tvg-id="euronews.it" tvg-logo="https://play-lh.googleusercontent.com/Mi8GAQIp3x94VcvbxZNsK-CTNhHy1zmo51pmME5KkkK4WgN4aQhM1FlNgLZUMD4VAXhL" group-title="News",EURONEWS
@@ -896,12 +892,6 @@ https://dlhd.dad/watch.php?id=21
 
 #EXTINF:-1 tvg-id="2026miamiopentenniswtafirstround" tvg-name="Tennis | 2026 Miami Open Tennis WTA First Round (17:00)" tvg-logo="https://tennis-open.it/wp-content/uploads/2026/01/cropped-Logo-Tennis-Open.png" group-title="Eventi Live DLHD",Tennis | 2026 Miami Open Tennis WTA First Round (17:00)
 https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="worldopenround2" tvg-name="Snooker | World Open | Round 2 (13:30)" tvg-logo="https://bowlsinternational.com/wp-content/uploads/2026/01/2026-World-Bowls-Logo-Blue-with-sponsor-1-1024x868.png" group-title="Eventi Live DLHD",Snooker | World Open | Round 2 (13:30)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="nokerekoersewomendeinzenokere1333km" tvg-name="Cycling | Nokere Koerse Women | Deinze - Nokere (133.3km) (13:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Nokere Koerse Women | Deinze - Nokere (133.3km) (13:15)
-https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="nokerekoersemendeinzenokere1864km" tvg-name="Cycling | Nokere Koerse Men | Deinze - Nokere (186.4km) (16:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Nokere Koerse Men | Deinze - Nokere (186.4km) (16:00)
 https://dlhd.dad/watch.php?id=879
