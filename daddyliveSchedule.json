@@ -42,6 +42,18 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "19:00",
+                "event": "TX2K26 presented by Summit Racing Equipment Day 2",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5011"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "19:00",
