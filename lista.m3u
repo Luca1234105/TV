@@ -29,8 +29,6 @@ https://vavoo.to/vavoo-iptv/play/2330946937dd53b634ff71
 https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.opq.it/wp-content/uploads/BergamoTV.png" group-title="Altro",BERGAMO TV
 https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870
-#EXTINF:-1 tvg-id="bike.it" tvg-logo="" group-title="Altro",BIKE
-https://vavoo.to/vavoo-iptv/play/309589541224b3a9c5030f
 #EXTINF:-1 tvg-id="blaze.it" tvg-logo="" group-title="Altro",BLAZE
 https://vavoo.to/vavoo-iptv/play/25326356590c9338734e4b
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV
@@ -169,10 +167,8 @@ https://vavoo.to/vavoo-iptv/play/22109966031d6de269f9b8
 https://vavoo.to/vavoo-iptv/play/2835333400f831a30ce568
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",MARIA+VISION
 https://vavoo.to/vavoo-iptv/play/448530931a02141cb37b2
-#EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (1)
+#EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
-#EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (2)
-https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro",ONDA NOVARA TV
@@ -293,14 +289,10 @@ https://vavoo.to/vavoo-iptv/play/87479718111853618b3cd
 https://vavoo.to/vavoo-iptv/play/6164833177424547eff1f
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/images/teleromagna-logo.png" group-title="Altro",TELE ROMAGNA
 https://vavoo.to/vavoo-iptv/play/1294463772435c5239e44
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.telesirio.it/images/logo.png" group-title="Altro",TELE SIRIO
-https://vavoo.to/vavoo-iptv/play/21884692197ee0a9ba39f6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teletricolore.it/wp-content/uploads/2018/02/logo.png" group-title="Altro",TELE TRICOLORE
 https://vavoo.to/vavoo-iptv/play/2314613216d218b9f4abd4
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lp10Brud3JZex6CgE4M9c-XcKFY4MrRhcFe9PUn-N4SD4=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",TELE TUSCIASABINA 2000
 https://vavoo.to/vavoo-iptv/play/545707096d82d839e8210
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xhoeVg7nRLPp8GnPkFzLUWvJ5WolvU-iYw&s" group-title="Altro",TELE VENEZIA
-https://vavoo.to/vavoo-iptv/play/10952221968404a15fb50
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/TeleArena_logo.png" group-title="Altro",TELEARENA
 https://vavoo.to/vavoo-iptv/play/408156101494ee7f98efdd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleartetv.it/web/wp-content/uploads/2023/04/logo_TA.jpg" group-title="Altro",TELEARTE
@@ -645,10 +637,8 @@ https://vavoo.to/vavoo-iptv/play/217871728282294e996afe
 https://vavoo.to/vavoo-iptv/play/3037871903561253a95659
 #EXTINF:-1 tvg-id="frisbee.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/frisbee-it.png" group-title="Bambini",FRISBEE
 https://vavoo.to/vavoo-iptv/play/1995860185ce22f3fae905
-#EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2 (1)
+#EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2
 https://vavoo.to/vavoo-iptv/play/22557243183ffd471ea8ec
-#EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2 (2)
-https://vavoo.to/vavoo-iptv/play/11090349bae706bd9ec4
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
 #EXTINF:-1 tvg-id="super!.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER! (1)
@@ -665,6 +655,8 @@ https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film - Serie TV",PREMIUM CRIME
 https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN FAMILY
+https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film - Serie TV",SKY ATLANTIC (1)
 https://vavoo.to/vavoo-iptv/play/1421393119c33a45327918
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film - Serie TV",SKY ATLANTIC (2)
@@ -903,12 +895,6 @@ https://dlhd.dad/watch.php?id=460
 #EXTINF:-1 tvg-id="worldopenquarterfinals" tvg-name="Snooker | World Open | Quarterfinals (13:30)" tvg-logo="https://johal.in/content/images/2025/08/logo-1.png" group-title="Eventi Live DLHD",Snooker | World Open | Quarterfinals (13:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="lillehammermensdownhillworldcup" tvg-name="Alpine Ski | Lillehammer | Men's Downhill World Cup (11:30)" tvg-logo="https://static.flashscore.com/res/image/data/WpgPwhZA-8l7dBYOQ-nkFP8OgP.png" group-title="Eventi Live DLHD",Alpine Ski | Lillehammer | Men's Downhill World Cup (11:30)
-https://dlhd.dad/watch.php?id=851
-
-#EXTINF:-1 tvg-id="lillehammermensdownhillworldcup" tvg-name="Alpine Ski | Lillehammer | Men's Downhill World Cup (11:30)" tvg-logo="https://static.flashscore.com/res/image/data/WpgPwhZA-8l7dBYOQ-nkFP8OgP.png" group-title="Eventi Live DLHD",Alpine Ski | Lillehammer | Men's Downhill World Cup (11:30)
-https://dlhd.dad/watch.php?id=878
-
 #EXTINF:-1 tvg-id="lillehammerwomensdownhillworldcup" tvg-name="Alpine Ski | Lillehammer | Women's Downhill World Cup (13:00)" tvg-logo="https://static.flashscore.com/res/image/data/WpgPwhZA-8l7dBYOQ-nkFP8OgP.png" group-title="Eventi Live DLHD",Alpine Ski | Lillehammer | Women's Downhill World Cup (13:00)
 https://dlhd.dad/watch.php?id=878
 
@@ -930,7 +916,7 @@ https://dlhd.dad/watch.php?id=460
 #EXTINF:-1 tvg-id="vikersundmenshs240skiflightworldcupqualifiers" tvg-name="Ski Jumping | Vikersund | Men's HS240 Ski Flight World Cup | Qualifiers (18:00)" tvg-logo="https://www.peercollective.com/images/our_vetting_process_quote_image.png" group-title="Eventi Live DLHD",Ski Jumping | Vikersund | Men's HS240 Ski Flight World Cup | Qualifiers (18:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="premierpadelcancunt2026womensquarterfinals1" tvg-name="Squash | Premier Padel Cancun (T2026): Women's Quarterfinals 1 (23:00)" tvg-logo="https://thumbor.prod.vidiocdn.com/qFyTiTNfIoLRu-9avia4BwOkODE=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/616/premier-padel-119e53.png" group-title="Eventi Live DLHD",Squash | Premier Padel Cancun (T2026): Women's Quarterfinals 1 (23:00)
+#EXTINF:-1 tvg-id="premierpadelcancunt2026womensquarterfinals1" tvg-name="Squash | Premier Padel Cancun (T2026): Women's Quarterfinals 1 (23:00)" tvg-logo="https://logicall.com/wp-content/uploads/2024/09/NewsItems_1000x1000_Padel-3.png" group-title="Eventi Live DLHD",Squash | Premier Padel Cancun (T2026): Women's Quarterfinals 1 (23:00)
 https://dlhd.dad/watch.php?id=460
 
 
