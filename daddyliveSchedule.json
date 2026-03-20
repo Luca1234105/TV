@@ -5344,7 +5344,7 @@
                 ]
             }
         ],
-        "Soccer": [
+        "Ireland Republic": [
             {
                 "time": "19:45",
                 "event": "Ireland Republic - First Division : Cobh Ramblers vs Bray Wanderers",
@@ -5424,7 +5424,9 @@
                         "channel_id": "157"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "08:00",
                 "event": "Australia - A-League Women : Sydney FC vs Wellington Phoenix",
@@ -7656,7 +7658,7 @@
                 ]
             }
         ],
-        "Wrestling": [
+        "WWE (SmackDown)": [
             {
                 "time": "01:00",
                 "event": "WWE Friday Night SmackDown",
@@ -7670,7 +7672,9 @@
                         "channel_id": "145"
                     }
                 ]
-            },
+            }
+        ],
+        "College Wrestling": [
             {
                 "time": "15:00",
                 "event": "Men's College Wrestling NCAA Championships: Semifinals",
@@ -8042,7 +8046,7 @@
                 ]
             }
         ],
-        "Aussie rules": [
+        "Aussie Rules (AFL)": [
             {
                 "time": "08:40",
                 "event": "AFL : Adelaide Crows vs Western Bulldogs",
@@ -8080,7 +8084,7 @@
                 ]
             }
         ],
-        "Baseball": [
+        "Baseball (MLB)": [
             {
                 "time": "17:05",
                 "event": "MLB : Toronto Blue Jays vs Minnesota Twins",
@@ -8925,29 +8929,11 @@
                         "channel_id": "144"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA March Madness": [
             {
-                "time": "00:00",
-                "event": "NBA G-League : Sioux Falls Skyforce vs Mexico City Capitanes",
-                "channels": [
-                    {
-                        "channel_name": "Bally Sports Sun",
-                        "channel_id": "905"
-                    }
-                ]
-            },
-            {
-                "time": "02:00",
-                "event": "NBA G-League : South Bay Lakers vs Grand Rapids Drive",
-                "channels": [
-                    {
-                        "channel_name": "Spectrum SportsNet USA",
-                        "channel_id": "982"
-                    }
-                ]
-            },
-            {
-                "time": "01:21",
+                "time": "16:00",
                 "event": "NCAA Men's March Madness: First Round",
                 "channels": [
                     {
@@ -8969,9 +8955,15 @@
                     {
                         "channel_name": "TSN5",
                         "channel_id": "115"
+                    },
+                    {
+                        "channel_name": "Paramount+",
+                        "channel_id": "5005"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA Basketball": [
             {
                 "time": "16:15",
                 "event": "NCAA : Kentucky vs Santa Clara",
@@ -9367,7 +9359,7 @@
                 ]
             }
         ],
-        "NBA G League Basketball": [
+        "NBA G League": [
             {
                 "time": "23:00",
                 "event": "NBA G League : College Park Skyhawks vs Westchester Knicks",
@@ -9375,6 +9367,26 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "NBA G League : Sioux Falls Skyforce vs Mexico City Capitanes",
+                "channels": [
+                    {
+                        "channel_name": "Bally Sports Sun",
+                        "channel_id": "905"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "NBA G League : South Bay Lakers vs Grand Rapids Drive",
+                "channels": [
+                    {
+                        "channel_name": "Spectrum SportsNet USA",
+                        "channel_id": "982"
                     }
                 ]
             },
@@ -9387,7 +9399,9 @@
                         "channel_id": "753"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "23:30",
                 "event": "NBA : Brooklyn Nets vs New York Knicks",
@@ -9827,66 +9841,6 @@
                 ]
             },
             {
-                "time": "18:00",
-                "event": "DEL : Schwenninger vs Grizzly Wolfsburg",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 302",
-                        "channel_id": "25"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "DEL : Nurnberg Ice Tigers vs Bremerhaven",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 303",
-                        "channel_id": "26"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "Slovakia Tipsport liga : Nitra vs Michalovce",
-                "channels": [
-                    {
-                        "channel_name": "Sport 1 SK",
-                        "channel_id": "164"
-                    }
-                ]
-            },
-            {
-                "time": "17:30",
-                "event": "Czech Republic Extraliga : Mountfield HK vs Trinec",
-                "channels": [
-                    {
-                        "channel_name": "CT sport CZ",
-                        "channel_id": "1033"
-                    }
-                ]
-            },
-            {
-                "time": "17:30",
-                "event": "Slovakia Tipsport liga : Slovan Bratislava vs Liptovsky Mikulas",
-                "channels": [
-                    {
-                        "channel_name": "JOJ Sport SK",
-                        "channel_id": "165"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : HV 71 vs Leksands",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey Sweden",
-                        "channel_id": "700"
-                    }
-                ]
-            },
-            {
                 "time": "11:30",
                 "event": "Russia KHL : Salavat Yulaev Ufa vs Sochi",
                 "channels": [
@@ -9917,6 +9871,16 @@
                 ]
             },
             {
+                "time": "17:00",
+                "event": "Slovakia Tipsport liga : Nitra vs Michalovce",
+                "channels": [
+                    {
+                        "channel_name": "Sport 1 SK",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
                 "time": "17:30",
                 "event": "Russia KHL : Lokomotiv Yaroslavl vs Metallurg Magnitogorsk",
                 "channels": [
@@ -9927,6 +9891,26 @@
                     {
                         "channel_name": "Arena Sport 2 Serbia",
                         "channel_id": "430"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "Czech Republic Extraliga : Mountfield HK vs Trinec",
+                "channels": [
+                    {
+                        "channel_name": "CT sport CZ",
+                        "channel_id": "1033"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "Slovakia Tipsport liga : Slovan Bratislava vs Liptovsky Mikulas",
+                "channels": [
+                    {
+                        "channel_name": "JOJ Sport SK",
+                        "channel_id": "165"
                     }
                 ]
             },
@@ -9957,6 +9941,36 @@
                     {
                         "channel_name": "TV4 Sport Live 3 Sweden",
                         "channel_id": "705"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : HV 71 vs Leksands",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Hockey Sweden",
+                        "channel_id": "700"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "DEL : Schwenninger vs Grizzly Wolfsburg",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 302",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "DEL : Nurnberg Ice Tigers vs Bremerhaven",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 303",
+                        "channel_id": "26"
                     }
                 ]
             }
@@ -10262,7 +10276,7 @@
         "USHL Ice Hockey": [
             {
                 "time": "23:00",
-                "event": ": USHL : AMWaterloo Black Hawks vs USA U18",
+                "event": "USHL : AMWaterloo Black Hawks vs USA U18",
                 "channels": [
                     {
                         "channel_name": "FloHockey",
@@ -10272,7 +10286,7 @@
             },
             {
                 "time": "23:00",
-                "event": ": USHL : Madison Capitols vs Muskegon Lumberjacks",
+                "event": "USHL : Madison Capitols vs Muskegon Lumberjacks",
                 "channels": [
                     {
                         "channel_name": "FloHockey",
@@ -10282,7 +10296,7 @@
             },
             {
                 "time": "23:00",
-                "event": ": USHL : Youngstown Phantoms vs Chicago Steel",
+                "event": "USHL : Youngstown Phantoms vs Chicago Steel",
                 "channels": [
                     {
                         "channel_name": "FloHockey",
@@ -10292,7 +10306,7 @@
             },
             {
                 "time": "23:00",
-                "event": ": USHL : Chicago Steel vs Fargo Force",
+                "event": "USHL : Chicago Steel vs Fargo Force",
                 "channels": [
                     {
                         "channel_name": "FloHockey",
@@ -10302,7 +10316,7 @@
             },
             {
                 "time": "00:05",
-                "event": ": USHL : Fargo Force vs Des Moines Buccaneers",
+                "event": "USHL : Fargo Force vs Des Moines Buccaneers",
                 "channels": [
                     {
                         "channel_name": "FloHockey",
@@ -10312,7 +10326,7 @@
             },
             {
                 "time": "00:05",
-                "event": ": USHL : Green Bay Gamblers vs Dubuque Fighting Saints",
+                "event": "USHL : Green Bay Gamblers vs Dubuque Fighting Saints",
                 "channels": [
                     {
                         "channel_name": "FloHockey",
@@ -10322,7 +10336,7 @@
             },
             {
                 "time": "00:05",
-                "event": ": USHL : USA U18 vs Omaha Lancers",
+                "event": "USHL : USA U18 vs Omaha Lancers",
                 "channels": [
                     {
                         "channel_name": "FloHockey",
@@ -10332,7 +10346,7 @@
             },
             {
                 "time": "00:05",
-                "event": ": USHL : Sioux City vs Sioux Falls Stampede",
+                "event": "USHL : Sioux City vs Sioux Falls Stampede",
                 "channels": [
                     {
                         "channel_name": "FloHockey",
@@ -10342,11 +10356,83 @@
             },
             {
                 "time": "00:05",
-                "event": ": USHL : Cedar Rapids vs Tri-City Storm",
+                "event": "USHL : Cedar Rapids vs Tri-City Storm",
                 "channels": [
                     {
                         "channel_name": "FloHockey",
                         "channel_id": "167"
+                    }
+                ]
+            }
+        ],
+        "Women's College Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "College Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Lacrosse (NLL)": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "College Lacrosse": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "PLL Lacrosse": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Women's College Lacrosse": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
                     }
                 ]
             }
