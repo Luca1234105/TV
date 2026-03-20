@@ -1516,6 +1516,10 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5010"
                     }
                 ]
             },
@@ -3350,6 +3354,10 @@
                         "channel_id": "108"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5004"
+                    },
+                    {
                         "channel_name": "Sky Sport 4 NZ",
                         "channel_id": "591"
                     },
@@ -4725,6 +4733,10 @@
                     {
                         "channel_name": "beIN Sports MAX 10 France",
                         "channel_id": "500"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -4735,6 +4747,10 @@
                     {
                         "channel_name": "truTV USA",
                         "channel_id": "341"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5003"
                     }
                 ]
             },
@@ -4745,6 +4761,10 @@
                     {
                         "channel_name": "TNT USA",
                         "channel_id": "338"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5006"
                     }
                 ]
             },
@@ -4755,6 +4775,10 @@
                     {
                         "channel_name": "TBS USA",
                         "channel_id": "336"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5007"
                     }
                 ]
             },
@@ -4769,6 +4793,10 @@
                     {
                         "channel_name": "CBSNY USA",
                         "channel_id": "767"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5008"
                     }
                 ]
             },
@@ -4779,6 +4807,10 @@
                     {
                         "channel_name": "truTV USA",
                         "channel_id": "341"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5009"
                     }
                 ]
             },
@@ -4789,12 +4821,16 @@
                     {
                         "channel_name": "TNT USA",
                         "channel_id": "338"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5011"
                     }
                 ]
             },
             {
                 "time": "20:25",
-                "event": "NCAA : Tennessee vs SMU/Miami (Ohio)",
+                "event": "NCAA : Tennessee vs Miami (Ohio)",
                 "channels": [
                     {
                         "channel_name": "TBS USA",
@@ -4803,6 +4839,10 @@
                     {
                         "channel_name": "Sport Klub 3 Croatia",
                         "channel_id": "103"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5011"
                     }
                 ]
             },
@@ -5373,6 +5413,10 @@
                     {
                         "channel_name": "Canal+ Sport 5 Poland",
                         "channel_id": "75"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -5387,6 +5431,10 @@
                     {
                         "channel_name": "Canal+ Sport 5 Poland",
                         "channel_id": "75"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
                     }
                 ]
             }
@@ -5797,7 +5845,9 @@
                         "channel_id": "108"
                     }
                 ]
-            },
+            }
+        ],
+        "ECHL Ice Hockey": [
             {
                 "time": "23:00",
                 "event": "ECHL : Utah Grizzlies vs Indy Fuel",
