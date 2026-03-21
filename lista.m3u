@@ -617,8 +617,6 @@ https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
 https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
-#EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
-https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",TELEPACE TRENTO (HISTORY LAB)
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
@@ -679,15 +677,11 @@ https://vavoo.to/vavoo-iptv/play/2242741766a460e21385e6
 https://vavoo.to/vavoo-iptv/play/1759653413f7025450e6b1
 #EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film - Serie TV",SKY CINEMA COLLECTION (2)
 https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb
-#EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY (1)
-https://vavoo.to/vavoo-iptv/play/500203271d58941028e95
-#EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY (2)
+#EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY
 https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film - Serie TV",SKY CINEMA DRAMA
 https://vavoo.to/vavoo-iptv/play/123553017707540030adf9
-#EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE (1)
-https://vavoo.to/vavoo-iptv/play/1228534500ffff855fff55
-#EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE (2)
+#EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (1)
 https://vavoo.to/vavoo-iptv/play/41579514488d1c92affa7
@@ -697,9 +691,7 @@ https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 https://vavoo.to/vavoo-iptv/play/2890008905a6ae9fa14809
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE (2)
 https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
-#EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE (1)
-https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
-#EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE (2)
+#EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (1)
 https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
@@ -813,7 +805,9 @@ https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
-#EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
+#EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (1)
+https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
+#EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (2)
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTINF:-1 tvg-id="rainews24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24 (1)
 https://vavoo.to/vavoo-iptv/play/22729239721838600694f7
@@ -863,7 +857,7 @@ https://dlhd.dad/watch.php?id=27
 #EXTINF:-1 tvg-id="italyseriecjuventusiivsgubbio" tvg-name="All Soccer Events | Italy - Serie C : Juventus II vs Gubbio (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus II_vs_Gubbio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Juventus II vs Gubbio (15:30)
 https://dlhd.dad/watch.php?id=23
 
-#EXTINF:-1 tvg-id="italyseriecatalantaiivscasertana" tvg-name="All Soccer Events | Italy - Serie C : Atalanta II vs Casertana (15:30)" tvg-logo="https://assets-fr.imgfoot.com/media/cache/150x150/club/syracuse.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Atalanta II vs Casertana (15:30)
+#EXTINF:-1 tvg-id="italyseriecatalantaiivscasertana" tvg-name="All Soccer Events | Italy - Serie C : Atalanta II vs Casertana (15:30)" tvg-logo="https://images.seeklogo.com/logo-png/50/2/atalanta-logo-png_seeklogo-503108.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Atalanta II vs Casertana (15:30)
 https://dlhd.dad/watch.php?id=28
 
 #EXTINF:-1 tvg-id="italyseriecunionbresciavsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Union Brescia vs Ospitaletto (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union Brescia_vs_Ospitaletto.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Union Brescia vs Ospitaletto (15:30)
@@ -911,7 +905,7 @@ https://dlhd.dad/watch.php?id=877
 #EXTINF:-1 tvg-id="italyserieawomenlaziovsroma" tvg-name="All Soccer Events | Italy - Serie A (women) : Lazio vs Roma (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Roma.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A (women) : Lazio vs Roma (19:00)
 https://dlhd.dad/watch.php?id=106
 
-#EXTINF:-1 tvg-id="englandpremierleagueevertonvschelsea" tvg-name="All Soccer Events | England - Premier League : Everton vs Chelsea (19:30)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/chelsea-logo-png-transparent.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Everton vs Chelsea (19:30)
+#EXTINF:-1 tvg-id="englandpremierleagueevertonvschelsea" tvg-name="All Soccer Events | England - Premier League : Everton vs Chelsea (19:30)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/chelsea-fc-logo-1.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Everton vs Chelsea (19:30)
 https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 tvg-id="germanybundesligaborussiadortmundvshamburgersv" tvg-name="All Soccer Events | Germany - Bundesliga : Borussia Dortmund vs Hamburger SV (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Borussia Dortmund_vs_Hamburger SV.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Borussia Dortmund vs Hamburger SV (19:30)
@@ -935,7 +929,7 @@ https://dlhd.dad/watch.php?id=461
 #EXTINF:-1 tvg-id="franceligue1nicevspsg" tvg-name="All Soccer Events | France - Ligue 1 : Nice vs PSG (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Nice_vs_PSG.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Nice vs PSG (22:00)
 https://dlhd.dad/watch.php?id=29
 
-#EXTINF:-1 tvg-id="2026miamiopentenniswtathirdround" tvg-name="Tennis | 2026 Miami Open Tennis WTA Third Round (17:00)" tvg-logo="https://tennis-open.it/wp-content/uploads/2026/01/cropped-Logo-Tennis-Open.png" group-title="Eventi Live DLHD",Tennis | 2026 Miami Open Tennis WTA Third Round (17:00)
+#EXTINF:-1 tvg-id="2026miamiopentenniswtathirdround" tvg-name="Tennis | 2026 Miami Open Tennis WTA Third Round (17:00)" tvg-logo="https://crystalpng.com/wp-content/uploads/2025/03/wta-logo-600x600.png" group-title="Eventi Live DLHD",Tennis | 2026 Miami Open Tennis WTA Third Round (17:00)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="moto3round2brazilfreepractice2" tvg-name="Motorsport | Moto3 | Round 2 | Brazil Free Practice 2 (13:30)" tvg-logo="https://service24.mywhoosh.com/public/9debeea8-3c2e-46c9-967f-640653dc10ae.png/1024/1024/resize" group-title="Eventi Live DLHD",Motorsport | Moto3 | Round 2 | Brazil Free Practice 2 (13:30)
@@ -947,10 +941,10 @@ https://dlhd.dad/watch.php?id=575
 #EXTINF:-1 tvg-id="motogpround2brazilfreepractice2" tvg-name="Motorsport | MotoGP | Round 2 | Brazil Free Practice 2 (15:00)" tvg-logo="https://d2xpg1khvwxlf1.cloudfront.net/production/images/original/76165-Quint-2023-logo-Q-only-mono-navy-addb88cb140d0a24f946df7280fc358a.png" group-title="Eventi Live DLHD",Motorsport | MotoGP | Round 2 | Brazil Free Practice 2 (15:00)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="moto3round2brazilqualifying" tvg-name="Motorsport | Moto3 | Round 2 | Brazil Qualifying (17:45)" tvg-logo="https://service24.mywhoosh.com/public/9debeea8-3c2e-46c9-967f-640653dc10ae.png/1024/1024/resize" group-title="Eventi Live DLHD",Motorsport | Moto3 | Round 2 | Brazil Qualifying (17:45)
+#EXTINF:-1 tvg-id="moto3round2brazilqualifying" tvg-name="Motorsport | Moto3 | Round 2 | Brazil Qualifying (17:45)" tvg-logo="https://cdn.raceroster.com/event-logo/r5va2jnw632twzfs._original.png" group-title="Eventi Live DLHD",Motorsport | Moto3 | Round 2 | Brazil Qualifying (17:45)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="moto2round2brazilqualifying" tvg-name="Motorsport | Moto2 | Round 2 | Brazil Qualifying (18:35)" tvg-logo="https://service24.mywhoosh.com/public/9debeea8-3c2e-46c9-967f-640653dc10ae.png/1024/1024/resize" group-title="Eventi Live DLHD",Motorsport | Moto2 | Round 2 | Brazil Qualifying (18:35)
+#EXTINF:-1 tvg-id="moto2round2brazilqualifying" tvg-name="Motorsport | Moto2 | Round 2 | Brazil Qualifying (18:35)" tvg-logo="https://cdn.raceroster.com/event-logo/r5va2jnw632twzfs._original.png" group-title="Eventi Live DLHD",Motorsport | Moto2 | Round 2 | Brazil Qualifying (18:35)
 https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="motogpround2brazilsprintrace" tvg-name="Motorsport | MotoGP | Round 2 | Brazil Sprint Race (19:45)" tvg-logo="https://d2xpg1khvwxlf1.cloudfront.net/production/images/original/76165-Quint-2023-logo-Q-only-mono-navy-addb88cb140d0a24f946df7280fc358a.png" group-title="Eventi Live DLHD",Motorsport | MotoGP | Round 2 | Brazil Sprint Race (19:45)
@@ -965,7 +959,7 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="worldopensemifinal" tvg-name="Snooker | World Open | Semi-Final (13:30)" tvg-logo="https://openclipart.org/image/2400px/svg_to_png/102379/1293577124.png" group-title="Eventi Live DLHD",Snooker | World Open | Semi-Final (13:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcupcompetitioninlillehammermensdownhill" tvg-name="Alpine Ski | World Cup Competition in Lillehammer men's downhill (11:30)" tvg-logo="https://getbezel.mo.cloudinary.net/production/52ae2939-0f7a-4347-87f7-b4edb226f025.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Lillehammer men's downhill (11:30)
+#EXTINF:-1 tvg-id="worldcupcompetitioninlillehammermensdownhill" tvg-name="Alpine Ski | World Cup Competition in Lillehammer men's downhill (11:30)" tvg-logo="https://static.cupmanager.net/uploads/X/r/Hz3/logo.png?v=12730" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Lillehammer men's downhill (11:30)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="worldcupcompetitioninlillehammerwomensmeeting" tvg-name="Alpine Ski | World Cup Competition in Lillehammer women's meeting (13:00)" tvg-logo="https://static.cupmanager.net/uploads/X/r/Hz3/logo.png?v=12730" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Lillehammer women's meeting (13:00)
@@ -974,7 +968,7 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="oslomenspursuitworldcuptraining" tvg-name="Biathlon | Oslo | Men's Pursuit World Cup | Training (16:30)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/29461/logo/32274/OSLO_logo_template_300.png" group-title="Eventi Live DLHD",Biathlon | Oslo | Men's Pursuit World Cup | Training (16:30)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="milanosanremomenpaviasanremo298km" tvg-name="Cycling | Milano-Sanremo Men | Pavia – Sanremo (298km) (11:00)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/18499/logo/20016/logo_template_300.png" group-title="Eventi Live DLHD",Cycling | Milano-Sanremo Men | Pavia – Sanremo (298km) (11:00)
+#EXTINF:-1 tvg-id="milanosanremomenpaviasanremo298km" tvg-name="Cycling | Milano-Sanremo Men | Pavia – Sanremo (298km) (11:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Milano-Sanremo Men | Pavia – Sanremo (298km) (11:00)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="milanosanremowomengenovasanremo156km" tvg-name="Cycling | Milano-Sanremo Women | Genova - Sanremo (156km) (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Milano-Sanremo Women | Genova - Sanremo (156km) (13:30)
@@ -998,7 +992,7 @@ https://dlhd.dad/watch.php?id=460
 #EXTINF:-1 tvg-id="t100triathlonworldtourgoldcoastmenandwomen" tvg-name="Triathlon | T100 Triathlon World Tour | Gold Coast Men and Women (05:30)" tvg-logo="https://content.protriathletes.org/content/images/2025/04/027aaf17-2108-4a10-b182-06a7e5b91745.png" group-title="Eventi Live DLHD",Triathlon | T100 Triathlon World Tour | Gold Coast Men and Women (05:30)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="fisworldcupwinterbergparallelslalomhf" tvg-name="Winter Sports | FIS World Cup Winterberg | Parallel Slalom (H/F) (15:20)" tvg-logo="https://spinthewheel.app/assets/images/preview/fifa-world-cup-1962.png" group-title="Eventi Live DLHD",Winter Sports | FIS World Cup Winterberg | Parallel Slalom (H/F) (15:20)
+#EXTINF:-1 tvg-id="fisworldcupwinterbergparallelslalomhf" tvg-name="Winter Sports | FIS World Cup Winterberg | Parallel Slalom (H/F) (15:20)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Winter Sports | FIS World Cup Winterberg | Parallel Slalom (H/F) (15:20)
 https://dlhd.dad/watch.php?id=878
 
 
