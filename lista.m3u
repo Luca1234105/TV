@@ -29,6 +29,8 @@ https://vavoo.to/vavoo-iptv/play/2330946937dd53b634ff71
 https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.opq.it/wp-content/uploads/BergamoTV.png" group-title="Altro",BERGAMO TV
 https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870
+#EXTINF:-1 tvg-id="bike.it" tvg-logo="" group-title="Altro",BIKE
+https://vavoo.to/vavoo-iptv/play/309589541224b3a9c5030f
 #EXTINF:-1 tvg-id="blaze.it" tvg-logo="" group-title="Altro",BLAZE
 https://vavoo.to/vavoo-iptv/play/25326356590c9338734e4b
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV
@@ -347,6 +349,10 @@ https://vavoo.to/vavoo-iptv/play/38676564387b48bdb05ad
 https://vavoo.to/vavoo-iptv/play/2521763009f0e0ef1051a6
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",TELETUTTO
 https://vavoo.to/vavoo-iptv/play/3271666551331132c8bfab
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV (1)
+https://vavoo.to/vavoo-iptv/play/2764553737f817b6d4f583
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV (2)
+https://vavoo.to/vavoo-iptv/play/27978570454e40f7218cf4
 #EXTINF:-1 tvg-id="tv2000.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/0d/Logo_di_TV2000.png" group-title="Altro",TV 2000
 https://vavoo.to/vavoo-iptv/play/1949044924a6c217960c23
 #EXTINF:-1 tvg-id="tv8.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8 (1)
@@ -507,6 +513,8 @@ https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
 https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (2)
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION
+https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
@@ -515,8 +523,6 @@ https://vavoo.to/vavoo-iptv/play/3667240765238d57794d79
 https://vavoo.to/vavoo-iptv/play/3421031748051d1097ba07
 #EXTINF:-1 tvg-id="inter.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/inter-tv-it.png?raw=true" group-title="Sport",INTER TV
 https://vavoo.to/vavoo-iptv/play/29737730766a27b9a63e21
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",LAZIO TV 13
-https://vavoo.to/vavoo-iptv/play/56652751299dc0b400d5c
 #EXTINF:-1 tvg-id="milan.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/milan-tv-it.png" group-title="Sport",MILAN TV
 https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/7/79/San_Marino_RTV_Sport_-_logo.png/revision/latest?cb=20221207153729" group-title="Sport",RTV SAN MARINO SPORT
@@ -841,7 +847,7 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieacomovspisa" tvg-name="All Soccer Events | Italy - Serie A : Como vs Pisa (13:30)" tvg-logo="https://www.footballkitarchive.com/static/logos/jg7ChWhHx9uMqs6/como-1907-2019-logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Como vs Pisa (13:30)
+#EXTINF:-1 tvg-id="italyserieacomovspisa" tvg-name="All Soccer Events | Italy - Serie A : Como vs Pisa (13:30)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Calcio_Como_-_logo_%28Italy%2C_2019-%29.svg/250px-Calcio_Como_-_logo_%28Italy%2C_2019-%29.svg.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Como vs Pisa (13:30)
 https://dlhd.dad/watch.php?id=877
 
 #EXTINF:-1 tvg-id="italyserieawomenfiorentinavsparma" tvg-name="All Soccer Events | Italy - Serie A (women) : Fiorentina vs Parma (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Parma.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A (women) : Fiorentina vs Parma (13:30)
@@ -931,7 +937,7 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="italyserieafiorentinavsinternazionale" tvg-name="All Soccer Events | Italy - Serie A : Fiorentina vs Internazionale (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Internazionale.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Fiorentina vs Internazionale (21:45)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="2026miamiopentenniswtasecondround" tvg-name="Tennis | 2026 Miami Open Tennis WTA Second Round (17:00)" tvg-logo="https://assets.stickpng.com/images/6266992c2c88722059d58710.png" group-title="Eventi Live DLHD",Tennis | 2026 Miami Open Tennis WTA Second Round (17:00)
+#EXTINF:-1 tvg-id="2026miamiopentenniswtasecondround" tvg-name="Tennis | 2026 Miami Open Tennis WTA Second Round (17:00)" tvg-logo="https://tennis-open.it/wp-content/uploads/2026/01/cropped-Logo-Tennis-Open.png" group-title="Eventi Live DLHD",Tennis | 2026 Miami Open Tennis WTA Second Round (17:00)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="motogpbrazilwarmup" tvg-name="Motorsport | MotoGP | Brazil Warm Up (15:30)" tvg-logo="https://d2xpg1khvwxlf1.cloudfront.net/production/images/original/76165-Quint-2023-logo-Q-only-mono-navy-addb88cb140d0a24f946df7280fc358a.png" group-title="Eventi Live DLHD",Motorsport | MotoGP | Brazil Warm Up (15:30)
@@ -948,9 +954,6 @@ https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="judotbilisigrandslamday3" tvg-name="Combat sports | Judo Tbilisi Grand Slam. Day 3 (15:00)" tvg-logo="https://grandslam.blob.core.windows.net/documents/images/Events/Logos/3418-grand-slam-atlanta-opening-day.png?t=638737837936270000" group-title="Eventi Live DLHD",Combat sports | Judo Tbilisi Grand Slam. Day 3 (15:00)
 https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="narciarstwoalpejskiezawodypucharuwiatawlillehammersupergigantkobiet" tvg-name="Alpine Ski | Narciarstwo alpejskie: Zawody Pucharu Świata w Lillehammer supergigant kobiet (11:30)" tvg-logo="https://azszakopane.pl/wp-content/uploads/2022/05/logo-1-2.png" group-title="Eventi Live DLHD",Alpine Ski | Narciarstwo alpejskie: Zawody Pucharu Świata w Lillehammer supergigant kobiet (11:30)
-https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="narciarstwoalpejskiezawodypucharuwiatawlillehammersupergigantmczyzn" tvg-name="Alpine Ski | Narciarstwo alpejskie: Zawody Pucharu Świata w Lillehammer supergigant mężczyzn (13:00)" tvg-logo="https://azszakopane.pl/wp-content/uploads/2022/05/logo-1-2.png" group-title="Eventi Live DLHD",Alpine Ski | Narciarstwo alpejskie: Zawody Pucharu Świata w Lillehammer supergigant mężczyzn (13:00)
 https://dlhd.dad/watch.php?id=878
