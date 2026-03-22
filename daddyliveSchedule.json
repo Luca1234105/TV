@@ -48,12 +48,22 @@
                 ]
             },
             {
+                "time": "18:00",
+                "event": "Gorilla 2: Birmingham",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
                 "time": "18:30",
                 "event": "Williams Grove Sprint Cars Speedway",
                 "channels": [
                     {
                         "channel_name": "Event PPV",
-                        "channel_id": "174"
+                        "channel_id": "175"
                     }
                 ]
             },
@@ -63,7 +73,7 @@
                 "channels": [
                     {
                         "channel_name": "Event PPV",
-                        "channel_id": "175"
+                        "channel_id": "176"
                     }
                 ]
             }
