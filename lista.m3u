@@ -113,8 +113,6 @@ https://vavoo.to/vavoo-iptv/play/422225837740225c1416e8
 https://vavoo.to/vavoo-iptv/play/33656973896c0d65694135
 #EXTINF:-1 tvg-id="" tvg-logo="https://prolocopesarourbino.it/wp-content/uploads/2019/07/FANO-TV.jpg" group-title="Altro",FANO TV
 https://vavoo.to/vavoo-iptv/play/1798700028a88b50c2df9d
-#EXTINF:-1 tvg-id="fashion.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/fashion-tv-int.png?raw=true" group-title="Altro",FASHION TV
-https://vavoo.to/vavoo-iptv/play/3028319308fc52849f3d94
 #EXTINF:-1 tvg-id="fashion.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/fashion-tv-int.png?raw=true" group-title="Altro",FASHIONTV
 https://vavoo.to/vavoo-iptv/play/3255207570b230d786fb10
 #EXTINF:-1 tvg-id="food.network.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro",FOOD NETWORK (1)
@@ -173,8 +171,6 @@ https://vavoo.to/vavoo-iptv/play/448530931a02141cb37b2
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (2)
 https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
-https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro",ONDA NOVARA TV
@@ -505,8 +501,6 @@ https://vavoo.to/vavoo-iptv/play/22376603018e09f8150d84
 # SPORT
 #EXTINF:-1 tvg-id="aci.sport.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/aci-sport-tv-it.png" group-title="Sport",ACI SPORT TV
 https://vavoo.to/vavoo-iptv/play/13516316035c18ca000fe1
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
-https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
@@ -857,9 +851,6 @@ https://example.com.m3u8
 
 #EXTINF:-1 tvg-id="2026miamiopentennisatproundof16wtaquarterfinal1amp2" tvg-name="Tennis | 2026 Miami Open Tennis ATP Round of 16; WTA Quarterfinal 1 &amp; 2 (17:00)" tvg-logo="https://tennisliveranking.oss-ap-southeast-1.aliyuncs.com/assets/img/atp.png?t=20241030" group-title="Eventi Live DLHD",Tennis | 2026 Miami Open Tennis ATP Round of 16; WTA Quarterfinal 1 &amp; 2 (17:00)
 https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="worldcupcompetitioninlillehammer1strunofwomensslalom" tvg-name="Alpine Ski | World Cup Competition in Lillehammer 1st run of women's slalom (12:20)" tvg-logo="https://static.wixstatic.com/media/ad3aa5_cb17e61b728b45cc928b3249edd1f6b4~mv2.png/v1/crop/x_18,y_0,w_977,h_1000/fill/w_957,h_980,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/ad3aa5_cb17e61b728b45cc928b3249edd1f6b4~mv2.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Lillehammer 1st run of women's slalom (12:20)
-https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="worldcupcompetitioninlillehammer1strunofthemensgiantslalom" tvg-name="Alpine Ski | World Cup Competition in Lillehammer 1st run of the men's giant slalom (13:15)" tvg-logo="https://static.wixstatic.com/media/ad3aa5_cb17e61b728b45cc928b3249edd1f6b4~mv2.png/v1/crop/x_18,y_0,w_977,h_1000/fill/w_957,h_980,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/ad3aa5_cb17e61b728b45cc928b3249edd1f6b4~mv2.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Lillehammer 1st run of the men's giant slalom (13:15)
 https://dlhd.dad/watch.php?id=878
