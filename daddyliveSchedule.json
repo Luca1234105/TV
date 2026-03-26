@@ -992,6 +992,10 @@
                         "channel_id": "469"
                     },
                     {
+                        "channel_name": "ESPN2 USA",
+                        "channel_id": "45"
+                    },
+                    {
                         "channel_name": "SporTV Brazil",
                         "channel_id": "78"
                     },
@@ -2004,6 +2008,16 @@
                     {
                         "channel_name": "ESPN3 Argentina",
                         "channel_id": "798"
+                    }
+                ]
+            },
+            {
+                "time": "02:10",
+                "event": "MLB : Cleveland Guardians vs Seattle Mariners",
+                "channels": [
+                    {
+                        "channel_name": "MLB League Pass",
+                        "channel_id": "5010"
                     }
                 ]
             }
