@@ -233,10 +233,8 @@ https://vavoo.to/vavoo-iptv/play/10851723533da93b5683eb
 https://vavoo.to/vavoo-iptv/play/10944791346b08a647fce
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/LogoRMC101.png" group-title="Altro",RMC 101
 https://vavoo.to/vavoo-iptv/play/2209352147379c000ac415
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1
 https://vavoo.to/vavoo-iptv/play/24556102030a38fc13c387
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (2)
-https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (1)
 https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (2)
@@ -505,8 +503,6 @@ https://vavoo.to/vavoo-iptv/play/22376603018e09f8150d84
 # SPORT
 #EXTINF:-1 tvg-id="aci.sport.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/aci-sport-tv-it.png" group-title="Sport",ACI SPORT TV
 https://vavoo.to/vavoo-iptv/play/13516316035c18ca000fe1
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
-https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
@@ -533,8 +529,6 @@ https://vavoo.to/vavoo-iptv/play/29737730766a27b9a63e21
 https://vavoo.to/vavoo-iptv/play/56652751299dc0b400d5c
 #EXTINF:-1 tvg-id="milan.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/milan-tv-it.png" group-title="Sport",MILAN TV
 https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/7/79/San_Marino_RTV_Sport_-_logo.png/revision/latest?cb=20221207153729" group-title="Sport",RTV SAN MARINO SPORT
-https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 #EXTINF:-1 tvg-id="sky.sport.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24
 https://vavoo.to/vavoo-iptv/play/277580225585f503fbfc87
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
@@ -573,8 +567,6 @@ https://vavoo.to/vavoo-iptv/play/210669162201ec2365574
 https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1
 https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS
-https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
 https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
@@ -870,13 +862,13 @@ https://dlhd.dad/watch.php?id=851
 #EXTINF:-1 tvg-id="worldcupqualifyingitalyvsnorthernireland" tvg-name="Soccer | World Cup Qualifying : Italy vs Northern Ireland (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Northern Ireland.png" group-title="Eventi Live DLHD",Soccer | World Cup Qualifying : Italy vs Northern Ireland (21:45)
 https://dlhd.dad/watch.php?id=850
 
-#EXTINF:-1 tvg-id="miamimasters1000quarterfinal" tvg-name="Tennis | Miami Masters 1000 | Quarter-final (17:00)" tvg-logo="https://images.bfmtv.com/x0vcF_j5HrI8xjzRtYf-i36-GM4=/0x0:0x0/50x0/site_manager_images/noeud/rmcsport/1742764313670_masters_miami_png_miami_1742764320682.png" group-title="Eventi Live DLHD",Tennis | Miami Masters 1000 | Quarter-final (17:00)
+#EXTINF:-1 tvg-id="miamimasters1000quarterfinal" tvg-name="Tennis | Miami Masters 1000 | Quarter-final (17:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Tennis | Miami Masters 1000 | Quarter-final (17:00)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="voltaciclistaacatalunyastage4menmataróvallter173km" tvg-name="Cycling | Volta Ciclista a Catalunya | Stage 4 Men | Mataró - Vallter (173km) (16:15)" tvg-logo="https://static.flashscore.com/res/image/data/navXCCV1-8SBqP5Eg.png" group-title="Eventi Live DLHD",Cycling | Volta Ciclista a Catalunya | Stage 4 Men | Mataró - Vallter (173km) (16:15)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="figureskatingworldchampionshipsviaplaywinterday2shortprogramh" tvg-name="Ice Skating | Figure Skating World Championships Viaplay Winter, Day 2 | Short program (H) (12:25)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/14638/logo/16703/Helena_High_School_logo_template_300.png" group-title="Eventi Live DLHD",Ice Skating | Figure Skating World Championships Viaplay Winter, Day 2 | Short program (H) (12:25)
+#EXTINF:-1 tvg-id="figureskatingworldchampionshipsviaplaywinterday2shortprogramh" tvg-name="Ice Skating | Figure Skating World Championships Viaplay Winter, Day 2 | Short program (H) (12:25)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/24482/logo/27295/Edward_H_White_High_School_Logo.png" group-title="Eventi Live DLHD",Ice Skating | Figure Skating World Championships Viaplay Winter, Day 2 | Short program (H) (12:25)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="worldchampionshippraguemixedcouplesfreeroutine" tvg-name="Ice Skating | World Championship | Prague Mixed | Couples | Free Routine (19:10)" tvg-logo="https://www.thecouplescenter.org/wp-content/uploads/2023/12/call-1.png" group-title="Eventi Live DLHD",Ice Skating | World Championship | Prague Mixed | Couples | Free Routine (19:10)
