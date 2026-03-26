@@ -3552,6 +3552,16 @@
     "Thursday 26th March 2026 - Schedule Time UK GMT": {
         "Upcoming Events": [
             {
+                "time": "16:00",
+                "event": "KSW 117: Pawlak vs. Khalidov, April 18, 2026",
+                "channels": [
+                    {
+                        "channel_name": "KSWTV",
+                        "channel_id": "5004"
+                    }
+                ]
+            },
+            {
                 "time": "17:00",
                 "event": "The 2026 Masters Golf Tournament, the 90th edition, April 6, 2026",
                 "channels": [
@@ -3576,12 +3586,98 @@
                 ]
             },
             {
+                "time": "21:00",
+                "event": "UFC Fight Night: Adesanya vs Pyfer, March 28, 2026",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "5003"
+                    }
+                ]
+            },
+            {
                 "time": "04:30",
                 "event": "The 2026 Miami Open Tennis tournament - Monday, March 16 to March 29",
                 "channels": [
                     {
                         "channel_name": "Tennis channel USA",
                         "channel_id": "40"
+                    }
+                ]
+            }
+        ],
+        "TV Shows": [
+            {
+                "time": "19:30",
+                "event": "NCAA March Madness Bracket Breakdown Live",
+                "channels": [
+                    {
+                        "channel_name": "CBSSN USA",
+                        "channel_id": "308"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "Men's International Soccer Friendlies Live",
+                "channels": [
+                    {
+                        "channel_name": "ESPN2 USA",
+                        "channel_id": "45"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2026 iHeartRadio Music Awards Live",
+                "channels": [
+                    {
+                        "channel_name": "FOXNY USA",
+                        "channel_id": "768"
+                    },
+                    {
+                        "channel_name": "FOX USA",
+                        "channel_id": "54"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "SPEED With Harvick & Buxton New",
+                "channels": [
+                    {
+                        "channel_name": "Fox Sports 1 USA",
+                        "channel_id": "39"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "The Real Housewives of Beverly Hills Season 15, Episode 15",
+                "channels": [
+                    {
+                        "channel_name": "Bravo USA",
+                        "channel_id": "307"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Love Story: John F. Kennedy Jr. & Carolyn Bessette Season 1, Episode 9 \u2022 Finale",
+                "channels": [
+                    {
+                        "channel_name": "FX USA",
+                        "channel_id": "317"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "Jimmy Kimmel Live! Season 24, Episode 95",
+                "channels": [
+                    {
+                        "channel_name": "ABC NY USA",
+                        "channel_id": "766"
                     }
                 ]
             }
@@ -4358,6 +4454,10 @@
                         "channel_id": "78"
                     },
                     {
+                        "channel_name": "ESPN Deportes",
+                        "channel_id": "375"
+                    },
+                    {
                         "channel_name": "DAZN1 DE",
                         "channel_id": "426"
                     },
@@ -4596,6 +4696,16 @@
         ],
         "Cricket": [
             {
+                "time": "14:00",
+                "event": "Pakistan Super League Cricket : Lahore Qalandars vs Hyderabad Kingsmen",
+                "channels": [
+                    {
+                        "channel_name": "Willow Cricket",
+                        "channel_id": "346"
+                    }
+                ]
+            },
+            {
                 "time": "23:30",
                 "event": "Sheffield Shield : Victorian Bushrangers vs South Australia",
                 "channels": [
@@ -4786,9 +4896,9 @@
                 ]
             }
         ],
-        "Wrestling": [
+        "WWE (TNA)": [
             {
-                "time": "00:00",
+                "time": "01:00",
                 "event": "TNA iMPACT!",
                 "channels": [
                     {
@@ -4910,13 +5020,23 @@
                 ]
             },
             {
-                "time": "22:00",
-                "event": "PGA Tour Texas Children's Houston Open",
+                "time": "19:00",
+                "event": "PGA Tour Golf Texas Children's Houston Open, First Round",
                 "channels": [
+                    {
+                        "channel_name": "Golf Channel USA",
+                        "channel_id": "318"
+                    },
                     {
                         "channel_name": "Sky Sports Golf UK",
                         "channel_id": "70"
-                    },
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "PGA Tour Texas Children's Houston Open",
+                "channels": [
                     {
                         "channel_name": "GOLF Channel USA",
                         "channel_id": "318"
@@ -4994,7 +5114,7 @@
                 ]
             }
         ],
-        "Aussie rules": [
+        "Aussie Rules (AFL)": [
             {
                 "time": "08:30",
                 "event": "AFL : Geelong Cats vs Adelaide Crows",
@@ -5016,12 +5136,42 @@
         ],
         "Baseball": [
             {
+                "time": "16:00",
+                "event": "Baseball Champions League Americas : Taiwan vs United States",
+                "channels": [
+                    {
+                        "channel_name": "NLSE",
+                        "channel_id": "1200"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Baseball Champions League Americas : Cuba vs Nicaragua",
+                "channels": [
+                    {
+                        "channel_name": "NLSE",
+                        "channel_id": "1200"
+                    }
+                ]
+            }
+        ],
+        "Baseball (MLB)": [
+            {
                 "time": "17:15",
                 "event": "MLB : Pittsburgh Pirates vs New York Mets",
                 "channels": [
                     {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "31"
+                    },
+                    {
+                        "channel_name": "NBCNY USA",
+                        "channel_id": "769"
+                    },
+                    {
+                        "channel_name": "NBC USA",
+                        "channel_id": "53"
                     },
                     {
                         "channel_name": "NBC UNIVERSO",
@@ -5072,6 +5222,16 @@
                     {
                         "channel_name": "MASN USA",
                         "channel_id": "829"
+                    }
+                ]
+            },
+            {
+                "time": "20:10",
+                "event": "MLB : Detroit Tigers vs San Diego Padres",
+                "channels": [
+                    {
+                        "channel_name": "MLB Network USA",
+                        "channel_id": "399"
                     }
                 ]
             },
@@ -5130,6 +5290,14 @@
                         "channel_id": "31"
                     },
                     {
+                        "channel_name": "NBCNY USA",
+                        "channel_id": "769"
+                    },
+                    {
+                        "channel_name": "NBC USA",
+                        "channel_id": "53"
+                    },
+                    {
                         "channel_name": "NBC UNIVERSO",
                         "channel_id": "845"
                     },
@@ -5179,7 +5347,17 @@
         "College Softball": [
             {
                 "time": "18:00",
-                "event": "College Softball : St. Francis (PA) - Bucknell",
+                "event": "College Softball : Oregon vs Northwestern",
+                "channels": [
+                    {
+                        "channel_name": "BTN USA",
+                        "channel_id": "397"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "College Softball : St. Francis (PA) vs Bucknell",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -5189,7 +5367,7 @@
             },
             {
                 "time": "22:00",
-                "event": "College Softball : Seattle U - Creighton",
+                "event": "College Softball : Seattle U vs Creighton",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -5199,21 +5377,11 @@
             },
             {
                 "time": "00:00",
-                "event": "College Softball : Kansas - BYU",
+                "event": "College Softball : Kansas vs BYU",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "77"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "College Softball : Oregon - Northwestern",
-                "channels": [
-                    {
-                        "channel_name": "BTN USA",
-                        "channel_id": "397"
                     }
                 ]
             }
@@ -5388,7 +5556,7 @@
                 ]
             }
         ],
-        "NBA G League Basketball": [
+        "NBA G League": [
             {
                 "time": "23:00",
                 "event": "NBA G-League : Fort Wayne Mad Ants vs Cleveland Charge",
@@ -5562,7 +5730,9 @@
                         "channel_id": "151"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "23:00",
                 "event": "NBA : Charlotte Hornets vs New York Knicks",
@@ -5928,7 +6098,7 @@
                 ]
             }
         ],
-        "Ice Hockey": [
+        "NHL": [
             {
                 "time": "23:00",
                 "event": "NHL : Chicago Blackhawks vs Philadelphia Flyers",
@@ -6210,47 +6380,9 @@
                         "channel_id": "147"
                     }
                 ]
-            },
-            {
-                "time": "16:30",
-                "event": "Slovakia Tipsport Liga : Kosice vs Ban. Bystrica",
-                "channels": [
-                    {
-                        "channel_name": "Sport 1 Slovakia",
-                        "channel_id": "24"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "Slovakia Tipsport Liga : Zilina vs Poprad",
-                "channels": [
-                    {
-                        "channel_name": "JOJ Sport Slovakia",
-                        "channel_id": "25"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Vaxjo vs Brynas",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 2 Sweden",
-                        "channel_id": "704"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Rogle vs Farjestad BK",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey Sweden",
-                        "channel_id": "700"
-                    }
-                ]
-            },
+            }
+        ],
+        "Ice Hockey": [
             {
                 "time": "13:30",
                 "event": "Russia KHL : Avangard Omsk vs Neftekhimik Nizhnekamsk",
@@ -6294,6 +6426,46 @@
                         "channel_id": "16"
                     }
                 ]
+            },
+            {
+                "time": "16:30",
+                "event": "Slovakia Tipsport Liga : Kosice vs Ban. Bystrica",
+                "channels": [
+                    {
+                        "channel_name": "Sport 1 Slovakia",
+                        "channel_id": "24"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "Slovakia Tipsport Liga : Zilina vs Poprad",
+                "channels": [
+                    {
+                        "channel_name": "JOJ Sport Slovakia",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Vaxjo vs Brynas",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 2 Sweden",
+                        "channel_id": "704"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Rogle vs Farjestad BK",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Hockey Sweden",
+                        "channel_id": "700"
+                    }
+                ]
             }
         ],
         "College Ice Hockey": [
@@ -6334,6 +6506,18 @@
                     {
                         "channel_name": "ESPN2 USA",
                         "channel_id": "45"
+                    }
+                ]
+            }
+        ],
+        "Women's College Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
                     }
                 ]
             }
@@ -6426,6 +6610,18 @@
                 ]
             }
         ],
+        "QMJHL Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
         "Ice Skating": [
             {
                 "time": "10:25",
@@ -6500,9 +6696,19 @@
                         "channel_id": "41"
                     }
                 ]
+            },
+            {
+                "time": "19:00",
+                "event": "2026 World Figure Skating Championships Pairs Free Skate",
+                "channels": [
+                    {
+                        "channel_name": "USA Network",
+                        "channel_id": "343"
+                    }
+                ]
             }
         ],
-        "Lacrosse": [
+        "Women's College Lacrosse": [
             {
                 "time": "16:00",
                 "event": "Women's College Lacrosse : Jacksonville vs University of Delaware",
@@ -6560,6 +6766,54 @@
                     {
                         "channel_name": "BTN USA",
                         "channel_id": "397"
+                    }
+                ]
+            }
+        ],
+        "Lacrosse (NLL)": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "College Lacrosse": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "PLL Lacrosse": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "College Volleyball": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
                     }
                 ]
             }
