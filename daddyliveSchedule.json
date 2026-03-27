@@ -84,6 +84,10 @@
                     {
                         "channel_name": "Floracing",
                         "channel_id": "16"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5016"
                     }
                 ]
             },
@@ -94,6 +98,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "17"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5015"
                     }
                 ]
             },
@@ -124,6 +132,10 @@
                     {
                         "channel_name": "Floracing",
                         "channel_id": "20"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5018"
                     }
                 ]
             },
@@ -144,6 +156,10 @@
                     {
                         "channel_name": "Floracing",
                         "channel_id": "22"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5018"
                     }
                 ]
             },
@@ -154,6 +170,16 @@
                     {
                         "channel_name": "TNA+",
                         "channel_id": "23"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "US 36 Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5022"
                     }
                 ]
             },
@@ -592,7 +618,7 @@
                 ]
             },
             {
-                "time": "13:00",
+                "time": "18:00",
                 "event": "Friendly : Jordan vs Costa Rica",
                 "channels": [
                     {
@@ -2382,6 +2408,10 @@
                     {
                         "channel_name": "Sport 5 PLUS Israel",
                         "channel_id": "145"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5025"
                     }
                 ]
             }
@@ -2700,6 +2730,40 @@
                     {
                         "channel_name": "Sportsnet Ontario",
                         "channel_id": "406"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5019"
+                    }
+                ]
+            },
+            {
+                "time": "23:10",
+                "event": "MLB : Colorado Rockies vs. Miami Marlins",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5020"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "MLB : Kansas City Royals vs. Atlanta Braves",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5021"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "MLB : Los Angeles Angels vs. Houston Astros",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5029"
                     }
                 ]
             },
@@ -4600,6 +4664,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5017"
                     }
                 ]
             },
@@ -4626,6 +4694,10 @@
                     {
                         "channel_name": "beIN Sports 1 France",
                         "channel_id": "116"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5023"
                     }
                 ]
             },
@@ -4652,6 +4724,10 @@
                     {
                         "channel_name": "Cosmote Sport 4 Greece",
                         "channel_id": "625"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5024"
                     }
                 ]
             },
@@ -4666,6 +4742,10 @@
                     {
                         "channel_name": "Space City Home Network",
                         "channel_id": "921"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5026"
                     }
                 ]
             },
@@ -4688,6 +4768,10 @@
                     {
                         "channel_name": "FanDuel Sports Network Oklahoma",
                         "channel_id": "900"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5027"
                     }
                 ]
             },
@@ -4702,6 +4786,10 @@
                     {
                         "channel_name": "Sportsnet One",
                         "channel_id": "411"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5030"
                     }
                 ]
             },
@@ -4716,6 +4804,10 @@
                     {
                         "channel_name": "Altitude USA",
                         "channel_id": "923"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5031"
                     }
                 ]
             },
