@@ -3718,6 +3718,78 @@
                 ]
             }
         ],
+        "TV Shows": [
+            {
+                "time": "19:00",
+                "event": "The Kelly Clarkson Show Season 7, Episode 102",
+                "channels": [
+                    {
+                        "channel_name": "NBCNY USA",
+                        "channel_id": "769"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "NCAA March Madness Bracket Breakdown Live",
+                "channels": [
+                    {
+                        "channel_name": "CBSSN USA",
+                        "channel_id": "308"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "RuPaul's Drag Race Season 18, Episode 13",
+                "channels": [
+                    {
+                        "channel_name": "MTV USA",
+                        "channel_id": "371"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Color Theories by Julio Torres New",
+                "channels": [
+                    {
+                        "channel_name": "HBO USA",
+                        "channel_id": "321"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Outlander Season 8, Episode 4",
+                "channels": [
+                    {
+                        "channel_name": "Starz USA",
+                        "channel_id": "335"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Pro Cheer League : Nashville Live",
+                "channels": [
+                    {
+                        "channel_name": "ION USA",
+                        "channel_id": "325"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "Hannah Montana 20th Anniversary Special New",
+                "channels": [
+                    {
+                        "channel_name": "Freeform USA",
+                        "channel_id": "301"
+                    }
+                ]
+            }
+        ],
         "Soccer": [
             {
                 "time": "19:45",
@@ -4564,6 +4636,10 @@
                         "channel_id": "20"
                     },
                     {
+                        "channel_name": "ESPN Deportes",
+                        "channel_id": "375"
+                    },
+                    {
                         "channel_name": "SportDigital Fussball",
                         "channel_id": "571"
                     },
@@ -4844,6 +4920,16 @@
                     {
                         "channel_name": "beIN Sports 3 Malaysia",
                         "channel_id": "714"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "PPA Tour Pickleball : PPA Tour Greater Zion Cup: Quarterfinals",
+                "channels": [
+                    {
+                        "channel_name": "Fox Sports 1 USA",
+                        "channel_id": "39"
                     }
                 ]
             }
@@ -5626,6 +5712,16 @@
                 ]
             },
             {
+                "time": "00:00",
+                "event": "Legacy Fighting Alliance LFA : Martins vs. Gon\u00e7alves",
+                "channels": [
+                    {
+                        "channel_name": "VICE TV USA",
+                        "channel_id": "659"
+                    }
+                ]
+            },
+            {
                 "time": "01:00",
                 "event": "SAMOURAI MMA 18",
                 "channels": [
@@ -5656,9 +5752,9 @@
                 ]
             }
         ],
-        "Wrestling": [
+        "WWE (SmackDown)": [
             {
-                "time": "01:00",
+                "time": "00:00",
                 "event": "WWE Friday Night SmackDown",
                 "channels": [
                     {
@@ -5896,13 +5992,17 @@
                         "channel_id": "54"
                     },
                     {
+                        "channel_name": "FOXNY USA",
+                        "channel_id": "768"
+                    },
+                    {
                         "channel_name": "Fox Deportes",
                         "channel_id": "643"
                     }
                 ]
             }
         ],
-        "Aussie rules": [
+        "Aussie Rules (AFL)": [
             {
                 "time": "08:40",
                 "event": "AFL : Collingwood Magpies vs Greater Western Sydney",
@@ -5944,7 +6044,7 @@
                 ]
             }
         ],
-        "Baseball": [
+        "MLB": [
             {
                 "time": "20:35",
                 "event": "MLB : New York Yankees vs San Francisco Giants",
@@ -6014,9 +6114,33 @@
                         "channel_id": "495"
                     }
                 ]
+            }
+        ],
+        "Baseball": [
+            {
+                "time": "09:30",
+                "event": "Nippon Professional Baseball : Hokkaido Nippon-Ham Fighters vs Fukuoka SoftBank Hawks",
+                "channels": [
+                    {
+                        "channel_name": "NLSE",
+                        "channel_id": "1200"
+                    }
+                ]
             },
             {
-                "time": "21:00",
+                "time": "01:00",
+                "event": "Baseball Champions League Americas : Mexico vs Taiwan",
+                "channels": [
+                    {
+                        "channel_name": "NLSE",
+                        "channel_id": "1200"
+                    }
+                ]
+            }
+        ],
+        "Minor League Baseball": [
+            {
+                "time": "20:00",
                 "event": "Minor League Baseball : Syracuse Mets at Worcester Red Sox",
                 "channels": [
                     {
@@ -6199,16 +6323,6 @@
             },
             {
                 "time": "22:30",
-                "event": "College Softball : UCLA vs Nebraska",
-                "channels": [
-                    {
-                        "channel_name": "Fox Sports 1 USA",
-                        "channel_id": "39"
-                    }
-                ]
-            },
-            {
-                "time": "22:30",
                 "event": "College Softball : University of Georgia vs Kentucky",
                 "channels": [
                     {
@@ -6263,7 +6377,7 @@
                 "channels": [
                     {
                         "channel_name": "ESPN2 USA",
-                        "channel_id": "183"
+                        "channel_id": "45"
                     }
                 ]
             },
@@ -6284,6 +6398,16 @@
                     {
                         "channel_name": "SECN+ USA",
                         "channel_id": "185"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "College Softball : UCLA vs Nebraska",
+                "channels": [
+                    {
+                        "channel_name": "Fox Sports 1 USA",
+                        "channel_id": "39"
                     }
                 ]
             }
@@ -6846,16 +6970,6 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "228"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "College Baseball : Florida vs Arkansas",
-                "channels": [
-                    {
-                        "channel_name": "ESPN2 USA",
-                        "channel_id": "45"
                     }
                 ]
             },
@@ -7488,6 +7602,10 @@
                         "channel_id": "154"
                     },
                     {
+                        "channel_name": "NLSE",
+                        "channel_id": "1200"
+                    },
+                    {
                         "channel_name": "Arena Sport 4 Serbia",
                         "channel_id": "581"
                     }
@@ -7938,6 +8056,10 @@
                         "channel_id": "5"
                     },
                     {
+                        "channel_name": "Chicago Sports Network",
+                        "channel_id": "776"
+                    },
+                    {
                         "channel_name": "FanDuel Sports Network Kansas City",
                         "channel_id": "895"
                     },
@@ -8300,7 +8422,7 @@
                 ]
             }
         ],
-        "Ice Hockey": [
+        "NHL": [
             {
                 "time": "23:00",
                 "event": "NHL : Detroit Red Wings vs Buffalo Sabres",
@@ -8348,12 +8470,86 @@
                         "channel_id": "12"
                     },
                     {
+                        "channel_name": "MSG USA",
+                        "channel_id": "765"
+                    },
+                    {
+                        "channel_name": "Chicago Sports Network",
+                        "channel_id": "776"
+                    },
+                    {
                         "channel_name": "Viaplay Sports 2 UK",
                         "channel_id": "550"
                     },
                     {
                         "channel_name": "V Sport Premium",
                         "channel_id": "14"
+                    }
+                ]
+            }
+        ],
+        "Ice Hockey": [
+            {
+                "time": "14:00",
+                "event": "Russia KHL : Avtomobilist Yekaterinburg vs Salavat Yulaev Ufa",
+                "channels": [
+                    {
+                        "channel_name": "KHL TV",
+                        "channel_id": "20"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "Russia KHL : Severstal Cherepovets vs Torpedo Nizhny Novgorod",
+                "channels": [
+                    {
+                        "channel_name": "KHL TV",
+                        "channel_id": "20"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "Russia KHL : CSKA Moscow vs SKA St. Petersburg",
+                "channels": [
+                    {
+                        "channel_name": "KHL Prime",
+                        "channel_id": "24"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "Slovakia Tipsport liga : Nitra vs Michalovce",
+                "channels": [
+                    {
+                        "channel_name": "Sport 1 SK",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Lulea vs Frolunda",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Sport Live 2",
+                        "channel_id": "704"
+                    },
+                    {
+                        "channel_name": "SPORT1+ DE",
+                        "channel_id": "640"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "SHL : Malmo vs Skelleftea",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Hockey",
+                        "channel_id": "700"
                     }
                 ]
             },
@@ -8406,31 +8602,9 @@
                         "channel_id": "86"
                     }
                 ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Lulea vs Frolunda",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Sport Live 2",
-                        "channel_id": "704"
-                    },
-                    {
-                        "channel_name": "SPORT1+ DE",
-                        "channel_id": "640"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "SHL : Malmo vs Skelleftea",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey",
-                        "channel_id": "700"
-                    }
-                ]
-            },
+            }
+        ],
+        "PWHL Ice Hockey": [
             {
                 "time": "23:00",
                 "event": "PWHL : Toronto W vs Boston W",
@@ -8444,51 +8618,23 @@
                         "channel_id": "409"
                     }
                 ]
-            },
+            }
+        ],
+        "Women's College Ice Hockey": [
             {
-                "time": "17:00",
-                "event": "Slovakia Tipsport liga : Nitra vs Michalovce",
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
                 "channels": [
                     {
-                        "channel_name": "Sport 1 SK",
-                        "channel_id": "163"
-                    }
-                ]
-            },
-            {
-                "time": "14:00",
-                "event": "Russia KHL : Avtomobilist Yekaterinburg vs Salavat Yulaev Ufa",
-                "channels": [
-                    {
-                        "channel_name": "KHL TV",
-                        "channel_id": "20"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "Russia KHL : Severstal Cherepovets vs Torpedo Nizhny Novgorod",
-                "channels": [
-                    {
-                        "channel_name": "KHL TV",
-                        "channel_id": "20"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "Russia KHL : CSKA Moscow vs SKA St. Petersburg",
-                "channels": [
-                    {
-                        "channel_name": "KHL Prime",
-                        "channel_id": "24"
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
                     }
                 ]
             }
         ],
         "College Ice Hockey": [
             {
-                "time": "19:00",
+                "time": "18:30",
                 "event": "College Ice Hockey : Minnesota State vs Western Michigan",
                 "channels": [
                     {
@@ -8616,6 +8762,42 @@
                 ]
             }
         ],
+        "OHL Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "QMJHL Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "USHL Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
         "Ice Skating": [
             {
                 "time": "10:15",
@@ -8709,11 +8891,35 @@
         "Lacrosse": [
             {
                 "time": "17:00",
-                "event": "Women's College Lacrosse : VCU - George Washington",
+                "event": "Women's College Lacrosse : VCU vs George Washington",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "164"
+                    }
+                ]
+            }
+        ],
+        "Lacrosse (NLL)": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "College Lacrosse": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
                     }
                 ]
             }
