@@ -60,6 +60,162 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "13:00",
+                "event": "ARCA East at Hickory Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5033"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "PDRA Carolina Nationals at Darlington Dragway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5031"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "Monster Energy AMA Supercross : Detroit",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5030"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "CARS Tour at Wake County Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing PPV",
+                        "channel_id": "5035"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "The Arena Blood & Glory",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "238"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "Lucas Oil Late Model Dirt Series at Brownstown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "239"
+                    },
+                    {
+                        "channel_name": "Floracing PPV",
+                        "channel_id": "5032"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "World of Outlaws Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "240"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "High Limit Racing Dodge City",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "241"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "MLP: Uprising 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "AMA Supercross Championship Detroit",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "177"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "81 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision PPV",
+                        "channel_id": "5036"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "175"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Spring Nationals Thunderhill",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "176"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "RAF 07: Tsarukyan vs. Poullas",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5034"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "USMTS King of America Lucas Oil Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5028"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "00:00",
@@ -814,7 +970,7 @@
                 ]
             },
             {
-                "time": "16:18",
+                "time": "21:59",
                 "event": "World Legends Matches : Liverpool Legends vs Borussia Dortmund Legends",
                 "channels": [
                     {
@@ -3156,6 +3312,10 @@
                     {
                         "channel_name": "Sport 1 Israel",
                         "channel_id": "140"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5006"
                     }
                 ]
             },
@@ -3948,6 +4108,10 @@
                     {
                         "channel_name": "Sport 5 Star Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5021"
                     }
                 ]
             },
@@ -3962,6 +4126,10 @@
                     {
                         "channel_name": "Chicago Sports Network",
                         "channel_id": "776"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5022"
                     }
                 ]
             },
@@ -3972,6 +4140,10 @@
                     {
                         "channel_name": "MLB league pass",
                         "channel_id": "25"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5023"
                     }
                 ]
             },
@@ -3994,6 +4166,10 @@
                     {
                         "channel_name": "TNT Sports 3 UK",
                         "channel_id": "33"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5024"
                     }
                 ]
             },
@@ -5208,6 +5384,10 @@
                     {
                         "channel_name": "FanDuel Sports Network Southeast",
                         "channel_id": "904"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5025"
                     }
                 ]
             },
@@ -5218,6 +5398,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "7"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5027"
                     }
                 ]
             },
