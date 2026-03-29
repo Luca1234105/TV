@@ -970,7 +970,7 @@
                 ]
             },
             {
-                "time": "00:27",
+                "time": "03:43",
                 "event": "World Legends Matches : Liverpool Legends vs Borussia Dortmund Legends",
                 "channels": [
                     {
@@ -4468,6 +4468,16 @@
         ],
         "College Softball": [
             {
+                "time": "14:00",
+                "event": "College Softball : California vs Notre Dame",
+                "channels": [
+                    {
+                        "channel_name": "ACC Network USA USA",
+                        "channel_id": "664"
+                    }
+                ]
+            },
+            {
                 "time": "16:00",
                 "event": "College Softball : Oklahoma vs LSU",
                 "channels": [
@@ -4494,16 +4504,6 @@
                     {
                         "channel_name": "ACCNX USA",
                         "channel_id": "207"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "College Softball : California vs Notre Dame",
-                "channels": [
-                    {
-                        "channel_name": "ACCNX USA",
-                        "channel_id": "208"
                     }
                 ]
             },
@@ -7575,26 +7575,114 @@
                 ]
             },
             {
-                "time": "21:00",
-                "event": "UFC Fight Night: Adesanya vs Pyfer, March 28, 2026",
-                "channels": [
-                    {
-                        "channel_name": "UFC Fight Pass",
-                        "channel_id": "5003"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5016"
-                    }
-                ]
-            },
-            {
                 "time": "04:30",
                 "event": "The 2026 Miami Open Tennis tournament - Monday, March 16 to March 29",
                 "channels": [
                     {
                         "channel_name": "Tennis channel USA",
                         "channel_id": "40"
+                    }
+                ]
+            }
+        ],
+        "TV Shows": [
+            {
+                "time": "00:00",
+                "event": "Tournament of Champions Season 7, Episode 5",
+                "channels": [
+                    {
+                        "channel_name": "The Food Network",
+                        "channel_id": "384"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Naked and Afraid Season 19, Episode 7",
+                "channels": [
+                    {
+                        "channel_name": "Discovery USA",
+                        "channel_id": "313"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Dark Winds Season 4, Episode 7",
+                "channels": [
+                    {
+                        "channel_name": "AMC USA",
+                        "channel_id": "303"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Married to Medicine Season 12, Episode 16",
+                "channels": [
+                    {
+                        "channel_name": "Bravo USA",
+                        "channel_id": "307"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "DTF St. Louis Season 1, Episode 5",
+                "channels": [
+                    {
+                        "channel_name": "HBO USA",
+                        "channel_id": "321"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Betrayal: Secrets & Lies Season 1, Episode 1 \u2022 Premiere",
+                "channels": [
+                    {
+                        "channel_name": "ABC NY USA",
+                        "channel_id": "766"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "House Hunters Season 272, Episode 9",
+                "channels": [
+                    {
+                        "channel_name": "HGTV USA",
+                        "channel_id": "382"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Bar Rescue Season 10, Episode 7",
+                "channels": [
+                    {
+                        "channel_name": "Paramount Network",
+                        "channel_id": "334"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Rooster Season 1, Episode 4",
+                "channels": [
+                    {
+                        "channel_name": "HBO USA",
+                        "channel_id": "321"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "The Comeback Season 3, Episode 2",
+                "channels": [
+                    {
+                        "channel_name": "HBO USA",
+                        "channel_id": "321"
                     }
                 ]
             }
@@ -7739,6 +7827,10 @@
                     {
                         "channel_name": "ESPN2 USA",
                         "channel_id": "45"
+                    },
+                    {
+                        "channel_name": "ESPN Deportes",
+                        "channel_id": "375"
                     },
                     {
                         "channel_name": "Sky Sports Football UK",
@@ -8583,6 +8675,16 @@
                 ]
             },
             {
+                "time": "00:30",
+                "event": "USL Championship Soccer : Rhode Island FC at Miami FC",
+                "channels": [
+                    {
+                        "channel_name": "NESN USA",
+                        "channel_id": "762"
+                    }
+                ]
+            },
+            {
                 "time": "01:30",
                 "event": "Colombia - Primera A : Llaneros vs Once Caldas",
                 "channels": [
@@ -8793,6 +8895,16 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "187"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "2026 Miami Open Tennis WTA Doubles Final",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel USA",
+                        "channel_id": "40"
                     }
                 ]
             },
@@ -9291,6 +9403,10 @@
                         "channel_id": "274"
                     },
                     {
+                        "channel_name": "FOXNY USA",
+                        "channel_id": "768"
+                    },
+                    {
                         "channel_name": "FOX USA",
                         "channel_id": "54"
                     },
@@ -9397,12 +9513,30 @@
                 ]
             },
             {
+                "time": "19:00",
+                "event": "FIM Motocross World Championship MX2 Switzerland",
+                "channels": [
+                    {
+                        "channel_name": "Fox Sports 1 USA",
+                        "channel_id": "39"
+                    }
+                ]
+            },
+            {
                 "time": "19:15",
                 "event": "MotoGP | Round 3 | United States Race",
                 "channels": [
                     {
                         "channel_name": "TNT Sports 2 UK",
                         "channel_id": "32"
+                    },
+                    {
+                        "channel_name": "FOXNY USA",
+                        "channel_id": "768"
+                    },
+                    {
+                        "channel_name": "FOX USA",
+                        "channel_id": "54"
                     },
                     {
                         "channel_name": "Sky Sport MotoGP Italy",
@@ -9641,6 +9775,16 @@
                 ]
             },
             {
+                "time": "19:00",
+                "event": "PGA Tour Golf Texas Children's Houston Open, Final Round",
+                "channels": [
+                    {
+                        "channel_name": "NBC USA",
+                        "channel_id": "53"
+                    }
+                ]
+            },
+            {
                 "time": "19:45",
                 "event": "PGA Tour Texas Children's Houston Open",
                 "channels": [
@@ -9681,6 +9825,26 @@
                         "channel_id": "588"
                     }
                 ]
+            },
+            {
+                "time": "21:00",
+                "event": "PGA Tour Champions Golf Hoag Classic Newport Beach, Final Round",
+                "channels": [
+                    {
+                        "channel_name": "Golf Channel USA",
+                        "channel_id": "318"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "LPGA Tour Golf Ford Championship, Final Round",
+                "channels": [
+                    {
+                        "channel_name": "Golf Channel USA",
+                        "channel_id": "318"
+                    }
+                ]
             }
         ],
         "Am. Football": [
@@ -9699,7 +9863,7 @@
                 ]
             }
         ],
-        "Aussie rules": [
+        "Aussie Rules": [
             {
                 "time": "04:15",
                 "event": "AFL : Carlton Blues vs Melbourne Demons",
@@ -9729,684 +9893,208 @@
         ],
         "Baseball": [
             {
-                "time": "17:35",
-                "event": "MLB : Kansas City Royals vs Atlanta Braves",
+                "time": "19:00",
+                "event": "Minor League Baseball : Albuquerque Isotopes vs Oklahoma City Comets",
                 "channels": [
                     {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "14"
-                    },
-                    {
-                        "channel_name": "MLB Network",
-                        "channel_id": "399"
+                        "channel_name": "Spectrum SportsNet LA",
+                        "channel_id": "764"
                     }
                 ]
             },
             {
-                "time": "17:35",
-                "event": "MLB : Minnesota Twins vs Baltimore Orioles",
+                "time": "20:00",
+                "event": "Baseball Champions League Americas Final: Teams TBA",
                 "channels": [
                     {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "15"
-                    },
-                    {
-                        "channel_name": "MASN USA",
-                        "channel_id": "829"
-                    }
-                ]
-            },
-            {
-                "time": "17:35",
-                "event": "MLB : Texas Rangers vs Philadelphia Phillies",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "3"
-                    },
-                    {
-                        "channel_name": "TNT Sports 1 UK",
-                        "channel_id": "31"
-                    },
-                    {
-                        "channel_name": "NBCS Philadelphia USA",
-                        "channel_id": "777"
-                    }
-                ]
-            },
-            {
-                "time": "17:37",
-                "event": "MLB : Oakland Athletics vs Toronto Blue Jays",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "7"
-                    },
-                    {
-                        "channel_name": "NBCS California USA",
-                        "channel_id": "755"
-                    },
-                    {
-                        "channel_name": "Sportsnet West",
-                        "channel_id": "407"
-                    },
-                    {
-                        "channel_name": "Sportsnet Ontario",
-                        "channel_id": "406"
-                    }
-                ]
-            },
-            {
-                "time": "17:40",
-                "event": "MLB : Boston Red Sox vs Cincinnati Reds",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "8"
-                    },
-                    {
-                        "channel_name": "NESN USA",
-                        "channel_id": "762"
-                    }
-                ]
-            },
-            {
-                "time": "17:40",
-                "event": "MLB : Colorado Rockies vs Miami Marlins",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "9"
-                    }
-                ]
-            },
-            {
-                "time": "17:40",
-                "event": "MLB : Pittsburgh Pirates vs New York Mets",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "10"
-                    },
-                    {
-                        "channel_name": "SportsNet New York USA",
-                        "channel_id": "759"
-                    }
-                ]
-            },
-            {
-                "time": "18:10",
-                "event": "MLB : Los Angeles Angels vs Houston Astros",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "16"
-                    },
-                    {
-                        "channel_name": "FanDuel Sports Network West",
-                        "channel_id": "896"
-                    }
-                ]
-            },
-            {
-                "time": "18:10",
-                "event": "MLB : Chicago White Sox vs Milwaukee Brewers",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "17"
-                    },
-                    {
-                        "channel_name": "Chicago Sports Network",
-                        "channel_id": "776"
-                    }
-                ]
-            },
-            {
-                "time": "18:15",
-                "event": "MLB : Tampa Bay Rays vs St. Louis Cardinals",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "18"
-                    }
-                ]
-            },
-            {
-                "time": "18:20",
-                "event": "MLB : Washington Nationals vs Chicago Cubs",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "19"
-                    },
-                    {
-                        "channel_name": "Marquee Sports Network",
-                        "channel_id": "770"
-                    }
-                ]
-            },
-            {
-                "time": "23:20",
-                "event": "MLB : Cleveland Guardians vs Seattle Mariners",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "14"
-                    },
-                    {
-                        "channel_name": "TSN1",
-                        "channel_id": "111"
-                    },
-                    {
-                        "channel_name": "TSN3",
-                        "channel_id": "113"
-                    },
-                    {
-                        "channel_name": "TNT Sports 1 UK",
-                        "channel_id": "31"
-                    }
-                ]
-            },
-            {
-                "time": "17:35",
-                "event": "MLB : Kansas City Royals vs Atlanta Braves",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "14"
-                    },
-                    {
-                        "channel_name": "MLB Network",
-                        "channel_id": "399"
-                    }
-                ]
-            },
-            {
-                "time": "17:35",
-                "event": "MLB : Minnesota Twins vs Baltimore Orioles",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "15"
-                    },
-                    {
-                        "channel_name": "MASN USA",
-                        "channel_id": "829"
-                    }
-                ]
-            },
-            {
-                "time": "17:35",
-                "event": "MLB : Texas Rangers vs Philadelphia Phillies",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "3"
-                    },
-                    {
-                        "channel_name": "TNT Sports 1 UK",
-                        "channel_id": "31"
-                    },
-                    {
-                        "channel_name": "NBCS Philadelphia USA",
-                        "channel_id": "777"
-                    }
-                ]
-            },
-            {
-                "time": "17:37",
-                "event": "MLB : Oakland Athletics vs Toronto Blue Jays",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "7"
-                    },
-                    {
-                        "channel_name": "NBCS California USA",
-                        "channel_id": "755"
-                    },
-                    {
-                        "channel_name": "Sportsnet West",
-                        "channel_id": "407"
-                    },
-                    {
-                        "channel_name": "Sportsnet Ontario",
-                        "channel_id": "406"
-                    }
-                ]
-            },
-            {
-                "time": "17:40",
-                "event": "MLB : Boston Red Sox vs Cincinnati Reds",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "8"
-                    },
-                    {
-                        "channel_name": "NESN USA",
-                        "channel_id": "762"
-                    }
-                ]
-            },
-            {
-                "time": "17:40",
-                "event": "MLB : Colorado Rockies vs Miami Marlins",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "9"
-                    }
-                ]
-            },
-            {
-                "time": "17:40",
-                "event": "MLB : Pittsburgh Pirates vs New York Mets",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "10"
-                    },
-                    {
-                        "channel_name": "SportsNet New York USA",
-                        "channel_id": "759"
-                    }
-                ]
-            },
-            {
-                "time": "18:10",
-                "event": "MLB : Los Angeles Angels vs Houston Astros",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "16"
-                    },
-                    {
-                        "channel_name": "FanDuel Sports Network West",
-                        "channel_id": "896"
-                    }
-                ]
-            },
-            {
-                "time": "18:10",
-                "event": "MLB : Chicago White Sox vs Milwaukee Brewers",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "17"
-                    },
-                    {
-                        "channel_name": "Chicago Sports Network",
-                        "channel_id": "776"
-                    }
-                ]
-            },
-            {
-                "time": "18:15",
-                "event": "MLB : Tampa Bay Rays vs St. Louis Cardinals",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "18"
-                    }
-                ]
-            },
-            {
-                "time": "18:20",
-                "event": "MLB : Washington Nationals vs Chicago Cubs",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "19"
-                    },
-                    {
-                        "channel_name": "Marquee Sports Network",
-                        "channel_id": "770"
-                    }
-                ]
-            },
-            {
-                "time": "23:20",
-                "event": "MLB : Cleveland Guardians vs Seattle Mariners",
-                "channels": [
-                    {
-                        "channel_name": "MLB league pass",
-                        "channel_id": "14"
-                    },
-                    {
-                        "channel_name": "TSN1",
-                        "channel_id": "111"
-                    },
-                    {
-                        "channel_name": "TSN3",
-                        "channel_id": "113"
-                    },
-                    {
-                        "channel_name": "TNT Sports 1 UK",
-                        "channel_id": "31"
+                        "channel_name": "NLSE",
+                        "channel_id": "1200"
                     }
                 ]
             }
         ],
-        "College Softball": [
+        "MLB": [
             {
-                "time": "17:00",
-                "event": "College Softball : Oklahoma vs Louisiana State University",
+                "time": "17:35",
+                "event": "MLB : Kansas City Royals vs Atlanta Braves",
                 "channels": [
                     {
-                        "channel_name": "ESPN USA",
-                        "channel_id": "44"
+                        "channel_name": "MLB league pass",
+                        "channel_id": "14"
+                    },
+                    {
+                        "channel_name": "MLB Network",
+                        "channel_id": "399"
                     }
                 ]
             },
             {
-                "time": "18:00",
-                "event": "College Softball : California vs Notre Dame",
+                "time": "17:35",
+                "event": "MLB : Minnesota Twins vs Baltimore Orioles",
                 "channels": [
                     {
-                        "channel_name": "ACC Network USA",
-                        "channel_id": "664"
+                        "channel_name": "MLB league pass",
+                        "channel_id": "15"
+                    },
+                    {
+                        "channel_name": "MASN USA",
+                        "channel_id": "829"
                     }
                 ]
             },
             {
-                "time": "19:00",
-                "event": "College Softball : Texas A&amp;M vs Texas",
+                "time": "17:35",
+                "event": "MLB : Texas Rangers vs Philadelphia Phillies",
                 "channels": [
                     {
-                        "channel_name": "ESPN USA",
-                        "channel_id": "44"
+                        "channel_name": "MLB league pass",
+                        "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "TNT Sports 1 UK",
+                        "channel_id": "31"
+                    },
+                    {
+                        "channel_name": "NBCS Philadelphia USA",
+                        "channel_id": "777"
                     }
                 ]
             },
             {
-                "time": "20:00",
-                "event": "College Softball : Michigan State vs Ohio State",
+                "time": "17:37",
+                "event": "MLB : Oakland Athletics vs Toronto Blue Jays",
                 "channels": [
                     {
-                        "channel_name": "BTN USA",
-                        "channel_id": "397"
+                        "channel_name": "MLB league pass",
+                        "channel_id": "7"
+                    },
+                    {
+                        "channel_name": "NBCS California USA",
+                        "channel_id": "755"
+                    },
+                    {
+                        "channel_name": "Sportsnet West",
+                        "channel_id": "407"
+                    },
+                    {
+                        "channel_name": "Sportsnet Ontario",
+                        "channel_id": "406"
                     }
                 ]
             },
             {
-                "time": "21:00",
-                "event": "College Softball : Michigan State vs Ohio State",
+                "time": "17:40",
+                "event": "MLB : Boston Red Sox vs Cincinnati Reds",
                 "channels": [
                     {
-                        "channel_name": "BTN USA",
-                        "channel_id": "397"
+                        "channel_name": "MLB league pass",
+                        "channel_id": "8"
+                    },
+                    {
+                        "channel_name": "NESN USA",
+                        "channel_id": "762"
                     }
                 ]
             },
             {
-                "time": "21:00",
-                "event": "College Softball : Wichita State vs South Florida",
+                "time": "17:40",
+                "event": "MLB : Colorado Rockies vs Miami Marlins",
                 "channels": [
                     {
-                        "channel_name": "ESPNU USA",
-                        "channel_id": "316"
+                        "channel_name": "MLB league pass",
+                        "channel_id": "9"
                     }
                 ]
             },
             {
-                "time": "00:00",
-                "event": "College Softball : South Carolina vs Mississippi State University",
+                "time": "17:40",
+                "event": "MLB : Pittsburgh Pirates vs New York Mets",
                 "channels": [
                     {
-                        "channel_name": "SEC Network USA",
-                        "channel_id": "385"
+                        "channel_name": "MLB league pass",
+                        "channel_id": "10"
+                    },
+                    {
+                        "channel_name": "SportsNet Pittsburgh",
+                        "channel_id": "922"
+                    },
+                    {
+                        "channel_name": "SportsNet New York USA",
+                        "channel_id": "759"
                     }
                 ]
             },
             {
-                "time": "17:00",
-                "event": "College Softball : Oklahoma vs Louisiana State University",
+                "time": "18:10",
+                "event": "MLB : Los Angeles Angels vs Houston Astros",
                 "channels": [
                     {
-                        "channel_name": "ESPN USA",
-                        "channel_id": "44"
+                        "channel_name": "MLB league pass",
+                        "channel_id": "16"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network West",
+                        "channel_id": "896"
                     }
                 ]
             },
             {
-                "time": "18:00",
-                "event": "College Softball : California vs Notre Dame",
+                "time": "18:10",
+                "event": "MLB : Chicago White Sox vs Milwaukee Brewers",
                 "channels": [
                     {
-                        "channel_name": "ACC Network USA",
-                        "channel_id": "664"
+                        "channel_name": "MLB league pass",
+                        "channel_id": "17"
+                    },
+                    {
+                        "channel_name": "Chicago Sports Network",
+                        "channel_id": "776"
                     }
                 ]
             },
             {
-                "time": "19:00",
-                "event": "College Softball : Texas A&amp;M vs Texas",
+                "time": "18:15",
+                "event": "MLB : Tampa Bay Rays vs St. Louis Cardinals",
                 "channels": [
                     {
-                        "channel_name": "ESPN USA",
-                        "channel_id": "44"
+                        "channel_name": "MLB league pass",
+                        "channel_id": "18"
                     }
                 ]
             },
             {
-                "time": "20:00",
-                "event": "College Softball : Michigan State vs Ohio State",
+                "time": "18:20",
+                "event": "MLB : Washington Nationals vs Chicago Cubs",
                 "channels": [
                     {
-                        "channel_name": "BTN USA",
-                        "channel_id": "397"
+                        "channel_name": "MLB league pass",
+                        "channel_id": "19"
+                    },
+                    {
+                        "channel_name": "Marquee Sports Network",
+                        "channel_id": "770"
                     }
                 ]
             },
             {
-                "time": "21:00",
-                "event": "College Softball : Michigan State vs Ohio State",
+                "time": "23:20",
+                "event": "MLB : Cleveland Guardians vs Seattle Mariners",
                 "channels": [
                     {
-                        "channel_name": "BTN USA",
-                        "channel_id": "397"
-                    }
-                ]
-            },
-            {
-                "time": "21:00",
-                "event": "College Softball : Wichita State vs South Florida",
-                "channels": [
+                        "channel_name": "MLB league pass",
+                        "channel_id": "14"
+                    },
                     {
-                        "channel_name": "ESPNU USA",
-                        "channel_id": "316"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "College Softball : South Carolina vs Mississippi State University",
-                "channels": [
+                        "channel_name": "TSN1",
+                        "channel_id": "111"
+                    },
                     {
-                        "channel_name": "SEC Network USA",
-                        "channel_id": "385"
-                    }
-                ]
-            },
-            {
-                "time": "14:00",
-                "event": "College Softball : California vs Notre Dame",
-                "channels": [
+                        "channel_name": "TSN3",
+                        "channel_id": "113"
+                    },
                     {
-                        "channel_name": "ACC Network",
-                        "channel_id": "664"
-                    }
-                ]
-            },
-            {
-                "time": "15:30",
-                "event": "College Softball : NC State vs Syracuse",
-                "channels": [
-                    {
-                        "channel_name": "ACCNX USA",
-                        "channel_id": "172"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "College Softball : Oklahoma vs LSU",
-                "channels": [
-                    {
-                        "channel_name": "ESPN USA",
-                        "channel_id": "44"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "College Softball : Stanford vs Duke",
-                "channels": [
-                    {
-                        "channel_name": "ACCNX USA",
-                        "channel_id": "173"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "College Softball : Pittsburgh vs Virginia",
-                "channels": [
-                    {
-                        "channel_name": "ACCNX USA",
-                        "channel_id": "174"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "College Softball : Georgia Tech vs Louisville",
-                "channels": [
-                    {
-                        "channel_name": "ACCNX USA",
-                        "channel_id": "175"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "College Softball : Purdue vs Michigan",
-                "channels": [
-                    {
-                        "channel_name": "BTN+ USA",
-                        "channel_id": "176"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "College Softball : Washington vs Iowa",
-                "channels": [
-                    {
-                        "channel_name": "BTN+ USA",
-                        "channel_id": "177"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "College Softball : University of Georgia vs Kentucky",
-                "channels": [
-                    {
-                        "channel_name": "SECN+ USA",
-                        "channel_id": "178"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "College Softball : Maryland vs Wisconsin",
-                "channels": [
-                    {
-                        "channel_name": "BTN+ USA",
-                        "channel_id": "179"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "College Softball : UCLA vs Nebraska",
-                "channels": [
-                    {
-                        "channel_name": "BTN+ USA",
-                        "channel_id": "180"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "College Softball : Penn State vs Rutgers",
-                "channels": [
-                    {
-                        "channel_name": "BTN+ USA",
-                        "channel_id": "181"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "College Softball : Illinois vs Minnesota",
-                "channels": [
-                    {
-                        "channel_name": "BTN+ USA",
-                        "channel_id": "182"
-                    }
-                ]
-            },
-            {
-                "time": "17:30",
-                "event": "College Softball : Mississippi vs Tennessee",
-                "channels": [
-                    {
-                        "channel_name": "SECN+ USA",
-                        "channel_id": "183"
-                    }
-                ]
-            },
-            {
-                "time": "17:30",
-                "event": "College Softball : NC State vs Syracuse",
-                "channels": [
-                    {
-                        "channel_name": "ACCNX USA",
-                        "channel_id": "184"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "College Softball : Texas A&amp;M vs Texas",
-                "channels": [
-                    {
-                        "channel_name": "ESPN USA",
-                        "channel_id": "44"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "College Softball : Florida vs Arkansas",
-                "channels": [
-                    {
-                        "channel_name": "SECN+ USA",
-                        "channel_id": "185"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "College Softball : Missouri vs Auburn",
-                "channels": [
-                    {
-                        "channel_name": "SECN+ USA",
-                        "channel_id": "186"
+                        "channel_name": "TNT Sports 1 UK",
+                        "channel_id": "31"
                     }
                 ]
             }
@@ -10589,6 +10277,218 @@
                     {
                         "channel_name": "ESPN2 USA",
                         "channel_id": "45"
+                    }
+                ]
+            }
+        ],
+        "College Softball": [
+            {
+                "time": "14:00",
+                "event": "College Softball : California vs Notre Dame",
+                "channels": [
+                    {
+                        "channel_name": "ACC Network",
+                        "channel_id": "664"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "College Softball : NC State vs Syracuse",
+                "channels": [
+                    {
+                        "channel_name": "ACCNX USA",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "College Softball : Oklahoma vs LSU",
+                "channels": [
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "College Softball : Stanford vs Duke",
+                "channels": [
+                    {
+                        "channel_name": "ACCNX USA",
+                        "channel_id": "173"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "College Softball : Pittsburgh vs Virginia",
+                "channels": [
+                    {
+                        "channel_name": "ACCNX USA",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "College Softball : Georgia Tech vs Louisville",
+                "channels": [
+                    {
+                        "channel_name": "ACCNX USA",
+                        "channel_id": "175"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "College Softball : Purdue vs Michigan",
+                "channels": [
+                    {
+                        "channel_name": "BTN+ USA",
+                        "channel_id": "176"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "College Softball : Washington vs Iowa",
+                "channels": [
+                    {
+                        "channel_name": "BTN+ USA",
+                        "channel_id": "177"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "College Softball : University of Georgia vs Kentucky",
+                "channels": [
+                    {
+                        "channel_name": "SECN+ USA",
+                        "channel_id": "178"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "College Softball : Maryland vs Wisconsin",
+                "channels": [
+                    {
+                        "channel_name": "BTN+ USA",
+                        "channel_id": "179"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "College Softball : UCLA vs Nebraska",
+                "channels": [
+                    {
+                        "channel_name": "BTN+ USA",
+                        "channel_id": "180"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "College Softball : Penn State vs Rutgers",
+                "channels": [
+                    {
+                        "channel_name": "BTN+ USA",
+                        "channel_id": "181"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "College Softball : Illinois vs Minnesota",
+                "channels": [
+                    {
+                        "channel_name": "BTN+ USA",
+                        "channel_id": "182"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "College Softball : Mississippi vs Tennessee",
+                "channels": [
+                    {
+                        "channel_name": "SECN+ USA",
+                        "channel_id": "183"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "College Softball : NC State vs Syracuse",
+                "channels": [
+                    {
+                        "channel_name": "ACCNX USA",
+                        "channel_id": "184"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "College Softball : Florida vs Arkansas",
+                "channels": [
+                    {
+                        "channel_name": "SECN+ USA",
+                        "channel_id": "185"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "College Softball : Missouri vs Auburn",
+                "channels": [
+                    {
+                        "channel_name": "SECN+ USA",
+                        "channel_id": "186"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "College Softball : Texas A&amp;M vs Texas",
+                "channels": [
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "College Softball : Michigan State vs Ohio State",
+                "channels": [
+                    {
+                        "channel_name": "BTN USA",
+                        "channel_id": "397"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "College Softball : Wichita State vs South Florida",
+                "channels": [
+                    {
+                        "channel_name": "ESPNU USA",
+                        "channel_id": "316"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "College Softball : South Carolina vs Mississippi State University",
+                "channels": [
+                    {
+                        "channel_name": "SEC Network USA",
+                        "channel_id": "385"
                     }
                 ]
             }
@@ -10936,6 +10836,16 @@
             },
             {
                 "time": "16:00",
+                "event": "Basketball Africa League : Johannesburg Giants vs. Nairobi City Thunder",
+                "channels": [
+                    {
+                        "channel_name": "NBA TV USA",
+                        "channel_id": "404"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
                 "event": "Queen's Cup basketball (T2026): Final",
                 "channels": [
                     {
@@ -11101,7 +11011,7 @@
                 ]
             },
             {
-                "time": "00:27",
+                "time": "03:43",
                 "event": "NCAA March Madness 2026",
                 "channels": [
                     {
@@ -11127,11 +11037,45 @@
                 ]
             }
         ],
+        "NCAA Basketball": [
+            {
+                "time": "18:00",
+                "event": "2026 NCAA Men's Basketball Tournament Regional Final: Tennessee vs Michigan",
+                "channels": [
+                    {
+                        "channel_name": "CBSNY USA",
+                        "channel_id": "767"
+                    },
+                    {
+                        "channel_name": "CBS USA",
+                        "channel_id": "52"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "2026 NCAA Men's Basketball Tournament Regional Final: Duke vs UConn",
+                "channels": [
+                    {
+                        "channel_name": "CBSNY USA",
+                        "channel_id": "767"
+                    },
+                    {
+                        "channel_name": "CBS USA",
+                        "channel_id": "52"
+                    }
+                ]
+            }
+        ],
         "NCAAW Basketball": [
             {
                 "time": "17:00",
-                "event": "NCAAW : TBD vs TBD",
+                "event": "2026 NCAA Women's Basketball Tournament Regional Final: UConn vs Notre Dame",
                 "channels": [
+                    {
+                        "channel_name": "ABC NY USA",
+                        "channel_id": "766"
+                    },
                     {
                         "channel_name": "ABC USA",
                         "channel_id": "51"
@@ -11140,26 +11084,24 @@
             },
             {
                 "time": "19:00",
-                "event": "NCAAW : TBD vs TBD",
+                "event": "2026 NCAA Women's Basketball Tournament Regional Final: UCLA vs Duke",
                 "channels": [
+                    {
+                        "channel_name": "ABC NY USA",
+                        "channel_id": "766"
+                    },
                     {
                         "channel_name": "ABC USA",
                         "channel_id": "51"
+                    },
+                    {
+                        "channel_name": "ESPN Deportes",
+                        "channel_id": "375"
                     }
                 ]
             }
         ],
-        "Basketball Africa League": [
-            {
-                "time": "16:00",
-                "event": "Basketball Africa League : Joburg Giants (Rsa) vs Nairobi City Thunder",
-                "channels": [
-                    {
-                        "channel_name": "NBA TV USA",
-                        "channel_id": "404"
-                    }
-                ]
-            },
+        "NBA": [
             {
                 "time": "19:30",
                 "event": "NBA : Milwaukee Bucks vs Los Angeles Clippers",
@@ -11323,6 +11265,10 @@
                         "channel_id": "53"
                     },
                     {
+                        "channel_name": "NBCNY USA",
+                        "channel_id": "769"
+                    },
+                    {
                         "channel_name": "Sky Sports Action UK",
                         "channel_id": "37"
                     },
@@ -11375,6 +11321,10 @@
                     {
                         "channel_name": "NBC USA",
                         "channel_id": "53"
+                    },
+                    {
+                        "channel_name": "NBCNY USA",
+                        "channel_id": "769"
                     },
                     {
                         "channel_name": "Sky Sports Action UK",
@@ -11557,12 +11507,16 @@
         ],
         "Bowling": [
             {
-                "time": "21:00",
+                "time": "20:00",
                 "event": "PBA Bowling USBC Masters",
                 "channels": [
                     {
                         "channel_name": "CW USA",
                         "channel_id": "300"
+                    },
+                    {
+                        "channel_name": "CW PIX 11 USA",
+                        "channel_id": "208"
                     }
                 ]
             }
@@ -11821,7 +11775,19 @@
                 ]
             }
         ],
-        "Ice Hockey": [
+        "College Hockey": [
+            {
+                "time": "19:00",
+                "event": "College Hockey NCAA Tournament: Western Michigan vs Denver",
+                "channels": [
+                    {
+                        "channel_name": "ESPN2 USA",
+                        "channel_id": "45"
+                    }
+                ]
+            }
+        ],
+        "NHL": [
             {
                 "time": "17:00",
                 "event": "NHL : Florida Panthers vs New York Rangers",
@@ -11985,6 +11951,28 @@
                         "channel_id": "663"
                     }
                 ]
+            }
+        ],
+        "Ice Hockey": [
+            {
+                "time": "10:30",
+                "event": "KHL : Salavat Yulaev Ufa vs Avtomobilist Yekaterinburg",
+                "channels": [
+                    {
+                        "channel_name": "KHL Prime",
+                        "channel_id": "18"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
+                "event": "KHL : Traktor Chelyabinsk vs Ak Bars Kazan",
+                "channels": [
+                    {
+                        "channel_name": "KHL TV",
+                        "channel_id": "17"
+                    }
+                ]
             },
             {
                 "time": "12:00",
@@ -12007,42 +11995,26 @@
                 ]
             },
             {
-                "time": "14:30",
-                "event": "DEL : Adler Mannheim vs Bremerhaven",
+                "time": "13:00",
+                "event": "SHL : Malmo vs Skelleftea",
                 "channels": [
                     {
-                        "channel_name": "Magenta Sport 303",
-                        "channel_id": "15"
+                        "channel_name": "TV4 Sport Live 1 Sweden",
+                        "channel_id": "703"
+                    },
+                    {
+                        "channel_name": "SPORT1+ DE",
+                        "channel_id": "640"
                     }
                 ]
             },
             {
-                "time": "17:00",
-                "event": "DEL : Red Bull M\u00fcnchen vs ERC Ingolstadt",
+                "time": "13:00",
+                "event": "SHL : Lulea vs Frolunda",
                 "channels": [
                     {
-                        "channel_name": "Magenta Sport 301",
-                        "channel_id": "13"
-                    }
-                ]
-            },
-            {
-                "time": "10:30",
-                "event": "KHL : Salavat Yulaev Ufa vs Avtomobilist Yekaterinburg",
-                "channels": [
-                    {
-                        "channel_name": "KHL Prime",
-                        "channel_id": "18"
-                    }
-                ]
-            },
-            {
-                "time": "11:30",
-                "event": "KHL : Traktor Chelyabinsk vs Ak Bars Kazan",
-                "channels": [
-                    {
-                        "channel_name": "KHL TV",
-                        "channel_id": "17"
+                        "channel_name": "TV4 Hockey Sweden",
+                        "channel_id": "700"
                     }
                 ]
             },
@@ -12081,6 +12053,16 @@
                 ]
             },
             {
+                "time": "14:30",
+                "event": "DEL : Adler Mannheim vs Bremerhaven",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 303",
+                        "channel_id": "15"
+                    }
+                ]
+            },
+            {
                 "time": "15:30",
                 "event": "Slovakia Tipsport liga : Michalovce vs Nitra",
                 "channels": [
@@ -12101,26 +12083,12 @@
                 ]
             },
             {
-                "time": "13:00",
-                "event": "SHL : Malmo vs Skelleftea",
+                "time": "17:00",
+                "event": "DEL : Red Bull M\u00fcnchen vs ERC Ingolstadt",
                 "channels": [
                     {
-                        "channel_name": "TV4 Sport Live 1 Sweden",
-                        "channel_id": "703"
-                    },
-                    {
-                        "channel_name": "SPORT1+ DE",
-                        "channel_id": "640"
-                    }
-                ]
-            },
-            {
-                "time": "13:00",
-                "event": "SHL : Lulea vs Frolunda",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey Sweden",
-                        "channel_id": "700"
+                        "channel_name": "Magenta Sport 301",
+                        "channel_id": "13"
                     }
                 ]
             }
@@ -12165,6 +12133,54 @@
                     {
                         "channel_name": "Sportsnet East",
                         "channel_id": "408"
+                    }
+                ]
+            }
+        ],
+        "AHL Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "ECHL Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "OHL Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "QMJHL Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
                     }
                 ]
             }
@@ -12219,9 +12235,7 @@
                         "channel_id": "400"
                     }
                 ]
-            }
-        ],
-        "Lacrosse": [
+            },
             {
                 "time": "17:00",
                 "event": "NLL : Toronto Rock vs Philadelphia Wings",
@@ -12233,17 +12247,19 @@
                 ]
             }
         ],
-        "Women's College Lacrosse": [
+        "College Lacrosse": [
             {
                 "time": "16:00",
-                "event": "Men's College Lacrosse : Johns Hopkins at Rutgers",
+                "event": "Men's College Lacrosse : Johns Hopkins vs Rutgers",
                 "channels": [
                     {
                         "channel_name": "BTN USA",
                         "channel_id": "397"
                     }
                 ]
-            },
+            }
+        ],
+        "Women's College Lacrosse": [
             {
                 "time": "16:00",
                 "event": "Women's College Lacrosse : Duke vs Florida State",
@@ -12276,17 +12292,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Women's College Lacrosse : Johns Hopkins at Northwestern",
-                "channels": [
-                    {
-                        "channel_name": "BTN USA",
-                        "channel_id": "397"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "Women's College Lacrosse : Johns Hopkins vs. Northwestern",
+                "event": "Women's College Lacrosse : Johns Hopkins vs Northwestern",
                 "channels": [
                     {
                         "channel_name": "BTN USA",
@@ -12343,7 +12349,7 @@
                 ]
             },
             {
-                "time": "17:30",
+                "time": "16:30",
                 "event": "Super League Rugby : Leeds Rhinos vs Warrington Wolves",
                 "channels": [
                     {
