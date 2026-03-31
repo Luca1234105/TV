@@ -4804,7 +4804,7 @@
                 ]
             }
         ],
-        "Wrestling": [
+        "WWE (NXT)": [
             {
                 "time": "00:00",
                 "event": "WWE NXT",
@@ -4934,7 +4934,7 @@
                 ]
             }
         ],
-        "Baseball": [
+        "Baseball (MLB)": [
             {
                 "time": "22:35",
                 "event": "MLB : Texas Rangers vs Baltimore Orioles",
@@ -6042,7 +6042,31 @@
                 ]
             }
         ],
-        "Ice Hockey": [
+        "Women's College Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "College Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "NHL": [
             {
                 "time": "23:00",
                 "event": "NHL : New Jersey Devils vs New York Rangers",
@@ -6246,6 +6270,48 @@
                         "channel_id": "557"
                     }
                 ]
+            }
+        ],
+        "Ice Hockey": [
+            {
+                "time": "14:00",
+                "event": "KHL Championship. Playoffs",
+                "channels": [
+                    {
+                        "channel_name": "KHL TV",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "Ice Hockey Czechia Extraliga : Liberec vs Karlovy Vary",
+                "channels": [
+                    {
+                        "channel_name": "Oneplay Sport 2 CZ",
+                        "channel_id": "1028"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "KHL Championship. Playoffs",
+                "channels": [
+                    {
+                        "channel_name": "KHL TV",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "17:15",
+                "event": "Austria ICE Hockey League : HK Olimpija vs HC Pustertal",
+                "channels": [
+                    {
+                        "channel_name": "\u0160TV 1 Slovenia",
+                        "channel_id": "4"
+                    }
+                ]
             },
             {
                 "time": "17:30",
@@ -6306,46 +6372,6 @@
                         "channel_id": "700"
                     }
                 ]
-            },
-            {
-                "time": "16:00",
-                "event": "Ice Hockey Czechia Extraliga : Liberec vs Karlovy Vary",
-                "channels": [
-                    {
-                        "channel_name": "Oneplay Sport 2 CZ",
-                        "channel_id": "1028"
-                    }
-                ]
-            },
-            {
-                "time": "14:00",
-                "event": "KHL Championship. Playoffs",
-                "channels": [
-                    {
-                        "channel_name": "KHL TV",
-                        "channel_id": "153"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "KHL Championship. Playoffs",
-                "channels": [
-                    {
-                        "channel_name": "KHL TV",
-                        "channel_id": "153"
-                    }
-                ]
-            },
-            {
-                "time": "17:15",
-                "event": "Austria ICE Hockey League : HK Olimpija vs HC Pustertal",
-                "channels": [
-                    {
-                        "channel_name": "\u0160TV 1 Slovenia",
-                        "channel_id": "4"
-                    }
-                ]
             }
         ],
         "AHL Ice Hockey": [
@@ -6390,6 +6416,42 @@
                     {
                         "channel_name": "FloHockey",
                         "channel_id": "161"
+                    }
+                ]
+            }
+        ],
+        "OHL Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "QMJHL Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Lacrosse (NLL)": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
                     }
                 ]
             }
@@ -6522,6 +6584,18 @@
                     {
                         "channel_name": "Sportv2 Brazil",
                         "channel_id": "79"
+                    }
+                ]
+            }
+        ],
+        "College Volleyball": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
                     }
                 ]
             }
