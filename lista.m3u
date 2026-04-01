@@ -503,6 +503,8 @@ https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
 https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (2)
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION
+https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
@@ -581,8 +583,6 @@ https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
-#EXTINF:-1 tvg-id="discoverysciencehd.it" tvg-logo="" group-title="Documentari",DISCOVERY SCIENCE
-https://vavoo.to/vavoo-iptv/play/5284308415938593b2e15
 #EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (1)
 https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
 #EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (2)
@@ -829,7 +829,7 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="theinternazionalibnlditaliaromeitalymay5172026" tvg-name="Upcoming Events | The Internazionali BNL d'Italia, Rome, Italy May 5–17, 2026 (17:00)" tvg-logo="https://cdn.wearetennis.bnpparibas/media/images/cache/tournament_logo/uploads/tournament/logo/20210204172326000000_internazionalibnlditalia.png" group-title="Eventi Live DLHD",Upcoming Events | The Internazionali BNL d'Italia, Rome, Italy May 5–17, 2026 (17:00)
+#EXTINF:-1 tvg-id="theinternazionalibnlditaliaromeitalymay5172026" tvg-name="Upcoming Events | The Internazionali BNL d'Italia, Rome, Italy May 5–17, 2026 (17:00)" tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000002162/1746449340000367_ATP_Masters_1000_BNP_Paribas_Open_2025_GOB_Masthead_logo_HLTS.png?q=high" group-title="Eventi Live DLHD",Upcoming Events | The Internazionali BNL d'Italia, Rome, Italy May 5–17, 2026 (17:00)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="italycoppaitaliaserieclatinavspotenzacalcio" tvg-name="Soccer | Italy - Coppa Italia Serie C : Latina vs Potenza Calcio (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Latina_vs_Potenza Calcio.png" group-title="Eventi Live DLHD",Soccer | Italy - Coppa Italia Serie C : Latina vs Potenza Calcio (20:30)
@@ -841,7 +841,7 @@ https://dlhd.dad/watch.php?id=882
 #EXTINF:-1 tvg-id="italycoppaitaliaserieclatinavspotenzacalcio" tvg-name="Soccer | Italy - Coppa Italia Serie C : Latina vs Potenza Calcio (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Latina_vs_Potenza Calcio.png" group-title="Eventi Live DLHD",Soccer | Italy - Coppa Italia Serie C : Latina vs Potenza Calcio (20:30)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="2026charlestonopentennisearlyrounds" tvg-name="Tennis | 2026 Charleston Open Tennis Early Rounds (18:00)" tvg-logo="https://assets.stickpng.com/thumbs/6266588c1e92f9aac65b5bb7.png" group-title="Eventi Live DLHD",Tennis | 2026 Charleston Open Tennis Early Rounds (18:00)
+#EXTINF:-1 tvg-id="2026charlestonopentennisearlyrounds" tvg-name="Tennis | 2026 Charleston Open Tennis Early Rounds (18:00)" tvg-logo="https://charlestoncoins.com/media/img/cms/GNiBUE46HEPX7rJgHne6eEJ806xIkW7dOPaU0Nkq.png" group-title="Eventi Live DLHD",Tennis | 2026 Charleston Open Tennis Early Rounds (18:00)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="worldsnookerlivetourchampionshipmanchesterengland" tvg-name="Snooker | World Snooker Live Tour Championship - Manchester, England (14:00)" tvg-logo="https://www.visitmanchester.com/includes/public/assets/shared/logos/accolade_bestworld.png" group-title="Eventi Live DLHD",Snooker | World Snooker Live Tour Championship - Manchester, England (14:00)
