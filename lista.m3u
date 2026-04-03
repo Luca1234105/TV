@@ -29,8 +29,6 @@ https://vavoo.to/vavoo-iptv/play/2330946937dd53b634ff71
 https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.opq.it/wp-content/uploads/BergamoTV.png" group-title="Altro",BERGAMO TV
 https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870
-#EXTINF:-1 tvg-id="bike.it" tvg-logo="" group-title="Altro",BIKE
-https://vavoo.to/vavoo-iptv/play/309589541224b3a9c5030f
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",BLAZE
 https://vavoo.to/vavoo-iptv/play/25326356590c9338734e4b
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV
@@ -741,10 +739,6 @@ https://vavoo.to/vavoo-iptv/play/14407790614bc8041c450d
 https://vavoo.to/vavoo-iptv/play/113411388318bf0ef81722
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 9 (2)
 https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
-#EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE
-https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",STAR CRIME
-https://vavoo.to/vavoo-iptv/play/28436429458ff4e2cc4ae6
 
 # NEWS
 #EXTINF:-1 tvg-id="euronews.it" tvg-logo="https://play-lh.googleusercontent.com/Mi8GAQIp3x94VcvbxZNsK-CTNhHy1zmo51pmME5KkkK4WgN4aQhM1FlNgLZUMD4VAXhL" group-title="News",EURONEWS
@@ -827,7 +821,7 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="theinternazionalibnlditaliaromeitalymay5172026" tvg-name="Upcoming Events | The Internazionali BNL d'Italia, Rome, Italy May 5–17, 2026 (17:00)" tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000002162/1746449340000367_ATP_Masters_1000_BNP_Paribas_Open_2025_GOB_Masthead_logo_HLTS.png?q=high" group-title="Eventi Live DLHD",Upcoming Events | The Internazionali BNL d'Italia, Rome, Italy May 5–17, 2026 (17:00)
+#EXTINF:-1 tvg-id="theinternazionalibnlditaliaromeitalymay5172026" tvg-name="Upcoming Events | The Internazionali BNL d'Italia, Rome, Italy May 5–17, 2026 (17:00)" tvg-logo="https://cdn.wearetennis.bnpparibas/media/images/cache/tournament_logo/uploads/tournament/logo/20210204172326000000_internazionalibnlditalia.png" group-title="Eventi Live DLHD",Upcoming Events | The Internazionali BNL d'Italia, Rome, Italy May 5–17, 2026 (17:00)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="italyseriecleccovsvicenza" tvg-name="All Soccer Events | Italy - Serie C : Lecco vs Vicenza (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecco_vs_Vicenza.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Lecco vs Vicenza (20:30)
