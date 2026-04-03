@@ -29,6 +29,8 @@ https://vavoo.to/vavoo-iptv/play/2330946937dd53b634ff71
 https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.opq.it/wp-content/uploads/BergamoTV.png" group-title="Altro",BERGAMO TV
 https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870
+#EXTINF:-1 tvg-id="bike.it" tvg-logo="" group-title="Altro",BIKE
+https://vavoo.to/vavoo-iptv/play/309589541224b3a9c5030f
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",BLAZE
 https://vavoo.to/vavoo-iptv/play/25326356590c9338734e4b
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV
@@ -185,6 +187,8 @@ https://vavoo.to/vavoo-iptv/play/43501686619a1a53c7d14
 https://vavoo.to/vavoo-iptv/play/1727695336cf48b92b7314
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6e7dee025526c334b9280153c418e10e.webp" group-title="Altro",PEER TV ALTO ADIGE
 https://vavoo.to/vavoo-iptv/play/17895220057515b249c059
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",PEOPLE ARE AWESOME
+https://vavoo.to/vavoo-iptv/play/1087345241c8751e395263
 #EXTINF:-1 tvg-id="pesca.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/pesca-it.png?raw=true" group-title="Altro",PESCA
 https://vavoo.to/vavoo-iptv/play/714472867a9a9547f329c
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-pesca-it.png?raw=true" group-title="Altro",PESCA E CACCIA
@@ -507,6 +511,8 @@ https://vavoo.to/vavoo-iptv/play/3667240765238d57794d79
 https://vavoo.to/vavoo-iptv/play/3421031748051d1097ba07
 #EXTINF:-1 tvg-id="inter.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/inter-tv-it.png?raw=true" group-title="Sport",INTER TV
 https://vavoo.to/vavoo-iptv/play/29737730766a27b9a63e21
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",LAZIO TV 13
+https://vavoo.to/vavoo-iptv/play/56652751299dc0b400d5c
 #EXTINF:-1 tvg-id="milan.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/milan-tv-it.png" group-title="Sport",MILAN TV
 https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
 #EXTINF:-1 tvg-id="sky.sport.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24
@@ -593,8 +599,6 @@ https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
 https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
-#EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
-https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",TELEPACE TRENTO (HISTORY LAB)
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
@@ -853,17 +857,11 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="2026charlestonopentennisquarterfinals" tvg-name="Tennis | 2026 Charleston Open Tennis Quarterfinals (18:00)" tvg-logo="https://ausopen.com/themes/custom/ausopen_official/images/modal/modal-supplementary.png" group-title="Eventi Live DLHD",Tennis | 2026 Charleston Open Tennis Quarterfinals (18:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="worldsnookerlivetourchampionshipmanchesterengland" tvg-name="Snooker | World Snooker Live Tour Championship - Manchester, England (14:00)" tvg-logo="https://www.visitmanchester.com/includes/public/assets/shared/logos/accolade_bestworld.png" group-title="Eventi Live DLHD",Snooker | World Snooker Live Tour Championship - Manchester, England (14:00)
-https://dlhd.dad/watch.php?id=878
-
 #EXTINF:-1 tvg-id="worldsnookerlivetourchampionshipmanchesterengland" tvg-name="Snooker | World Snooker Live Tour Championship - Manchester, England (20:00)" tvg-logo="https://www.visitmanchester.com/includes/public/assets/shared/logos/accolade_bestworld.png" group-title="Eventi Live DLHD",Snooker | World Snooker Live Tour Championship - Manchester, England (20:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="seriea2pesarovsverona" tvg-name="Basketball | Serie A2 : Pesaro vs Verona (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pesaro_vs_Verona.png" group-title="Eventi Live DLHD",Basketball | Serie A2 : Pesaro vs Verona (20:45)
 https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="vitrésadélieroadmenvitré1742km" tvg-name="Cycling | Vitré's Adélie Road Men | Vitré (174.2km) (14:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Vitré's Adélie Road Men | Vitré (174.2km) (14:30)
-https://dlhd.dad/watch.php?id=879
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
