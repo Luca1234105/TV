@@ -537,8 +537,6 @@ https://vavoo.to/vavoo-iptv/play/729945219d6146597896a
 https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTO GP
 https://vavoo.to/vavoo-iptv/play/30363168866e9eeb997936
-#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP
-https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (1)
 https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (2)
@@ -605,8 +603,6 @@ https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
 # BAMBINI
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV
-https://vavoo.to/vavoo-iptv/play/39385011257cd02ab803dc
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (1)
 https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (2)
@@ -862,7 +858,7 @@ https://dlhd.dad/watch.php?id=877
 #EXTINF:-1 tvg-id="germanybundesligafreiburgvsbayernmünchen" tvg-name="All Soccer Events | Germany - Bundesliga : Freiburg vs Bayern München (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Freiburg_vs_Bayern München.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Freiburg vs Bayern München (15:30)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="italyseriectrentovsalcione" tvg-name="All Soccer Events | Italy - Serie C : Trento vs Alcione (17:30)" tvg-logo="https://images.seeklogo.com/logo-png/54/3/ac-trento-logo-png_seeklogo-543197.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Trento vs Alcione (17:30)
+#EXTINF:-1 tvg-id="italyseriectrentovsalcione" tvg-name="All Soccer Events | Italy - Serie C : Trento vs Alcione (17:30)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/trenton-titans-logo-png-transparent.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Trento vs Alcione (17:30)
 https://dlhd.dad/watch.php?id=27
 
 #EXTINF:-1 tvg-id="italyseriecperugiavsjuventusii" tvg-name="All Soccer Events | Italy - Serie C : Perugia vs Juventus II (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Perugia_vs_Juventus II.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Perugia vs Juventus II (17:30)
@@ -895,7 +891,7 @@ https://dlhd.dad/watch.php?id=29
 #EXTINF:-1 tvg-id="italyserieccavesevscasertana" tvg-name="All Soccer Events | Italy - Serie C : Cavese vs Casertana (20:45)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Cavese vs Casertana (20:45)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="italyserieccavesevscasertana" tvg-name="All Soccer Events | Italy - Serie C : Cavese vs Casertana (20:45)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Cavese vs Casertana (20:45)
+#EXTINF:-1 tvg-id="italyserieccavesevscasertana" tvg-name="All Soccer Events | Italy - Serie C : Cavese vs Casertana (20:45)" tvg-logo="https://logoeps.com/wp-content/uploads/2013/10/ss-cavese-1919-vector-logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Cavese vs Casertana (20:45)
 https://dlhd.dad/watch.php?id=461
 
 #EXTINF:-1 tvg-id="italyseriealaziovsparma" tvg-name="All Soccer Events | Italy - Serie A : Lazio vs Parma (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Parma.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Lazio vs Parma (20:45)
@@ -919,7 +915,7 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="miguelinduringrandprixmenestellalizarra2039km" tvg-name="Cycling | Miguel Indur?in Grand Prix Men | Estella-Lizarra (203.9km) (15:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Miguel Indur?in Grand Prix Men | Estella-Lizarra (203.9km) (15:30)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="serieaelitefiammeorovsemilia" tvg-name="Rugby Union | Serie A Elite : Fiamme Oro vs Emilia (13:45)" tvg-logo="https://openbadge.regione.emilia-romagna.it/assets/tenants/RegEmiliaRomagna/main-logo-navbar.png" group-title="Eventi Live DLHD",Rugby Union | Serie A Elite : Fiamme Oro vs Emilia (13:45)
+#EXTINF:-1 tvg-id="serieaelitefiammeorovsemilia" tvg-name="Rugby Union | Serie A Elite : Fiamme Oro vs Emilia (13:45)" tvg-logo="https://companieslogo.com/img/orig/EMDV.TA-ad2fab21.png?t=1727676264" group-title="Eventi Live DLHD",Rugby Union | Serie A Elite : Fiamme Oro vs Emilia (13:45)
 https://dlhd.dad/watch.php?id=882
 
 
