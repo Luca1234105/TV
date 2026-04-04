@@ -493,8 +493,6 @@ https://vavoo.to/vavoo-iptv/play/22376603018e09f8150d84
 https://vavoo.to/vavoo-iptv/play/13516316035c18ca000fe1
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
-#EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
-https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (1)
 https://vavoo.to/vavoo-iptv/play/34813468571b25fb16646d
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (2)
@@ -503,6 +501,8 @@ https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
 https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (2)
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION
+https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
@@ -859,10 +859,10 @@ https://dlhd.dad/watch.php?id=29
 #EXTINF:-1 tvg-id="italyserieasassuolovscagliari" tvg-name="All Soccer Events | Italy - Serie A : Sassuolo vs Cagliari (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sassuolo_vs_Cagliari.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Sassuolo vs Cagliari (15:00)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="germanybundesligafreiburgvsbayernmünchen" tvg-name="All Soccer Events | Germany - Bundesliga : Freiburg vs Bayern München (15:30)" tvg-logo="https://www.footballkitarchive.com/static/logos/8Yuofk0aNu9eXBE/bayern-munchen-1945-1955-logo.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Freiburg vs Bayern München (15:30)
+#EXTINF:-1 tvg-id="germanybundesligafreiburgvsbayernmünchen" tvg-name="All Soccer Events | Germany - Bundesliga : Freiburg vs Bayern München (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Freiburg_vs_Bayern München.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Freiburg vs Bayern München (15:30)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="italyseriectrentovsalcione" tvg-name="All Soccer Events | Italy - Serie C : Trento vs Alcione (17:30)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/trenton-titans-logo-png-transparent.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Trento vs Alcione (17:30)
+#EXTINF:-1 tvg-id="italyseriectrentovsalcione" tvg-name="All Soccer Events | Italy - Serie C : Trento vs Alcione (17:30)" tvg-logo="https://images.seeklogo.com/logo-png/54/3/ac-trento-logo-png_seeklogo-543197.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Trento vs Alcione (17:30)
 https://dlhd.dad/watch.php?id=27
 
 #EXTINF:-1 tvg-id="italyseriecperugiavsjuventusii" tvg-name="All Soccer Events | Italy - Serie C : Perugia vs Juventus II (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Perugia_vs_Juventus II.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Perugia vs Juventus II (17:30)
@@ -919,7 +919,7 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="miguelinduringrandprixmenestellalizarra2039km" tvg-name="Cycling | Miguel Indur?in Grand Prix Men | Estella-Lizarra (203.9km) (15:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Miguel Indur?in Grand Prix Men | Estella-Lizarra (203.9km) (15:30)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="serieaelitefiammeorovsemilia" tvg-name="Rugby Union | Serie A Elite : Fiamme Oro vs Emilia (13:45)" tvg-logo="https://companieslogo.com/img/orig/EMDV.TA-ad2fab21.png?t=1727676264" group-title="Eventi Live DLHD",Rugby Union | Serie A Elite : Fiamme Oro vs Emilia (13:45)
+#EXTINF:-1 tvg-id="serieaelitefiammeorovsemilia" tvg-name="Rugby Union | Serie A Elite : Fiamme Oro vs Emilia (13:45)" tvg-logo="https://openbadge.regione.emilia-romagna.it/assets/tenants/RegEmiliaRomagna/main-logo-navbar.png" group-title="Eventi Live DLHD",Rugby Union | Serie A Elite : Fiamme Oro vs Emilia (13:45)
 https://dlhd.dad/watch.php?id=882
 
 
