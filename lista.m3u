@@ -123,6 +123,8 @@ https://vavoo.to/vavoo-iptv/play/2820683351b557bc63df61
 https://vavoo.to/vavoo-iptv/play/276786104991c55564696b
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",FRANCE 24 (EN)
 https://vavoo.to/vavoo-iptv/play/217968682876c9a8051121
+#EXTINF:-1 tvg-id="gambero.rosso.hd.it" tvg-logo="" group-title="Altro",GAMBERO ROSSO
+https://vavoo.to/vavoo-iptv/play/2481284739a17519532b56
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (1)
 https://vavoo.to/vavoo-iptv/play/237393618912929d56c67e
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (2)
@@ -143,8 +145,10 @@ https://vavoo.to/vavoo-iptv/play/24880174054972ad3227fa
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV (1)
 https://vavoo.to/vavoo-iptv/play/4235410936b108b39c28d1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV (2)
+https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (1)
@@ -167,6 +171,8 @@ https://vavoo.to/vavoo-iptv/play/2835333400f831a30ce568
 https://vavoo.to/vavoo-iptv/play/448530931a02141cb37b2
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
+https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro",ONDA NOVARA TV
@@ -183,8 +189,6 @@ https://vavoo.to/vavoo-iptv/play/43501686619a1a53c7d14
 https://vavoo.to/vavoo-iptv/play/1727695336cf48b92b7314
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6e7dee025526c334b9280153c418e10e.webp" group-title="Altro",PEER TV ALTO ADIGE
 https://vavoo.to/vavoo-iptv/play/17895220057515b249c059
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",PEOPLE ARE AWESOME
-https://vavoo.to/vavoo-iptv/play/1087345241c8751e395263
 #EXTINF:-1 tvg-id="pesca.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/pesca-it.png?raw=true" group-title="Altro",PESCA
 https://vavoo.to/vavoo-iptv/play/714472867a9a9547f329c
 #EXTINF:-1 tvg-id="pescaecaccia.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-pesca-it.png?raw=true" group-title="Altro",PESCA E CACCIA
@@ -831,7 +835,7 @@ https://dlhd.dad/watch.php?id=576
 #EXTINF:-1 tvg-id="germanybundesliga2schalke04vskarlsruhersc" tvg-name="Soccer | Germany - Bundesliga 2 : Schalke 04 vs Karlsruher SC (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Schalke 04_vs_Karlsruher SC.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga 2 : Schalke 04 vs Karlsruher SC (13:30)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="franceligue1angersscovsolympiquelyonnais" tvg-name="Soccer | France - Ligue 1 : Angers SCO vs Olympique Lyonnais (15:00)" tvg-logo="https://images.seeklogo.com/logo-png/26/3/keolis-angers-logo-png_seeklogo-265800.png" group-title="Eventi Live DLHD",Soccer | France - Ligue 1 : Angers SCO vs Olympique Lyonnais (15:00)
+#EXTINF:-1 tvg-id="franceligue1angersscovsolympiquelyonnais" tvg-name="Soccer | France - Ligue 1 : Angers SCO vs Olympique Lyonnais (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Angers SCO_vs_Olympique Lyonnais.png" group-title="Eventi Live DLHD",Soccer | France - Ligue 1 : Angers SCO vs Olympique Lyonnais (15:00)
 https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 tvg-id="italyserieacremonesevsbologna" tvg-name="Soccer | Italy - Serie A : Cremonese vs Bologna (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cremonese_vs_Bologna.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Cremonese vs Bologna (15:00)
