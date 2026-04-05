@@ -3702,6 +3702,14 @@
                     {
                         "channel_name": "Sky Sports Main Event",
                         "channel_id": "38"
+                    },
+                    {
+                        "channel_name": "Sky Sports PPV 1",
+                        "channel_id": "201"
+                    },
+                    {
+                        "channel_name": "Sky Sports PPV 2 (CH-202) Sky Sports PPV 3",
+                        "channel_id": "203"
                     }
                 ]
             },
@@ -3720,6 +3728,18 @@
                     {
                         "channel_name": "Sky Sports Main Event",
                         "channel_id": "38"
+                    },
+                    {
+                        "channel_name": "Sky Sports PPV 1",
+                        "channel_id": "201"
+                    },
+                    {
+                        "channel_name": "Sky Sports PPV 2",
+                        "channel_id": "202"
+                    },
+                    {
+                        "channel_name": "Sky Sports PPV 3",
+                        "channel_id": "203"
                     }
                 ]
             },
@@ -3738,6 +3758,18 @@
                     {
                         "channel_name": "Sky Sports Main Event",
                         "channel_id": "38"
+                    },
+                    {
+                        "channel_name": "Sky Sports PPV 1",
+                        "channel_id": "201"
+                    },
+                    {
+                        "channel_name": "Sky Sports PPV 2",
+                        "channel_id": "202"
+                    },
+                    {
+                        "channel_name": "Sky Sports PPV 3",
+                        "channel_id": "203"
                     }
                 ]
             },
@@ -3756,6 +3788,18 @@
                     {
                         "channel_name": "Sky Sports Main Event",
                         "channel_id": "38"
+                    },
+                    {
+                        "channel_name": "Sky Sports PPV 1",
+                        "channel_id": "201"
+                    },
+                    {
+                        "channel_name": "Sky Sports PPV 2",
+                        "channel_id": "202"
+                    },
+                    {
+                        "channel_name": "Sky Sports PPV 3",
+                        "channel_id": "203"
                     }
                 ]
             }
