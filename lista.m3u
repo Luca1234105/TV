@@ -169,8 +169,6 @@ https://vavoo.to/vavoo-iptv/play/22109966031d6de269f9b8
 https://vavoo.to/vavoo-iptv/play/2835333400f831a30ce568
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",MARIA+VISION
 https://vavoo.to/vavoo-iptv/play/448530931a02141cb37b2
-#EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND
-https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 #EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
 https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
@@ -503,8 +501,6 @@ https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
 https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (2)
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION
-https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
@@ -541,9 +537,7 @@ https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb
 https://vavoo.to/vavoo-iptv/play/30363168866e9eeb997936
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP
 https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
-#EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (1)
-https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
-#EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (2)
+#EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
 https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (1)
 https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
@@ -593,6 +587,8 @@ https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
+https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE (1)
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE (2)
@@ -907,13 +903,13 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="italyseriecvirtusveronavsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Virtus Verona vs Ospitaletto (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Virtus Verona_vs_Ospitaletto.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Verona vs Ospitaletto (17:30)
 https://dlhd.dad/watch.php?id=9
 
-#EXTINF:-1 tvg-id="italyserieajuventusvsgenoa" tvg-name="All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)" tvg-logo="https://www.lfootball.it/wp-content/uploads/2020/12/Juventus_Logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)
+#EXTINF:-1 tvg-id="italyserieajuventusvsgenoa" tvg-name="All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)" tvg-logo="https://www.logoquake.com/wp-content/uploads/2024/05/Jabatan-Alam-Sekitar-Malaysia_e80856-768x768.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)
 https://dlhd.dad/watch.php?id=7
 
-#EXTINF:-1 tvg-id="italyserieajuventusvsgenoa" tvg-name="All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)" tvg-logo="https://www.lfootball.it/wp-content/uploads/2020/12/Juventus_Logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)
+#EXTINF:-1 tvg-id="italyserieajuventusvsgenoa" tvg-name="All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)" tvg-logo="https://www.logoquake.com/wp-content/uploads/2024/05/Jabatan-Alam-Sekitar-Malaysia_e80856-768x768.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="italyserieajuventusvsgenoa" tvg-name="All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)" tvg-logo="https://www.lfootball.it/wp-content/uploads/2020/12/Juventus_Logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)
+#EXTINF:-1 tvg-id="italyserieajuventusvsgenoa" tvg-name="All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)" tvg-logo="https://www.logoquake.com/wp-content/uploads/2024/05/Jabatan-Alam-Sekitar-Malaysia_e80856-768x768.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)
 https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 tvg-id="italyseriebcarraresevsspezia" tvg-name="All Soccer Events | Italy - Serie B : Carrarese vs Spezia (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Carrarese_vs_Spezia.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Carrarese vs Spezia (19:30)
@@ -922,10 +918,10 @@ https://dlhd.dad/watch.php?id=68
 #EXTINF:-1 tvg-id="italyserieanapolivsmilan" tvg-name="All Soccer Events | Italy - Serie A : Napoli vs Milan (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Milan.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Napoli vs Milan (20:45)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="montecarloatpamplinzwtaearlyrounds" tvg-name="Tennis | Monte Carlo-ATP &amp; Linz-WTA Early Rounds (12:00)" tvg-logo="https://join.tapro.com/wp-content/uploads/2025/06/Rik-derks.png" group-title="Eventi Live DLHD",Tennis | Monte Carlo-ATP &amp; Linz-WTA Early Rounds (12:00)
+#EXTINF:-1 tvg-id="montecarloatpamplinzwtaearlyrounds" tvg-name="Tennis | Monte Carlo-ATP &amp; Linz-WTA Early Rounds (12:00)" tvg-logo="https://images.seeklogo.com/logo-png/40/2/grand-rounds-health-logo-png_seeklogo-401157.png" group-title="Eventi Live DLHD",Tennis | Monte Carlo-ATP &amp; Linz-WTA Early Rounds (12:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="mouscronroundwomenmouscron125km" tvg-name="Cycling | Mouscron Round Women | Mouscron (125km) (13:30)" tvg-logo="https://smartislandmaps.pr.gov/_next/static/media/logo-white.6e52aa8e.png" group-title="Eventi Live DLHD",Cycling | Mouscron Round Women | Mouscron (125km) (13:30)
+#EXTINF:-1 tvg-id="mouscronroundwomenmouscron125km" tvg-name="Cycling | Mouscron Round Women | Mouscron (125km) (13:30)" tvg-logo="https://zctxny.zhongyoucai.com/resource/img/logo.png" group-title="Eventi Live DLHD",Cycling | Mouscron Round Women | Mouscron (125km) (13:30)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="itzuliabasquecountrystage1menbilbaoitt139km" tvg-name="Cycling | Itzulia Basque Country | Stage 1 Men | Bilbao (ITT, 13.9km) (15:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Itzulia Basque Country | Stage 1 Men | Bilbao (ITT, 13.9km) (15:30)
