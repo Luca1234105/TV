@@ -593,8 +593,6 @@ https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
-https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE (1)
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE (2)
@@ -909,13 +907,13 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="italyseriecvirtusveronavsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Virtus Verona vs Ospitaletto (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Virtus Verona_vs_Ospitaletto.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Verona vs Ospitaletto (17:30)
 https://dlhd.dad/watch.php?id=9
 
-#EXTINF:-1 tvg-id="italyserieajuventusvsgenoa" tvg-name="All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)
+#EXTINF:-1 tvg-id="italyserieajuventusvsgenoa" tvg-name="All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)" tvg-logo="https://www.lfootball.it/wp-content/uploads/2020/12/Juventus_Logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)
 https://dlhd.dad/watch.php?id=7
 
-#EXTINF:-1 tvg-id="italyserieajuventusvsgenoa" tvg-name="All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)
+#EXTINF:-1 tvg-id="italyserieajuventusvsgenoa" tvg-name="All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)" tvg-logo="https://www.lfootball.it/wp-content/uploads/2020/12/Juventus_Logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="italyserieajuventusvsgenoa" tvg-name="All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)
+#EXTINF:-1 tvg-id="italyserieajuventusvsgenoa" tvg-name="All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)" tvg-logo="https://www.lfootball.it/wp-content/uploads/2020/12/Juventus_Logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)
 https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 tvg-id="italyseriebcarraresevsspezia" tvg-name="All Soccer Events | Italy - Serie B : Carrarese vs Spezia (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Carrarese_vs_Spezia.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Carrarese vs Spezia (19:30)
