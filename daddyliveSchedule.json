@@ -7524,6 +7524,16 @@
                         "channel_id": "770"
                     }
                 ]
+            },
+            {
+                "time": "22:30",
+                "event": "Minor League Baseball : Memphis Redbirds vs Charlotte Knights",
+                "channels": [
+                    {
+                        "channel_name": "Chicago Sports Network",
+                        "channel_id": "776"
+                    }
+                ]
             }
         ],
         "Baseball (MLB)": [
@@ -7766,16 +7776,6 @@
                     {
                         "channel_name": "TSN3",
                         "channel_id": "113"
-                    }
-                ]
-            },
-            {
-                "time": "22:30",
-                "event": "Minor League Baseball Memphis Redbirds vs Charlotte Knights",
-                "channels": [
-                    {
-                        "channel_name": "Chicago Sports Network",
-                        "channel_id": "776"
                     }
                 ]
             }
