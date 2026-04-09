@@ -171,6 +171,8 @@ https://vavoo.to/vavoo-iptv/play/2835333400f831a30ce568
 https://vavoo.to/vavoo-iptv/play/448530931a02141cb37b2
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
+https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro",ONDA NOVARA TV
@@ -453,8 +455,6 @@ https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 https://vavoo.to/vavoo-iptv/play/35697313256d80f80b732e
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ5HlBu4jXOrC4iA-giQNzXa9zm42bS-yrA&s" group-title="Musica",FM ITALIA
 https://vavoo.to/vavoo-iptv/play/6513881342f0388082aa1
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ5HlBu4jXOrC4iA-giQNzXa9zm42bS-yrA&s" group-title="Musica",FM ITALIA TV
-https://vavoo.to/vavoo-iptv/play/3241786453834d6c74cc
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-kiss-kiss-tv-it.png?raw=true" group-title="Musica",KISS KISS (1)
 https://vavoo.to/vavoo-iptv/play/950030926076b5f56ce77
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-kiss-kiss-tv-it.png?raw=true" group-title="Musica",KISS KISS (2)
@@ -862,13 +862,13 @@ https://dlhd.dad/watch.php?id=18
 #EXTINF:-1 tvg-id="europeuefaconferenceleaguecrystalpalacevsfiorentina" tvg-name="Soccer | Europe - UEFA Conference League : Crystal Palace vs Fiorentina (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Crystal Palace_vs_Fiorentina.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Conference League : Crystal Palace vs Fiorentina (21:00)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="montecarloatpamplinzwtaearlyrounds" tvg-name="Tennis | Monte Carlo-ATP &amp; Linz-WTA Early Rounds (11:00)" tvg-logo="https://joinrounds.com/static/rounds_logo.png" group-title="Eventi Live DLHD",Tennis | Monte Carlo-ATP &amp; Linz-WTA Early Rounds (11:00)
+#EXTINF:-1 tvg-id="montecarloatpamplinzwtaearlyrounds" tvg-name="Tennis | Monte Carlo-ATP &amp; Linz-WTA Early Rounds (11:00)" tvg-logo="https://join.tapro.com/wp-content/uploads/2025/06/Rik-derks.png" group-title="Eventi Live DLHD",Tennis | Monte Carlo-ATP &amp; Linz-WTA Early Rounds (11:00)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="itzuliabasquecountrystage4mengaldakao1672km" tvg-name="Cycling | Itzulia Basque Country | Stage 4 Men | Galdakao (167.2km) (15:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Itzulia Basque Country | Stage 4 Men | Galdakao (167.2km) (15:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="seriea1cuneovolleyvsmodena" tvg-name="Volleyball | Serie A1 : Cuneo Volley vs Modena (20:30)" tvg-logo="https://d5rzfs5ck83rq.cloudfront.net/legab.it/img/club/loghi/modena-blu-b.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Cuneo Volley vs Modena (20:30)
+#EXTINF:-1 tvg-id="seriea1cuneovolleyvsmodena" tvg-name="Volleyball | Serie A1 : Cuneo Volley vs Modena (20:30)" tvg-logo="https://images.seeklogo.com/logo-png/9/2/modena-fc-logo-png_seeklogo-94029.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Cuneo Volley vs Modena (20:30)
 https://dlhd.dad/watch.php?id=882
 
 
