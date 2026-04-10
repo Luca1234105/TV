@@ -4465,7 +4465,7 @@
             }
         ]
     },
-    "Friday 10th 2026 - Schedule Time UK GMT": {
+    "Friday 10th April 2026 - Schedule Time UK GMT": {
         "Upcoming Events": [
             {
                 "time": "15:00",
@@ -4784,7 +4784,7 @@
                 ]
             }
         ],
-        "Soccer": [
+        "England League Two": [
             {
                 "time": "18:45",
                 "event": "England League Two : Colchester United vs Swindon Town",
@@ -4794,7 +4794,9 @@
                         "channel_id": "154"
                     }
                 ]
-            },
+            }
+        ],
+        "Ireland Republic": [
             {
                 "time": "18:45",
                 "event": "Ireland Republic - Premier Division : Bohemians vs Sligo Rovers",
@@ -4884,7 +4886,9 @@
                         "channel_id": "163"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "08:30",
                 "event": "Indonesia - Super League : PSIM Yogyakarta vs PSM",
@@ -6386,6 +6390,256 @@
                 ]
             }
         ],
+        "Tennis ATP - MONTE CARLO": [
+            {
+                "time": "09:00",
+                "event": "ATP - MONTE CARLO : Fonseca J. vs Zverev A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1570"
+                    }
+                ]
+            },
+            {
+                "time": "09:00",
+                "event": "ATP - MONTE CARLO : Granollers M./Zeballos H. vs Andreozzi G./Guinard M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1558"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - MONTE CARLO : Auger-Aliassime F. vs Sinner J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1570"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - MONTE CARLO : Harrison C./Skupski N. vs Arevalo M./Pavic M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1558"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - MONTE CARLO : Alcaraz C. vs Bublik A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1570"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - MONTE CARLO : Krawietz K./Puetz T. vs Cash J./Glasspool L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1558"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - MONTE CARLO : Vacherot V. vs De Minaur A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1570"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - MONTE CARLO : Nys H./Roger-Vasselin E. vs Heliovaara H./Patten H.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1558"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - LINZ": [
+            {
+                "time": "11:00",
+                "event": "WTA - LINZ : Ostapenko J. vs Ruse G.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - LINZ : Andreeva M. vs Cirstea S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "WTA - LINZ : Liang E. S./Yang Z. vs Maleckova J./Skoch M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - LINZ : Potapova A. vs Tagger L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "WTA - LINZ : Vekic D. vs Pliskova Ka.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "09:00",
@@ -6496,7 +6750,9 @@
                         "channel_id": "714"
                     }
                 ]
-            },
+            }
+        ],
+        "Tennis Billie Jean King Cup": [
             {
                 "time": "09:00",
                 "event": "Billie Jean King Cup : Kazakhstan vs Canada",
@@ -6523,14 +6779,16 @@
             },
             {
                 "time": "02:00",
-                "event": "Tennis Billie Jean King Cup : Australia vs Great Britain",
+                "event": "Billie Jean King Cup : Australia vs Great Britain",
                 "channels": [
                     {
                         "channel_name": "Polsat Sport 1 Poland",
                         "channel_id": "47"
                     }
                 ]
-            },
+            }
+        ],
+        "Tennis ATP Masters/WTA Linz": [
             {
                 "time": "09:00",
                 "event": "ATP Masters Monte Carlo: 1/4 Final",
@@ -6543,11 +6801,31 @@
             },
             {
                 "time": "11:00",
+                "event": "WTA 500 Linz: 1/4 Final",
+                "channels": [
+                    {
+                        "channel_name": "Sport Klub 7 Croatia",
+                        "channel_id": "29"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
                 "event": "Tennis: WTA 500 Linz &amp; ATP Masters Monte Carlo - 1/4 Final",
                 "channels": [
                     {
                         "channel_name": "Sport Klub 2 Croatia",
                         "channel_id": "102"
+                    }
+                ]
+            },
+            {
+                "time": "12:45",
+                "event": "WTA 500 Linz: 1/4 Final: M. Andreeva vs Cirstea",
+                "channels": [
+                    {
+                        "channel_name": "Sport klub 7 Croatia",
+                        "channel_id": "29"
                     }
                 ]
             },
@@ -6572,6 +6850,16 @@
                 ]
             },
             {
+                "time": "14:30",
+                "event": "WTA 500 Linz: 1/4 Final: Potopova vs Tagger",
+                "channels": [
+                    {
+                        "channel_name": "Sport klub 7 Croatia",
+                        "channel_id": "29"
+                    }
+                ]
+            },
+            {
                 "time": "16:30",
                 "event": "WTA 500 Linz: 1/4 Final: Veki\u0107 vs Pliskova",
                 "channels": [
@@ -6581,6 +6869,18 @@
                     }
                 ]
             },
+            {
+                "time": "17:00",
+                "event": "ATP Masters Monte Carlo: 1/4 Final: Vacherot vs De Minaur",
+                "channels": [
+                    {
+                        "channel_name": "Sport klub 7 Croatia",
+                        "channel_id": "29"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP Doubles/WTA Doubles": [
             {
                 "time": "09:00",
                 "event": "ATP Masters Monte Carlo: (Couples) 1/4 Final",
@@ -6602,66 +6902,6 @@
                 ]
             },
             {
-                "time": "12:15",
-                "event": "ATP Masters Monte Carlo: (Couples) 1/4 Final: Krawietz/Puetz - Cash/Glasspool",
-                "channels": [
-                    {
-                        "channel_name": "Sport klub 4 Croatia",
-                        "channel_id": "104"
-                    }
-                ]
-            },
-            {
-                "time": "14:00",
-                "event": "ATP Masters Monte Carlo: (Couples) 1/4 Final: Nys/Vasselin - Heliovaara/Patten",
-                "channels": [
-                    {
-                        "channel_name": "Sport klub 4 Croatia",
-                        "channel_id": "104"
-                    }
-                ]
-            },
-            {
-                "time": "11:00",
-                "event": "WTA 500 Linz: 1/4 Final",
-                "channels": [
-                    {
-                        "channel_name": "Sport Klub 7 Croatia",
-                        "channel_id": "29"
-                    }
-                ]
-            },
-            {
-                "time": "12:45",
-                "event": "WTA 500 Linz: 1/4 Final: M. Andreeva - Cirstea",
-                "channels": [
-                    {
-                        "channel_name": "Sport klub 7 Croatia",
-                        "channel_id": "29"
-                    }
-                ]
-            },
-            {
-                "time": "14:30",
-                "event": "WTA 500 Linz: 1/4 Final: Potopova - Tagger",
-                "channels": [
-                    {
-                        "channel_name": "Sport klub 7 Croatia",
-                        "channel_id": "29"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "ATP Masters Monte Carlo: 1/4 Final: Vacherot - De Minaur",
-                "channels": [
-                    {
-                        "channel_name": "Sport klub 7 Croatia",
-                        "channel_id": "29"
-                    }
-                ]
-            },
-            {
                 "time": "12:00",
                 "event": "WTA 500 Linz: (Pairs) 1/2 Final A",
                 "channels": [
@@ -6672,12 +6912,32 @@
                 ]
             },
             {
+                "time": "12:15",
+                "event": "ATP Masters Monte Carlo: (Couples) 1/4 Final: Krawietz/Puetz vs Cash/Glasspool",
+                "channels": [
+                    {
+                        "channel_name": "Sport klub 4 Croatia",
+                        "channel_id": "104"
+                    }
+                ]
+            },
+            {
                 "time": "13:00",
-                "event": "WTA 500 Linz: Liang/Yang - Maleckova/Skoch",
+                "event": "WTA 500 Linz: Liang/Yang vs Maleckova/Skoch",
                 "channels": [
                     {
                         "channel_name": "Sport klub 9 Croatia",
                         "channel_id": "30"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "ATP Masters Monte Carlo: (Couples) 1/4 Final: Nys/Vasselin vs Heliovaara/Patten",
+                "channels": [
+                    {
+                        "channel_name": "Sport klub 4 Croatia",
+                        "channel_id": "104"
                     }
                 ]
             }
@@ -7089,7 +7349,7 @@
             },
             {
                 "time": "00:00",
-                "event": "International Boxing : Hebert Conceicao Sousa vs- Johan Gonzalez",
+                "event": "International Boxing : Hebert Conceicao Sousa vs Johan Gonzalez",
                 "channels": [
                     {
                         "channel_name": "ESPN3 BR",
@@ -7250,7 +7510,7 @@
                 ]
             }
         ],
-        "Wrestling": [
+        "WWE (SmackDown)": [
             {
                 "time": "00:00",
                 "event": "WWE Friday Night SmackDown",
@@ -7518,7 +7778,7 @@
                 ]
             }
         ],
-        "Aussie rules": [
+        "Aussie Aules (AFL)": [
             {
                 "time": "09:40",
                 "event": "AFL : Collingwood Magpies vs Fremantle Dockers",
@@ -7566,7 +7826,7 @@
                 ]
             }
         ],
-        "Baseball": [
+        "Baseball (MLB)": [
             {
                 "time": "18:00",
                 "event": "MLB : Chicago Cubs vs Pittsburgh Pirates",
@@ -7993,7 +8253,7 @@
             },
             {
                 "time": "19:00",
-                "event": "College Softball : Northwestern - Penn State",
+                "event": "College Softball : Northwestern vs Penn State",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
@@ -8003,7 +8263,7 @@
             },
             {
                 "time": "21:30",
-                "event": "College Softball : Idaho State - Montana",
+                "event": "College Softball : Idaho State vs Montana",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -8896,40 +9156,6 @@
         ],
         "Ice Hockey": [
             {
-                "time": "17:00",
-                "event": "DEL : Red Bull M\u00fcnchen vs Adler Mannheim",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 302",
-                        "channel_id": "21"
-                    }
-                ]
-            },
-            {
-                "time": "17:30",
-                "event": "DEL : Kolner vs Eisbaren Berlin",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 303",
-                        "channel_id": "22"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "SHL : Vaxjo vs Rogle",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey Sweden",
-                        "channel_id": "700"
-                    },
-                    {
-                        "channel_name": "SPORT1+ DE",
-                        "channel_id": "640"
-                    }
-                ]
-            },
-            {
                 "time": "13:30",
                 "event": "KHL : Avangard Omsk vs CSKA Moscow",
                 "channels": [
@@ -8975,11 +9201,35 @@
             },
             {
                 "time": "17:00",
-                "event": "Volleyball Switzerland NLA Women : Schaffhausen W v NUC Volleyball W",
+                "event": "SHL : Vaxjo vs Rogle",
                 "channels": [
                     {
-                        "channel_name": "RTS 2 Switzerland",
-                        "channel_id": "194"
+                        "channel_name": "TV4 Hockey Sweden",
+                        "channel_id": "700"
+                    },
+                    {
+                        "channel_name": "SPORT1+ DE",
+                        "channel_id": "640"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "DEL : Red Bull M\u00fcnchen vs Adler Mannheim",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 302",
+                        "channel_id": "21"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "DEL : Kolner vs Eisbaren Berlin",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport 303",
+                        "channel_id": "22"
                     }
                 ]
             }
@@ -9127,7 +9377,7 @@
         "SHL Ice Hockey": [
             {
                 "time": "00:05",
-                "event": "USHL : Muskegon Lumberjacks - Cedar Rapids",
+                "event": "USHL : Muskegon Lumberjacks vs Cedar Rapids",
                 "channels": [
                     {
                         "channel_name": "FloHockey",
@@ -9160,17 +9410,7 @@
                 ]
             }
         ],
-        "Lacrosse": [
-            {
-                "time": "22:00",
-                "event": "Women's College Lacrosse : Stanford vs. North Carolina (Chapel Hill)",
-                "channels": [
-                    {
-                        "channel_name": "ESPNU USA",
-                        "channel_id": "316"
-                    }
-                ]
-            },
+        "College Lacrosse": [
             {
                 "time": "23:00",
                 "event": "Men's College Lacrosse : Lehigh vs. Colgate",
@@ -9180,7 +9420,21 @@
                         "channel_id": "308"
                     }
                 ]
-            },
+            }
+        ],
+        "Women's Lacrosse": [
+            {
+                "time": "22:00",
+                "event": "Women's College Lacrosse : Stanford vs. North Carolina (Chapel Hill)",
+                "channels": [
+                    {
+                        "channel_name": "ESPNU USA",
+                        "channel_id": "316"
+                    }
+                ]
+            }
+        ],
+        "Lacrosse (NLL)": [
             {
                 "time": "00:30",
                 "event": "NLL Lacrosse : Toronto Rock vs. Ottawa Rebel",
@@ -9432,6 +9686,16 @@
                 ]
             },
             {
+                "time": "17:00",
+                "event": "Switzerland NLA Women : Schaffhausen W v NUC Volleyball W",
+                "channels": [
+                    {
+                        "channel_name": "RTS 2 Switzerland",
+                        "channel_id": "194"
+                    }
+                ]
+            },
+            {
                 "time": "18:30",
                 "event": "Men's volleyball: PlusLiga 1st semi-final",
                 "channels": [
@@ -9507,7 +9771,7 @@
         "Women's College Volleyball": [
             {
                 "time": "23:00",
-                "event": "Women's College Volleyball : Kentucky - Indiana",
+                "event": "Women's College Volleyball : Kentucky vs Indiana",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
