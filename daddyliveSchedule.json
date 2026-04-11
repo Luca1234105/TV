@@ -28,6 +28,16 @@
                 ]
             },
             {
+                "time": "18:00",
+                "event": "FNC 29: Batini\u0107 vs. Nedoh",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5000"
+                    }
+                ]
+            },
+            {
                 "time": "19:00",
                 "event": "2026 The Funny Car Chaos Classic",
                 "channels": [
