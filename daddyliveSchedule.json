@@ -6066,6 +6066,10 @@
                     {
                         "channel_name": "ESPN2 Brazil",
                         "channel_id": "82"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4044"
                     }
                 ]
             },
@@ -6084,6 +6088,10 @@
                     {
                         "channel_name": "Fight Network USA",
                         "channel_id": "757"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4045"
                     }
                 ]
             }
