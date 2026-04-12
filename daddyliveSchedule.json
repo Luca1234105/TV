@@ -56,6 +56,88 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "22:10",
+                "event": "USAC Sprints Terre Haute",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "217"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Fury FC 118: Chatman vs. Dennis",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "218"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "MAIN STAGE Live From Coachella Valley Music & Arts Festival 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "211"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "OUTDOOR THEATRE Live From Coachella Valley Music & Arts Festival 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "212"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "SONARA Live From Coachella Valley Music & Arts Festival 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "213"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "SAHARA Live From Coachella Valley Music & Arts Festival 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "214"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "MOJAVE Live From Coachella Valley Music & Arts Festival 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "215"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "GOBI Live From Coachella Valley Music & Arts Festival 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "216"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "22:00",
