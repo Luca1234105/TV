@@ -119,8 +119,6 @@ https://vavoo.to/vavoo-iptv/play/3255207570b230d786fb10
 https://vavoo.to/vavoo-iptv/play/2820683351b557bc63df61
 #EXTINF:-1 tvg-id="food.network.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro",FOOD NETWORK (2)
 https://vavoo.to/vavoo-iptv/play/276786104991c55564696b
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",FRANCE 24 (EN)
-https://vavoo.to/vavoo-iptv/play/217968682876c9a8051121
 #EXTINF:-1 tvg-id="gambero.rosso.hd.it" tvg-logo="" group-title="Altro",GAMBERO ROSSO
 https://vavoo.to/vavoo-iptv/play/2481284739a17519532b56
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (1)
@@ -501,6 +499,8 @@ https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
 https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (2)
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION
+https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
@@ -597,8 +597,6 @@ https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
 https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
-#EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
-https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",TELEPACE TRENTO (HISTORY LAB)
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
@@ -830,7 +828,7 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="theinternazionalibnlditaliaromeitalymay5172026" tvg-name="Upcoming Events | The Internazionali BNL d'Italia, Rome, Italy May 5–17, 2026 (17:00)" tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000002162/1746449340000367_ATP_Masters_1000_BNP_Paribas_Open_2025_GOB_Masthead_logo_HLTS.png?q=high" group-title="Eventi Live DLHD",Upcoming Events | The Internazionali BNL d'Italia, Rome, Italy May 5–17, 2026 (17:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="italyserieagenoavssassuolo" tvg-name="Soccer | Italy - Serie A : Genoa vs Sassuolo (12:30)" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Genoa vs Sassuolo (12:30)
+#EXTINF:-1 tvg-id="italyserieagenoavssassuolo" tvg-name="Soccer | Italy - Serie A : Genoa vs Sassuolo (12:30)" tvg-logo="https://logodix.com/logo/1643929.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Genoa vs Sassuolo (12:30)
 https://dlhd.dad/watch.php?id=877
 
 #EXTINF:-1 tvg-id="italyseriecjuventusiivsnuovamonterosi" tvg-name="Soccer | Italy - Serie C : Juventus II vs Nuova Monterosi (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus II_vs_Nuova Monterosi.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Juventus II vs Nuova Monterosi (12:30)
@@ -857,7 +855,7 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="italyseriecatalantaiivsmonopoli" tvg-name="Soccer | Italy - Serie C : Atalanta II vs Monopoli (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta II_vs_Monopoli.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Atalanta II vs Monopoli (14:30)
 https://dlhd.dad/watch.php?id=26
 
-#EXTINF:-1 tvg-id="italyseriecteamaltamuravsgiugliano" tvg-name="Soccer | Italy - Serie C : Team Altamura vs Giugliano (14:30)" tvg-logo="https://www.giugliano1928.it/wp-content/uploads/2022/09/logo_footer_giugliano.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Team Altamura vs Giugliano (14:30)
+#EXTINF:-1 tvg-id="italyseriecteamaltamuravsgiugliano" tvg-name="Soccer | Italy - Serie C : Team Altamura vs Giugliano (14:30)" tvg-logo="https://images.seeklogo.com/logo-png/13/3/ssc-giugliano-logo-png_seeklogo-131226.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Team Altamura vs Giugliano (14:30)
 https://dlhd.dad/watch.php?id=27
 
 #EXTINF:-1 tvg-id="italyseriecfoggiavssiracusa" tvg-name="Soccer | Italy - Serie C : Foggia vs Siracusa (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Foggia_vs_Siracusa.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Foggia vs Siracusa (14:30)
@@ -950,7 +948,7 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="uciworldtourparisroubaix259km1400m" tvg-name="Cycling | UCI World Tour Paris-Roubaix | 259 km | 1400 m (11:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | UCI World Tour Paris-Roubaix | 259 km | 1400 m (11:30)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="uciworldtourparisroubaix259km1400m" tvg-name="Cycling | UCI World Tour Paris-Roubaix | 259 km | 1400 m (11:30)" tvg-logo="https://thefactbase.com/static/893fe736c7338284a985f64ac9892fef/ccc8a/logo.png" group-title="Eventi Live DLHD",Cycling | UCI World Tour Paris-Roubaix | 259 km | 1400 m (11:30)
+#EXTINF:-1 tvg-id="uciworldtourparisroubaix259km1400m" tvg-name="Cycling | UCI World Tour Paris-Roubaix | 259 km | 1400 m (11:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | UCI World Tour Paris-Roubaix | 259 km | 1400 m (11:30)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="uciwomensworldtourcyclingparisroubaix" tvg-name="Cycling | UCI Women's WorldTour Cycling - Paris-Roubaix (17:00)" tvg-logo="https://images.seeklogo.com/logo-png/21/2/paris-roubaix-2009-logo-png_seeklogo-211824.png" group-title="Eventi Live DLHD",Cycling | UCI Women's WorldTour Cycling - Paris-Roubaix (17:00)
