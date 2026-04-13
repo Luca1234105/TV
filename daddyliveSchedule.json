@@ -9798,7 +9798,7 @@
                 ]
             }
         ],
-        "WWE": [
+        "WWE (RAW)": [
             {
                 "time": "00:00",
                 "event": "WWE Monday Night RAW",
@@ -9886,7 +9886,7 @@
                 ]
             }
         ],
-        "Baseball": [
+        "Baseball (MLB)": [
             {
                 "time": "20:10",
                 "event": "MLB : Seattle Mariners vs Houston Astros",
@@ -10252,10 +10252,12 @@
                         "channel_id": "996"
                     }
                 ]
-            },
+            }
+        ],
+        "WNBA": [
             {
                 "time": "21:30",
-                "event": "NBA : WNBA Orange Carpet Special New Live",
+                "event": "WNBA Orange Carpet Special New Live",
                 "channels": [
                     {
                         "channel_name": "ESPN2 USA",
@@ -10362,6 +10364,42 @@
                 ]
             }
         ],
+        "Lacrosse (NLL)": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "PLL Lacrosse": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Women's College Lacrosse": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
         "Horse Racing": [
             {
                 "time": "12:00",
@@ -10384,7 +10422,73 @@
                 ]
             }
         ],
+        "Women's College Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "College Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
         "Ice Hockey": [
+            {
+                "time": "10:30",
+                "event": "World Championship Women : Slovakia (W) vs. Italy (W)",
+                "channels": [
+                    {
+                        "channel_name": "JOJ Sport Slovakia HD",
+                        "channel_id": "3"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "Czech Republic : HC Dynamo Pardubice vs. HC Ocelari Trinec",
+                "channels": [
+                    {
+                        "channel_name": "CT Sport Czech HD",
+                        "channel_id": "1033"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "KHL : Metallurg Magnitogorsk vs Torpedo Nizhny Novgorod",
+                "channels": [
+                    {
+                        "channel_name": "Match TV Russia",
+                        "channel_id": "127"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "SHL : Lulea vs Skelleftea",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Hockey Sweden",
+                        "channel_id": "700"
+                    }
+                ]
+            }
+        ],
+        "NHL": [
             {
                 "time": "23:00",
                 "event": "NHL : Detroit Red Wings vs Tampa Bay Lightning",
@@ -10588,44 +10692,52 @@
                         "channel_id": "22"
                     }
                 ]
-            },
+            }
+        ],
+        "AHL Hockey": [
             {
-                "time": "10:30",
-                "event": "World Championship Women : Slovakia (W) vs. Italy (W)",
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
                 "channels": [
                     {
-                        "channel_name": "JOJ Sport Slovakia HD",
-                        "channel_id": "3"
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
                     }
                 ]
-            },
+            }
+        ],
+        "ECHL Ice Hockey": [
             {
-                "time": "12:00",
-                "event": "Czech Republic : HC Dynamo Pardubice vs. HC Ocelari Trinec",
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
                 "channels": [
                     {
-                        "channel_name": "CT Sport Czech HD",
-                        "channel_id": "1033"
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
                     }
                 ]
-            },
+            }
+        ],
+        "QMJHL Ice Hockey": [
             {
-                "time": "17:00",
-                "event": "SHL : Lulea vs Skelleftea",
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
                 "channels": [
                     {
-                        "channel_name": "TV4 Hockey Sweden",
-                        "channel_id": "700"
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
                     }
                 ]
-            },
+            }
+        ],
+        "USHL Ice Hockey": [
             {
-                "time": "16:00",
-                "event": "KHL : Metallurg Magnitogorsk vs Torpedo Nizhny Novgorod",
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
                 "channels": [
                     {
-                        "channel_name": "Match TV Russia",
-                        "channel_id": "127"
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
                     }
                 ]
             }
@@ -10712,6 +10824,18 @@
                     {
                         "channel_name": "Sportv2 Brazil",
                         "channel_id": "79"
+                    }
+                ]
+            }
+        ],
+        "College Volleyball": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
                     }
                 ]
             }
