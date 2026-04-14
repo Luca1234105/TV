@@ -289,8 +289,6 @@ https://vavoo.to/vavoo-iptv/play/87479718111853618b3cd
 https://vavoo.to/vavoo-iptv/play/6164833177424547eff1f
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teletricolore.it/wp-content/uploads/2018/02/logo.png" group-title="Altro",TELE TRICOLORE
 https://vavoo.to/vavoo-iptv/play/2314613216d218b9f4abd4
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lp10Brud3JZex6CgE4M9c-XcKFY4MrRhcFe9PUn-N4SD4=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",TELE TUSCIASABINA 2000
-https://vavoo.to/vavoo-iptv/play/545707096d82d839e8210
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/TeleArena_logo.png" group-title="Altro",TELEARENA
 https://vavoo.to/vavoo-iptv/play/408156101494ee7f98efdd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleartetv.it/web/wp-content/uploads/2023/04/logo_TA.jpg" group-title="Altro",TELEARTE
@@ -675,7 +673,9 @@ https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE (2)
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (1)
+https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (2)
 https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
 https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
@@ -785,8 +785,6 @@ https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 #EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP (2)
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (1)
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (2)
@@ -821,11 +819,26 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="englandpremierleaguemanchesterunitedvsleedsunited" tvg-name="Soccer | England - Premier League : Manchester United vs Leeds United (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Manchester United_vs_Leeds United.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Manchester United vs Leeds United (21:00)
+#EXTINF:-1 tvg-id="italyseriebcatanzarovsmodena" tvg-name="All Soccer Events | Italy - Serie B : Catanzaro vs Modena (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Catanzaro_vs_Modena.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Catanzaro vs Modena (19:00)
+https://dlhd.dad/watch.php?id=55
+
+#EXTINF:-1 tvg-id="europeuefachampionsleagueatléticomadridvsbarcelona" tvg-name="All Soccer Events | Europe - UEFA Champions League : Atlético Madrid vs Barcelona (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atlético Madrid_vs_Barcelona.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Champions League : Atlético Madrid vs Barcelona (21:00)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="mlbseattlemarinersvshoustonastros" tvg-name="Baseball (MLB) | MLB : Seattle Mariners vs Houston Astros (22:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Seattle Mariners_vs_Houston Astros.png" group-title="Eventi Live DLHD",Baseball (MLB) | MLB : Seattle Mariners vs Houston Astros (22:10)
-https://dlhd.dad/watch.php?id=460
+#EXTINF:-1 tvg-id="europeuefachampionsleagueatléticomadridvsbarcelona" tvg-name="All Soccer Events | Europe - UEFA Champions League : Atlético Madrid vs Barcelona (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atlético Madrid_vs_Barcelona.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Champions League : Atlético Madrid vs Barcelona (21:00)
+https://dlhd.dad/watch.php?id=30
+
+#EXTINF:-1 tvg-id="europeuefachampionsleagueliverpoolvspsg" tvg-name="All Soccer Events | Europe - UEFA Champions League : Liverpool vs PSG (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Liverpool_vs_PSG.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Champions League : Liverpool vs PSG (21:00)
+https://dlhd.dad/watch.php?id=462
+
+#EXTINF:-1 tvg-id="europeuefachampionsleagueliverpoolvspsg" tvg-name="All Soccer Events | Europe - UEFA Champions League : Liverpool vs PSG (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Liverpool_vs_PSG.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Champions League : Liverpool vs PSG (21:00)
+https://dlhd.dad/watch.php?id=6
+
+#EXTINF:-1 tvg-id="barcelonaatpmunichatpstuttgartwtaamprouenwtaearlyrounds" tvg-name="Tennis | Barcelona-ATP, Munich-ATP, Stuttgart-WTA &amp; Rouen-WTA Early Rounds (11:00)" tvg-logo="https://images.seeklogo.com/logo-png/40/2/grand-rounds-health-logo-png_seeklogo-401157.png" group-title="Eventi Live DLHD",Tennis | Barcelona-ATP, Munich-ATP, Stuttgart-WTA &amp; Rouen-WTA Early Rounds (11:00)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="thegrancaminostage1mentowerofherculesitt148km" tvg-name="Cycling | The Gran Camino | Stage 1 Men | Tower of Hercules (ITT, 14.8km) (15:30)" tvg-logo="https://ingavinhos.vtexassets.com/arquivos/ids/160567/Vinho-Camino-De-Chile-Cabernet-Sauvignon-Gran-Reserva-750-ml.png?v=637879682271630000" group-title="Eventi Live DLHD",Cycling | The Gran Camino | Stage 1 Men | Tower of Hercules (ITT, 14.8km) (15:30)
+https://dlhd.dad/watch.php?id=878
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
