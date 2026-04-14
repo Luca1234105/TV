@@ -182,20 +182,22 @@
                 ]
             },
             {
-                "time": "23:00",
-                "event": "NBA Playoffs / Finals Games (Basketball), May\u2013June 2026",
+                "time": "22:00",
+                "event": "WrestleMania XLII 2026: Night One, April 19, 2026",
                 "channels": [
                     {
-                        "channel_name": "NBA League Pass",
+                        "channel_name": "Netflix",
                         "channel_id": "00"
-                    },
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "WWE: WrestleMania XLII 2026: Night Two, April 20, 2026",
+                "channels": [
                     {
-                        "channel_name": "ESPN USA",
-                        "channel_id": "44"
-                    },
-                    {
-                        "channel_name": "TNT Sports 1 UK",
-                        "channel_id": "31"
+                        "channel_name": "Netflix",
+                        "channel_id": "00"
                     }
                 ]
             },
@@ -210,6 +212,24 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "NBA Playoffs / Finals Games (Basketball), May\u2013June 2026",
+                "channels": [
+                    {
+                        "channel_name": "NBA League Pass",
+                        "channel_id": "00"
+                    },
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44"
+                    },
+                    {
+                        "channel_name": "TNT Sports 1 UK",
+                        "channel_id": "31"
                     }
                 ]
             }
