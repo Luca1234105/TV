@@ -3691,7 +3691,7 @@
         "NBA": [
             {
                 "time": "23:30",
-                "event": "NBA : Philadelphia 76ers vs Orlando Magic",
+                "event": "NBA : Charlotte Hornets vs Miami Heat",
                 "channels": [
                     {
                         "channel_name": "NBA League Pass",
@@ -3721,7 +3721,7 @@
             },
             {
                 "time": "02:00",
-                "event": "NBA : Los Angeles Clippers vs Golden State Warriors",
+                "event": "NBA : Phoenix Suns vs Portland Trail Blazers",
                 "channels": [
                     {
                         "channel_name": "NBA League Pass",
