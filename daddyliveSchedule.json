@@ -4412,7 +4412,379 @@
                 ]
             }
         ],
-        "Soccer": [
+        "TV Shows": [
+            {
+                "time": "16:00",
+                "event": "Barrett-Jackson Auction (S4)",
+                "channels": [
+                    {
+                        "channel_name": "FYI",
+                        "channel_id": "665"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "UEFA Europa League Today",
+                "channels": [
+                    {
+                        "channel_name": "CBSSN",
+                        "channel_id": "308"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "The Kelly Clarkson Show (S7E116)",
+                "channels": [
+                    {
+                        "channel_name": "NBCNY USA",
+                        "channel_id": "769"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "General Hospital (S63E150)",
+                "channels": [
+                    {
+                        "channel_name": "ABC NY USA",
+                        "channel_id": "766"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "FanDuel Racing",
+                "channels": [
+                    {
+                        "channel_name": "Altitude Sports",
+                        "channel_id": "923"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "FanDuel Racing",
+                "channels": [
+                    {
+                        "channel_name": "NBC Sports Bay Area",
+                        "channel_id": "753"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "UEFA Europa League Post Match Show",
+                "channels": [
+                    {
+                        "channel_name": "CBSSN",
+                        "channel_id": "308"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "UEFA Champions League Matchnight",
+                "channels": [
+                    {
+                        "channel_name": "CBSSN",
+                        "channel_id": "308"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Jeopardy! (S42E159)",
+                "channels": [
+                    {
+                        "channel_name": "ABC NY USA",
+                        "channel_id": "766"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Georgie & Mandy's First Marriage (S2E16)",
+                "channels": [
+                    {
+                        "channel_name": "CBSNY USA",
+                        "channel_id": "767"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Next Level Chef (S5E11)",
+                "channels": [
+                    {
+                        "channel_name": "FOXNY USA",
+                        "channel_id": "768"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Scrabble (S2E11)",
+                "channels": [
+                    {
+                        "channel_name": "CW USA",
+                        "channel_id": "300"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Mi verdad oculta (S1E54)",
+                "channels": [
+                    {
+                        "channel_name": "Univision",
+                        "channel_id": "132"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "CNN Global Report: War With Iran",
+                "channels": [
+                    {
+                        "channel_name": "CNN USA",
+                        "channel_id": "345"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "The Real Housewives of Beverly Hills (S15E18)",
+                "channels": [
+                    {
+                        "channel_name": "Bravo TV",
+                        "channel_id": "307"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "The First 48 (S29E16)",
+                "channels": [
+                    {
+                        "channel_name": "A&E",
+                        "channel_id": "302"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Artemis II: To the Moon and Back",
+                "channels": [
+                    {
+                        "channel_name": "Discovery Channel",
+                        "channel_id": "313"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "90 Day: The Single Life (S5)",
+                "channels": [
+                    {
+                        "channel_name": "TLC",
+                        "channel_id": "337"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Uncensored (S7E9)",
+                "channels": [
+                    {
+                        "channel_name": "TV ONE USA",
+                        "channel_id": "660"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Ghosts (S5E16)",
+                "channels": [
+                    {
+                        "channel_name": "CBSNY USA",
+                        "channel_id": "767"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Matlock (S2E14)",
+                "channels": [
+                    {
+                        "channel_name": "CBSNY USA",
+                        "channel_id": "767"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Animal Control (S4E11)",
+                "channels": [
+                    {
+                        "channel_name": "FOXNY USA",
+                        "channel_id": "768"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Trivial Pursuit (S2E11)",
+                "channels": [
+                    {
+                        "channel_name": "CW USA",
+                        "channel_id": "300"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "House Hunters International (S207E6)",
+                "channels": [
+                    {
+                        "channel_name": "HGTV",
+                        "channel_id": "382"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Beat Bobby Flay (S40E10)",
+                "channels": [
+                    {
+                        "channel_name": "The Food Network",
+                        "channel_id": "384"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Ladies of London: The New Reign (S4E8)",
+                "channels": [
+                    {
+                        "channel_name": "Bravo TV",
+                        "channel_id": "307"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Predator Hunters (S1E7)",
+                "channels": [
+                    {
+                        "channel_name": "A&E",
+                        "channel_id": "302"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Mysteries Unearthed With Danny Trejo (S2E17)",
+                "channels": [
+                    {
+                        "channel_name": "History TV",
+                        "channel_id": "322"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Lost Treasures of the Bible: Secrets of Faith (S1E5)",
+                "channels": [
+                    {
+                        "channel_name": "National Geographic",
+                        "channel_id": "328"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Expedition Bigfoot (S6E2)",
+                "channels": [
+                    {
+                        "channel_name": "Travel Channel",
+                        "channel_id": "340"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Elsbeth (S3E16)",
+                "channels": [
+                    {
+                        "channel_name": "CBSNY USA",
+                        "channel_id": "767"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "The Hunting Party (S2E10)",
+                "channels": [
+                    {
+                        "channel_name": "NBCNY USA",
+                        "channel_id": "769"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Kitchen Nightmares (S2E7)",
+                "channels": [
+                    {
+                        "channel_name": "The Food Network",
+                        "channel_id": "384"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "The Proof Is Out There: Alien Edition (S2E5)",
+                "channels": [
+                    {
+                        "channel_name": "History TV",
+                        "channel_id": "322"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "That Thrifting Show with Lara Spencer (S1E6)",
+                "channels": [
+                    {
+                        "channel_name": "Freeform",
+                        "channel_id": "301"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "Jimmy Kimmel Live! (S24E103)",
+                "channels": [
+                    {
+                        "channel_name": "ABC NY USA",
+                        "channel_id": "766"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "WOW - Women Of Wrestling (S4E27)",
+                "channels": [
+                    {
+                        "channel_name": "VICE TV",
+                        "channel_id": "659"
+                    }
+                ]
+            }
+        ],
+        "England - League One": [
             {
                 "time": "18:45",
                 "event": "England - League One : Peterborough United vs Port Vale",
@@ -4422,7 +4794,9 @@
                         "channel_id": "161"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "13:55",
                 "event": "Oman - Omani League : Dhufar vs Al-Rustaq",
@@ -4822,6 +5196,10 @@
                     {
                         "channel_name": "Sky Sport 252 IT",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "CBS Sports Network",
+                        "channel_id": "308"
                     },
                     {
                         "channel_name": "Sky Sport Uno IT",
@@ -5806,50 +6184,6 @@
                         "channel_id": "714"
                     }
                 ]
-            }
-        ],
-        "College Tennis": [
-            {
-                "time": "14:00",
-                "event": "College Tennis : Big 12 Men's Tennis Championship",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "172"
-                    }
-                ]
-            },
-            {
-                "time": "14:00",
-                "event": "College Tennis : Sun Belt Men's Tennis Championship",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "173"
-                    }
-                ]
-            }
-        ],
-        "Women's College Tennis": [
-            {
-                "time": "18:00",
-                "event": "Women's College Tennis : Big 12 Women's Tennis Championship",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "174"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "Women's College Tennis : Big 12 Women's Tennis Championship",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "175"
-                    }
-                ]
             },
             {
                 "time": "09:00",
@@ -5992,6 +6326,50 @@
                 ]
             }
         ],
+        "College Tennis": [
+            {
+                "time": "14:00",
+                "event": "College Tennis : Big 12 Men's Tennis Championship",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "College Tennis : Sun Belt Men's Tennis Championship",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "173"
+                    }
+                ]
+            }
+        ],
+        "Women's College Tennis": [
+            {
+                "time": "18:00",
+                "event": "Women's College Tennis : Big 12 Women's Tennis Championship",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Women's College Tennis : Big 12 Women's Tennis Championship",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "175"
+                    }
+                ]
+            }
+        ],
         "Motorsport": [
             {
                 "time": "21:30",
@@ -6117,6 +6495,16 @@
             }
         ],
         "Wrestling": [
+            {
+                "time": "00:00",
+                "event": "All Elite Wrestling AEW : Collision Spring Breakthru",
+                "channels": [
+                    {
+                        "channel_name": "TNT USA",
+                        "channel_id": "338"
+                    }
+                ]
+            },
             {
                 "time": "01:00",
                 "event": "TNA iMPACT!",
@@ -6436,7 +6824,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (UFL)": [
             {
                 "time": "00:00",
                 "event": "UFL : Houston Gamblers vs Louisville Kings",
@@ -6448,7 +6836,7 @@
                 ]
             }
         ],
-        "Aussie rules": [
+        "Aussie Rules (AFL)": [
             {
                 "time": "09:30",
                 "event": "AFL : Carlton Blues vs Collingwood Magpies",
@@ -6468,7 +6856,7 @@
                 ]
             }
         ],
-        "Baseball": [
+        "Baseball (MLB)": [
             {
                 "time": "16:35",
                 "event": "MLB : Pittsburgh Pirates vs Washington Nationals",
@@ -6639,6 +7027,16 @@
             }
         ],
         "Minor League Baseball": [
+            {
+                "time": "22:00",
+                "event": "Minor League Baseball : Portland Sea Dogs vs Altoona Curve",
+                "channels": [
+                    {
+                        "channel_name": "SportsNet Pittsburgh",
+                        "channel_id": "922"
+                    }
+                ]
+            },
             {
                 "time": "22:30",
                 "event": "Minor League Baseball : Reading Fightin Phils vs Somerset Patriots",
@@ -7420,7 +7818,31 @@
                 ]
             }
         ],
-        "Ice Hockey": [
+        "Women's College Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "College Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "NHL": [
             {
                 "time": "23:30",
                 "event": "NHL : St. Louis Blues vs Utah Mammoth",
@@ -7580,27 +8002,9 @@
                         "channel_id": "147"
                     }
                 ]
-            },
-            {
-                "time": "15:15",
-                "event": "international match : Czech Republic vs Germany",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport 318",
-                        "channel_id": "9"
-                    }
-                ]
-            },
-            {
-                "time": "14:30",
-                "event": "Hockey World Friendly International : Slovakia vs Switzerland",
-                "channels": [
-                    {
-                        "channel_name": "SRF Zwei",
-                        "channel_id": "12"
-                    }
-                ]
-            },
+            }
+        ],
+        "Ice Hockey": [
             {
                 "time": "12:00",
                 "event": "Hockey Czech Republic ELJ : Trinec U20 vs Pardubice U20",
@@ -7622,22 +8026,22 @@
                 ]
             },
             {
-                "time": "18:15",
-                "event": "Hockey Czech Republic ULLH : Engineers Prague vs VSE Falcons Prague",
+                "time": "14:30",
+                "event": "Hockey World Friendly International : Slovakia vs Switzerland",
                 "channels": [
                     {
-                        "channel_name": "CT sport CZ",
-                        "channel_id": "1033"
+                        "channel_name": "SRF Zwei",
+                        "channel_id": "12"
                     }
                 ]
             },
             {
-                "time": "16:15",
-                "event": "Latvian Hockey League : Mogo Riga vs HK Zemgale/Llu",
+                "time": "15:15",
+                "event": "international match : Czech Republic vs Germany",
                 "channels": [
                     {
-                        "channel_name": "TV4 Latvia",
-                        "channel_id": "25"
+                        "channel_name": "Magenta Sport 318",
+                        "channel_id": "9"
                     }
                 ]
             },
@@ -7652,6 +8056,26 @@
                 ]
             },
             {
+                "time": "16:15",
+                "event": "Latvian Hockey League : Mogo Riga vs HK Zemgale/Llu",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Latvia",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
+                "time": "18:15",
+                "event": "Hockey Czech Republic ULLH : Engineers Prague vs VSE Falcons Prague",
+                "channels": [
+                    {
+                        "channel_name": "CT sport CZ",
+                        "channel_id": "1033"
+                    }
+                ]
+            },
+            {
                 "time": "17:00",
                 "event": "SHL : Vaxjo vs Rogle",
                 "channels": [
@@ -7660,7 +8084,9 @@
                         "channel_id": "700"
                     }
                 ]
-            },
+            }
+        ],
+        "PWHL Ice Hockey": [
             {
                 "time": "23:00",
                 "event": "PWHL : Montreal W vs Boston W",
@@ -7698,6 +8124,16 @@
                         "channel_id": "86"
                     }
                 ]
+            },
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
             }
         ],
         "OHL Ice Hockey": [
@@ -7732,7 +8168,67 @@
                 ]
             }
         ],
-        "Lacrosse": [
+        "AHL Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "QMJHL Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "USHL Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Lacrosse (NLL)": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "College Lacrosse": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Women's Lacrosse": [
             {
                 "time": "16:00",
                 "event": "Women's College Lacrosse : University of Delaware vs Queens University",
@@ -7953,7 +8449,7 @@
         "College Volleyball": [
             {
                 "time": "02:00",
-                "event": "College Volleyball : BYU - UCLA",
+                "event": "College Volleyball : BYU vs UCLA",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
@@ -7963,11 +8459,23 @@
             },
             {
                 "time": "02:00",
-                "event": "College Volleyball : Pepperdine - Southern Cal",
+                "event": "College Volleyball : Pepperdine vs Southern Cal",
                 "channels": [
                     {
                         "channel_name": "BTN+ USA",
                         "channel_id": "59"
+                    }
+                ]
+            }
+        ],
+        "League One Volleyball": [
+            {
+                "time": "00:00",
+                "event": "LOVB Championship : LOVB Salt Lake vs LOVB Austin",
+                "channels": [
+                    {
+                        "channel_name": "USA Network",
+                        "channel_id": "343"
                     }
                 ]
             }
