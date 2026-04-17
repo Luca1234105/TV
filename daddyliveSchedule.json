@@ -2801,7 +2801,11 @@
                 "event": "Speedway PGE Ekstraliga : KRONO-PLAST W??kniarz Cz?stochowa - ORLEN OIL Motor Lublin",
                 "channels": [
                     {
-                        "channel_name": "Canal+ Sport 5 Poland (CH-75) Canal+ Sport Poland",
+                        "channel_name": "Canal+ Sport 5 Poland",
+                        "channel_id": "75"
+                    },
+                    {
+                        "channel_name": "Canal+ Sport Poland",
                         "channel_id": "48"
                     }
                 ]
@@ -4620,18 +4624,6 @@
                 ]
             }
         ],
-        "Women's College Gymnastics": [
-            {
-                "time": "00:00",
-                "event": "Women's College Gymnastics : NCAA Men's Gymnastics National Qualifier",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "160"
-                    }
-                ]
-            }
-        ],
         "College Gymnastics": [
             {
                 "time": "18:00",
@@ -4872,8 +4864,8 @@
                 "event": "Sweden Hockey Allsvenskan : IF Bj\u00f6rkl\u00f6ven vs BIK Karlskoga",
                 "channels": [
                     {
-                        "channel_name": "TV4 Sport Live 2",
-                        "channel_id": "703"
+                        "channel_name": "TV4 Hockey",
+                        "channel_id": "700"
                     }
                 ]
             },
