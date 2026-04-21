@@ -4576,6 +4576,148 @@
                 ]
             }
         ],
+        "Tennis WTA - MADRID": [
+            {
+                "time": "09:00",
+                "event": "WTA - MADRID : Marcinko P. vs Jimenez Kasintseva V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    }
+                ]
+            },
+            {
+                "time": "09:00",
+                "event": "WTA - MADRID : Maria T. vs Samson L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - MADRID : Haddad Maia B. vs Bouzas Maneiro J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - MADRID : Siegemund L. vs Begu l.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - MADRID : Badosa P. vs Grabher J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - MADRID : Bondar A. vs Golubic V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "WTA - MADRID : Montgomery R. vs Linette M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - MADRID : Quevedo K. vs Williams V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - MADRID : Zakharova A. vs Osorio C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "WTA - MADRID : Stearns P. vs Boisson L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1554"
+                    }
+                ]
+            }
+        ],
         "Tennis": [
             {
                 "time": "09:00",
