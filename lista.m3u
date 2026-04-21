@@ -39,8 +39,12 @@ https://vavoo.to/vavoo-iptv/play/116299718d713a2de061f
 https://vavoo.to/vavoo-iptv/play/3911047486fb5f634d6343
 #EXTINF:-1 tvg-id="boomerang.it" tvg-logo="" group-title="Altro",BOOMERANG
 https://vavoo.to/vavoo-iptv/play/270562780243aa8d36614f
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMdUB8WEdsRVi_WZLxoi79pqlRef4s9Zehg&s" group-title="Altro",BYOBLU
+https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d
 #EXTINF:-1 tvg-id="caccia.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-it.png?raw=true" group-title="Altro",CACCIA
 https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca
+#EXTINF:-1 tvg-id="caccia.e.pesca.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-pesca-it.png?raw=true" group-title="Altro",CACCIA E PESCA
+https://vavoo.to/vavoo-iptv/play/3639213638a7c6a2cc326e
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/DW0Tvz72-8XZ7rEBVh1jBzwYE1fZhTaowuuxN75Jl8yBtnFkySH1z2T2b7OPlotmHeQ" group-title="Altro",CAFE 24
 https://vavoo.to/vavoo-iptv/play/1625923783d5a6dda233b3
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/camera-dei-deputati-it.png?raw=true" group-title="Altro",CAMERA DEI DEPUTATI
@@ -497,6 +501,8 @@ https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
 https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (2)
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION
+https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 6 TIMVISION
@@ -515,8 +521,10 @@ https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (2)
 https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (1)
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (2)
+https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
 https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
@@ -589,6 +597,8 @@ https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
 https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
+#EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
+https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",TELEPACE TRENTO (HISTORY LAB)
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
@@ -815,10 +825,25 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="englandpremierleaguecrystalpalacevswesthamunited" tvg-name="Soccer | England - Premier League : Crystal Palace vs West Ham United (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Crystal Palace_vs_West Ham United.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Crystal Palace vs West Ham United (21:00)
-https://dlhd.dad/watch.php?id=461
+#EXTINF:-1 tvg-id="italycoppaitaliainternazionalevscomo" tvg-name="All Soccer Events | Italy - Coppa Italia : Internazionale vs Como (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Internazionale_vs_Como.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia : Internazionale vs Como (21:00)
+https://dlhd.dad/watch.php?id=854
 
-#EXTINF:-1 tvg-id="englandpremierleaguecrystalpalacevswesthamunited" tvg-name="Soccer | England - Premier League : Crystal Palace vs West Ham United (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Crystal Palace_vs_West Ham United.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Crystal Palace vs West Ham United (21:00)
+#EXTINF:-1 tvg-id="2026mutuamadridopentenniswta1stround" tvg-name="Tennis | 2026 Mutua Madrid Open Tennis WTA 1st Round (11:00)" tvg-logo="https://ticketworldonline.com/wp-content/uploads/2024/11/dubai-duty-free-300x300.png" group-title="Eventi Live DLHD",Tennis | 2026 Mutua Madrid Open Tennis WTA 1st Round (11:00)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="worldchampionshipsnookerround1" tvg-name="Snooker | World Championship Snooker : Round 1 (11:00)" tvg-logo="https://static.flashscore.com/res/image/data/6Z3xE0EO-0SqgIPdG.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Round 1 (11:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="worldchampionshipsnookerround1" tvg-name="Snooker | World Championship Snooker : Round 1 (15:00)" tvg-logo="https://static.flashscore.com/res/image/data/6Z3xE0EO-0SqgIPdG.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Round 1 (15:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="worldchampionshipsnookerround1" tvg-name="Snooker | World Championship Snooker : Round 1 (20:00)" tvg-logo="https://static.flashscore.com/res/image/data/6Z3xE0EO-0SqgIPdG.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Round 1 (20:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="tourofthealpsstage2mentelfsvalmartello1475km" tvg-name="Cycling | Tour of the Alps | Stage 2 Men | Telfs - Val Martello (147.5km) (12:35)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Tour of the Alps | Stage 2 Men | Telfs - Val Martello (147.5km) (12:35)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="serieacittadicosenzavssalaconsilina" tvg-name="Futsal | Serie A : Citta di Cosenza vs Sala Consilina (20:30)" tvg-logo="https://vectorseek.com/wp-content/uploads/2024/02/Citta-Di-Cosenza-Logo-Vector.svg-.png" group-title="Eventi Live DLHD",Futsal | Serie A : Citta di Cosenza vs Sala Consilina (20:30)
 https://dlhd.dad/watch.php?id=870
 
 
