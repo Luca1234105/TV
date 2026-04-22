@@ -4360,7 +4360,7 @@
                 ]
             }
         ],
-        "Soccer": [
+        "England - League One": [
             {
                 "time": "18:45",
                 "event": "England - League One : Cardiff City vs Port Vale",
@@ -4370,7 +4370,9 @@
                         "channel_id": "109"
                     }
                 ]
-            },
+            }
+        ],
+        "England - Championship": [
             {
                 "time": "18:45",
                 "event": "England - Championship : Birmingham City vs Preston North End",
@@ -4400,7 +4402,9 @@
                         "channel_id": "152"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "08:30",
                 "event": "Indonesia - Super League : Persis Solo vs Bhayangkara",
@@ -6190,30 +6194,12 @@
                         "channel_id": "132"
                     }
                 ]
-            },
-            {
-                "time": "22:30",
-                "event": "United States - USL League One : Sarasota Paradise vs Corpus Christi",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "55"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "USL Super League : DC Power vs Fort Lauderdale United",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "59"
-                    }
-                ]
-            },
+            }
+        ],
+        "Major League Soccer": [
             {
                 "time": "23:30",
-                "event": "Major League Soccer : Toronto FC vs Philadelphia Union",
+                "event": "MLS : Toronto FC vs Philadelphia Union",
                 "channels": [
                     {
                         "channel_name": "MLS Season Pass",
@@ -6223,7 +6209,7 @@
             },
             {
                 "time": "23:30",
-                "event": "Major League Soccer : Orlando City SC vs Charlotte",
+                "event": "MLS : Orlando City SC vs Charlotte",
                 "channels": [
                     {
                         "channel_name": "MLS Season Pass",
@@ -6233,7 +6219,7 @@
             },
             {
                 "time": "23:30",
-                "event": "Major League Soccer : New York RB vs DC United",
+                "event": "MLS : New York RB vs DC United",
                 "channels": [
                     {
                         "channel_name": "MLS Season Pass",
@@ -6243,7 +6229,7 @@
             },
             {
                 "time": "23:30",
-                "event": "Major League Soccer : New York City vs Cincinnati",
+                "event": "MLS : New York City vs Cincinnati",
                 "channels": [
                     {
                         "channel_name": "MLS Season Pass",
@@ -6253,7 +6239,7 @@
             },
             {
                 "time": "23:30",
-                "event": "Major League Soccer : Columbus Crew vs LA Galaxy",
+                "event": "MLS : Columbus Crew vs LA Galaxy",
                 "channels": [
                     {
                         "channel_name": "MLS Season Pass",
@@ -6263,7 +6249,7 @@
             },
             {
                 "time": "23:45",
-                "event": "Major League Soccer : Atlanta United vs New England",
+                "event": "MLS : Atlanta United vs New England",
                 "channels": [
                     {
                         "channel_name": "MLS Season Pass",
@@ -6285,7 +6271,7 @@
             },
             {
                 "time": "00:30",
-                "event": "Major League Soccer : Dallas vs Minnesota United",
+                "event": "MLS : Dallas vs Minnesota United",
                 "channels": [
                     {
                         "channel_name": "MLS Season Pass",
@@ -6295,7 +6281,7 @@
             },
             {
                 "time": "00:30",
-                "event": "Major League Soccer : Houston Dynamo vs San Diego",
+                "event": "MLS : Houston Dynamo vs San Diego",
                 "channels": [
                     {
                         "channel_name": "MLS Season Pass",
@@ -6305,7 +6291,7 @@
             },
             {
                 "time": "01:30",
-                "event": "Major League Soccer : Real Salt Lake vs Inter Miami",
+                "event": "MLS : Real Salt Lake vs Inter Miami",
                 "channels": [
                     {
                         "channel_name": "MLS Season Pass",
@@ -6315,7 +6301,7 @@
             },
             {
                 "time": "02:30",
-                "event": "Major League Soccer : SJ Earthquakes vs Austin",
+                "event": "MLS : SJ Earthquakes vs Austin",
                 "channels": [
                     {
                         "channel_name": "MLS Season Pass",
@@ -6329,11 +6315,33 @@
             },
             {
                 "time": "02:30",
-                "event": "Major League Soccer : Los Angeles FC vs Colorado Rapids",
+                "event": "MLS : Los Angeles FC vs Colorado Rapids",
                 "channels": [
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "110"
+                    }
+                ]
+            }
+        ],
+        "USL Soccer": [
+            {
+                "time": "22:30",
+                "event": "United States - USL League One : Sarasota Paradise vs Corpus Christi",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "USL Super League : DC Power vs Fort Lauderdale United",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "59"
                     }
                 ]
             },
@@ -6784,7 +6792,7 @@
                 ]
             }
         ],
-        "Baseball": [
+        "Baseball (MLB)": [
             {
                 "time": "16:10",
                 "event": "MLB : Miami Marlins vs St. Louis Cardinals",
@@ -7306,7 +7314,9 @@
                         "channel_id": "85"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "23:00",
                 "event": "NBA : Detroit Pistons vs Orlando Magic",
@@ -7676,7 +7686,7 @@
                 ]
             }
         ],
-        "Ice Hockey": [
+        "NHL": [
             {
                 "time": "23:00",
                 "event": "NHL : Pittsburgh Penguins vs Philadelphia Flyers",
@@ -7838,7 +7848,9 @@
                         "channel_id": "147"
                     }
                 ]
-            },
+            }
+        ],
+        "Ice Hockey": [
             {
                 "time": "15:30",
                 "event": "Hockey Czech Republic Extraliga : Jihlava vs Litvinov",
@@ -7868,12 +7880,12 @@
                 ]
             },
             {
-                "time": "16:00",
-                "event": "IIHF U-18 World Championship : Canada U18 vs Slovakia U18",
+                "time": "17:00",
+                "event": "HockeyAllsvenskan : BIK Karlskoga vs IF Bjorkloven",
                 "channels": [
                     {
-                        "channel_name": "JOJ Sport Slovakia",
-                        "channel_id": "22"
+                        "channel_name": "TV4 Hockey Sweden",
+                        "channel_id": "700"
                     }
                 ]
             },
@@ -7906,7 +7918,9 @@
                         "channel_id": "27"
                     }
                 ]
-            },
+            }
+        ],
+        "IIHF U-18 Ice Hockey": [
             {
                 "time": "10:00",
                 "event": "IIHF U-18 World Championship : Germany vs Sweden",
@@ -7918,6 +7932,16 @@
                     {
                         "channel_name": "svt1 Sweden",
                         "channel_id": "6"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "IIHF U-18 World Championship : Canada U18 vs Slovakia U18",
+                "channels": [
+                    {
+                        "channel_name": "JOJ Sport Slovakia",
+                        "channel_id": "22"
                     }
                 ]
             },
@@ -7952,17 +7976,9 @@
                         "channel_id": "839"
                     }
                 ]
-            },
-            {
-                "time": "17:00",
-                "event": "HockeyAllsvenskan : BIK Karlskoga vs IF Bjorkloven",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey Sweden",
-                        "channel_id": "700"
-                    }
-                ]
-            },
+            }
+        ],
+        "PWHL Ice Hockey": [
             {
                 "time": "23:00",
                 "event": "PWHL : Boston W vs Ottawa W",
@@ -8088,6 +8104,42 @@
                     {
                         "channel_name": "FloHockey",
                         "channel_id": "167"
+                    }
+                ]
+            }
+        ],
+        "ECHL Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "QMJHL Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "USHL Ice Hockey": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
                     }
                 ]
             }
@@ -8264,6 +8316,42 @@
                 ]
             }
         ],
+        "Lacrosse (NLL)": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "College Lacrosse": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "PLL Lacrosse": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
         "Volleyball": [
             {
                 "time": "15:30",
@@ -8364,6 +8452,18 @@
                     {
                         "channel_name": "Sportv2 Brazil",
                         "channel_id": "79"
+                    }
+                ]
+            }
+        ],
+        "College Volleyball": [
+            {
+                "time": "18:30",
+                "event": "Streams not listed? You can Request Streams on website Chat! Mods & Staff will Provide Streams #justask",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "00"
                     }
                 ]
             }
