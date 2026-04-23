@@ -3,6 +3,20 @@
         "Upcoming Events": [
             {
                 "time": "15:00",
+                "event": "Internazionali BNL d\u2019Italia (Rome Masters Tennis), May 5\u201317, 2026",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sport Tennis Italy",
+                        "channel_id": "576"
+                    },
+                    {
+                        "channel_name": "EuroSport 1 Italy",
+                        "channel_id": "878"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
                 "event": "French Open (Roland Garros Tennis Grand Slam), May 25 \u2013 June 8, 2026",
                 "channels": [
                     {
@@ -5256,6 +5270,318 @@
                 ]
             }
         ],
+        "TV Shows": [
+            {
+                "time": "22:00",
+                "event": "Tracks Across Africa Season 21, Episode 11",
+                "channels": [
+                    {
+                        "channel_name": "Outdoor Channel USA",
+                        "channel_id": "848"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "FanDuel Racing",
+                "channels": [
+                    {
+                        "channel_name": "NBC Sports California",
+                        "channel_id": "755"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Georgie & Mandy's First Marriage Season 2, Episode 17",
+                "channels": [
+                    {
+                        "channel_name": "CBSNY USA",
+                        "channel_id": "767"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Law & Order Season 25, Episode 18",
+                "channels": [
+                    {
+                        "channel_name": "NBCNY USA",
+                        "channel_id": "769"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Next Level Chef Season 5, Episode 12",
+                "channels": [
+                    {
+                        "channel_name": "FOXNY USA",
+                        "channel_id": "768"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "The Real Housewives of Beverly Hills Season 15, Episode 19",
+                "channels": [
+                    {
+                        "channel_name": "Bravo USA",
+                        "channel_id": "307"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "The First 48 Season 29, Episode 17",
+                "channels": [
+                    {
+                        "channel_name": "A&E USA",
+                        "channel_id": "302"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Chernobyl's First 48",
+                "channels": [
+                    {
+                        "channel_name": "Discovery Channel",
+                        "channel_id": "313"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "90 Day: The Single Life Season 5",
+                "channels": [
+                    {
+                        "channel_name": "TLC",
+                        "channel_id": "337"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Uncensored Season 7, Episode 10",
+                "channels": [
+                    {
+                        "channel_name": "TV ONE USA",
+                        "channel_id": "660"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Jeopardy! Season 42, Episode 164",
+                "channels": [
+                    {
+                        "channel_name": "ABC NY USA",
+                        "channel_id": "766"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Ghosts Season 5, Episode 17",
+                "channels": [
+                    {
+                        "channel_name": "CBSNY USA",
+                        "channel_id": "767"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Matlock Season 2, Episode 15",
+                "channels": [
+                    {
+                        "channel_name": "CBSNY USA",
+                        "channel_id": "767"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Law & Order: Special Victims Unit Season 27, Episode 18",
+                "channels": [
+                    {
+                        "channel_name": "NBCNY USA",
+                        "channel_id": "769"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Animal Control Season 4, Episode 12",
+                "channels": [
+                    {
+                        "channel_name": "FOXNY USA",
+                        "channel_id": "768"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Trivial Pursuit Season 2, Episode 12",
+                "channels": [
+                    {
+                        "channel_name": "CW USA",
+                        "channel_id": "300"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Billboard: Latin Women in Music",
+                "channels": [
+                    {
+                        "channel_name": "Telemundo",
+                        "channel_id": "131"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "House Hunters International Season 207, Episode 10",
+                "channels": [
+                    {
+                        "channel_name": "HGTV",
+                        "channel_id": "382"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Beat Bobby Flay Season 40, Episode 11",
+                "channels": [
+                    {
+                        "channel_name": "Food Network",
+                        "channel_id": "384"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Ladies of London: The New Reign Season 4, Episode 9",
+                "channels": [
+                    {
+                        "channel_name": "Bravo USA",
+                        "channel_id": "307"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Predator Hunters Season 1, Episode 8",
+                "channels": [
+                    {
+                        "channel_name": "A&E USA",
+                        "channel_id": "302"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Mysteries Unearthed With Danny Trejo Season 2, Episode 18",
+                "channels": [
+                    {
+                        "channel_name": "History TV",
+                        "channel_id": "322"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Stonehenge: The Final Mystery Revealed",
+                "channels": [
+                    {
+                        "channel_name": "National Geographic",
+                        "channel_id": "328"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Expedition Bigfoot Season 6, Episode 3",
+                "channels": [
+                    {
+                        "channel_name": "Travel Channel",
+                        "channel_id": "340"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Half Man Season 1, Episode 1",
+                "channels": [
+                    {
+                        "channel_name": "HBO USA",
+                        "channel_id": "321"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "The Hunting Party Season 2, Episode 11",
+                "channels": [
+                    {
+                        "channel_name": "NBCNY USA",
+                        "channel_id": "769"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Kitchen Nightmares Season 2, Episode 8",
+                "channels": [
+                    {
+                        "channel_name": "Food Network",
+                        "channel_id": "384"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "The Proof Is Out There: Alien Edition Season 2, Episode 6",
+                "channels": [
+                    {
+                        "channel_name": "History TV",
+                        "channel_id": "322"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "That Thrifting Show with Lara Spencer Season 1, Episode 7",
+                "channels": [
+                    {
+                        "channel_name": "Freeform",
+                        "channel_id": "301"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "Jimmy Kimmel Live! Season 24, Episode 107",
+                "channels": [
+                    {
+                        "channel_name": "ABC NY USA",
+                        "channel_id": "766"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "WOW - Women Of Wrestling Season 4, Episode 28",
+                "channels": [
+                    {
+                        "channel_name": "VICE TV",
+                        "channel_id": "659"
+                    }
+                ]
+            }
+        ],
         "Soccer": [
             {
                 "time": "12:30",
@@ -6750,7 +7076,7 @@
                 ]
             }
         ],
-        "Wrestling": [
+        "WWE (TNA)": [
             {
                 "time": "01:00",
                 "event": "TNA iMPACT!",
@@ -7344,7 +7670,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NFL)": [
             {
                 "time": "18:00",
                 "event": "NFL Draft, Round 1",
@@ -7378,6 +7704,10 @@
                     {
                         "channel_name": "NFL Network USA",
                         "channel_id": "405"
+                    },
+                    {
+                        "channel_name": "ABC NY USA",
+                        "channel_id": "766"
                     },
                     {
                         "channel_name": "ABC USA",
@@ -7432,9 +7762,19 @@
                         "channel_id": "82"
                     }
                 ]
+            },
+            {
+                "time": "00:00",
+                "event": "College Football: Indiana Spring Game",
+                "channels": [
+                    {
+                        "channel_name": "BTN USA",
+                        "channel_id": "397"
+                    }
+                ]
             }
         ],
-        "Aussie rules": [
+        "Aussie rules (AFL)": [
             {
                 "time": "09:30",
                 "event": "AFL : Western Bulldogs vs Sydney Swans",
@@ -7454,7 +7794,7 @@
                 ]
             }
         ],
-        "Baseball": [
+        "Baseball (MLB)": [
             {
                 "time": "17:05",
                 "event": "MLB : Washington Nationals vs Atlanta Braves",
@@ -7623,6 +7963,16 @@
             }
         ],
         "Minor League Baseball": [
+            {
+                "time": "15:00",
+                "event": "Minor League Baseball: St. Paul Saints vs Indianapolis Indians",
+                "channels": [
+                    {
+                        "channel_name": "SportsNet Pittsburgh",
+                        "channel_id": "922"
+                    }
+                ]
+            },
             {
                 "time": "16:00",
                 "event": "Minor League Baseball : Memphis Redbirds vs Norfolk Tides",
@@ -7812,7 +8162,9 @@
                         "channel_id": "85"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "23:00",
                 "event": "NBA : Atlanta Hawks vs New York Knicks",
@@ -7928,6 +8280,50 @@
                     {
                         "channel_name": "Sky Sport 2 NZ",
                         "channel_id": "589"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network South",
+                        "channel_id": "903"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Southeast",
+                        "channel_id": "904"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Florida",
+                        "channel_id": "892"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Sun",
+                        "channel_id": "905"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network West",
+                        "channel_id": "906"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network SoCal",
+                        "channel_id": "902"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Detroit",
+                        "channel_id": "891"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Wisconsin",
+                        "channel_id": "907"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Ohio",
+                        "channel_id": "899"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network North",
+                        "channel_id": "898"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Midwest",
+                        "channel_id": "896"
                     },
                     {
                         "channel_name": "Sky Sports Main Event",
@@ -8088,7 +8484,7 @@
                 ]
             }
         ],
-        "Ice Hockey": [
+        "NHL": [
             {
                 "time": "23:00",
                 "event": "NHL : Buffalo Sabres vs Boston Bruins",
@@ -8254,21 +8650,9 @@
                         "channel_id": "147"
                     }
                 ]
-            },
-            {
-                "time": "17:00",
-                "event": "SHL : Skelleftea vs Rogle",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey Sweden",
-                        "channel_id": "700"
-                    },
-                    {
-                        "channel_name": "SPORT1+ DE",
-                        "channel_id": "640"
-                    }
-                ]
-            },
+            }
+        ],
+        "Ice Hockey": [
             {
                 "time": "15:00",
                 "event": "Hockey Czech Republic Extraliga : Trinec vs Pardubice",
@@ -8290,6 +8674,20 @@
                     {
                         "channel_name": "Magenta Sport 318",
                         "channel_id": "20"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "SHL : Skelleftea vs Rogle",
+                "channels": [
+                    {
+                        "channel_name": "TV4 Hockey Sweden",
+                        "channel_id": "700"
+                    },
+                    {
+                        "channel_name": "SPORT1+ DE",
+                        "channel_id": "640"
                     }
                 ]
             },
@@ -8322,7 +8720,9 @@
                         "channel_id": "30"
                     }
                 ]
-            },
+            }
+        ],
+        "IIHF U-18 Ice Hockey": [
             {
                 "time": "10:00",
                 "event": "IIHF U-18 World Championship : Denmark U18 vs Germany U18",
@@ -8430,7 +8830,7 @@
                 ]
             }
         ],
-        "Lacrosse": [
+        "Women's Lacrosse": [
             {
                 "time": "21:00",
                 "event": "Women's College Lacrosse : Boston University vs Holy Cross",
