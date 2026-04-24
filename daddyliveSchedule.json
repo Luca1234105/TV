@@ -4442,7 +4442,223 @@
                 ]
             }
         ],
-        "Soccer": [
+        "TV Shows": [
+            {
+                "time": "22:00",
+                "event": "NFL Draft Countdown Live",
+                "channels": [
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "FanDuel Racing Live",
+                "channels": [
+                    {
+                        "channel_name": "NBC Sports California",
+                        "channel_id": "755"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "HGTV Smart Home 2026 Premiere",
+                "channels": [
+                    {
+                        "channel_name": "HGTV",
+                        "channel_id": "382"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Sheriff Country S01E16",
+                "channels": [
+                    {
+                        "channel_name": "CBSNY USA",
+                        "channel_id": "767"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "CNN Global Report: War With Iran",
+                "channels": [
+                    {
+                        "channel_name": "CNN USA",
+                        "channel_id": "345"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Dark Side of the Ring S06",
+                "channels": [
+                    {
+                        "channel_name": "VICE TV",
+                        "channel_id": "659"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Gold Rush S16E22",
+                "channels": [
+                    {
+                        "channel_name": "Discovery Channel",
+                        "channel_id": "313"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Outlander S08E08",
+                "channels": [
+                    {
+                        "channel_name": "Starz",
+                        "channel_id": "335"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Happy's Place S02E18 (Finale)",
+                "channels": [
+                    {
+                        "channel_name": "NBCNY USA",
+                        "channel_id": "769"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Fire Country S04E16",
+                "channels": [
+                    {
+                        "channel_name": "CBSNY USA",
+                        "channel_id": "767"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Diners, Drive-Ins and Dives S55E02",
+                "channels": [
+                    {
+                        "channel_name": "Food Network",
+                        "channel_id": "384"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Mama June: From Not to Hot S08E07",
+                "channels": [
+                    {
+                        "channel_name": "WETV USA",
+                        "channel_id": "655"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "The UnBelievable With Dan Aykroyd S03E17",
+                "channels": [
+                    {
+                        "channel_name": "History TV",
+                        "channel_id": "322"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "BKB: Bare Knuckle Boxing Interim Lightweight Championship: Grant vs Bargallo",
+                "channels": [
+                    {
+                        "channel_name": "VICE TV",
+                        "channel_id": "659"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Hidden Beneath the Cities S01E01",
+                "channels": [
+                    {
+                        "channel_name": "National Geographic",
+                        "channel_id": "328"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Gold Rush: Mine Rescue With Freddy & Juan S06E10",
+                "channels": [
+                    {
+                        "channel_name": "Discovery Channel",
+                        "channel_id": "313"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Boston Blue S01E16",
+                "channels": [
+                    {
+                        "channel_name": "CBSNY USA",
+                        "channel_id": "767"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "House Hunters S273E12",
+                "channels": [
+                    {
+                        "channel_name": "HGTV",
+                        "channel_id": "382"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Bridezillas S14E07",
+                "channels": [
+                    {
+                        "channel_name": "WETV USA",
+                        "channel_id": "655"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "The Wrestlers S01",
+                "channels": [
+                    {
+                        "channel_name": "VICE TV",
+                        "channel_id": "659"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "The American Bible Challenge S1E4",
+                "channels": [
+                    {
+                        "channel_name": "CW USA",
+                        "channel_id": "300"
+                    },
+                    {
+                        "channel_name": "CW PIX 11 USA",
+                        "channel_id": "280"
+                    }
+                ]
+            }
+        ],
+        "Ireland Republic": [
             {
                 "time": "18:45",
                 "event": "Ireland Republic - Premier Division : Shelbourne vs Drogheda United",
@@ -4522,7 +4738,9 @@
                         "channel_id": "161"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events": [
             {
                 "time": "08:30",
                 "event": "Indonesia - Super League : Persijap vs PSBS Biak Numfor",
@@ -5886,7 +6104,9 @@
                         "channel_id": "66"
                     }
                 ]
-            },
+            }
+        ],
+        "NWSL": [
             {
                 "time": "21:30",
                 "event": "NWSL : Racing Louisville FC vs Orlando Pride",
@@ -6112,74 +6332,16 @@
                         "channel_id": "163"
                     }
                 ]
-            },
+            }
+        ],
+        "Tennis ATP/WTA Madrid": [
             {
                 "time": "09:00",
-                "event": "ATP Masters Madrid: Hurkacz vs Musetti",
+                "event": "ATP Masters Madrid: Nava vs Vacherot",
                 "channels": [
                     {
-                        "channel_name": "Sportklub 2 Croatia",
-                        "channel_id": "102"
-                    }
-                ]
-            },
-            {
-                "time": "11:00",
-                "event": "ATP Masters Madrid: Shelton vs Prizmi\u0107",
-                "channels": [
-                    {
-                        "channel_name": "Sportklub 2 Croatia",
-                        "channel_id": "102"
-                    }
-                ]
-            },
-            {
-                "time": "13:00",
-                "event": "WTA 1000 Madrid: Jean-Jean vs Gauff",
-                "channels": [
-                    {
-                        "channel_name": "Sportklub 2 Croatia",
-                        "channel_id": "102"
-                    }
-                ]
-            },
-            {
-                "time": "14:45",
-                "event": "ATP Masters Madrid: Rublev vs Kopriva",
-                "channels": [
-                    {
-                        "channel_name": "Sportklub 2 Croatia",
-                        "channel_id": "102"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "WTA 1000 Madrid: McNally vs Mboko",
-                "channels": [
-                    {
-                        "channel_name": "Sportklub 2 Croatia",
-                        "channel_id": "102"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "ATP Masters Madrid: Fonseca vs \u010cili\u0107",
-                "channels": [
-                    {
-                        "channel_name": "Sportklub 2 Croatia",
-                        "channel_id": "102"
-                    }
-                ]
-            },
-            {
-                "time": "20:30",
-                "event": "WTA 1000 Madrid: Pegula vs Boulter (INCLUSION)",
-                "channels": [
-                    {
-                        "channel_name": "Sportklub 2 Croatia",
-                        "channel_id": "102"
+                        "channel_name": "Sportklub 7 Croatia",
+                        "channel_id": "12"
                     }
                 ]
             },
@@ -6194,92 +6356,12 @@
                 ]
             },
             {
-                "time": "10:45",
-                "event": "ATP Masters Madrid: Lajovi\u0107 vs Rinderknech",
-                "channels": [
-                    {
-                        "channel_name": "Sportklub 4 Croatia",
-                        "channel_id": "104"
-                    }
-                ]
-            },
-            {
-                "time": "12:45",
-                "event": "WTA 1000 Madrid: Waltert vs Ostapenko",
-                "channels": [
-                    {
-                        "channel_name": "Sportklub 4 Croatia",
-                        "channel_id": "104"
-                    }
-                ]
-            },
-            {
-                "time": "14:00",
-                "event": "ATP Masters Madrid: Sinner vs Bonzi",
-                "channels": [
-                    {
-                        "channel_name": "Sportklub 4 Croatia",
-                        "channel_id": "104"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "ATP Masters Madrid: Jodar vs De Minaur",
-                "channels": [
-                    {
-                        "channel_name": "Sportklub 4 Croatia",
-                        "channel_id": "104"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "WTA 1000 Madrid: Pegula vs Boulter",
-                "channels": [
-                    {
-                        "channel_name": "Sportklub 4 Croatia",
-                        "channel_id": "104"
-                    }
-                ]
-            },
-            {
                 "time": "09:00",
-                "event": "ATP Masters Madrid: Nava vs Vacherot",
+                "event": "ATP Masters Madrid: Hurkacz vs Musetti",
                 "channels": [
                     {
-                        "channel_name": "Sportklub 7 Croatia",
-                        "channel_id": "12"
-                    }
-                ]
-            },
-            {
-                "time": "10:45",
-                "event": "ATP Masters Madrid: Lehecka vs Tabilo",
-                "channels": [
-                    {
-                        "channel_name": "Sportklub 7 Croatia",
-                        "channel_id": "12"
-                    }
-                ]
-            },
-            {
-                "time": "13:00",
-                "event": "ATP Masters Madrid: Ofner vs Etcheverry",
-                "channels": [
-                    {
-                        "channel_name": "Sportklub 7 Croatia",
-                        "channel_id": "12"
-                    }
-                ]
-            },
-            {
-                "time": "14:45",
-                "event": "ATP Masters Madrid: Norrie vs Machac",
-                "channels": [
-                    {
-                        "channel_name": "Sportklub 7 Croatia",
-                        "channel_id": "12"
+                        "channel_name": "Sportklub 2 Croatia",
+                        "channel_id": "102"
                     }
                 ]
             },
@@ -6294,12 +6376,142 @@
                 ]
             },
             {
+                "time": "09:00",
+                "event": "ATP Masters Madrid: Struff vs Michelsen",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub 9 Croatia",
+                        "channel_id": "14"
+                    }
+                ]
+            },
+            {
+                "time": "09:00",
+                "event": "WTA 1000 Madrid: Pliskova vs Sakkari",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub 10 Croatia",
+                        "channel_id": "17"
+                    }
+                ]
+            },
+            {
+                "time": "10:45",
+                "event": "ATP Masters Madrid: Lajovi\u0107 vs Rinderknech",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub 4 Croatia",
+                        "channel_id": "104"
+                    }
+                ]
+            },
+            {
+                "time": "10:45",
+                "event": "ATP Masters Madrid: Lehecka vs Tabilo",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub 7 Croatia",
+                        "channel_id": "12"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "ATP Masters Madrid: Moller vs Diallo",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub 9 Croatia",
+                        "channel_id": "14"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "WTA 1000 Madrid: Mertens vs Eala",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub 10 Croatia",
+                        "channel_id": "17"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "ATP Masters Madrid: Shelton vs Prizmi\u0107",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub 2 Croatia",
+                        "channel_id": "102"
+                    }
+                ]
+            },
+            {
                 "time": "11:00",
                 "event": "WTA 1000 Madrid: Ruse vs Rybakina",
                 "channels": [
                     {
                         "channel_name": "Sportklub 8 Croatia",
                         "channel_id": "13"
+                    }
+                ]
+            },
+            {
+                "time": "12:45",
+                "event": "WTA 1000 Madrid: Waltert vs Ostapenko",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub 4 Croatia",
+                        "channel_id": "104"
+                    }
+                ]
+            },
+            {
+                "time": "12:45",
+                "event": "WTA 1000 Madrid: Noskov vs Arango",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub 9 Croatia",
+                        "channel_id": "14"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "WTA 1000 Madrid: Jean-Jean vs Gauff",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub 2 Croatia",
+                        "channel_id": "102"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "ATP Masters Madrid: Ofner vs Etcheverry",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub 7 Croatia",
+                        "channel_id": "12"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "WTA 1000 Madrid: Detiuc/Peter vs M. Andreeva/Shnaider (couples)",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub 10 Croatia",
+                        "channel_id": "17"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "ATP Masters Madrid: Sinner vs Bonzi",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub 4 Croatia",
+                        "channel_id": "104"
                     }
                 ]
             },
@@ -6324,72 +6536,12 @@
                 ]
             },
             {
-                "time": "09:00",
-                "event": "ATP Masters Madrid: Struff vs Michelsen",
-                "channels": [
-                    {
-                        "channel_name": "Sportklub 9 Croatia",
-                        "channel_id": "14"
-                    }
-                ]
-            },
-            {
-                "time": "11:00",
-                "event": "ATP Masters Madrid: Moller vs Diallo",
-                "channels": [
-                    {
-                        "channel_name": "Sportklub 9 Croatia",
-                        "channel_id": "14"
-                    }
-                ]
-            },
-            {
-                "time": "12:45",
-                "event": "WTA 1000 Madrid: Noskov vs Arango",
-                "channels": [
-                    {
-                        "channel_name": "Sportklub 9 Croatia",
-                        "channel_id": "14"
-                    }
-                ]
-            },
-            {
                 "time": "14:30",
                 "event": "WTA 1000 Madrid: Tauson vs Siniakova",
                 "channels": [
                     {
                         "channel_name": "Sportklub 9 Croatia",
                         "channel_id": "14"
-                    }
-                ]
-            },
-            {
-                "time": "09:00",
-                "event": "WTA 1000 Madrid: Pliskova vs Sakkari",
-                "channels": [
-                    {
-                        "channel_name": "Sportklub 10 Croatia",
-                        "channel_id": "17"
-                    }
-                ]
-            },
-            {
-                "time": "11:00",
-                "event": "WTA 1000 Madrid: Mertens vs Eala",
-                "channels": [
-                    {
-                        "channel_name": "Sportklub 10 Croatia",
-                        "channel_id": "17"
-                    }
-                ]
-            },
-            {
-                "time": "13:00",
-                "event": "WTA 1000 Madrid: Detiuc/Peter vs M. Andreeva/Shnaider (couples)",
-                "channels": [
-                    {
-                        "channel_name": "Sportklub 10 Croatia",
-                        "channel_id": "17"
                     }
                 ]
             },
@@ -6404,12 +6556,82 @@
                 ]
             },
             {
+                "time": "14:45",
+                "event": "ATP Masters Madrid: Rublev vs Kopriva",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub 2 Croatia",
+                        "channel_id": "102"
+                    }
+                ]
+            },
+            {
+                "time": "14:45",
+                "event": "ATP Masters Madrid: Norrie vs Machac",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub 7 Croatia",
+                        "channel_id": "12"
+                    }
+                ]
+            },
+            {
                 "time": "16:15",
                 "event": "WTA 1000 Madrid: Rakhimova/Siskova vs Kruni\u0107/Mladenovic (couples)",
                 "channels": [
                     {
                         "channel_name": "Sportklub 10 Croatia",
                         "channel_id": "17"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "WTA 1000 Madrid: McNally vs Mboko",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub 2 Croatia",
+                        "channel_id": "102"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "ATP Masters Madrid: Jodar vs De Minaur",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub 4 Croatia",
+                        "channel_id": "104"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "ATP Masters Madrid: Fonseca vs \u010cili\u0107",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub 2 Croatia",
+                        "channel_id": "102"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "WTA 1000 Madrid: Pegula vs Boulter",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub 4 Croatia",
+                        "channel_id": "104"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "WTA 1000 Madrid: Pegula vs Boulter (INCLUSION)",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub 2 Croatia",
+                        "channel_id": "102"
                     }
                 ]
             }
@@ -7218,7 +7440,7 @@
                 ]
             }
         ],
-        "Wrestling": [
+        "WWE (SmackDown)": [
             {
                 "time": "00:00",
                 "event": "WWE Friday Night SmackDown",
@@ -7782,7 +8004,7 @@
                 ]
             }
         ],
-        "Am. Football": [
+        "Am. Football (NFL/UFL)": [
             {
                 "time": "23:00",
                 "event": "NFL Draft: Ronde 2-3",
@@ -7894,7 +8116,7 @@
                 ]
             }
         ],
-        "Aussie rules": [
+        "Aussie Rules (AFL)": [
             {
                 "time": "09:40",
                 "event": "AFL : Richmond Tigers vs Melbourne Demons",
@@ -7932,7 +8154,7 @@
                 ]
             }
         ],
-        "Baseball": [
+        "Baseball (MLB)": [
             {
                 "time": "22:40",
                 "event": "MLB : Cincinnati Reds vs Detroit Tigers",
@@ -8594,6 +8816,50 @@
                         "channel_id": "24"
                     },
                     {
+                        "channel_name": "FanDuel Sports Network South",
+                        "channel_id": "903"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Southeast",
+                        "channel_id": "904"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Florida",
+                        "channel_id": "892"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Sun",
+                        "channel_id": "905"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network West",
+                        "channel_id": "906"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network SoCal",
+                        "channel_id": "902"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Detroit",
+                        "channel_id": "891"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Wisconsin",
+                        "channel_id": "907"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Ohio",
+                        "channel_id": "899"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network North",
+                        "channel_id": "898"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Midwest",
+                        "channel_id": "896"
+                    },
+                    {
                         "channel_name": "Arena Premium 1 Serbia",
                         "channel_id": "134"
                     },
@@ -8682,7 +8948,9 @@
                         "channel_id": "591"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "23:00",
                 "event": "NBA : Philadelphia 76ers vs Boston Celtics",
@@ -8988,7 +9256,7 @@
                 ]
             }
         ],
-        "Ice Hockey": [
+        "NHL": [
             {
                 "time": "23:00",
                 "event": "NHL : Tampa Bay Lightning vs Montreal Canadiens",
@@ -9150,7 +9418,9 @@
                         "channel_id": "147"
                     }
                 ]
-            },
+            }
+        ],
+        "Ice Hockey": [
             {
                 "time": "14:00",
                 "event": "WCH U18 : USA U18 vs Denmark U18",
@@ -9176,12 +9446,40 @@
                 ]
             },
             {
+                "time": "16:00",
+                "event": "Russia KHL : Lokomotiv Yaroslavl vs Avangard Omsk",
+                "channels": [
+                    {
+                        "channel_name": "Match TV Russia",
+                        "channel_id": "127"
+                    },
+                    {
+                        "channel_name": "KHL TV",
+                        "channel_id": "25"
+                    },
+                    {
+                        "channel_name": "Arena Sport 7 Serbia",
+                        "channel_id": "942"
+                    }
+                ]
+            },
+            {
                 "time": "16:30",
                 "event": "Hockey Slovakia Tipsport liga : Slovan Bratislava vs Nitra",
                 "channels": [
                     {
                         "channel_name": "JOJ Sport Slovakia",
                         "channel_id": "28"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "DEL : Adler Mannheim vs Eisbaren Berlin",
+                "channels": [
+                    {
+                        "channel_name": "Magenta Sport",
+                        "channel_id": "21"
                     }
                 ]
             },
@@ -9202,34 +9500,6 @@
                     {
                         "channel_name": "SRF Zwei",
                         "channel_id": "30"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "Russia KHL : Lokomotiv Yaroslavl vs Avangard Omsk",
-                "channels": [
-                    {
-                        "channel_name": "Match TV Russia",
-                        "channel_id": "127"
-                    },
-                    {
-                        "channel_name": "KHL TV",
-                        "channel_id": "25"
-                    },
-                    {
-                        "channel_name": "Arena Sport 7 Serbia",
-                        "channel_id": "942"
-                    }
-                ]
-            },
-            {
-                "time": "17:30",
-                "event": "DEL : Adler Mannheim vs Eisbaren Berlin",
-                "channels": [
-                    {
-                        "channel_name": "Magenta Sport",
-                        "channel_id": "21"
                     }
                 ]
             }
@@ -9422,10 +9692,10 @@
                 ]
             }
         ],
-        "Lacrosse": [
+        "Lacrosse (NLL)": [
             {
                 "time": "02:00",
-                "event": "NLL : Vancouver Warriors vs. Halifax Thunderbirds",
+                "event": "NLL : Vancouver Warriors vs Halifax Thunderbirds",
                 "channels": [
                     {
                         "channel_name": "TSN5",
@@ -9502,6 +9772,38 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "108"
+                    }
+                ]
+            }
+        ],
+        "Women's College Lacrosse": [
+            {
+                "time": "15:00",
+                "event": "Women's College Lacrosse : Big Ten Tournament, First Semifinal: Teams TBA",
+                "channels": [
+                    {
+                        "channel_name": "BTN USA",
+                        "channel_id": "397"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Women's College Lacrosse : Big Ten Tournament, Second Semifinal: Teams TBA",
+                "channels": [
+                    {
+                        "channel_name": "BTN USA",
+                        "channel_id": "397"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "Women's College Lacrosse : ACC Tournament, First Semifinal: Teams TBA",
+                "channels": [
+                    {
+                        "channel_name": "ACC Network USA",
+                        "channel_id": "664"
                     }
                 ]
             },

@@ -661,10 +661,6 @@ https://vavoo.to/vavoo-iptv/play/2242741766a460e21385e6
 https://vavoo.to/vavoo-iptv/play/1759653413f7025450e6b1
 #EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film - Serie TV",SKY CINEMA COLLECTION (2)
 https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb
-#EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY (1)
-https://vavoo.to/vavoo-iptv/play/500203271d58941028e95
-#EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY (2)
-https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film - Serie TV",SKY CINEMA DRAMA
 https://vavoo.to/vavoo-iptv/play/123553017707540030adf9
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE (1)
@@ -829,16 +825,16 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriebmonzavsmodena" tvg-name="Soccer | Italy - Serie B : Monza vs Modena (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monza_vs_Modena.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie B : Monza vs Modena (19:00)
+#EXTINF:-1 tvg-id="italyseriebmonzavsmodena" tvg-name="All Soccer Events | Italy - Serie B : Monza vs Modena (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monza_vs_Modena.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Monza vs Modena (19:00)
 https://dlhd.dad/watch.php?id=55
 
-#EXTINF:-1 tvg-id="italyserieanapolivscremonese" tvg-name="Soccer | Italy - Serie A : Napoli vs Cremonese (20:45)" tvg-logo="https://logodix.com/logo/1746008.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Napoli vs Cremonese (20:45)
+#EXTINF:-1 tvg-id="italyserieanapolivscremonese" tvg-name="All Soccer Events | Italy - Serie A : Napoli vs Cremonese (20:45)" tvg-logo="https://logodix.com/logo/1746008.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Napoli vs Cremonese (20:45)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="englandpremierleaguesunderlandvsnottinghamforest" tvg-name="Soccer | England - Premier League : Sunderland vs Nottingham Forest (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sunderland_vs_Nottingham Forest.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Sunderland vs Nottingham Forest (21:00)
+#EXTINF:-1 tvg-id="englandpremierleaguesunderlandvsnottinghamforest" tvg-name="All Soccer Events | England - Premier League : Sunderland vs Nottingham Forest (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sunderland_vs_Nottingham Forest.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Sunderland vs Nottingham Forest (21:00)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="italyseriebavellinovsbari1908" tvg-name="Soccer | Italy - Serie B : Avellino vs Bari 1908 (21:00)" tvg-logo="https://static.miraheze.org/nonciclopediawiki/thumb/2/26/Bari-Stemma.png/200px-Bari-Stemma.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie B : Avellino vs Bari 1908 (21:00)
+#EXTINF:-1 tvg-id="italyseriebavellinovsbari1908" tvg-name="All Soccer Events | Italy - Serie B : Avellino vs Bari 1908 (21:00)" tvg-logo="https://static.miraheze.org/nonciclopediawiki/thumb/2/26/Bari-Stemma.png/200px-Bari-Stemma.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Avellino vs Bari 1908 (21:00)
 https://dlhd.dad/watch.php?id=108
 
 #EXTINF:-1 tvg-id="2026mutuamadridopentennisatpwta2ndround" tvg-name="Tennis | 2026 Mutua Madrid Open Tennis ATP/WTA 2nd Round (11:00)" tvg-logo="https://ticketworldonline.com/wp-content/uploads/2024/11/dubai-duty-free-300x300.png" group-title="Eventi Live DLHD",Tennis | 2026 Mutua Madrid Open Tennis ATP/WTA 2nd Round (11:00)
@@ -862,13 +858,13 @@ https://dlhd.dad/watch.php?id=575
 #EXTINF:-1 tvg-id="moto2round5spainpractice1" tvg-name="Motorsport | Moto 2 : Round 5 | Spain Practice 1 (14:00)" tvg-logo="https://moto-ayuda.com/logo_moto2.png" group-title="Eventi Live DLHD",Motorsport | Moto 2 : Round 5 | Spain Practice 1 (14:00)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="worldchampionshipsnookerround2" tvg-name="Snooker | World Championship Snooker : Round 2 (11:00)" tvg-logo="https://static.flashscore.com/res/image/data/dpli81C7-8QrqBxAk.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Round 2 (11:00)
+#EXTINF:-1 tvg-id="worldchampionshipsnookerround2" tvg-name="Snooker | World Championship Snooker : Round 2 (11:00)" tvg-logo="https://static.flashscore.com/res/image/data/6Z3xE0EO-0SqgIPdG.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Round 2 (11:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldchampionshipsnookerround2" tvg-name="Snooker | World Championship Snooker : Round 2 (15:00)" tvg-logo="https://static.flashscore.com/res/image/data/dpli81C7-8QrqBxAk.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Round 2 (15:00)
+#EXTINF:-1 tvg-id="worldchampionshipsnookerround2" tvg-name="Snooker | World Championship Snooker : Round 2 (15:00)" tvg-logo="https://static.flashscore.com/res/image/data/6Z3xE0EO-0SqgIPdG.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Round 2 (15:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldchampionshipsnookerround2" tvg-name="Snooker | World Championship Snooker : Round 2 (20:00)" tvg-logo="https://static.flashscore.com/res/image/data/dpli81C7-8QrqBxAk.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Round 2 (20:00)
+#EXTINF:-1 tvg-id="worldchampionshipsnookerround2" tvg-name="Snooker | World Championship Snooker : Round 2 (20:00)" tvg-logo="https://static.flashscore.com/res/image/data/6Z3xE0EO-0SqgIPdG.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Round 2 (20:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="tourofthealpsstage5mentrentobolzano1286km" tvg-name="Cycling | Tour of the Alps | Stage 5 Men | Trento – Bolzano (128.6km) (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Tour of the Alps | Stage 5 Men | Trento – Bolzano (128.6km) (13:30)
