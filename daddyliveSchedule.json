@@ -162,6 +162,138 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "22:00",
+                "event": "USAC Kokomo Grand Prix Kokomo",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "24"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Lucas Oil Late Models at Georgetown",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Weekly Racing Utica",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "26"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Attica Sprints Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "27"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Williams Grove Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "ROMAN 3",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Sprint Cars Knoxville",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "173"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "2026 MARS Late Models at Brownstown Bullring",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "2026 Pro Late Models at Marshalltown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "175"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "TFNF - Thunder's Friday Night Fights: Night of Champions XI",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "176"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Lux Fight League 60",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "177"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "CMLL: 70th Arena Mexico Anniversary",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "178"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "World Boxing Series 2026, April 25th",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "179"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "22:00",
