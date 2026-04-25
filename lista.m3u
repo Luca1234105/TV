@@ -195,9 +195,7 @@ https://vavoo.to/vavoo-iptv/play/1087345241c8751e395263
 https://vavoo.to/vavoo-iptv/play/714472867a9a9547f329c
 #EXTINF:-1 tvg-id="pescaecaccia.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-pesca-it.png?raw=true" group-title="Altro",PESCA E CACCIA
 https://vavoo.to/vavoo-iptv/play/312451299385241b4e7078
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro",PRIMA TV (1)
-https://vavoo.to/vavoo-iptv/play/530658045774685c88ed8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro",PRIMA TV (2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro",PRIMA TV
 https://vavoo.to/vavoo-iptv/play/91764224e4ebfa90eace
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/primocanale-it.png?raw=true" group-title="Altro",PRIMO CANALE
 https://vavoo.to/vavoo-iptv/play/3497884599a7fdd17618d9
@@ -425,8 +423,6 @@ https://vavoo.to/vavoo-iptv/play/1613543898fd67f91cf2e0
 https://vavoo.to/vavoo-iptv/play/84139639718d779a091b
 #EXTINF:-1 tvg-id="la.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Mediaset",LA 5 (2)
 https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",MEDIASET 20
-https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
 #EXTINF:-1 tvg-id="mediaset.extra.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Mediaset",MEDIASET EXTRA
 https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.italiasera.it/wp-content/uploads/2019/06/Mediaset-640x366.png" group-title="Mediaset",MEDIASET ITALIA
@@ -911,9 +907,6 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="2026mutuamadridopentennisatp2ndroundwta3rdround" tvg-name="Tennis | 2026 Mutua Madrid Open Tennis ATP 2nd Round; WTA 3rd Round (11:00)" tvg-logo="https://allsportdb.com/Images/Logo/Large/Events/6071.png" group-title="Eventi Live DLHD",Tennis | 2026 Mutua Madrid Open Tennis ATP 2nd Round; WTA 3rd Round (11:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="moto3round4spainfreepractice2" tvg-name="Motorsport | Moto3 : Round 4 | Spain Free Practice 2 (08:30)" tvg-logo="https://freelogopng.com/images/all_img/1658586823instagram-logo-transparent.png" group-title="Eventi Live DLHD",Motorsport | Moto3 : Round 4 | Spain Free Practice 2 (08:30)
-https://dlhd.dad/watch.php?id=575
-
 #EXTINF:-1 tvg-id="moto2round4spainfreepractice2" tvg-name="Motorsport | Moto2 : Round 4 | Spain Free Practice 2 (09:20)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Round 4 | Spain Free Practice 2 (09:20)
 https://dlhd.dad/watch.php?id=575
 
@@ -929,13 +922,13 @@ https://dlhd.dad/watch.php?id=575
 #EXTINF:-1 tvg-id="motogpround4spainsprintrace" tvg-name="Motorsport | MotoGP : Round 4 | Spain Sprint Race (14:45)" tvg-logo="https://images.seeklogo.com/logo-png/33/2/ecstar-suzuki-logo-png_seeklogo-335477.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Round 4 | Spain Sprint Race (14:45)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="worldchampionshipsnookerround2" tvg-name="Snooker | World Championship Snooker : Round 2 (11:00)" tvg-logo="https://static.flashscore.com/res/image/data/dpli81C7-8QrqBxAk.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Round 2 (11:00)
+#EXTINF:-1 tvg-id="worldchampionshipsnookerround2" tvg-name="Snooker | World Championship Snooker : Round 2 (11:00)" tvg-logo="https://static.flashscore.com/res/image/data/6Z3xE0EO-0SqgIPdG.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Round 2 (11:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldchampionshipsnookerround2" tvg-name="Snooker | World Championship Snooker : Round 2 (15:00)" tvg-logo="https://static.flashscore.com/res/image/data/dpli81C7-8QrqBxAk.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Round 2 (15:00)
+#EXTINF:-1 tvg-id="worldchampionshipsnookerround2" tvg-name="Snooker | World Championship Snooker : Round 2 (15:00)" tvg-logo="https://static.flashscore.com/res/image/data/6Z3xE0EO-0SqgIPdG.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Round 2 (15:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldchampionshipsnookerround2" tvg-name="Snooker | World Championship Snooker : Round 2 (20:00)" tvg-logo="https://static.flashscore.com/res/image/data/dpli81C7-8QrqBxAk.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Round 2 (20:00)
+#EXTINF:-1 tvg-id="worldchampionshipsnookerround2" tvg-name="Snooker | World Championship Snooker : Round 2 (20:00)" tvg-logo="https://static.flashscore.com/res/image/data/6Z3xE0EO-0SqgIPdG.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Round 2 (20:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="sprintsprintmosjoen2026" tvg-name="Cross Country | Sprint | Sprint Mosjoen 2026 (13:00)" tvg-logo="https://sprintnationals.canoekayak.ca/wp-content/uploads/2025/05/3.png" group-title="Eventi Live DLHD",Cross Country | Sprint | Sprint Mosjoen 2026 (13:00)
@@ -949,9 +942,6 @@ https://dlhd.dad/watch.php?id=460
 
 #EXTINF:-1 tvg-id="premierpadelbrusselst2026menssemifinal1" tvg-name="Squash | Premier Padel. Brussels (T2026): Men's Semifinal 1 (14:00)" tvg-logo="https://thumbor.prod.vidiocdn.com/qFyTiTNfIoLRu-9avia4BwOkODE=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/616/premier-padel-119e53.png" group-title="Eventi Live DLHD",Squash | Premier Padel. Brussels (T2026): Men's Semifinal 1 (14:00)
 https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="t100triathlonworldtoursingaporemen" tvg-name="Triathlon | T100 Triathlon World Tour | Singapore Men (08:00)" tvg-logo="https://content.protriathletes.org/content/images/2025/04/027aaf17-2108-4a10-b182-06a7e5b91745.png" group-title="Eventi Live DLHD",Triathlon | T100 Triathlon World Tour | Singapore Men (08:00)
-https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="seriea1finalconeglianovsmilan" tvg-name="Volleyball | Serie A1 Final : Conegliano vs Milan (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Conegliano_vs_Milan.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 Final : Conegliano vs Milan (17:30)
 https://dlhd.dad/watch.php?id=882
