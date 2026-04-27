@@ -243,8 +243,6 @@ https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 https://vavoo.to/vavoo-iptv/play/2294009196bff728f2a31e
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTP (RETE TELEVISIVA)
 https://vavoo.to/vavoo-iptv/play/4136045815a19e851236a3
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/rtr99-cover.jpg" group-title="Altro",RTR 99 TV
-https://vavoo.to/vavoo-iptv/play/1621632780775ff4ee8846
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rttr-it.png?raw=true" group-title="Altro",RTTR
 https://vavoo.to/vavoo-iptv/play/3799362189218b541a9c76
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rttr-it.png?raw=true" group-title="Altro",RTTR TV
@@ -503,6 +501,8 @@ https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
 https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (2)
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION
+https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
@@ -581,6 +581,8 @@ https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
+#EXTINF:-1 tvg-id="discoverysciencehd.it" tvg-logo="" group-title="Documentari",DISCOVERY SCIENCE
+https://vavoo.to/vavoo-iptv/play/5284308415938593b2e15
 #EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (1)
 https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
 #EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (2)
@@ -679,9 +681,7 @@ https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE (2)
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (1)
-https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (2)
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
 https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
 https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
@@ -828,10 +828,10 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="italyserieacagliarivsatalanta" tvg-name="Soccer | Italy - Serie A : Cagliari vs Atalanta (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cagliari_vs_Atalanta.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Cagliari vs Atalanta (18:30)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="italyseriealaziovsudinese" tvg-name="Soccer | Italy - Serie A : Lazio vs Udinese (20:45)" tvg-logo="https://www.sslazio.it/images/logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lazio vs Udinese (20:45)
+#EXTINF:-1 tvg-id="italyseriealaziovsudinese" tvg-name="Soccer | Italy - Serie A : Lazio vs Udinese (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Udinese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lazio vs Udinese (20:45)
 https://dlhd.dad/watch.php?id=2
 
-#EXTINF:-1 tvg-id="italyseriealaziovsudinese" tvg-name="Soccer | Italy - Serie A : Lazio vs Udinese (20:45)" tvg-logo="https://www.sslazio.it/images/logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lazio vs Udinese (20:45)
+#EXTINF:-1 tvg-id="italyseriealaziovsudinese" tvg-name="Soccer | Italy - Serie A : Lazio vs Udinese (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Udinese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lazio vs Udinese (20:45)
 https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 tvg-id="englandpremierleaguemanchesterunitedvsbrentford" tvg-name="Soccer | England - Premier League : Manchester United vs Brentford (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Manchester United_vs_Brentford.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Manchester United vs Brentford (21:00)
