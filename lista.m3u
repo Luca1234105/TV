@@ -121,6 +121,8 @@ https://vavoo.to/vavoo-iptv/play/2820683351b557bc63df61
 https://vavoo.to/vavoo-iptv/play/276786104991c55564696b
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",FRANCE 24 (EN)
 https://vavoo.to/vavoo-iptv/play/217968682876c9a8051121
+#EXTINF:-1 tvg-id="gambero.rosso.hd.it" tvg-logo="" group-title="Altro",GAMBERO ROSSO
+https://vavoo.to/vavoo-iptv/play/2481284739a17519532b56
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (1)
 https://vavoo.to/vavoo-iptv/play/237393618912929d56c67e
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (2)
@@ -497,10 +499,10 @@ https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
 https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (2)
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION
-https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
+https://vavoo.to/vavoo-iptv/play/3667240765238d57794d79
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 6 TIMVISION
 https://vavoo.to/vavoo-iptv/play/3421031748051d1097ba07
 #EXTINF:-1 tvg-id="inter.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/inter-tv-it.png?raw=true" group-title="Sport",INTER TV
@@ -515,6 +517,8 @@ https://vavoo.to/vavoo-iptv/play/277580225585f503fbfc87
 https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (1)
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (2)
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (2)
 https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (1)
@@ -577,10 +581,8 @@ https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 #EXTINF:-1 tvg-id="discoverysciencehd.it" tvg-logo="" group-title="Documentari",DISCOVERY SCIENCE
 https://vavoo.to/vavoo-iptv/play/5284308415938593b2e15
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (1)
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
 https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (2)
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
@@ -675,9 +677,7 @@ https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE (2)
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (1)
-https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (2)
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
 https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
 https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
@@ -827,12 +827,6 @@ https://dlhd.dad/watch.php?id=6
 #EXTINF:-1 tvg-id="uefachampionsleaguesemifinalpsgvsbayernmünchen" tvg-name="Soccer | UEFA Champions League Semi Final : PSG vs Bayern München (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/PSG_vs_Bayern München.png" group-title="Eventi Live DLHD",Soccer | UEFA Champions League Semi Final : PSG vs Bayern München (21:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="2026mutuamadridopentenniswtasinglesquarterfinals1amp2atproundof16wtadoublesquarterfinalsatpdoubles2ndround" tvg-name="Tennis | 2026 Mutua Madrid Open Tennis WTA Singles Quarterfinals 1 &amp; 2; ATP Round of 16; WTA Doubles Quarterfinals; ATP Doubles 2nd Round (11:00)" tvg-logo="https://static.flashscore.com/res/image/data/Ak1OqjW1-YwTHo1d2.png" group-title="Eventi Live DLHD",Tennis | 2026 Mutua Madrid Open Tennis WTA Singles Quarterfinals 1 &amp; 2; ATP Round of 16; WTA Doubles Quarterfinals; ATP Doubles 2nd Round (11:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="worldchampionshipsnookerquarterfinal" tvg-name="Snooker | World Championship Snooker - Quarter-Final (11:00)" tvg-logo="https://models.spriters-resource.com/media/asset_icons/464/463724.png?updated=1755561969" group-title="Eventi Live DLHD",Snooker | World Championship Snooker - Quarter-Final (11:00)
-https://dlhd.dad/watch.php?id=878
-
 #EXTINF:-1 tvg-id="worldchampionshipsnookerquarterfinal" tvg-name="Snooker | World Championship Snooker - Quarter-Final (15:00)" tvg-logo="https://images.launchbox-app.com/7ce3c574-4756-4b7f-9cf0-9516ac0b2178.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker - Quarter-Final (15:00)
 https://dlhd.dad/watch.php?id=878
 
@@ -842,7 +836,7 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="touroftürkiyestage3menmarmariskran1337km" tvg-name="Cycling | Tour of Türkiye | Stage 3 Men | Marmaris - Kıran (133.7km) (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Tour of Türkiye | Stage 3 Men | Marmaris - Kıran (133.7km) (13:30)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="tourderomandieprologuemenvillarssurglâne32km" tvg-name="Cycling | Tour de Romandie | Prologue Men | Villars-sur-Glâne (3.2km) (15:30)" tvg-logo="https://en.firstcycling.com/img/rider/2025/84019.png" group-title="Eventi Live DLHD",Cycling | Tour de Romandie | Prologue Men | Villars-sur-Glâne (3.2km) (15:30)
+#EXTINF:-1 tvg-id="tourderomandieprologuemenvillarssurglâne32km" tvg-name="Cycling | Tour de Romandie | Prologue Men | Villars-sur-Glâne (3.2km) (15:30)" tvg-logo="https://assets.unileversolutions.com/v1/114046831.png" group-title="Eventi Live DLHD",Cycling | Tour de Romandie | Prologue Men | Villars-sur-Glâne (3.2km) (15:30)
 https://dlhd.dad/watch.php?id=879
 
 
