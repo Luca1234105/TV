@@ -121,8 +121,6 @@ https://vavoo.to/vavoo-iptv/play/2820683351b557bc63df61
 https://vavoo.to/vavoo-iptv/play/276786104991c55564696b
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",FRANCE 24 (EN)
 https://vavoo.to/vavoo-iptv/play/217968682876c9a8051121
-#EXTINF:-1 tvg-id="gambero.rosso.hd.it" tvg-logo="" group-title="Altro",GAMBERO ROSSO
-https://vavoo.to/vavoo-iptv/play/2481284739a17519532b56
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (1)
 https://vavoo.to/vavoo-iptv/play/237393618912929d56c67e
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (2)
@@ -169,6 +167,8 @@ https://vavoo.to/vavoo-iptv/play/2835333400f831a30ce568
 https://vavoo.to/vavoo-iptv/play/448530931a02141cb37b2
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
+https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro",ONDA NOVARA TV
@@ -441,7 +441,9 @@ https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b
 https://vavoo.to/vavoo-iptv/play/42162455520e0fbef4fafe
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/bellaradio.it/wp-content/uploads/2020/01/Bella-2020-3.png?fit=3000%2C3000&ssl=1" group-title="Musica",BELLA RADIO TV
 https://vavoo.to/vavoo-iptv/play/15850058604ed339a2ed20
-#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
+#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (1)
+https://vavoo.to/vavoo-iptv/play/963607327f90ada131395
+#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (2)
 https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/61Wa4RqJVJL.png" group-title="Musica",EURO INDIE MUSIC CHART TV
 https://vavoo.to/vavoo-iptv/play/35697313256d80f80b732e
@@ -499,8 +501,6 @@ https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
-https://vavoo.to/vavoo-iptv/play/3667240765238d57794d79
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 6 TIMVISION
 https://vavoo.to/vavoo-iptv/play/3421031748051d1097ba07
 #EXTINF:-1 tvg-id="inter.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/inter-tv-it.png?raw=true" group-title="Sport",INTER TV
@@ -827,22 +827,22 @@ https://dlhd.dad/watch.php?id=6
 #EXTINF:-1 tvg-id="uefachampionsleaguesemifinalpsgvsbayernmünchen" tvg-name="Soccer | UEFA Champions League Semi Final : PSG vs Bayern München (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/PSG_vs_Bayern München.png" group-title="Eventi Live DLHD",Soccer | UEFA Champions League Semi Final : PSG vs Bayern München (21:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="2026mutuamadridopentenniswtasinglesquarterfinals1amp2atproundof16wtadoublesquarterfinalsatpdoubles2ndround" tvg-name="Tennis | 2026 Mutua Madrid Open Tennis WTA Singles Quarterfinals 1 &amp; 2; ATP Round of 16; WTA Doubles Quarterfinals; ATP Doubles 2nd Round (11:00)" tvg-logo="https://static.flashscore.com/res/image/data/Ak1OqjW1-lIqO4LMU.png" group-title="Eventi Live DLHD",Tennis | 2026 Mutua Madrid Open Tennis WTA Singles Quarterfinals 1 &amp; 2; ATP Round of 16; WTA Doubles Quarterfinals; ATP Doubles 2nd Round (11:00)
+#EXTINF:-1 tvg-id="2026mutuamadridopentenniswtasinglesquarterfinals1amp2atproundof16wtadoublesquarterfinalsatpdoubles2ndround" tvg-name="Tennis | 2026 Mutua Madrid Open Tennis WTA Singles Quarterfinals 1 &amp; 2; ATP Round of 16; WTA Doubles Quarterfinals; ATP Doubles 2nd Round (11:00)" tvg-logo="https://static.flashscore.com/res/image/data/Ak1OqjW1-YwTHo1d2.png" group-title="Eventi Live DLHD",Tennis | 2026 Mutua Madrid Open Tennis WTA Singles Quarterfinals 1 &amp; 2; ATP Round of 16; WTA Doubles Quarterfinals; ATP Doubles 2nd Round (11:00)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="worldchampionshipsnookerquarterfinal" tvg-name="Snooker | World Championship Snooker - Quarter-Final (11:00)" tvg-logo="https://models.spriters-resource.com/media/asset_icons/464/463724.png?updated=1755561969" group-title="Eventi Live DLHD",Snooker | World Championship Snooker - Quarter-Final (11:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldchampionshipsnookerquarterfinal" tvg-name="Snooker | World Championship Snooker - Quarter-Final (15:00)" tvg-logo="https://models.spriters-resource.com/media/asset_icons/464/463724.png?updated=1755561969" group-title="Eventi Live DLHD",Snooker | World Championship Snooker - Quarter-Final (15:00)
+#EXTINF:-1 tvg-id="worldchampionshipsnookerquarterfinal" tvg-name="Snooker | World Championship Snooker - Quarter-Final (15:00)" tvg-logo="https://images.launchbox-app.com/7ce3c574-4756-4b7f-9cf0-9516ac0b2178.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker - Quarter-Final (15:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldchampionshipsnookerquarterfinal" tvg-name="Snooker | World Championship Snooker - Quarter-Final (20:00)" tvg-logo="https://images.launchbox-app.com/7ce3c574-4756-4b7f-9cf0-9516ac0b2178.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker - Quarter-Final (20:00)
+#EXTINF:-1 tvg-id="worldchampionshipsnookerquarterfinal" tvg-name="Snooker | World Championship Snooker - Quarter-Final (20:00)" tvg-logo="https://models.spriters-resource.com/media/asset_icons/464/463724.png?updated=1755561969" group-title="Eventi Live DLHD",Snooker | World Championship Snooker - Quarter-Final (20:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="touroftürkiyestage3menmarmariskran1337km" tvg-name="Cycling | Tour of Türkiye | Stage 3 Men | Marmaris - Kıran (133.7km) (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Tour of Türkiye | Stage 3 Men | Marmaris - Kıran (133.7km) (13:30)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="tourderomandieprologuemenvillarssurglâne32km" tvg-name="Cycling | Tour de Romandie | Prologue Men | Villars-sur-Glâne (3.2km) (15:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Tour de Romandie | Prologue Men | Villars-sur-Glâne (3.2km) (15:30)
+#EXTINF:-1 tvg-id="tourderomandieprologuemenvillarssurglâne32km" tvg-name="Cycling | Tour de Romandie | Prologue Men | Villars-sur-Glâne (3.2km) (15:30)" tvg-logo="https://en.firstcycling.com/img/rider/2025/84019.png" group-title="Eventi Live DLHD",Cycling | Tour de Romandie | Prologue Men | Villars-sur-Glâne (3.2km) (15:30)
 https://dlhd.dad/watch.php?id=879
 
 
