@@ -29,8 +29,6 @@ https://vavoo.to/vavoo-iptv/play/2330946937dd53b634ff71
 https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.opq.it/wp-content/uploads/BergamoTV.png" group-title="Altro",BERGAMO TV
 https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870
-#EXTINF:-1 tvg-id="bike.it" tvg-logo="" group-title="Altro",BIKE
-https://vavoo.to/vavoo-iptv/play/309589541224b3a9c5030f
 #EXTINF:-1 tvg-id="blaze.it" tvg-logo="" group-title="Altro",BLAZE
 https://vavoo.to/vavoo-iptv/play/25326356590c9338734e4b
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV
@@ -400,8 +398,10 @@ https://vavoo.to/vavoo-iptv/play/625586063b81b5ccae3f
 #EXTINF:-1 tvg-id="cine34.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 (2)
 https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38
 #EXTINF:-1 tvg-id="focus.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Mediaset",FOCUS (1)
-https://vavoo.to/vavoo-iptv/play/3439223610a4fec93d907a
+https://vavoo.to/vavoo-iptv/play/21132730647ae733a10331
 #EXTINF:-1 tvg-id="focus.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Mediaset",FOCUS (2)
+https://vavoo.to/vavoo-iptv/play/3439223610a4fec93d907a
+#EXTINF:-1 tvg-id="focus.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Mediaset",FOCUS (3)
 https://vavoo.to/vavoo-iptv/play/29825504332b9997336c1e
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (1)
 https://vavoo.to/vavoo-iptv/play/576490047036ac0227958
@@ -577,8 +577,10 @@ https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 #EXTINF:-1 tvg-id="discoverysciencehd.it" tvg-logo="" group-title="Documentari",DISCOVERY SCIENCE
 https://vavoo.to/vavoo-iptv/play/5284308415938593b2e15
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (1)
 https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (2)
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
@@ -665,16 +667,16 @@ https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
 https://vavoo.to/vavoo-iptv/play/41579514488d1c92affa7
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (2)
 https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
-#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
+#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE (1)
 https://vavoo.to/vavoo-iptv/play/2890008905a6ae9fa14809
+#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE (2)
+https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE (1)
 https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE (2)
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (1)
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
 https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (2)
-https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
 https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
 #EXTINF:-1 tvg-id="sky.crime.it" tvg-logo="" group-title="Film - Serie TV",SKY CRIME
@@ -832,7 +834,7 @@ https://dlhd.dad/watch.php?id=76
 #EXTINF:-1 tvg-id="italyseriebmodenavsreggiana" tvg-name="All Soccer Events | Italy - Serie B : Modena vs Reggiana (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Modena_vs_Reggiana.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Modena vs Reggiana (15:00)
 https://dlhd.dad/watch.php?id=77
 
-#EXTINF:-1 tvg-id="italyseriebspeziavsvenezia" tvg-name="All Soccer Events | Italy - Serie B : Spezia vs Venezia (15:00)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Spezia vs Venezia (15:00)
+#EXTINF:-1 tvg-id="italyseriebspeziavsvenezia" tvg-name="All Soccer Events | Italy - Serie B : Spezia vs Venezia (15:00)" tvg-logo="https://www.logoquake.com/wp-content/uploads/2024/06/venezia-fc-logoquake_8d1ebe-768x768.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Spezia vs Venezia (15:00)
 https://dlhd.dad/watch.php?id=86
 
 #EXTINF:-1 tvg-id="italyseriebmantovavsmonza" tvg-name="All Soccer Events | Italy - Serie B : Mantova vs Monza (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Mantova_vs_Monza.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Mantova vs Monza (15:00)
@@ -847,34 +849,34 @@ https://dlhd.dad/watch.php?id=107
 #EXTINF:-1 tvg-id="italyseriebbari1908vsvirtusentella" tvg-name="All Soccer Events | Italy - Serie B : Bari 1908 vs Virtus Entella (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bari 1908_vs_Virtus Entella.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Bari 1908 vs Virtus Entella (15:00)
 https://dlhd.dad/watch.php?id=108
 
-#EXTINF:-1 tvg-id="italyserieapisavslecce" tvg-name="All Soccer Events | Italy - Serie A : Pisa vs Lecce (20:45)" tvg-logo="https://vectorseek.com/wp-content/uploads/2024/02/Comune-di-Pisa-Logo-Vector.svg--247x300.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Pisa vs Lecce (20:45)
+#EXTINF:-1 tvg-id="italyserieapisavslecce" tvg-name="All Soccer Events | Italy - Serie A : Pisa vs Lecce (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pisa_vs_Lecce.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Pisa vs Lecce (20:45)
 https://dlhd.dad/watch.php?id=877
 
 #EXTINF:-1 tvg-id="englandpremierleagueleedsunitedvsburnley" tvg-name="All Soccer Events | England - Premier League : Leeds United vs Burnley (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Leeds United_vs_Burnley.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Leeds United vs Burnley (21:00)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="atpquarterfinal3amp4wtasemifinalsatpdoublessemifinals" tvg-name="Tennis | ATP Quarterfinal 3 &amp; 4; WTA Semifinals; ATP Doubles Semifinals (11:00)" tvg-logo="https://crystalpng.com/wp-content/uploads/2025/11/new-atp-tour-logo.png" group-title="Eventi Live DLHD",Tennis | ATP Quarterfinal 3 &amp; 4; WTA Semifinals; ATP Doubles Semifinals (11:00)
+#EXTINF:-1 tvg-id="atpquarterfinal3amp4wtasemifinalsatpdoublessemifinals" tvg-name="Tennis | ATP Quarterfinal 3 &amp; 4; WTA Semifinals; ATP Doubles Semifinals (11:00)" tvg-logo="https://static.flashscore.com/res/image/data/I3KKD4EO-EVJJRP4F.png" group-title="Eventi Live DLHD",Tennis | ATP Quarterfinal 3 &amp; 4; WTA Semifinals; ATP Doubles Semifinals (11:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="formula2cryptocommiamigrandprixpractice1" tvg-name="Motorsport | Formula 2 : crypto.com Miami Grand Prix - Practice 1 (16:00)" tvg-logo="https://www.dtti.it/wp-content/uploads/2022/07/formula-1-logo-0.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : crypto.com Miami Grand Prix - Practice 1 (16:00)
+#EXTINF:-1 tvg-id="formula2cryptocommiamigrandprixpractice1" tvg-name="Motorsport | Formula 2 : crypto.com Miami Grand Prix - Practice 1 (16:00)" tvg-logo="https://images.seeklogo.com/logo-png/42/2/mclaren-formula-1-team-logo-png_seeklogo-425651.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : crypto.com Miami Grand Prix - Practice 1 (16:00)
 https://dlhd.dad/watch.php?id=577
 
 #EXTINF:-1 tvg-id="formula1cryptocommiamigrandprixpractice1" tvg-name="Motorsport | Formula 1 : crypto.com Miami Grand Prix - Practice 1 (19:30)" tvg-logo="https://images.seeklogo.com/logo-png/42/2/mclaren-formula-1-team-logo-png_seeklogo-425651.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : crypto.com Miami Grand Prix - Practice 1 (19:30)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula2cryptocommiamigrandprixqualifying" tvg-name="Motorsport | Formula 2 : crypto.com Miami Grand Prix - Qualifying (20:30)" tvg-logo="https://www.dtti.it/wp-content/uploads/2022/07/formula-1-logo-0.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : crypto.com Miami Grand Prix - Qualifying (20:30)
+#EXTINF:-1 tvg-id="formula2cryptocommiamigrandprixqualifying" tvg-name="Motorsport | Formula 2 : crypto.com Miami Grand Prix - Qualifying (20:30)" tvg-logo="https://images.seeklogo.com/logo-png/42/2/mclaren-formula-1-team-logo-png_seeklogo-425651.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : crypto.com Miami Grand Prix - Qualifying (20:30)
 https://dlhd.dad/watch.php?id=577
 
 #EXTINF:-1 tvg-id="formula1cryptocommiamigrandprixsprintqualifying" tvg-name="Motorsport | Formula 1 : crypto.com Miami Grand Prix - Sprint Qualifying (23:30)" tvg-logo="https://www.dtti.it/wp-content/uploads/2022/07/formula-1-logo-0.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : crypto.com Miami Grand Prix - Sprint Qualifying (23:30)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="worldchampionshipsnookerfinals" tvg-name="Snooker | World Championship Snooker : Finals (11:00)" tvg-logo="https://static.flashscore.com/res/image/data/dpli81C7-8QrqBxAk.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Finals (11:00)
+#EXTINF:-1 tvg-id="worldchampionshipsnookerfinals" tvg-name="Snooker | World Championship Snooker : Finals (11:00)" tvg-logo="https://models.spriters-resource.com/media/asset_icons/464/463723.png?updated=1755561969" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Finals (11:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldchampionshipsnookerfinals" tvg-name="Snooker | World Championship Snooker : Finals (15:00)" tvg-logo="https://images.launchbox-app.com/7ce3c574-4756-4b7f-9cf0-9516ac0b2178.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Finals (15:00)
+#EXTINF:-1 tvg-id="worldchampionshipsnookerfinals" tvg-name="Snooker | World Championship Snooker : Finals (15:00)" tvg-logo="https://static.flashscore.com/res/image/data/dpli81C7-8QrqBxAk.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Finals (15:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldchampionshipsnookerfinals" tvg-name="Snooker | World Championship Snooker : Finals (20:00)" tvg-logo="https://static.flashscore.com/res/image/data/dpli81C7-8QrqBxAk.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Finals (20:00)
+#EXTINF:-1 tvg-id="worldchampionshipsnookerfinals" tvg-name="Snooker | World Championship Snooker : Finals (20:00)" tvg-logo="https://models.spriters-resource.com/media/asset_icons/464/463723.png?updated=1755561969" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Finals (20:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="ucicrosscountryshorttrackworldcupwomeneliteyongpyong" tvg-name="Cycling | UCI Cross-country Short Track World Cup | Women Elite | Yongpyong (09:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | UCI Cross-country Short Track World Cup | Women Elite | Yongpyong (09:30)
