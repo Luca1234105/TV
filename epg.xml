@@ -232178,16 +232178,6 @@
     <desc lang="it">World Championship Snooker : Finals</desc>
     <category lang="it">Snooker</category>
   </programme>
-  <programme start="20260501000000 +0200" stop="20260501133000 +0200" channel="touroftrkiyestage6menantalyafeslikan131km">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Tour of T?rkiye | Stage 6 Men | Antalya – Feslikan (131km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501133000 +0200" stop="20260501153000 +0200" channel="touroftrkiyestage6menantalyafeslikan131km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of T?rkiye | Stage 6 Men | Antalya – Feslikan (131km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <programme start="20260501000000 +0200" stop="20260501153000 +0200" channel="tourderomandiestage3iorbe1766km">
     <title lang="it">Inizia alle 15:30.</title>
     <desc lang="it">Tour de Romandie | Stage 3 I | Orbe (176.6km).</desc>
