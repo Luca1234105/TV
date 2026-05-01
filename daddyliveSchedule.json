@@ -170,6 +170,170 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "22:00",
+                "event": "USAC Larry Rice Classic Bloomington",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "105"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5000"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Weekly Racing Utica",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "2026 Lucas Oil Late Model Dirt Series at Circle City Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "107"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5001"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "World of Outlaws Late Models Mississippi",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "108"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5002"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Williams Grove Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "CMLL vs MLW",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Jacksonville Speedway Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "151"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5003"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "2026 IMCA Weekly Racing at Marshalltown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "152"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5004"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2026 Weekly Racing at Coles County Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "153"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5005"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "GCW: Express Lane 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "2026 NARC 410 Sprints at Watsonville Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "155"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5006"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "2026 USAC Avanti Western States Midgets at Plaza Park Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "156"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5007"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "HOG: Glory At The Globe 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "157"
+                    }
+                ]
+            }
+        ],
         "Ireland Republic": [
             {
                 "time": "18:45",
