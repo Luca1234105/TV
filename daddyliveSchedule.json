@@ -4990,6 +4990,14 @@
                     {
                         "channel_name": "beIN Sports MENA 4",
                         "channel_id": "94"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3033"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3069"
                     }
                 ]
             },
@@ -5000,6 +5008,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "154"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3031"
                     }
                 ]
             },
@@ -5010,6 +5022,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "156"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3032"
                     }
                 ]
             },
@@ -5020,6 +5036,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "157"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3034"
                     }
                 ]
             },
@@ -5030,6 +5050,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "159"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3035"
                     }
                 ]
             },
@@ -5052,6 +5076,10 @@
                     {
                         "channel_name": "V Sport Football",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3079"
                     }
                 ]
             },
@@ -5062,6 +5090,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "161"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3037"
                     }
                 ]
             },
@@ -5072,6 +5104,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "162"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3038"
                     }
                 ]
             },
@@ -5082,6 +5118,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "163"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3004"
                     }
                 ]
             },
@@ -5092,6 +5132,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "164"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3077"
                     }
                 ]
             },
@@ -5102,6 +5146,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "165"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3003"
                     }
                 ]
             }
@@ -5398,6 +5446,10 @@
                     {
                         "channel_name": "TNT Sports 4 UK",
                         "channel_id": "34"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3019"
                     }
                 ]
             },
@@ -5412,6 +5464,10 @@
                     {
                         "channel_name": "Sportdigital FUSSBALL DE",
                         "channel_id": "571"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3005"
                     }
                 ]
             },
@@ -5496,6 +5552,10 @@
                     {
                         "channel_name": "Sport TV1 Portugal",
                         "channel_id": "49"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3021"
                     }
                 ]
             },
@@ -5586,6 +5646,10 @@
                     {
                         "channel_name": "Diema Sport Bulgaria",
                         "channel_id": "465"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3048"
                     }
                 ]
             },
@@ -5638,6 +5702,10 @@
                     {
                         "channel_name": "Sky Sport Top Event DE",
                         "channel_id": "556"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3012"
                     }
                 ]
             },
@@ -5686,6 +5754,10 @@
                     {
                         "channel_name": "Sport Klub 1 Croatia",
                         "channel_id": "101"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3014"
                     }
                 ]
             },
@@ -5728,6 +5800,10 @@
                     {
                         "channel_name": "Sport 4 Israel",
                         "channel_id": "143"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3013"
                     }
                 ]
             },
@@ -5796,6 +5872,10 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3006"
                     }
                 ]
             },
@@ -5856,6 +5936,10 @@
                     {
                         "channel_name": "TV2 Sport Norway",
                         "channel_id": "10"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3068"
                     }
                 ]
             },
@@ -5978,6 +6062,26 @@
                     {
                         "channel_name": "beIN Sports MENA 2",
                         "channel_id": "92"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3086"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3071"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5000"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -6002,6 +6106,10 @@
                     {
                         "channel_name": "Sport Klub 4 Croatia",
                         "channel_id": "104"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3097"
                     }
                 ]
             },
@@ -6012,6 +6120,10 @@
                     {
                         "channel_name": "Magenta Sport 305",
                         "channel_id": "14"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3096"
                     }
                 ]
             },
@@ -6022,6 +6134,10 @@
                     {
                         "channel_name": "Magenta Sport 303",
                         "channel_id": "15"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3095"
                     }
                 ]
             },
@@ -6036,6 +6152,10 @@
                     {
                         "channel_name": "Sportklub 4 Croatia",
                         "channel_id": "104"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3094"
                     }
                 ]
             },
@@ -6046,6 +6166,10 @@
                     {
                         "channel_name": "Magenta Sport 301",
                         "channel_id": "17"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3098"
                     }
                 ]
             },
@@ -6056,6 +6180,10 @@
                     {
                         "channel_name": "ESPN 1 NL",
                         "channel_id": "379"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3088"
                     }
                 ]
             },
@@ -6156,6 +6284,10 @@
                     {
                         "channel_name": "TV4 Sport Live 2 Sweden",
                         "channel_id": "704"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3072"
                     }
                 ]
             },
@@ -6166,6 +6298,10 @@
                     {
                         "channel_name": "TV4 Fotball Sweden",
                         "channel_id": "747"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3075"
                     }
                 ]
             },
@@ -6176,6 +6312,10 @@
                     {
                         "channel_name": "Oneplay Sport 4 CZ",
                         "channel_id": "1038"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3044"
                     }
                 ]
             },
@@ -6186,6 +6326,10 @@
                     {
                         "channel_name": "Oneplay Sport 1 CZ",
                         "channel_id": "1027"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3041"
                     }
                 ]
             },
@@ -6196,6 +6340,10 @@
                     {
                         "channel_name": "Oneplay Sport 1 CZ",
                         "channel_id": "1027"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3042"
                     }
                 ]
             },
@@ -6206,6 +6354,10 @@
                     {
                         "channel_name": "Oneplay Sport 3 CZ",
                         "channel_id": "1029"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3043"
                     }
                 ]
             },
@@ -6248,6 +6400,26 @@
                     {
                         "channel_name": "Sport 5 Live Israel",
                         "channel_id": "146"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3040"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3052"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3039"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2007"
                     }
                 ]
             },
@@ -6318,6 +6490,22 @@
                     {
                         "channel_name": "SuperSport Football",
                         "channel_id": "56"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3047"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3073"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2006"
                     }
                 ]
             },
@@ -6382,6 +6570,10 @@
                     {
                         "channel_name": "5Plus Israel",
                         "channel_id": "145"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3008"
                     }
                 ]
             },
@@ -6402,6 +6594,10 @@
                     {
                         "channel_name": "Diema Sport Bulgaria",
                         "channel_id": "465"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3048"
                     }
                 ]
             },
@@ -6434,6 +6630,10 @@
                     {
                         "channel_name": "Arena 5 Premium Serbia",
                         "channel_id": "6"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3012"
                     }
                 ]
             },
@@ -6452,6 +6652,14 @@
                     {
                         "channel_name": "Arena Sport 4 Serbia",
                         "channel_id": "581"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3015"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2013"
                     }
                 ]
             },
@@ -6482,6 +6690,14 @@
                     {
                         "channel_name": "Canal+ Sport 4 Afrique",
                         "channel_id": "489"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3014"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2008"
                     }
                 ]
             },
@@ -6512,6 +6728,14 @@
                     {
                         "channel_name": "Sport Klub 1 Croatia",
                         "channel_id": "101"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2012"
                     }
                 ]
             },
@@ -6546,6 +6770,14 @@
                     {
                         "channel_name": "See Denmark",
                         "channel_id": "811"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2011"
                     }
                 ]
             },
@@ -6624,6 +6856,18 @@
                     {
                         "channel_name": "Sport 4 Israel",
                         "channel_id": "143"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2009"
                     }
                 ]
             },
@@ -6650,6 +6894,10 @@
                     {
                         "channel_name": "Canal+ Foot France",
                         "channel_id": "463"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3009"
                     }
                 ]
             },
@@ -6708,6 +6956,30 @@
                     {
                         "channel_name": "beIN Sports MENA 5",
                         "channel_id": "95"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3077"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5033"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2016"
                     }
                 ]
             },
@@ -6806,6 +7078,26 @@
                     {
                         "channel_name": "beIN Sports MENA 4",
                         "channel_id": "94"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3053"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5032"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2015"
                     }
                 ]
             },
@@ -6896,6 +7188,34 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3029"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2014"
                     }
                 ]
             },
@@ -6906,6 +7226,10 @@
                     {
                         "channel_name": "Cosmote Sport 1 Greece",
                         "channel_id": "622"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3024"
                     }
                 ]
             },
@@ -6916,6 +7240,10 @@
                     {
                         "channel_name": "MAX Sport 1 Croatia",
                         "channel_id": "779"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3070"
                     }
                 ]
             },
@@ -6986,6 +7314,10 @@
                     {
                         "channel_name": "TV2 Sport Norway",
                         "channel_id": "10"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3068"
                     }
                 ]
             },
@@ -7000,6 +7332,10 @@
                     {
                         "channel_name": "TVP1 Poland",
                         "channel_id": "560"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3060"
                     }
                 ]
             },
@@ -7030,6 +7366,10 @@
                     {
                         "channel_name": "LALIGA TV Hypermotion",
                         "channel_id": "539"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3026"
                     }
                 ]
             },
@@ -7128,6 +7468,22 @@
                     {
                         "channel_name": "SuperSport Laliga",
                         "channel_id": "415"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3032"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3086"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2017"
                     }
                 ]
             },
@@ -7138,6 +7494,10 @@
                     {
                         "channel_name": "Sport TV1 Portugal",
                         "channel_id": "49"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3021"
                     }
                 ]
             },
@@ -7148,6 +7508,20 @@
                     {
                         "channel_name": "Sport TV2 Portugal",
                         "channel_id": "74"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3022"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "Portugal - Primeira Liga : Moreirense vs Estrela",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3023"
                     }
                 ]
             },
@@ -7158,6 +7532,10 @@
                     {
                         "channel_name": "Magenta Sport 307",
                         "channel_id": "27"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3097"
                     }
                 ]
             },
@@ -7172,6 +7550,10 @@
                     {
                         "channel_name": "Sport Klub 4 Croatia",
                         "channel_id": "104"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3096"
                     }
                 ]
             },
@@ -7182,6 +7564,10 @@
                     {
                         "channel_name": "Nova Sports 2 Greece",
                         "channel_id": "632"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3025"
                     }
                 ]
             },
@@ -7192,6 +7578,10 @@
                     {
                         "channel_name": "ESPN 2 NL",
                         "channel_id": "386"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3089"
                     }
                 ]
             },
@@ -7246,6 +7636,10 @@
                     {
                         "channel_name": "Sky Sport Austria 1",
                         "channel_id": "559"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4000"
                     }
                 ]
             },
@@ -7256,6 +7650,10 @@
                     {
                         "channel_name": "Sky Sport Austria 3",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3098"
                     }
                 ]
             },
@@ -7266,6 +7664,10 @@
                     {
                         "channel_name": "Sky Sport Austria 2",
                         "channel_id": "12"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3099"
                     }
                 ]
             },
@@ -7324,6 +7726,26 @@
                     {
                         "channel_name": "Sport 5 Plus Israel",
                         "channel_id": "145"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3040"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3051"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3039"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2018"
                     }
                 ]
             },
@@ -7442,6 +7864,30 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3033"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3047"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3075"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2019"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4009"
                     }
                 ]
             },
@@ -7460,6 +7906,20 @@
                     {
                         "channel_name": "Polsat Sport Premium 2 Poland",
                         "channel_id": "992"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3041"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "Switzerland Super League : FC Winterthur vs FC Z\u00fcrich",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3020"
                     }
                 ]
             },
@@ -7490,6 +7950,10 @@
                     {
                         "channel_name": "Diema Sport Bulgaria",
                         "channel_id": "465"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3048"
                     }
                 ]
             },
@@ -7552,6 +8016,10 @@
                     {
                         "channel_name": "Thmanyah",
                         "channel_id": "14"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3065"
                     }
                 ]
             },
@@ -7700,6 +8168,42 @@
                     {
                         "channel_name": "Sport 1 Israel",
                         "channel_id": "140"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3029"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3050"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3078"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5034"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4004"
                     }
                 ]
             },
@@ -7786,6 +8290,18 @@
                     {
                         "channel_name": "Sport Klub 1 Croatia",
                         "channel_id": "101"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2021"
                     }
                 ]
             },
@@ -7872,6 +8388,26 @@
                     {
                         "channel_name": "beIN SPORTS MENA 3",
                         "channel_id": "93"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3032"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3086"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3071"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2020"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -7882,6 +8418,10 @@
                     {
                         "channel_name": "Nova Sports Prime Greece",
                         "channel_id": "638"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3024"
                     }
                 ]
             },
@@ -7916,6 +8456,10 @@
                     {
                         "channel_name": "LALIGA TV Hypermotion",
                         "channel_id": "539"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3026"
                     }
                 ]
             },
@@ -7926,6 +8470,10 @@
                     {
                         "channel_name": "MAX Sport 1 Croatia",
                         "channel_id": "779"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3070"
                     }
                 ]
             },
@@ -7936,6 +8484,10 @@
                     {
                         "channel_name": "ESPN 3 NL",
                         "channel_id": "888"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3090"
                     }
                 ]
             },
@@ -7946,6 +8498,10 @@
                     {
                         "channel_name": "TNT Sports Argentina",
                         "channel_id": "388"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3084"
                     }
                 ]
             },
@@ -8004,6 +8560,26 @@
                     {
                         "channel_name": "Sport 5 Live Israel",
                         "channel_id": "146"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3040"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3052"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3039"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2023"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4007"
                     }
                 ]
             },
@@ -8042,6 +8618,14 @@
                     {
                         "channel_name": "Sport Klub 4 Croatia",
                         "channel_id": "104"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3016"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3022"
                     }
                 ]
             },
@@ -8068,6 +8652,10 @@
                     {
                         "channel_name": "ESPN2 Brazil",
                         "channel_id": "82"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3091"
                     }
                 ]
             },
@@ -8078,6 +8666,10 @@
                     {
                         "channel_name": "beIN Sports 2 Turkey",
                         "channel_id": "63"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3092"
                     }
                 ]
             },
@@ -8088,6 +8680,10 @@
                     {
                         "channel_name": "beIN Sports 3 Turkey",
                         "channel_id": "64"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3093"
                     }
                 ]
             },
@@ -8118,6 +8714,10 @@
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "387"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3085"
                     }
                 ]
             },
@@ -8196,6 +8796,10 @@
                     {
                         "channel_name": "beIN Sports MENA 6",
                         "channel_id": "96"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3055"
                     }
                 ]
             },
@@ -8226,6 +8830,10 @@
                     {
                         "channel_name": "Arena Sport 8 Serbia",
                         "channel_id": "943"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3054"
                     }
                 ]
             },
@@ -8244,6 +8852,10 @@
                     {
                         "channel_name": "Arena Sport 9 Serbia",
                         "channel_id": "944"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3051"
                     }
                 ]
             },
@@ -8254,6 +8866,10 @@
                     {
                         "channel_name": "beIN Sports MAX 8 France",
                         "channel_id": "498"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3058"
                     }
                 ]
             },
@@ -8264,6 +8880,10 @@
                     {
                         "channel_name": "beIN Sports MAX 6 France",
                         "channel_id": "496"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3056"
                     }
                 ]
             },
@@ -8274,6 +8894,10 @@
                     {
                         "channel_name": "beIN Sports MAX 7 France",
                         "channel_id": "498"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3057"
                     }
                 ]
             },
@@ -8332,6 +8956,18 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3019"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3088"
                     }
                 ]
             },
@@ -8372,6 +9008,20 @@
                     {
                         "channel_name": "Bandsports Brasil",
                         "channel_id": "275"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3083"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Canadian Premier League : HFX Wanderers vs Forge",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3031"
                     }
                 ]
             },
@@ -8396,6 +9046,10 @@
                     {
                         "channel_name": "Arena Sport 3 Serbia",
                         "channel_id": "431"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3060"
                     }
                 ]
             },
@@ -8450,6 +9104,10 @@
                     {
                         "channel_name": "Sport Klub 1 Croatia",
                         "channel_id": "101"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3012"
                     }
                 ]
             },
@@ -8478,6 +9136,10 @@
                     {
                         "channel_name": "Arena Sport 7 Serbia",
                         "channel_id": "942"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3020"
                     }
                 ]
             },
@@ -8562,6 +9224,26 @@
                     {
                         "channel_name": "SuperSport Football",
                         "channel_id": "56"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3033"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3047"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3071"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2026"
                     }
                 ]
             },
@@ -8584,6 +9266,10 @@
                     {
                         "channel_name": "TV4 Sportkanalen",
                         "channel_id": "707"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3026"
                     }
                 ]
             },
@@ -8712,6 +9398,38 @@
                     {
                         "channel_name": "beIN Sports MENA English 1",
                         "channel_id": "61"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3032"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3018"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3086"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3075"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5035"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2027"
                     }
                 ]
             },
@@ -8736,6 +9454,10 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3027"
                     }
                 ]
             },
@@ -8758,6 +9480,10 @@
                     {
                         "channel_name": "Sport Klub 2 Croatia",
                         "channel_id": "102"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3089"
                     }
                 ]
             },
@@ -8824,6 +9550,22 @@
                     {
                         "channel_name": "5Stars Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3040"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3052"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3039"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2028"
                     }
                 ]
             },
@@ -8846,6 +9588,14 @@
                     {
                         "channel_name": "Sport 3 Israel",
                         "channel_id": "142"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3084"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4007"
                     }
                 ]
             },
@@ -8892,6 +9642,14 @@
                     {
                         "channel_name": "Sport 1 Israel",
                         "channel_id": "140"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3016"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3021"
                     }
                 ]
             },
@@ -8930,6 +9688,10 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3027"
                     }
                 ]
             },
@@ -8972,6 +9734,10 @@
                     {
                         "channel_name": "Sport 1 Israel",
                         "channel_id": "140"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3019"
                     }
                 ]
             },
@@ -9006,6 +9772,10 @@
                     {
                         "channel_name": "Movistar Liga de Campeones 2",
                         "channel_id": "18"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3085"
                     }
                 ]
             },
@@ -9016,6 +9786,10 @@
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "387"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3084"
                     }
                 ]
             },
@@ -9056,6 +9830,10 @@
                     {
                         "channel_name": "TSN1",
                         "channel_id": "111"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3006"
                     }
                 ]
             },
@@ -9096,6 +9874,10 @@
                     {
                         "channel_name": "Arena 3 Premium Serbia",
                         "channel_id": "139"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3019"
                     }
                 ]
             },
@@ -9116,6 +9898,10 @@
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "387"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3084"
                     }
                 ]
             },
@@ -9166,6 +9952,10 @@
                     {
                         "channel_name": "FOX Deportes",
                         "channel_id": "643"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3028"
                     }
                 ]
             },
@@ -9194,6 +9984,10 @@
                     {
                         "channel_name": "Univision",
                         "channel_id": "132"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3030"
                     }
                 ]
             }
@@ -9422,6 +10216,14 @@
                     {
                         "channel_name": "RDS",
                         "channel_id": "839"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3034"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2024"
                     }
                 ]
             },
@@ -9444,6 +10246,14 @@
                     {
                         "channel_name": "FOX Deportes",
                         "channel_id": "643"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3087"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2025"
                     }
                 ]
             },
@@ -9466,6 +10276,14 @@
                     {
                         "channel_name": "FOX Deportes",
                         "channel_id": "643"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3087"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2029"
                     }
                 ]
             },
@@ -9484,6 +10302,14 @@
                     {
                         "channel_name": "FOX Deportes",
                         "channel_id": "643"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3081"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2030"
                     }
                 ]
             },
@@ -9494,6 +10320,14 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "169"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2031"
                     }
                 ]
             },
@@ -9504,6 +10338,14 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "170"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3032"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2032"
                     }
                 ]
             },
@@ -9514,6 +10356,14 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "171"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3033"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2033"
                     }
                 ]
             },
@@ -9524,6 +10374,14 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "172"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3034"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2035"
                     }
                 ]
             },
@@ -9534,6 +10392,14 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "173"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3035"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2034"
                     }
                 ]
             },
@@ -9544,6 +10410,14 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "174"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3036"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2036"
                     }
                 ]
             },
@@ -9554,6 +10428,14 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "175"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3037"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2037"
                     }
                 ]
             },
@@ -9564,6 +10446,14 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "176"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3038"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2038"
                     }
                 ]
             },
@@ -9574,6 +10464,14 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "177"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3039"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2039"
                     }
                 ]
             }
@@ -9636,6 +10534,34 @@
                     {
                         "channel_name": "Sky Sports Main Event",
                         "channel_id": "38"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2004"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA MADRID FINAL": [
+            {
+                "time": "15:00",
+                "event": "WTA Madrid Final : Mirra Andreeva vs Marta Kostyuk",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Sky Sports Tennis UK",
+                        "channel_id": "46"
+                    },
+                    {
+                        "channel_name": "TSN3",
+                        "channel_id": "113"
                     }
                 ]
             }
@@ -10048,6 +10974,22 @@
                     {
                         "channel_name": "Sport 5 Live Israel",
                         "channel_id": "146"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3079"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3030"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5036"
                     }
                 ]
             },
@@ -10224,6 +11166,22 @@
                     {
                         "channel_name": "Sport 5 Live Israel",
                         "channel_id": "146"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3079"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3030"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5036"
                     }
                 ]
             }
@@ -10248,6 +11206,14 @@
                     {
                         "channel_name": "ESPN2 Argentina",
                         "channel_id": "150"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5020"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2050"
                     }
                 ]
             },
@@ -10286,6 +11252,18 @@
                     {
                         "channel_name": "ESPN MZ",
                         "channel_id": "925"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2048"
                     }
                 ]
             }
@@ -10410,6 +11388,14 @@
                     {
                         "channel_name": "SuperSport Action",
                         "channel_id": "420"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2049"
                     }
                 ]
             },
@@ -10456,6 +11442,18 @@
                     {
                         "channel_name": "Sport 5 Plus Israel",
                         "channel_id": "145"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2049"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4048"
                     }
                 ]
             }
@@ -10870,6 +11868,10 @@
                     {
                         "channel_name": "ABC NY USA",
                         "channel_id": "766"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2010"
                     }
                 ]
             },
@@ -10926,6 +11928,14 @@
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "756"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3083"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2001"
                     }
                 ]
             },
@@ -10948,6 +11958,14 @@
                     {
                         "channel_name": "SPORT1+ DE",
                         "channel_id": "640"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3082"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2002"
                     }
                 ]
             },
@@ -10966,6 +11984,14 @@
                     {
                         "channel_name": "Sky Sport Select NZ",
                         "channel_id": "587"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3082"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2003"
                     }
                 ]
             }
@@ -10990,6 +12016,10 @@
                     {
                         "channel_name": "YES USA",
                         "channel_id": "763"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5038"
                     }
                 ]
             },
@@ -11008,6 +12038,10 @@
                     {
                         "channel_name": "TVA Sports",
                         "channel_id": "833"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5039"
                     }
                 ]
             },
@@ -11026,6 +12060,10 @@
                     {
                         "channel_name": "MLB Network USA",
                         "channel_id": "399"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5040"
                     }
                 ]
             },
@@ -11044,6 +12082,10 @@
                     {
                         "channel_name": "SportsNet Pittsburgh",
                         "channel_id": "922"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5041"
                     }
                 ]
             },
@@ -11054,6 +12096,10 @@
                     {
                         "channel_name": "MLB league pass",
                         "channel_id": "13"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5042"
                     }
                 ]
             },
@@ -11068,6 +12114,10 @@
                     {
                         "channel_name": "NBCS California USA",
                         "channel_id": "755"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5043"
                     }
                 ]
             },
@@ -11090,6 +12140,10 @@
                     {
                         "channel_name": "SPORT1+ DE",
                         "channel_id": "640"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5044"
                     }
                 ]
             },
@@ -11104,6 +12158,10 @@
                     {
                         "channel_name": "NBCS Philadelphia USA",
                         "channel_id": "777"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5045"
                     }
                 ]
             },
@@ -11118,6 +12176,10 @@
                     {
                         "channel_name": "NBC Sports Bay Area",
                         "channel_id": "753"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5046"
                     }
                 ]
             },
@@ -11128,6 +12190,10 @@
                     {
                         "channel_name": "MLB league pass",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5047"
                     }
                 ]
             },
@@ -11154,6 +12220,10 @@
                     {
                         "channel_name": "beIN Sports MAX 4 France",
                         "channel_id": "494"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5048"
                     }
                 ]
             },
@@ -11164,6 +12234,10 @@
                     {
                         "channel_name": "MLB league pass",
                         "channel_id": "6"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5049"
                     }
                 ]
             },
@@ -11178,6 +12252,10 @@
                     {
                         "channel_name": "Chicago Sports Network",
                         "channel_id": "776"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5050"
                     }
                 ]
             },
@@ -11196,6 +12274,10 @@
                     {
                         "channel_name": "FanDuel Sports Network West",
                         "channel_id": "906"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5051"
                     }
                 ]
             },
@@ -11210,6 +12292,10 @@
                     {
                         "channel_name": "MLB Network USA",
                         "channel_id": "399"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5052"
                     }
                 ]
             }
@@ -11796,6 +12882,14 @@
                     {
                         "channel_name": "Diema Sport Bulgaria",
                         "channel_id": "465"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5037"
                     }
                 ]
             }
@@ -12282,6 +13376,10 @@
                     {
                         "channel_name": "RSI La 2 IT",
                         "channel_id": "23"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3074"
                     }
                 ]
             },
@@ -12296,6 +13394,10 @@
                     {
                         "channel_name": "Polsat Sport Premium 1 Poland",
                         "channel_id": "991"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3061"
                     }
                 ]
             },
@@ -12324,6 +13426,10 @@
                     {
                         "channel_name": "Polsat Sport Fight Poland",
                         "channel_id": "997"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3061"
                     }
                 ]
             },
@@ -12334,6 +13440,10 @@
                     {
                         "channel_name": "svt2 Sweden",
                         "channel_id": "30"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3074"
                     }
                 ]
             },
@@ -12348,12 +13458,26 @@
                 ]
             },
             {
+                "time": "14:00",
+                "event": "Ice hockey Finland Liiga : Tappara Tampere vs KooKoo Kouvola",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3080"
+                    }
+                ]
+            },
+            {
                 "time": "15:00",
                 "event": "Friendly International : Germany vs Austria",
                 "channels": [
                     {
                         "channel_name": "Magenta Sport 318",
                         "channel_id": "29"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3062"
                     }
                 ]
             },
@@ -12368,6 +13492,10 @@
                     {
                         "channel_name": "Polsat Sport Premium 1 Poland",
                         "channel_id": "991"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3061"
                     }
                 ]
             }
@@ -12450,6 +13578,10 @@
                     {
                         "channel_name": "Sportsnet 360",
                         "channel_id": "409"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "3002"
                     }
                 ]
             }
