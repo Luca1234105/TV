@@ -3,6 +3,20 @@
         "Upcoming Events": [
             {
                 "time": "15:00",
+                "event": "Internazionali BNL d\u2019Italia (Rome Masters Tennis), May 5\u201317, 2026",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sport Tennis Italy",
+                        "channel_id": "576"
+                    },
+                    {
+                        "channel_name": "EuroSport 1 Italy",
+                        "channel_id": "878"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
                 "event": "French Open (Roland Garros Tennis Grand Slam), May 25 \u2013 June 8, 2026",
                 "channels": [
                     {
@@ -166,6 +180,42 @@
                     {
                         "channel_name": "NBC USA",
                         "channel_id": "53"
+                    }
+                ]
+            }
+        ],
+        "PPV Events": [
+            {
+                "time": "19:30",
+                "event": "Nascar Season Opener Riverhead",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "Community Bank 150 Thunder Road",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "Mark Balzano Memorial at WVMS",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "162"
+                    },
+                    {
+                        "channel_name": "FLORacing",
+                        "channel_id": "5010"
                     }
                 ]
             }
