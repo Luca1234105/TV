@@ -577,7 +577,9 @@ https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 #EXTINF:-1 tvg-id="discoverysciencehd.it" tvg-logo="" group-title="Documentari",DISCOVERY SCIENCE
 https://vavoo.to/vavoo-iptv/play/5284308415938593b2e15
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (1)
+https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (2)
 https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
@@ -879,7 +881,7 @@ https://dlhd.dad/watch.php?id=461
 #EXTINF:-1 tvg-id="atpromepablocarreñobustavsmartindamm" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇪🇸 Pablo Carreño Busta vs 🇺🇸 Martin Damm (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇪🇸 Pablo Carreño Busta_vs_🇺🇸 Martin Damm.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇪🇸 Pablo Carreño Busta vs 🇺🇸 Martin Damm (11:30)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="atpromepatrickkypsonvsjackpinningtonjones" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇺🇸 Patrick Kypson vs 🇬🇧 Jack Pinnington Jones (11:30)" tvg-logo="https://companieslogo.com/img/orig/SJ.TO-26403f31.png?download=true" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇺🇸 Patrick Kypson vs 🇬🇧 Jack Pinnington Jones (11:30)
+#EXTINF:-1 tvg-id="atpromepatrickkypsonvsjackpinningtonjones" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇺🇸 Patrick Kypson vs 🇬🇧 Jack Pinnington Jones (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇺🇸 Patrick Kypson_vs_🇬🇧 Jack Pinnington Jones.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇺🇸 Patrick Kypson vs 🇬🇧 Jack Pinnington Jones (11:30)
 https://dlhd.dad/watch.php?id=461
 
 #EXTINF:-1 tvg-id="atpromepatrickkypsonvsjackpinningtonjones" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇺🇸 Patrick Kypson vs 🇬🇧 Jack Pinnington Jones (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇺🇸 Patrick Kypson_vs_🇬🇧 Jack Pinnington Jones.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇺🇸 Patrick Kypson vs 🇬🇧 Jack Pinnington Jones (11:30)
@@ -927,10 +929,10 @@ https://dlhd.dad/watch.php?id=461
 #EXTINF:-1 tvg-id="atpromejuancarlosmartínmanzanovstitouandroguet" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇪🇸 Juan Carlos Martín Manzano vs 🇫🇷 Titouan Droguet (13:00)" tvg-logo="https://jm-asesores.es/wp-content/uploads/elementor/thumbs/juan-carlos-manzano-asesor-q8snnc9748zxfs1e6zz5mk4ltfj3op4xqkkg1aygzs.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇪🇸 Juan Carlos Martín Manzano vs 🇫🇷 Titouan Droguet (13:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="atpromeandreapellegrinovshugogaston" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Andrea Pellegrino vs 🇫🇷 Hugo Gaston (13:00)" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Andrea Pellegrino vs 🇫🇷 Hugo Gaston (13:00)
+#EXTINF:-1 tvg-id="atpromeandreapellegrinovshugogaston" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Andrea Pellegrino vs 🇫🇷 Hugo Gaston (13:00)" tvg-logo="http://us.store.sanpellegrino.com/cdn/shop/files/STICKERSLOGOSPWhite.png?v=1702086483" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Andrea Pellegrino vs 🇫🇷 Hugo Gaston (13:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="atpromeandreapellegrinovshugogaston" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Andrea Pellegrino vs 🇫🇷 Hugo Gaston (13:00)" tvg-logo="http://us.store.sanpellegrino.com/cdn/shop/files/STICKERSLOGOSPWhite.png?v=1702086483" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Andrea Pellegrino vs 🇫🇷 Hugo Gaston (13:00)
+#EXTINF:-1 tvg-id="atpromeandreapellegrinovshugogaston" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Andrea Pellegrino vs 🇫🇷 Hugo Gaston (13:00)" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Andrea Pellegrino vs 🇫🇷 Hugo Gaston (13:00)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="atpromefedericobondiolivsemilionava" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Federico Bondioli vs 🇺🇸 Emilio Nava (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇮🇹 Federico Bondioli_vs_🇺🇸 Emilio Nava.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Federico Bondioli vs 🇺🇸 Emilio Nava (14:30)
@@ -1050,7 +1052,7 @@ https://dlhd.dad/watch.php?id=576
 #EXTINF:-1 tvg-id="wtaromekimberlybirrellvsyuanyue" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇺 Kimberly Birrell vs 🇨🇳 Yuan Yue (13:00)" tvg-logo="https://ausopen.com/sites/default/files/styles/420x/public/202301/17/kbirrell.png?itok=BZRoXd5q" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇺 Kimberly Birrell vs 🇨🇳 Yuan Yue (13:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="wtaromekimberlybirrellvsyuanyue" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇺 Kimberly Birrell vs 🇨🇳 Yuan Yue (13:00)" tvg-logo="https://ausopen.com/themes/custom/ausopen_official/images/modal/modal-supplementary.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇺 Kimberly Birrell vs 🇨🇳 Yuan Yue (13:00)
+#EXTINF:-1 tvg-id="wtaromekimberlybirrellvsyuanyue" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇺 Kimberly Birrell vs 🇨🇳 Yuan Yue (13:00)" tvg-logo="https://ausopen.com/sites/default/files/styles/420x/public/202301/17/kbirrell.png?itok=BZRoXd5q" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇺 Kimberly Birrell vs 🇨🇳 Yuan Yue (13:00)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="wtaromealinakorneevavsellaseidel" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇷🇺 Alina Korneeva vs 🇩🇪 Ella Seidel (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇷🇺 Alina Korneeva_vs_🇩🇪 Ella Seidel.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇷🇺 Alina Korneeva vs 🇩🇪 Ella Seidel (13:00)
@@ -1083,7 +1085,7 @@ https://dlhd.dad/watch.php?id=461
 #EXTINF:-1 tvg-id="wtaromeannablinkovavsmayarsherif" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇷🇺 Anna Blinkova vs 🇪🇬 Mayar Sherif (14:30)" tvg-logo="https://crystalpng.com/wp-content/uploads/2025/02/anna_university_logo-1024x1024.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇷🇺 Anna Blinkova vs 🇪🇬 Mayar Sherif (14:30)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="wtaromevictoriajiménezkasintsevavslulusun" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇩 Victoria Jiménez Kasintseva vs 🇳🇿 Lulu Sun (14:30)" tvg-logo="https://ik.imagekit.io/zbv7hxlnw/merchantLogos/sun-plaza/sun-plaza-lulu-style/LOGO-pathed-given-in-2020.png?tr=w-860%2Cq-70" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇩 Victoria Jiménez Kasintseva vs 🇳🇿 Lulu Sun (14:30)
+#EXTINF:-1 tvg-id="wtaromevictoriajiménezkasintsevavslulusun" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇩 Victoria Jiménez Kasintseva vs 🇳🇿 Lulu Sun (14:30)" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇩 Victoria Jiménez Kasintseva vs 🇳🇿 Lulu Sun (14:30)
 https://dlhd.dad/watch.php?id=461
 
 #EXTINF:-1 tvg-id="wtaromevictoriajiménezkasintsevavslulusun" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇩 Victoria Jiménez Kasintseva vs 🇳🇿 Lulu Sun (14:30)" tvg-logo="https://static.flashscore.com/res/image/data/z1v0bvgl-2c7MDiZs-YX5mLoNB.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇩 Victoria Jiménez Kasintseva vs 🇳🇿 Lulu Sun (14:30)
@@ -1125,19 +1127,19 @@ https://dlhd.dad/watch.php?id=461
 #EXTINF:-1 tvg-id="wtaromebeatricericcivstamarakorpatsch" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇮🇹 Beatrice Ricci vs 🇩🇪 Tamara Korpatsch (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇮🇹 Beatrice Ricci_vs_🇩🇪 Tamara Korpatsch.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇮🇹 Beatrice Ricci vs 🇩🇪 Tamara Korpatsch (17:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="wtarometaylortownsendvsrebeccaramková" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇺🇸 Taylor Townsend vs 🇸🇰 Rebecca Šramková (17:00)" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇺🇸 Taylor Townsend vs 🇸🇰 Rebecca Šramková (17:00)
+#EXTINF:-1 tvg-id="wtarometaylortownsendvsrebeccaramková" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇺🇸 Taylor Townsend vs 🇸🇰 Rebecca Šramková (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇺🇸 Taylor Townsend_vs_🇸🇰 Rebecca Šramková.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇺🇸 Taylor Townsend vs 🇸🇰 Rebecca Šramková (17:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="wtarometaylortownsendvsrebeccaramková" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇺🇸 Taylor Townsend vs 🇸🇰 Rebecca Šramková (17:00)" tvg-logo="https://companieslogo.com/img/orig/TAYD-9af680de.png?t=1687627282" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇺🇸 Taylor Townsend vs 🇸🇰 Rebecca Šramková (17:00)
+#EXTINF:-1 tvg-id="wtarometaylortownsendvsrebeccaramková" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇺🇸 Taylor Townsend vs 🇸🇰 Rebecca Šramková (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇺🇸 Taylor Townsend_vs_🇸🇰 Rebecca Šramková.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇺🇸 Taylor Townsend vs 🇸🇰 Rebecca Šramková (17:00)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="worldchampionshipsnookerfinals" tvg-name="Snooker | World Championship Snooker : Finals (13:45)" tvg-logo="https://static.flashscore.com/res/image/data/dpli81C7-8QrqBxAk.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Finals (13:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldchampionshipsnookerfinals" tvg-name="Snooker | World Championship Snooker : Finals (19:30)" tvg-logo="https://static.flashscore.com/res/image/data/dpli81C7-8QrqBxAk.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Finals (19:30)
+#EXTINF:-1 tvg-id="worldchampionshipsnookerfinals" tvg-name="Snooker | World Championship Snooker : Finals (19:30)" tvg-logo="https://images.launchbox-app.com/7ce3c574-4756-4b7f-9cf0-9516ac0b2178.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Finals (19:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="thewomenstourstage2lobiossancibraodasviñas109km" tvg-name="Cycling | The Women's Tour Stage 2 | Lobios - San Cibrao das Viñas (109km) (06:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | The Women's Tour Stage 2 | Lobios - San Cibrao das Viñas (109km) (06:30)
+#EXTINF:-1 tvg-id="thewomenstourstage2lobiossancibraodasviñas109km" tvg-name="Cycling | The Women's Tour Stage 2 | Lobios - San Cibrao das Viñas (109km) (06:30)" tvg-logo="http://megavan.es/wp-content/uploads/2018/06/facebook-logo-150.png" group-title="Eventi Live DLHD",Cycling | The Women's Tour Stage 2 | Lobios - San Cibrao das Viñas (109km) (06:30)
 https://dlhd.dad/watch.php?id=879
 
 
