@@ -119,8 +119,6 @@ https://vavoo.to/vavoo-iptv/play/3255207570b230d786fb10
 https://vavoo.to/vavoo-iptv/play/2820683351b557bc63df61
 #EXTINF:-1 tvg-id="food.network.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro",FOOD NETWORK (2)
 https://vavoo.to/vavoo-iptv/play/276786104991c55564696b
-#EXTINF:-1 tvg-id="gambero.rosso.hd.it" tvg-logo="" group-title="Altro",GAMBERO ROSSO
-https://vavoo.to/vavoo-iptv/play/2481284739a17519532b56
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (1)
 https://vavoo.to/vavoo-iptv/play/237393618912929d56c67e
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (2)
@@ -141,10 +139,8 @@ https://vavoo.to/vavoo-iptv/play/24880174054972ad3227fa
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV (1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
 https://vavoo.to/vavoo-iptv/play/4235410936b108b39c28d1
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV (2)
-https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (1)
@@ -201,8 +197,6 @@ https://vavoo.to/vavoo-iptv/play/280418908527b8c8187a0b
 https://vavoo.to/vavoo-iptv/play/2952884641015b63f29238
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/qvc-de.png?raw=true" group-title="Altro",QVC ITALIA
 https://vavoo.to/vavoo-iptv/play/12325656817eefaf17ef24
-#EXTINF:-1 tvg-id="radionorba.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-norba-tv-it.png?raw=true" group-title="Altro",RADIONORBA TV
-https://vavoo.to/vavoo-iptv/play/26276627684bd1fbc5cb29
 #EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME (1)
 https://vavoo.to/vavoo-iptv/play/157497519660249c278f94
 #EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME (2)
@@ -373,8 +367,6 @@ https://vavoo.to/vavoo-iptv/play/27917814213e17be842a1b
 https://vavoo.to/vavoo-iptv/play/1249978054d9101729f51f
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.videostartv.eu/images/videostar.png" group-title="Altro",VIDEOSTAR TV
 https://vavoo.to/vavoo-iptv/play/24994885846c204e8b0b86
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kAZM1WRzE6qfQx90xPJ3v1Jz1gaJwn6BbrZcewu6eTcQ=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",VIDEOTOLENTINO
-https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",YU-GI-OH! ITALY
 https://vavoo.to/vavoo-iptv/play/28498110272b8770fe20cb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ÈTV MARCHE
@@ -495,8 +487,6 @@ https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
 https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (2)
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION
-https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
@@ -513,10 +503,6 @@ https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
 https://vavoo.to/vavoo-iptv/play/277580225585f503fbfc87
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (1)
-https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (2)
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (1)
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (2)
@@ -577,7 +563,9 @@ https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 #EXTINF:-1 tvg-id="discoverysciencehd.it" tvg-logo="" group-title="Documentari",DISCOVERY SCIENCE
 https://vavoo.to/vavoo-iptv/play/5284308415938593b2e15
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (1)
+https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (2)
 https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
@@ -585,8 +573,10 @@ https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
 https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
-#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
+#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE (1)
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
+#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE (2)
+https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
 https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
 #EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
@@ -747,9 +737,7 @@ https://vavoo.to/vavoo-iptv/play/33760313550167605877f1
 https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TG COM 24
 https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc
-#EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24 (1)
-https://vavoo.to/vavoo-iptv/play/33797298178cac7afa180a
-#EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24 (2)
+#EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24
 https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TGCOM 24
 https://vavoo.to/vavoo-iptv/play/24181484494b43d448b066
@@ -841,60 +829,6 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="englandpremierleagueevertonvsmanchestercity" tvg-name="All Soccer Events | England - Premier League : Everton vs Manchester City (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Everton_vs_Manchester City.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Everton vs Manchester City (21:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="atpromebenjaminbonzivsdaliborsvrina" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇫🇷 Benjamin Bonzi vs 🇨🇿 Dalibor Svrčina (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇫🇷 Benjamin Bonzi_vs_🇨🇿 Dalibor Svrčina.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇫🇷 Benjamin Bonzi vs 🇨🇿 Dalibor Svrčina (13:00)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="atpromebenjaminbonzivsdaliborsvrina" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇫🇷 Benjamin Bonzi vs 🇨🇿 Dalibor Svrčina (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇫🇷 Benjamin Bonzi_vs_🇨🇿 Dalibor Svrčina.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇫🇷 Benjamin Bonzi vs 🇨🇿 Dalibor Svrčina (13:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="atpromenicolaibudkovkjærvsottovirtanen" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇩🇰 Nicolai Budkov Kjær vs 🇫🇮 Otto Virtanen (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇩🇰 Nicolai Budkov Kjær_vs_🇫🇮 Otto Virtanen.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇩🇰 Nicolai Budkov Kjær vs 🇫🇮 Otto Virtanen (13:00)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="atpromenicolaibudkovkjærvsottovirtanen" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇩🇰 Nicolai Budkov Kjær vs 🇫🇮 Otto Virtanen (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇩🇰 Nicolai Budkov Kjær_vs_🇫🇮 Otto Virtanen.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇩🇰 Nicolai Budkov Kjær vs 🇫🇮 Otto Virtanen (13:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="atpromejuancarlosmartínmanzanovstitouandroguet" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇪🇸 Juan Carlos Martín Manzano vs 🇫🇷 Titouan Droguet (13:00)" tvg-logo="https://jm-asesores.es/wp-content/uploads/elementor/thumbs/juan-carlos-manzano-asesor-q8snnc9748zxfs1e6zz5mk4ltfj3op4xqkkg1aygzs.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇪🇸 Juan Carlos Martín Manzano vs 🇫🇷 Titouan Droguet (13:00)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="atpromejuancarlosmartínmanzanovstitouandroguet" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇪🇸 Juan Carlos Martín Manzano vs 🇫🇷 Titouan Droguet (13:00)" tvg-logo="https://jm-asesores.es/wp-content/uploads/elementor/thumbs/juan-carlos-manzano-asesor-q8snnc9748zxfs1e6zz5mk4ltfj3op4xqkkg1aygzs.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇪🇸 Juan Carlos Martín Manzano vs 🇫🇷 Titouan Droguet (13:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="atpromeandreapellegrinovshugogaston" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Andrea Pellegrino vs 🇫🇷 Hugo Gaston (13:00)" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Andrea Pellegrino vs 🇫🇷 Hugo Gaston (13:00)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="atpromeandreapellegrinovshugogaston" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Andrea Pellegrino vs 🇫🇷 Hugo Gaston (13:00)" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Andrea Pellegrino vs 🇫🇷 Hugo Gaston (13:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="atpromefedericobondiolivsemilionava" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Federico Bondioli vs 🇺🇸 Emilio Nava (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇮🇹 Federico Bondioli_vs_🇺🇸 Emilio Nava.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Federico Bondioli vs 🇺🇸 Emilio Nava (14:30)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="atpromefedericobondiolivsemilionava" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Federico Bondioli vs 🇺🇸 Emilio Nava (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇮🇹 Federico Bondioli_vs_🇺🇸 Emilio Nava.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Federico Bondioli vs 🇺🇸 Emilio Nava (14:30)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="atpromealeksandarkovacevicvslucacarboni" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇺🇸 Aleksandar Kovacevic vs 🇮🇹 Luca Carboni (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇺🇸 Aleksandar Kovacevic_vs_🇮🇹 Luca Carboni.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇺🇸 Aleksandar Kovacevic vs 🇮🇹 Luca Carboni (14:30)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="atpromealeksandarkovacevicvslucacarboni" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇺🇸 Aleksandar Kovacevic vs 🇮🇹 Luca Carboni (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇺🇸 Aleksandar Kovacevic_vs_🇮🇹 Luca Carboni.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇺🇸 Aleksandar Kovacevic vs 🇮🇹 Luca Carboni (14:30)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="atpromemartínlandalucevschristopheroconnell" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇪🇸 Martín Landaluce vs 🇦🇺 Christopher O'Connell (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇪🇸 Martín Landaluce_vs_🇦🇺 Christopher O'Connell.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇪🇸 Martín Landaluce vs 🇦🇺 Christopher O'Connell (14:30)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="atpromemartínlandalucevschristopheroconnell" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇪🇸 Martín Landaluce vs 🇦🇺 Christopher O'Connell (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇪🇸 Martín Landaluce_vs_🇦🇺 Christopher O'Connell.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇪🇸 Martín Landaluce vs 🇦🇺 Christopher O'Connell (14:30)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="atpromeshintaromochizukivsjacobfearnley" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇯🇵 Shintaro Mochizuki vs 🇬🇧 Jacob Fearnley (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇯🇵 Shintaro Mochizuki_vs_🇬🇧 Jacob Fearnley.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇯🇵 Shintaro Mochizuki vs 🇬🇧 Jacob Fearnley (14:30)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="atpromeshintaromochizukivsjacobfearnley" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇯🇵 Shintaro Mochizuki vs 🇬🇧 Jacob Fearnley (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇯🇵 Shintaro Mochizuki_vs_🇬🇧 Jacob Fearnley.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇯🇵 Shintaro Mochizuki vs 🇬🇧 Jacob Fearnley (14:30)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="atpromedinoprimivschrisrodesch" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇭🇷 Dino Prižmić vs 🇱🇺 Chris Rodesch (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇭🇷 Dino Prižmić_vs_🇱🇺 Chris Rodesch.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇭🇷 Dino Prižmić vs 🇱🇺 Chris Rodesch (14:30)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="atpromedinoprimivschrisrodesch" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇭🇷 Dino Prižmić vs 🇱🇺 Chris Rodesch (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇭🇷 Dino Prižmić_vs_🇱🇺 Chris Rodesch.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇭🇷 Dino Prižmić vs 🇱🇺 Chris Rodesch (14:30)
-https://dlhd.dad/watch.php?id=576
-
 #EXTINF:-1 tvg-id="atpromerinkyhijikatavspierluigibasile" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇦🇺 Rinky Hijikata vs 🇮🇹 Pierluigi Basile (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇦🇺 Rinky Hijikata_vs_🇮🇹 Pierluigi Basile.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇦🇺 Rinky Hijikata vs 🇮🇹 Pierluigi Basile (16:00)
 https://dlhd.dad/watch.php?id=461
 
@@ -917,66 +851,6 @@ https://dlhd.dad/watch.php?id=576
 https://dlhd.dad/watch.php?id=461
 
 #EXTINF:-1 tvg-id="atpromeadolfodanielvallejovsjaimefaria" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇵🇾 Adolfo Daniel Vallejo vs 🇵🇹 Jaime Faria (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇵🇾 Adolfo Daniel Vallejo_vs_🇵🇹 Jaime Faria.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇵🇾 Adolfo Daniel Vallejo vs 🇵🇹 Jaime Faria (17:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="wtaromeemilianaarangovsnicolebasiletti" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇨🇴 Emiliana Arango vs 🇮🇹 Nicole Basiletti (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇨🇴 Emiliana Arango_vs_🇮🇹 Nicole Basiletti.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇨🇴 Emiliana Arango vs 🇮🇹 Nicole Basiletti (13:00)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="wtaromeemilianaarangovsnicolebasiletti" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇨🇴 Emiliana Arango vs 🇮🇹 Nicole Basiletti (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇨🇴 Emiliana Arango_vs_🇮🇹 Nicole Basiletti.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇨🇴 Emiliana Arango vs 🇮🇹 Nicole Basiletti (13:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="wtaromekimberlybirrellvsyuanyue" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇺 Kimberly Birrell vs 🇨🇳 Yuan Yue (13:00)" tvg-logo="https://ausopen.com/themes/custom/ausopen_official/images/modal/modal-supplementary.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇺 Kimberly Birrell vs 🇨🇳 Yuan Yue (13:00)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="wtaromekimberlybirrellvsyuanyue" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇺 Kimberly Birrell vs 🇨🇳 Yuan Yue (13:00)" tvg-logo="https://ausopen.com/themes/custom/ausopen_official/images/modal/modal-supplementary.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇺 Kimberly Birrell vs 🇨🇳 Yuan Yue (13:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="wtaromealinakorneevavsellaseidel" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇷🇺 Alina Korneeva vs 🇩🇪 Ella Seidel (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇷🇺 Alina Korneeva_vs_🇩🇪 Ella Seidel.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇷🇺 Alina Korneeva vs 🇩🇪 Ella Seidel (13:00)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="wtaromealinakorneevavsellaseidel" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇷🇺 Alina Korneeva vs 🇩🇪 Ella Seidel (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇷🇺 Alina Korneeva_vs_🇩🇪 Ella Seidel.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇷🇺 Alina Korneeva vs 🇩🇪 Ella Seidel (13:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="wtaromecamilaosoriovsanhelinakalinina" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇨🇴 Camila Osorio vs 🇺🇦 Anhelina Kalinina (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇨🇴 Camila Osorio_vs_🇺🇦 Anhelina Kalinina.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇨🇴 Camila Osorio vs 🇺🇦 Anhelina Kalinina (13:00)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="wtaromecamilaosoriovsanhelinakalinina" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇨🇴 Camila Osorio vs 🇺🇦 Anhelina Kalinina (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇨🇴 Camila Osorio_vs_🇺🇦 Anhelina Kalinina.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇨🇴 Camila Osorio vs 🇺🇦 Anhelina Kalinina (13:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="wtaromealyciaparksvsdalmagálfi" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇺🇸 Alycia Parks vs 🇭🇺 Dalma Gálfi (13:00)" tvg-logo="https://dalma-uae.com/wp-content/uploads/2024/07/dalma-logo-1-1024x903.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇺🇸 Alycia Parks vs 🇭🇺 Dalma Gálfi (13:00)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="wtaromealyciaparksvsdalmagálfi" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇺🇸 Alycia Parks vs 🇭🇺 Dalma Gálfi (13:00)" tvg-logo="https://dalma-uae.com/wp-content/uploads/2024/07/dalma-logo-1-1024x903.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇺🇸 Alycia Parks vs 🇭🇺 Dalma Gálfi (13:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="wtaromelillitaggervssuzanlamens" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇹 Lilli Tagger vs 🇳🇱 Suzan Lamens (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇦🇹 Lilli Tagger_vs_🇳🇱 Suzan Lamens.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇹 Lilli Tagger vs 🇳🇱 Suzan Lamens (13:00)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="wtaromelillitaggervssuzanlamens" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇹 Lilli Tagger vs 🇳🇱 Suzan Lamens (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇦🇹 Lilli Tagger_vs_🇳🇱 Suzan Lamens.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇹 Lilli Tagger vs 🇳🇱 Suzan Lamens (13:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="wtaromeannablinkovavsmayarsherif" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇷🇺 Anna Blinkova vs 🇪🇬 Mayar Sherif (14:30)" tvg-logo="https://crystalpng.com/wp-content/uploads/2025/02/anna_university_logo-1024x1024.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇷🇺 Anna Blinkova vs 🇪🇬 Mayar Sherif (14:30)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="wtaromeannablinkovavsmayarsherif" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇷🇺 Anna Blinkova vs 🇪🇬 Mayar Sherif (14:30)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/26425/logo/29238/logo_ES_AnnaMaria_web.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇷🇺 Anna Blinkova vs 🇪🇬 Mayar Sherif (14:30)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="wtaromevictoriajiménezkasintsevavslulusun" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇩 Victoria Jiménez Kasintseva vs 🇳🇿 Lulu Sun (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇦🇩 Victoria Jiménez Kasintseva_vs_🇳🇿 Lulu Sun.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇩 Victoria Jiménez Kasintseva vs 🇳🇿 Lulu Sun (14:30)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="wtaromevictoriajiménezkasintsevavslulusun" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇩 Victoria Jiménez Kasintseva vs 🇳🇿 Lulu Sun (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇦🇩 Victoria Jiménez Kasintseva_vs_🇳🇿 Lulu Sun.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇩 Victoria Jiménez Kasintseva vs 🇳🇿 Lulu Sun (14:30)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="wtaromehannevandewinkelvsjilteichmann" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇧🇪 Hanne Vandewinkel vs 🇨🇭 Jil Teichmann (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇧🇪 Hanne Vandewinkel_vs_🇨🇭 Jil Teichmann.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇧🇪 Hanne Vandewinkel vs 🇨🇭 Jil Teichmann (14:30)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="wtaromehannevandewinkelvsjilteichmann" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇧🇪 Hanne Vandewinkel vs 🇨🇭 Jil Teichmann (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇧🇪 Hanne Vandewinkel_vs_🇨🇭 Jil Teichmann.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇧🇪 Hanne Vandewinkel vs 🇨🇭 Jil Teichmann (14:30)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="wtaromerenatazarazúavsfedericaurgesi" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇲🇽 Renata Zarazúa vs 🇮🇹 Federica Urgesi (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇲🇽 Renata Zarazúa_vs_🇮🇹 Federica Urgesi.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇲🇽 Renata Zarazúa vs 🇮🇹 Federica Urgesi (14:30)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="wtaromerenatazarazúavsfedericaurgesi" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇲🇽 Renata Zarazúa vs 🇮🇹 Federica Urgesi (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇲🇽 Renata Zarazúa_vs_🇮🇹 Federica Urgesi.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇲🇽 Renata Zarazúa vs 🇮🇹 Federica Urgesi (14:30)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="wtaromedarjasemenistajavskatievolynets" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇱🇻 Darja Semenistaja vs 🇺🇸 Katie Volynets (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇱🇻 Darja Semenistaja_vs_🇺🇸 Katie Volynets.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇱🇻 Darja Semenistaja vs 🇺🇸 Katie Volynets (16:00)
@@ -1008,9 +882,6 @@ https://dlhd.dad/watch.php?id=461
 
 #EXTINF:-1 tvg-id="wtarometaylortownsendvsrebeccaramková" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇺🇸 Taylor Townsend vs 🇸🇰 Rebecca Šramková (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇺🇸 Taylor Townsend_vs_🇸🇰 Rebecca Šramková.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇺🇸 Taylor Townsend vs 🇸🇰 Rebecca Šramková (17:00)
 https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="worldchampionshipsnookerfinals" tvg-name="Snooker | World Championship Snooker : Finals (13:45)" tvg-logo="https://static.flashscore.com/res/image/data/dpli81C7-8QrqBxAk.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Finals (13:45)
-https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="worldchampionshipsnookerfinals" tvg-name="Snooker | World Championship Snooker : Finals (19:30)" tvg-logo="https://static.flashscore.com/res/image/data/dpli81C7-8QrqBxAk.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Finals (19:30)
 https://dlhd.dad/watch.php?id=878
