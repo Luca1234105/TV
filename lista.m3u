@@ -119,6 +119,8 @@ https://vavoo.to/vavoo-iptv/play/3255207570b230d786fb10
 https://vavoo.to/vavoo-iptv/play/2820683351b557bc63df61
 #EXTINF:-1 tvg-id="food.network.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro",FOOD NETWORK (2)
 https://vavoo.to/vavoo-iptv/play/276786104991c55564696b
+#EXTINF:-1 tvg-id="gambero.rosso.hd.it" tvg-logo="" group-title="Altro",GAMBERO ROSSO
+https://vavoo.to/vavoo-iptv/play/2481284739a17519532b56
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (1)
 https://vavoo.to/vavoo-iptv/play/237393618912929d56c67e
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (2)
@@ -199,8 +201,6 @@ https://vavoo.to/vavoo-iptv/play/280418908527b8c8187a0b
 https://vavoo.to/vavoo-iptv/play/2952884641015b63f29238
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/qvc-de.png?raw=true" group-title="Altro",QVC ITALIA
 https://vavoo.to/vavoo-iptv/play/12325656817eefaf17ef24
-#EXTINF:-1 tvg-id="radionorba.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-norba-tv-it.png?raw=true" group-title="Altro",RADIONORBA TV
-https://vavoo.to/vavoo-iptv/play/26276627684bd1fbc5cb29
 #EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME (1)
 https://vavoo.to/vavoo-iptv/play/157497519660249c278f94
 #EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME (2)
@@ -665,8 +665,10 @@ https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
 https://vavoo.to/vavoo-iptv/play/41579514488d1c92affa7
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (2)
 https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
-#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
+#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE (1)
 https://vavoo.to/vavoo-iptv/play/2890008905a6ae9fa14809
+#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE (2)
+https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE (1)
 https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE (2)
@@ -828,18 +830,6 @@ https://dlhd.dad/watch.php?id=16
 
 #EXTINF:-1 tvg-id="europeuefachampionsleaguearsenalvsatléticomadrid" tvg-name="Soccer | Europe - UEFA Champions League : Arsenal vs Atlético Madrid (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arsenal_vs_Atlético Madrid.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Champions League : Arsenal vs Atlético Madrid (21:00)
 https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="wtaromeanastasiazakharovavsdayanayastremska" tvg-name="Tennis WTA - Rome – Singles | WTA Rome : 🇷🇺 Anastasia Zakharova vs 🇺🇦 Dayana Yastremska (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇷🇺 Anastasia Zakharova_vs_🇺🇦 Dayana Yastremska.png" group-title="Eventi Live DLHD",Tennis WTA - Rome – Singles | WTA Rome : 🇷🇺 Anastasia Zakharova vs 🇺🇦 Dayana Yastremska (14:00)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="wtaromeannlivsshuaizhang" tvg-name="Tennis WTA - Rome – Singles | WTA Rome : 🇺🇸 Ann Li vs 🇨🇳 Shuai Zhang (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇺🇸 Ann Li_vs_🇨🇳 Shuai Zhang.png" group-title="Eventi Live DLHD",Tennis WTA - Rome – Singles | WTA Rome : 🇺🇸 Ann Li vs 🇨🇳 Shuai Zhang (15:30)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="wtaromeannlivsshuaizhang" tvg-name="Tennis WTA - Rome – Singles | WTA Rome : 🇺🇸 Ann Li vs 🇨🇳 Shuai Zhang (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇺🇸 Ann Li_vs_🇨🇳 Shuai Zhang.png" group-title="Eventi Live DLHD",Tennis WTA - Rome – Singles | WTA Rome : 🇺🇸 Ann Li vs 🇨🇳 Shuai Zhang (15:30)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="thewomenstourstage3padronacoruna121km" tvg-name="Cycling | The Women's Tour | Stage 3 Padron - A Coruna (121km) (15:30)" tvg-logo="https://festival.the8percent.com/wp-content/uploads/2022/09/Speaker-Images-8.png" group-title="Eventi Live DLHD",Cycling | The Women's Tour | Stage 3 Padron - A Coruna (121km) (15:30)
-https://dlhd.dad/watch.php?id=878
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
