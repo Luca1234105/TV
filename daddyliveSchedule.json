@@ -184,6 +184,18 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "23:15",
+                "event": "World of Outlaws at Lincoln Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "17"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "16:00",
@@ -3379,7 +3391,7 @@
                     },
                     {
                         "channel_name": "TVA Sports",
-                        "channel_id": "8334"
+                        "channel_id": "833"
                     },
                     {
                         "channel_name": "beIN Sports 2 France",
