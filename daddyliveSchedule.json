@@ -818,6 +818,10 @@
                         "channel_id": "767"
                     },
                     {
+                        "channel_name": "Prime Video",
+                        "channel_id": "160"
+                    },
+                    {
                         "channel_name": "CBS Sports Golazo",
                         "channel_id": "910"
                     },
