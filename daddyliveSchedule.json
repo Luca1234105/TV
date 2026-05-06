@@ -5894,7 +5894,7 @@
                 ]
             }
         ],
-        "Wrestling": [
+        "WWE (AEW)": [
             {
                 "time": "00:00",
                 "event": "All Elite Wrestling AEW : Dynamite",
@@ -5919,7 +5919,7 @@
             },
             {
                 "time": "02:00",
-                "event": "All Elite Wrestling: Collision",
+                "event": "All Elite Wrestling AEW : Collision",
                 "channels": [
                     {
                         "channel_name": "TBS USA",
@@ -5966,7 +5966,7 @@
                 ]
             }
         ],
-        "Baseball": [
+        "Baseball (MLB)": [
             {
                 "time": "17:10",
                 "event": "MLB : Tampa Bay Rays vs Toronto Blue Jays",
@@ -6888,7 +6888,9 @@
                         "channel_id": "54"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA": [
             {
                 "time": "23:00",
                 "event": "NBA : Philadelphia 76ers vs New York Knicks",
@@ -7250,7 +7252,9 @@
                         "channel_id": "139"
                     }
                 ]
-            },
+            }
+        ],
+        "NHL": [
             {
                 "time": "23:00",
                 "event": "NHL : Buffalo Sabres vs Montreal Canadiens",
